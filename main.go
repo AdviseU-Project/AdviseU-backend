@@ -1,13 +1,28 @@
 package main
 
 import (
-    "fmt"
-    "net/http"
+	"encoding/json"
+	"log"
+	"net/http"
 )
 
+type Message struct {
+	Message string `json:"message"`
+}
+
+func handler(w http.ResponseWriter, r *http.Request) {
+	// Set CORS headers
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS")
+	w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
+
+	response := Message{Message: "Hello from the Go backend!"}
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(response)
+}
+
 func main() {
-    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-        fmt.Fprintln(w, "Hello from AdviseU Backend!")
-    })
-    http.ListenAndServe(":8080", nil)
+	http.HandleFunc("/api/hello", handler)
+	log.Println("Backend server is running on port 8080...")
+	log.Fatal(http.ListenAndServe(":8080", nil))
 }
