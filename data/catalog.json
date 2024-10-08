@@ -1,0 +1,58 @@
+[
+    {
+        "course_number": "CS 101",
+        "course_name": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
+        "credits": 4,
+        "description": "The varieties of computer hardware and software. The effects, positive and negative, of computers on human lives. Ethical implications of information technology. Hands-on experience with a variety of computer applications. Lec/lab.",
+        "prerequisites": "None",
+        "corequisites": "None"
+    },
+    {
+        "course_number": "CS 161",
+        "course_name": "INTRODUCTION TO COMPUTER SCIENCE I",
+        "credits": 4,
+        "description": "Overview of fundamental concepts of computer science. Introduction to problem solving, software engineering, and object-oriented programming. Includes algorithm design and program development.",
+        "prerequisites": "None",
+        "corequisites": "None"
+    },
+    {
+        "course_number": "CS 162",
+        "course_name": "INTRODUCTION TO COMPUTER SCIENCE II",
+        "credits": 4,
+        "description": "Provides an overview of the fundamental concepts of computer science. Studies basic data structures, computer programming techniques and application of software engineering principles. Introduces analysis of programs.",
+        "prerequisites": "CS 161",
+        "corequisites": "None"
+    },
+    {
+        "course_number": "CS 175",
+        "course_name": "COMMUNICATIONS SECURITY AND SOCIAL MOVEMENTS",
+        "credits": 3,
+        "description": "Equipping students with the theory and practice of communications security, this course explores how social movements can remain effective in the context of mass surveillance and state repression.",
+        "prerequisites": "None",
+        "corequisites": "None"
+    },
+    {
+        "course_number": "CS 201",
+        "course_name": "COMPUTER PROGRAMMING FOR NON-CS MAJORS",
+        "credits": 3,
+        "description": "Covers a variety of fundamental topics in computer programming relevant to anyone who wants to write or work with computer code in their work or studies. Teaches basic computational thinking and programming skills which will allow students to solve a variety of real-world problems. In addition, students will learn more advanced topics such as how some basic algorithms work and can be written in computer code.",
+        "prerequisites": "None",
+        "corequisites": "None"
+    },
+    {
+        "course_number": "CS 225",
+        "course_name": "DISCRETE STRUCTURES IN COMPUTER SCIENCE",
+        "credits": 4,
+        "description": "An introduction to the discrete mathematics of computer science, including logic, set and set operations, methods of proof, recursive definitions, combinatorics, and graph theory.",
+        "prerequisites": "None",
+        "corequisites": "None"
+    },
+    {
+        "course_number": "CS 261",
+        "course_name": "DATA STRUCTURES",
+        "credits": 4,
+        "description": "Abstract data types, dynamic arrays, linked lists, trees and graphs, binary search trees, hash tables, storage management, complexity analysis of data structures.",
+        "prerequisites": "CS 162 & CS 225",
+        "corequisites": "None"
+    }
+]
