@@ -15,7 +15,7 @@ import (
 type Course struct {
 	CourseNumber  string `json:"course_number"`
 	CourseName    string `json:"course_name"`
-	Credits       int    `json:"credits"`
+	Credits       string `json:"credits"`
 	Description   string `json:"description"`
 	Prerequisites string `json:"prerequisites"`
 	Corequisites  string `json:"corequisites"`
@@ -27,7 +27,7 @@ func catalogHandler(w http.ResponseWriter, r *http.Request) {
 	department := r.URL.Query().Get("department")
 
 	// Construct the file path based on department (e.g., "data/CS_catalog.json")
-	filePath := fmt.Sprintf("data/%s_catalog.json", department)
+	filePath := fmt.Sprintf("data/catalogs/%s_catalog.json", department)
 
 	// Try to open the corresponding JSON file
 	jsonFile, err := os.Open(filePath)
@@ -52,7 +52,7 @@ func catalogHandler(w http.ResponseWriter, r *http.Request) {
 // Handler for the "/catalogs" endpoint to return the list of available catalogs
 func catalogsHandler(w http.ResponseWriter, r *http.Request) {
 	// Define the directory where catalog files are stored
-	catalogDir := "data/"
+	catalogDir := "data/catalogs/"
 
 	// Find all files that end with "_catalog.json"
 	var availableCatalogs []string
