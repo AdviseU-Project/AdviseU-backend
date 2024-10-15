@@ -43,10 +43,6 @@ func catalogHandler(w http.ResponseWriter, r *http.Request) {
 
 	var catalog []Course
 	json.Unmarshal(byteValue, &catalog)
-	if err != nil {
-		http.Error(w, "Error parsing catalog JSON", http.StatusInternalServerError)
-		return
-	}
 
 	// Serve JSON as HTTP response
 	w.Header().Set("Content-Type", "application/json")
