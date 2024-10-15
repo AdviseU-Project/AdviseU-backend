@@ -95,14 +95,14 @@
   "course_number": "COMM 312",
   "credits": "3",
   "description": "Advanced theory and practice in public speaking. Simulated public speaking situations, audience analysis, and rhetorical strategies will be emphasized. Students will prepare and present a variety of public speeches.",
-  "prerequisites": ["COMM 111", "COMM 111H", "COMM 111Z", "COMM 111HZ", "COMM 114", "COMM 114H"]
+  "prerequisites": [["COMM 111", "COMM 111H", "COMM 111Z", "COMM 111H", "COMM 114", "COMM 114H"]]
 }, {
   "corequisites": [],
   "course_name": "ARGUMENTATION",
   "course_number": "COMM 314",
   "credits": "3",
   "description": "Concepts and processes of argumentation, systems of logic, critical analysis of contemporary efforts to influence. Examination of arguing to gain adherence and argumentation as a way of knowing. Development of cases and argument briefs for presentation.",
-  "prerequisites": ["COMM 114", "COMM 114H"]
+  "prerequisites": [["COMM 114", "COMM 114H"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED PERSUASION",
@@ -116,7 +116,7 @@
   "course_number": "COMM 318",
   "credits": "3",
   "description": "Advanced theory and practice in communication in interpersonal relations.",
-  "prerequisites": ["COMM 218", "COMM 218H", "COMM 218Z", "COMM 218HZ"]
+  "prerequisites": [["COMM 218", "COMM 218H", "COMM 218Z", "COMM 218H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO RHETORICAL THEORY",
@@ -179,14 +179,14 @@
   "course_number": "COMM 332",
   "credits": "3",
   "description": "How various elements of communication impact familial relationships. Two main discussions: general communication patterns in the family, and various understudied types of family relationships. Provides students with insights into past familial experiences and skills for future family relationships.",
-  "prerequisites": ["COMM 218", "COMM 218H", "COMM 218Z", "COMM 218HZ"]
+  "prerequisites": [["COMM 218", "COMM 218H", "COMM 218Z", "COMM 218H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO PUBLIC RELATIONS",
   "course_number": "COMM 342",
   "credits": "3",
   "description": "Emphasizes theory and philosophy of public relations, and applications of theory through specific tools and techniques. Analyze current events from public relations perspective. Systematically develops public relations plan through research, planning, communication, and evaluation processes. CROSSLISTED as COMM 342/NMC 342.",
-  "prerequisites": ["NMC 101", "NMC 101H", "COMM 111", "COMM 111H", "COMM 111Z", "COMM 111HZ"]
+  "prerequisites": [["NMC 101", "NMC 101H", "COMM 111", "COMM 111H", "COMM 111Z", "COMM 111H"]]
 }, {
   "corequisites": [],
   "course_name": "DEBATE AND FORENSICS WORKSHOP",
@@ -305,35 +305,35 @@
   "course_number": "COMM 414",
   "credits": "3",
   "description": "Communication research and its relationship to theory. Quantitative and qualitative methods of investigation in speech communication. Experimental and non-experimental research design; naturalistic observation; issues of reliability and validity; statistical analysis. Standards and principles of writing and reporting research.",
-  "prerequisites": ["COMM 321"]
+  "prerequisites": [["COMM 321"]]
 }, {
   "corequisites": [],
   "course_name": "ETHNOGRAPHY OF COMMUNICATION",
   "course_number": "COMM 416",
   "credits": "3",
   "description": "Study and practice of using ethnography of communication as a research method for developing theory in communication studies; topics include data collection, analysis, and writing ethnographic reports.",
-  "prerequisites": ["COMM 321"]
+  "prerequisites": [["COMM 321"]]
 }, {
   "corequisites": [],
   "course_name": "^INTERPERSONAL COMMUNICATION THEORY AND RESEARCH",
   "course_number": "COMM 418",
   "credits": "3",
   "description": "Current theory, research, and practice in interpersonal communication. Issues addressed may include compliance gaining, nonverbal behavior, family communication, gender issues, impression formation, rules, and human relations.",
-  "prerequisites": ["COMM 321"]
+  "prerequisites": [["COMM 321"]]
 }, {
   "corequisites": [],
   "course_name": "SCIENCE COMMUNICATION",
   "course_number": "COMM 421",
   "credits": "3",
   "description": "Introduces students to theoretical knowledge in the field of science communication along with important concepts and applied issues concerning effective science communication. Utilizes a social scientific approach to provide students with a broad overview and foundation for understanding science communication, including the background, purpose, theory, and practice of science communication. Applies this knowledge and creates a science communication for the benefit of a real-world client.",
-  "prerequisites": ["COMM 321"]
+  "prerequisites": [["COMM 321"]]
 }, {
   "corequisites": [],
   "course_name": "^SMALL-GROUP COMMUNICATION THEORY AND RESEARCH",
   "course_number": "COMM 422",
   "credits": "3",
   "description": "Current theory, research, and practice in communication and small-group communication. Issues addressed may include leadership, decision making, problem solving, training, and human relations.",
-  "prerequisites": ["COMM 321"]
+  "prerequisites": [["COMM 321"]]
 }, {
   "corequisites": [],
   "course_name": "COMMUNICATION AND YOUTH OUTREACH",
@@ -347,7 +347,7 @@
   "course_number": "COMM 426",
   "credits": "3",
   "description": "Advanced study in intercultural communication theoretical developments and research directions. Topics addressed may include intercultural research methods, training, language and culture, acculturation, and intercultural effectiveness.",
-  "prerequisites": ["COMM 321", "COMM 326"]
+  "prerequisites": [["COMM 321"], ["COMM 326"]]
 }, {
   "corequisites": [],
   "course_name": "CULTURAL CODES IN COMMUNICATION",
@@ -361,7 +361,7 @@
   "course_number": "COMM 432",
   "credits": "3",
   "description": "Investigation of impact of sex and gender on communication in conflict, decision-making, leadership, nonverbal messages, language, and interpersonal relationships. Focus on definitions of sex and gender in regard to knowledge, social constructs, and self-development.",
-  "prerequisites": ["COMM 321"]
+  "prerequisites": [["COMM 321"]]
 }, {
   "corequisites": [],
   "course_name": "HEALTH COMMUNICATION",
@@ -403,49 +403,49 @@
   "course_number": "COMM 454",
   "credits": "3",
   "description": "Advanced study in classical and current theories of the persuasive and epistemological functions of argumentation. Examination of the dominant contemporary theorists, including Toulmin, Perelman, and Willard. Analysis of research and applied perspectives, including conversational argument, argument fields, the philosophy of argument, argument as rhetoric, and argument in contexts.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "^RHETORIC: 500 BC TO 500 AD",
   "course_number": "COMM 456",
   "credits": "3",
   "description": "History and philosophy of rhetorical principles.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "^RHETORIC: 500 AD TO 1900",
   "course_number": "COMM 458",
   "credits": "3",
   "description": "History and philosophy of rhetorical principles.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "^CONTEMPORARY THEORIES OF RHETORIC",
   "course_number": "COMM 459",
   "credits": "3",
   "description": "A survey of contemporary rhetorical theories from 1900 to the present.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "RHETORIC OF REVOLUTIONARIES AND REACTIONARIES: 1900-PRESENT",
   "course_number": "COMM 462",
   "credits": "3",
   "description": "Speech criticism; great American speakers; relation of their speaking to the history of ideas; rhetoric and political, social, and religious movements.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "RHETORICAL CRITICISM",
   "course_number": "COMM 464",
   "credits": "3",
   "description": "Explores the approaches to the criticism of rhetoric, including aesthetic, social movement, genre, feminist, and other modes of criticism.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "ETHICS OF RHETORIC",
   "course_number": "COMM 466",
   "credits": "3",
   "description": "Examines the ethical questions raised by the use of persuasive discourse, including the derivation of standards of ethical persuasion and approaches to ethical judgment about persuasion.",
-  "prerequisites": ["COMM 320"]
+  "prerequisites": [["COMM 320"]]
 }, {
   "corequisites": [],
   "course_name": "THE RHETORIC OF POPULAR CULTURE",

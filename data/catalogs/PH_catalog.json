@@ -25,7 +25,7 @@
   "course_number": "PH 111",
   "credits": "4",
   "description": "Investigates the physical processes related to global climate through observation and experiments, including reflection/refraction of light, thermal properties of materials, heat transfer, and planetary orbit. Focuses on building scientific explanations, with a special emphasis on communicating and exploring these phenomena with elementary and middle school students.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 211", "MTH 212"]
+  "prerequisites": [["MTH 111", "MTH 111Z"], ["MTH 112", "MTH 112Z", "MTH 211"], ["MTH 212"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR ORIENTATION",
@@ -102,14 +102,14 @@
   "course_number": "PH 212",
   "credits": "4",
   "description": "A comprehensive introductory survey course intended primarily for students in the sciences and engineering. Topics include mechanics, wave motion, thermal physics, electromagnetism, and optics. Elementary calculus is used.",
-  "prerequisites": ["PH 211", "PH 211H"]
+  "prerequisites": [["PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "*GENERAL PHYSICS WITH CALCULUS",
   "course_number": "PH 212H",
   "credits": "4",
   "description": "A comprehensive introductory survey course intended primarily for students in the sciences and engineering. Topics include mechanics, wave motion, thermal physics, electromagnetism, and optics. Elementary calculus is used.",
-  "prerequisites": ["PH 211", "PH 211H"]
+  "prerequisites": [["PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "*GENERAL PHYSICS WITH CALCULUS",
@@ -130,42 +130,42 @@
   "course_number": "PH 221",
   "credits": "1",
   "description": "One-hour weekly session for the development of problem-solving skills in calculus-based general physics.",
-  "prerequisites": ["PH 211", "PH 211H"]
+  "prerequisites": [["PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "RECITATION FOR PHYSICS 211",
   "course_number": "PH 221H",
   "credits": "1",
   "description": "One-hour weekly session for the development of problem-solving skills in calculus-based general physics.",
-  "prerequisites": ["PH 211", "PH 211H"]
+  "prerequisites": [["PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "RECITATION FOR PHYSICS 212",
   "course_number": "PH 222",
   "credits": "1",
   "description": "One-hour weekly session for the development of problem-solving skills in calculus-based general physics.",
-  "prerequisites": ["PH 212", "PH 212H"]
+  "prerequisites": [["PH 212", "PH 212H"]]
 }, {
   "corequisites": [],
   "course_name": "RECITATION FOR PHYSICS 212",
   "course_number": "PH 222H",
   "credits": "1",
   "description": "One-hour weekly session for the development of problem-solving skills in calculus-based general physics.",
-  "prerequisites": ["PH 212", "PH 212H"]
+  "prerequisites": [["PH 212", "PH 212H"]]
 }, {
   "corequisites": [],
   "course_name": "RECITATION FOR PHYSICS 213",
   "course_number": "PH 223",
   "credits": "1",
   "description": "One-hour weekly session for the development of problem-solving skills in calculus-based general physics.",
-  "prerequisites": ["PH 213", "PH 213H"]
+  "prerequisites": [["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "RECITATION FOR PHYSICS 213",
   "course_number": "PH 223H",
   "credits": "1",
   "description": "One-hour weekly session for the development of problem-solving skills in calculus-based general physics.",
-  "prerequisites": ["PH 213", "PH 213H"]
+  "prerequisites": [["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -200,7 +200,7 @@
   "course_number": "PH 317",
   "credits": "3",
   "description": "Conducting experiments, understanding equipment, modeling physical phenomena, analyzing and presenting data, sources of variation and uncertainty.",
-  "prerequisites": ["PH 213", "PH 213H", "PH 315", "PH 335"]
+  "prerequisites": [["PH 213", "PH 213H"], ["PH 315"], ["PH 335"]]
 }, {
   "corequisites": [],
   "course_name": "TECHNIQUES OF THEORETICAL MECHANICS",
@@ -214,21 +214,21 @@
   "course_number": "PH 365",
   "credits": "1",
   "description": "A project-driven laboratory experience in computational physics. Includes the use of basic mathematical and numerical techniques in computer calculations leading to solutions for typical physical problems. Topics to be covered will coordinate with the Paradigms in Physics course sequence.",
-  "prerequisites": ["PH 213", "PH 213H"]
+  "prerequisites": [["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTATIONAL PHYSICS LAB",
   "course_number": "PH 366",
   "credits": "1",
   "description": "A project-driven laboratory experience in computational physics. Includes the use of basic mathematical and numerical techniques in computer calculations leading to solutions for typical physical problems. Topics to be covered will coordinate with the Paradigms in Physics course sequence.",
-  "prerequisites": ["PH 213", "PH 213H"]
+  "prerequisites": [["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTATIONAL PHYSICS LAB",
   "course_number": "PH 367",
   "credits": "1",
   "description": "A project-driven laboratory experience in computational physics. Includes the use of basic mathematical and numerical techniques in computer calculations leading to solutions for typical physical problems. Topics to be covered will coordinate with the Paradigms in Physics course sequence.",
-  "prerequisites": ["PH 213", "PH 213H"]
+  "prerequisites": [["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -403,7 +403,7 @@
   "course_number": "PH 483",
   "credits": "4",
   "description": "Optical fibers, fiber mode structure and polarization effects, fiber interferometry, fiber sensors, optical communication systems. CROSSLISTED as ECE 483/PH 483 and ECE 583/PH 583.",
-  "prerequisites": ["ECE 391", "PH 481"]
+  "prerequisites": [["ECE 391", "PH 481"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO PARTICLE AND NUCLEAR PHYSICS",
@@ -676,7 +676,7 @@
   "course_number": "PH 655X",
   "credits": "3",
   "description": "Covers scattering theory, second quantization and many body theory, relativistic quantum mechanics, quantization of fields, quantum electrodynamics, and elementary particles.",
-  "prerequisites": ["PH 654"]
+  "prerequisites": [["PH 654"]]
 }, {
   "corequisites": [],
   "course_name": "SOLID STATE PHYSICS",

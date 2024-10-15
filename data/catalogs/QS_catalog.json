@@ -116,7 +116,7 @@
   "course_number": "QS 476",
   "credits": "4",
   "description": "Explores contemporary experiences of sexualities within transnational contexts. Analyzes themes including queer and LGBTQI organizing, same-sex desires, queer transnational immigration and labor flows, sex industries and discourses of trafficking, sex tourism, and reproductive justice, using feminist, queer, and postcolonial theoretical frameworks. CROSSLISTED as QS 476/WGSS 476 and QS 576/WGSS 576.",
-  "prerequisites": ["QS 262", "QS 262H", "WGSS 262", "WGSS 262H"]
+  "prerequisites": [["QS 262", "QS 262H", "WGSS 262", "WGSS 262H"]]
 }, {
   "corequisites": [],
   "course_name": "QUEER/TRANS PEOPLE OF COLOR ARTS AND ACTIVISM",

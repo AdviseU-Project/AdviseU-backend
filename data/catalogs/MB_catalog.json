@@ -46,63 +46,63 @@
   "course_number": "MB 302",
   "credits": "3",
   "description": "Emphasizes cytology, physiology, virology, growth and control of growth with coverage of the role of microorganisms in nature, in disease, and as useful tools.",
-  "prerequisites": ["CH 332", "CH 335", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 204", "BI 205", "BI 206", "BI 221", "BI 221H", "BI 222", "BI 222H"]
+  "prerequisites": [["CH 332", "CH 335"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 204"], ["BI 205"], ["BI 206", "BI 221", "BI 221H"], ["BI 222", "BI 222H"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL MICROBIOLOGY",
   "course_number": "MB 302H",
   "credits": "3",
   "description": "Emphasizes cytology, physiology, virology, growth and control of growth with coverage of the role of microorganisms in nature, in disease, and as useful tools.",
-  "prerequisites": ["CH 332", "CH 335", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 204", "BI 205", "BI 206", "BI 221", "BI 221H", "BI 222", "BI 222H"]
+  "prerequisites": [["CH 332", "CH 335"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 204"], ["BI 205"], ["BI 206", "BI 221", "BI 221H"], ["BI 222", "BI 222H"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL MICROBIOLOGY LABORATORY",
   "course_number": "MB 303",
   "credits": "2",
   "description": "Development of laboratory techniques; exercises designed to reinforce concepts covered in MB 302.",
-  "prerequisites": ["MB 302", "MB 302H"]
+  "prerequisites": [["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "LABORATORY AND COMPUTATIONAL SKILLS IN MICROBIOLOGY",
   "course_number": "MB 305",
   "credits": "2",
   "description": "Explores biological, technical, and bioinformatic concepts related to the analysis and preparation of microbiological samples relevant to human health and infection. Applies these concepts during the performance of activities, exercises, and computational analyses of microbial DNA sequence data.",
-  "prerequisites": ["MB 302", "MB 302H"]
+  "prerequisites": [["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "BACTERIAL MOLECULAR GENETICS",
   "course_number": "MB 310",
   "credits": "3",
   "description": "Introduces concepts of bacterial molecular genetics. Topics including DNA replication, mutation, DNA repair, DNA recombination, transposons, bacteriophages, genetic manipulation, and gene regulation.",
-  "prerequisites": ["MB 302", "MB 302H", "BB 314", "BB 314H", "BB 450", "BB 490"]
+  "prerequisites": [["MB 302", "MB 302H"], ["BB 314", "BB 314H"], ["BB 450", "BB 490"]]
 }, {
   "corequisites": [],
   "course_name": "^MOLECULAR MICROBIOLOGY LAB: A WRITING INTENSIVE COURSE",
   "course_number": "MB 311",
   "credits": "3",
   "description": "Scientific writing, laboratory notebook composition, experimental design, and laboratory experiments in bacterial molecular biology.",
-  "prerequisites": ["MB 303", "MB 310"]
+  "prerequisites": [["MB 303", "MB 303H"], ["MB 310"]]
 }, {
   "corequisites": [],
   "course_name": "BACTERIAL PHYSIOLOGY AND METABOLISM",
   "course_number": "MB 312",
   "credits": "3",
   "description": "Molecular structure and function, macromolecular assembly, energy production and use, and cellular growth.",
-  "prerequisites": ["MB 310", "BB 451"]
+  "prerequisites": [["MB 310"], ["BB 451"]]
 }, {
   "corequisites": [],
   "course_name": "AQUATIC MICROBIOLOGY",
   "course_number": "MB 314",
   "credits": "3",
   "description": "A survey of the diversity, ecology, and physiology of microbes in aquatic systems, with emphasis on their roles in food webs, chemical cycling, and human health. Provides the background knowledge and quantitative/analytical skills necessary to interpret and critique current and historical research in the fields of general aquatic microbiology.",
-  "prerequisites": ["CH 231", "CH 231H", "CH 121", "CH 232", "CH 232H", "CH 122", "CH 233", "CH 233H", "CH 123"]
+  "prerequisites": [["CH 231", "CH 231H", "CH 121"], ["CH 232", "CH 232H", "CH 122"], ["CH 233", "CH 233H", "CH 123"]]
 }, {
   "corequisites": [],
   "course_name": "HUMAN BACTERIOLOGY",
   "course_number": "MB 320",
   "credits": "4",
   "description": "Properties of bacteria, their biology, pathogenesis and concern to society. Emphasis on the role of bacteria in human health and disease. CROSSLISTED as BHS 320/MB 320.",
-  "prerequisites": ["BI 204", "BI 205", "BI 206", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 204"], ["BI 205"], ["BI 206", "BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "*DISEASE AND SOCIETY",
@@ -116,14 +116,14 @@
   "course_number": "MB 340",
   "credits": "4",
   "description": "Properties of viruses, their biology, pathogenesis and concern to society. Emphasis on viruses causing human disease. CROSSLISTED as BHS 340/MB 340.",
-  "prerequisites": ["BI 204", "BI 205", "BI 206", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 204"], ["BI 205"], ["BI 206", "BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "^EMERGING INFECTIOUS DISEASES AND EPIDEMICS",
   "course_number": "MB 385",
   "credits": "3",
   "description": "Emerging and reemerging infectious disease is a contemporary global issue of great concern. To understand and evaluate the issue, the course covers germ theory, disease history and ecology, microbial pathogenesis and the immune response, historic plagues, and the biological, environmental, population and social changes that contribute to disease emergence.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -186,105 +186,105 @@
   "course_number": "MB 416",
   "credits": "3",
   "description": "Explores basic theory and applications of immunochemistry, immunogenetics, and cellular immunology. Examines immunologically related diseases.",
-  "prerequisites": ["BB 450", "BB 490"]
+  "prerequisites": [["BB 450", "BB 450H", "BB 490"]]
 }, {
   "corequisites": [],
   "course_name": "IMMUNOLOGY LABORATORY",
   "course_number": "MB 417",
   "credits": "2",
   "description": "Laboratory on the applications of current immunological techniques.",
-  "prerequisites": ["MB 303", "MB 416"]
+  "prerequisites": [["MB 303", "MB 303H"], ["MB 416"]]
 }, {
   "corequisites": [],
   "course_name": "MICROBIAL GENOME EVOLUTION AND BIODIVERSITY",
   "course_number": "MB 420",
   "credits": "3",
   "description": "Explores microbial evolution from the earliest lifeforms to the modern roles of microbes in global biogeochemical cycles. Emphasizes fundamental concepts in microbial genomics and metagenomics using the global carbon cycle as a backdrop to understanding the evolution of microbial biodiversity. Covers foundational concepts needed for later coursework in genome bioinformatics.",
-  "prerequisites": ["MB 302", "MB 302H", "BB 314", "BB 314H"]
+  "prerequisites": [["MB 302", "MB 302H", "BB 314", "BB 314H"]]
 }, {
   "corequisites": [],
   "course_name": "AQUATIC MICROBIOLOGY LABORATORY",
   "course_number": "MB 422",
   "credits": "2",
   "description": "Examine patterns of microbiological communities and how those patterns relate to environmental factors. Collect and process samples, analyze the resultant data and present those results. Focus on the microbial ecology of freshwater and marine systems as a foundation for discovery and learning using current analytical techniques.",
-  "prerequisites": ["MB 303", "MB 314"]
+  "prerequisites": [["MB 303"], ["MB 314"]]
 }, {
   "corequisites": [],
   "course_name": "BACTERIAL PATHOGENESIS",
   "course_number": "MB 430",
   "credits": "3",
   "description": "Examines bacteria pathogenic for humans, emphasizing the structural, physiological and genetic mechanisms of pathogenesis. Explores the role of the immune system in pathogenesis and protection.",
-  "prerequisites": ["MB 302", "MB 302H", "BI 311", "BI 311H", "MB 310", "BB 451", "BB 491"]
+  "prerequisites": [["MB 302", "MB 302H"], ["BI 311", "BI 311H", "MB 310"], ["BB 451", "BB 491"]]
 }, {
   "corequisites": [],
   "course_name": "VIROLOGY",
   "course_number": "MB 434",
   "credits": "3",
   "description": "Examines properties of viruses, their biology and pathogenesis. Emphasizes viruses causing human and animal diseases.",
-  "prerequisites": ["BB 314", "BB 314H", "BB 450", "BB 490"]
+  "prerequisites": [["BB 314", "BB 314H", "BB 450", "BB 450H", "BB 490"]]
 }, {
   "corequisites": [],
   "course_name": "PATHOGENIC MICROBES LABORATORY",
   "course_number": "MB 435",
   "credits": "2",
   "description": "Laboratory experiments to illustrate concepts presented in MB 430 and/or MB 434, focusing on pathogenic microorganisms.",
-  "prerequisites": ["MB 302", "MB 302H", "MB 303", "MB 430", "MB 434"]
+  "prerequisites": [["MB 302", "MB 302H"], ["MB 303", "MB 303H"], ["MB 430", "MB 434"]]
 }, {
   "corequisites": [],
   "course_name": "THE HUMAN MICROBIOME",
   "course_number": "MB 436",
   "credits": "3",
   "description": "Examines the biodiversity, function, and medical importance of the communities of microorganisms that inhabit the human body. A diverse array of topics will be discussed, including how the human microbiome is studied, case studies of specific aspects of the human microbiome, and emerging theories of how the microbiome influences human health.",
-  "prerequisites": ["BB 314", "BB 314H", "MB 302", "MB 302H"]
+  "prerequisites": [["BI 314", "BI 314H", "BB 314", "BB 314H", "MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD MICROBIOLOGY",
   "course_number": "MB 440",
   "credits": "3",
   "description": "Role of microorganisms in food spoilage, infection, and intoxication; also basic principles in contamination control and germicidal treatment during processing, preparing, and distributing food for consumption.",
-  "prerequisites": ["MB 302", "MB 302H"]
+  "prerequisites": [["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD MICROBIOLOGY LABORATORY",
   "course_number": "MB 441",
   "credits": "2",
   "description": "Laboratory techniques to accompany MB 440/MB 540.",
-  "prerequisites": ["MB 303", "MB 440"]
+  "prerequisites": [["MB 303", "MB 303H"], ["MB 440"]]
 }, {
   "corequisites": [],
   "course_name": "MICROBE-ENVIRONMENT INTERACTIONS",
   "course_number": "MB 448",
   "credits": "3",
   "description": "Explores the interactions of microorganisms with their environment and each other in a variety of natural habitats. Examines the roles and uses of microbes in anthropogenic activities such as pollution and climate change. Investigates microbial adaptations that enable their widespread success in all environments. Illustrates the roles of trophic interactions in maintaining carbon and nitrogen cycles.",
-  "prerequisites": ["MB 302", "MB 302H", "BB 314", "BB 314H"]
+  "prerequisites": [["MB 302", "MB 302H", "BB 314", "BB 314H"]]
 }, {
   "corequisites": [],
   "course_name": "MICROBIAL BIOTECHNOLOGY",
   "course_number": "MB 456",
   "credits": "3",
   "description": "Provides an interdisciplinary introduction to the field of biotechnology, focusing on the use of microorganisms as tools in everyday applications, in genetic engineering, and in medical, industrial, agricultural, and environmental processes. Covers current topics such as CRISPR, systems and synthetic biology, biofuels and vaccines. Includes excursions into general plant, animal, and medical biotechnology, as well as the biotechnology workforce, regulations and ethics.",
-  "prerequisites": ["MB 302", "MB 302H", "BI 221", "BI 221H", "BB 314", "BB 314H", "BB 331", "BB 450", "BEE 362"]
+  "prerequisites": [["MB 302", "MB 302H", "BI 221", "BI 221H", "BB 314", "BB 314H", "BB 331", "BB 450", "BEE 362"]]
 }, {
   "corequisites": [],
   "course_name": "FERMENTATION MICROBIOLOGY",
   "course_number": "MB 479",
   "credits": "3",
   "description": "Introduction to fermentation microbiology that emphasizes the evolution of key physiological traits and biochemical pathways within key microbial genera. Explores the microbial ecology of processes used to make alcoholic beverages, food ingredients, and fermented foods. CROSSLISTED as FST 479/MB 479.",
-  "prerequisites": ["BB 350", "BB 450", "MB 302", "MB 302H"]
+  "prerequisites": [["BB 350", "BB 450"], ["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL PARASITOLOGY",
   "course_number": "MB 480",
   "credits": "3",
   "description": "Covers a broad overview of parasitology with emphasis on medical parasitology. Explores important groups and host/parasite relationships among all taxa from invertebrates to vertebrates, including mammals.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "MICROBIOLOGY CAPSTONE EXPERIENCE",
   "course_number": "MB 490",
   "credits": "2",
   "description": "Capstone experience for microbiology students to practice professional skills necessary to sustain a career in science. Students will work in teams to analyze research data and communicate this analysis, in addition to explore career opportunities and learn how to successfully compete for jobs.",
-  "prerequisites": ["MB 302", "MB 302H"]
+  "prerequisites": [["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "FISH DISEASES IN CONSERVATION BIOLOGY AND AQUACULTURE",
@@ -417,7 +417,7 @@
   "course_number": "MB 541",
   "credits": "2",
   "description": "Laboratory techniques to accompany MB 440/MB 540.",
-  "prerequisites": ["MB 540"]
+  "prerequisites": [["MB 540"]]
 }, {
   "corequisites": [],
   "course_name": "MICROBE-ENVIRONMENT INTERACTIONS",

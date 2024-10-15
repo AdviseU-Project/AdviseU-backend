@@ -116,7 +116,7 @@
   "course_number": "PPOL 422",
   "credits": "4",
   "description": "Overview of common policy analysis approaches, methods and tools used to identify, assess, present and select public policy. Assignments include reading, reflection, exercises and a multi-stage policy analysis memo project using analyses conducted in PPOL 421.",
-  "prerequisites": ["PPOL 421"]
+  "prerequisites": [["PPOL 421"]]
 }, {
   "corequisites": [],
   "course_name": "*ENERGY",
@@ -165,7 +165,7 @@
   "course_number": "PPOL 455",
   "credits": "4",
   "description": "Analyzes U.S. federal, state, and local housing policies, and policies that impact housing. Draws broadly from multiple social science disciplines, focusing on consequences, intended and unintended, of policies, while examining promising policy developments aimed at improving housing adequacy, equality, and accessibility. Provides insights on rural v. urban and international comparisons, employing theory and multiple methodologies.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "PROTESTS AND SOCIAL CHANGE",
@@ -249,7 +249,7 @@
   "course_number": "PPOL 522",
   "credits": "4",
   "description": "Covers a variety of techniques for analyzing quantitative data, including linear regression, logistic regression, and other techniques. Emphasis is placed on working with data and software to answer research questions. Prior knowledge of hypothesis testing and descriptive statistics is assumed.",
-  "prerequisites": ["PPOL 521", "ECON 524"]
+  "prerequisites": [["PPOL 521"], ["ECON 524"]]
 }, {
   "corequisites": [],
   "course_name": "QUALITATIVE RESEARCH METHODS",
@@ -410,14 +410,14 @@
   "course_number": "PPOL 622",
   "credits": "4",
   "description": "Introduction to advanced quantitative modeling used in policy analysis, with an emphasis on the application of modeling techniques to research papers. Focus is predominantly on counts and zero-truncated modeling, time series, and panel regression.",
-  "prerequisites": ["ECON 524", "PPOL 522", "PPOL 621", "AEC 525"]
+  "prerequisites": [["ECON 524"], ["PPOL 522", "PPOL 621", "AEC 523"], ["AEC 525"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED QUALITATIVE METHODS",
   "course_number": "PPOL 628",
   "credits": "4",
   "description": "Focus on epistemological approaches, research design, data analysis techniques and critiques of qualitative research, with emphasis on participant observation and interviewing. Culminates in the written and oral presentation of a qualitative research proposal, including preliminary results from fieldwork conducted during the course.",
-  "prerequisites": ["ANTH 591", "HDFS 538", "PPOL 523"]
+  "prerequisites": [["ANTH 591", "HDFS 538", "PPOL 523", "SOC 518"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

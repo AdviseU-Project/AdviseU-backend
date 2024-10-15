@@ -11,7 +11,7 @@
   "course_number": "FES 202",
   "credits": "3",
   "description": "Develop and apply software skills to analyze quantitative social science data, then interpret and present results. Using software, students will conduct statistical analysis of primary and/or secondary data (for example, their own survey data or data from sources such as the US Census American Community Survey).",
-  "prerequisites": ["ST 201", "ST 243Z"]
+  "prerequisites": [["ST 201", "ST 243Z"]]
 }, {
   "corequisites": [],
   "course_name": "*FOREST BIOLOGY",
@@ -39,7 +39,7 @@
   "course_number": "FES 341",
   "credits": "3",
   "description": "Examines fundamentals of forest ecosystems, including factors that influence forest composition, structure, and function over space and time. Covers principles of social-ecological forest systems, species traits, species interactions, forest disturbance-succession cycles, community ecology and biodiversity, invasion ecology, landscape ecology, adaptation and transformation in forest ecosystems. Presents topics in the context of understanding a global array of forest ecosystems and considering issues in their management from multiple perspectives.",
-  "prerequisites": ["FES 240", "FES 240H", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206", "BI 370", "BI 370H"]
+  "prerequisites": [["FES 240", "FES 240H", "BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206", "BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST TYPES OF THE NORTHWEST",
@@ -116,14 +116,14 @@
   "course_number": "FES 412",
   "credits": "3",
   "description": "Role of insects in natural and managed forests. Recognition of important forest insect pest groups and species, prediction of forest insect responses to environmental changes, and management strategies and treatments to protect forest resource values.",
-  "prerequisites": ["BI 204", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 221", "BI 221H"]
+  "prerequisites": [["BI 204", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 221", "BI 221H"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH METHODS IN SOCIAL SCIENCE",
   "course_number": "FES 422",
   "credits": "4",
   "description": "An introduction to research methods applied to social science issues and problems. Emphasis is on the nature of the research process, how to conduct research, and how to interpret and disseminate research results.",
-  "prerequisites": ["ST 201", "ST 243Z", "ST 351", "ST 351H"]
+  "prerequisites": [["ST 201", "ST 243Z", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST AS CLASSROOM",
@@ -186,7 +186,7 @@
   "course_number": "FES 455",
   "credits": "POLICY",
   "description": "Examination of planning, policy, and management strategies used in the stewardship of urban natural resources. Fundamentals for developing effective programs to maximize the economic, environmental, and social values and benefits of urban forest landscapes. CROSSLISTED as FES 455/HORT 455.",
-  "prerequisites": ["FES 350", "HORT 350"]
+  "prerequisites": [["FES 350", "HORT 350"]]
 }, {
   "corequisites": [],
   "course_name": "*AGROFORESTRY",
@@ -326,7 +326,7 @@
   "course_number": "FES 524",
   "credits": "4",
   "description": "Hands-on experience in applied statistical modeling and data analysis for natural resources. Emphasis is on understanding of statistical models and the application and actual implementation of statistical analysis techniques, use of statistical software for analyses (e.g., R), and interpretation of findings. Students analyze data from their own research for final projects.",
-  "prerequisites": ["ST 511", "ST 512"]
+  "prerequisites": [["ST 511"], ["ST 512"]]
 }, {
   "corequisites": [],
   "course_name": "INTERDISCIPLINARY APPROACHES TO SOCIO-ECOLOGICAL PROBLEMS",
@@ -347,7 +347,7 @@
   "course_number": "FES 527",
   "credits": "3",
   "description": "Role of forests in mitigating greenhouse gas emissions. International GHG policies and recommendations for monitoring emissions and forest carbon. Measurement, modeling, and projections of forest ecosystem carbon. Evaluation of policies for reducing GHG emissions and increasing forest carbon stores.",
-  "prerequisites": ["FES 536"]
+  "prerequisites": [["FES 536"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST AS CLASSROOM",

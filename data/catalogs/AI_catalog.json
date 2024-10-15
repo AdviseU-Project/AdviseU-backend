@@ -74,7 +74,7 @@
   "course_number": "AI 535",
   "credits": "4",
   "description": "An introduction to the concepts and algorithms in deep learning; basic feedforward neural networks, convolutional neural networks, recurrent neural networks including long short-term memory models, deep belief nets, autoencoders and deep networks applications in computer vision, natural language processing and reinforcement learning.",
-  "prerequisites": ["AI 534", "ROB 537"]
+  "prerequisites": [["CS 534", "AI 534", "ROB 537"]]
 }, {
   "corequisites": [],
   "course_name": "PROBABILISTIC GRAPHICAL MODELS",
@@ -137,5 +137,5 @@
   "course_number": "AI 637",
   "credits": "4",
   "description": "An introduction to recent advances in visual recognition, including object detection, semantic segmentation, multimodal parsing of images and text, image captioning, face recognition, and human activity recognition. Covers common formulations of these problems, including energy minimization on graphical models, and supervised machine learning approaches to low- and high-level recognition tasks.",
-  "prerequisites": ["AI 535", "AI 537"]
+  "prerequisites": [["CS 535", "AI 535", "CS 537", "AI 537"]]
 }]

@@ -32,42 +32,42 @@
   "course_number": "OP 301",
   "credits": "4",
   "description": "The interrelated processes and connections of product commercialization. How product design decisions impacts business considerations such as margin, inventory, supply chain, cash flow, and profitability. How design thinking and nurturing a design culture that promotes innovation is necessary for business success and growth. Challenges of product sales and distribution related to design.",
-  "prerequisites": ["OP 231", "OP 232", "OP 233"]
+  "prerequisites": [["OP 231", "OP 232", "OP 233"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR PRODUCTS PRE-INTERNSHIP SEMINAR",
   "course_number": "OP 307",
   "credits": "1",
   "description": "Prepares students for internships in outdoor products industries. Topics include professionalism, internship/job search strategies, writing resumes and cover letters, interviewing, developing internship learning outcomes, networking, and workplace etiquette and communication.",
-  "prerequisites": ["OP 101"]
+  "prerequisites": [["OP 101"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT I",
   "course_number": "OP 351",
   "credits": "4",
   "description": "Explores needs-based design for Outdoor Products. Experiential-based projects related to function and design and understanding Design in context of Consumer Needs. Investigates design-choices impact upstream and downstream commercialization processes.",
-  "prerequisites": ["OP 301"]
+  "prerequisites": [["OP 301"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT II",
   "course_number": "OP 352",
   "credits": "4",
   "description": "Exploration of development and product creation cycles for Outdoor Products. Bridging the design and operations phases of commercialization. Investigate quality, sample production, product testing, and costing. Managing how development decisions impact upstream and downstream commercialization processes.",
-  "prerequisites": ["OP 351"]
+  "prerequisites": [["OP 351"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR PRODUCTS FAILURE",
   "course_number": "OP 353",
   "credits": "4",
   "description": "Explores the role of failure in the design and redesign of Outdoor Products. Confronts the reality of mistakes and explores ways to mitigate them. Utilizes intentional design to manage failures to support repair and extended product life cycles.",
-  "prerequisites": ["OP 352"]
+  "prerequisites": [["OP 352"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR PRODUCTS BRANDING",
   "course_number": "OP 360",
   "credits": "MERCHANDISING",
   "description": "Consumer behavior, emerging markets, building and nurturing brands, strategic communication. Content curation, merchandising and communication. Traditional and non-traditional sales channels.",
-  "prerequisites": ["OP 352"]
+  "prerequisites": [["OP 352"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -88,5 +88,5 @@
   "course_number": "OP 410",
   "credits": "1-8",
   "description": "",
-  "prerequisites": ["OP 307"]
+  "prerequisites": [["OP 307"]]
 }]

@@ -186,7 +186,7 @@
   "course_number": "ED 414",
   "credits": "2",
   "description": "Students will expand their knowledge about constructing a positive K-12 classroom environment to a productive learning environment accommodated to fit the needs of a diversified student population.",
-  "prerequisites": ["ED 413"]
+  "prerequisites": [["ED 413"]]
 }, {
   "corequisites": [],
   "course_name": "CLASSROOM MANAGEMENT",
@@ -200,7 +200,7 @@
   "course_number": "ED 424",
   "credits": "2",
   "description": "Designed to help teachers make complex judgments based upon their knowledge and understanding of their students, the curriculum, and larger social and cultural issues through reflective practice. Problem solving related to teaching with strong focus on generating new knowledge about teaching, learning, and assessment.",
-  "prerequisites": ["ED 407", "ED 410"]
+  "prerequisites": [["ED 407"], ["ED 410"]]
 }, {
   "corequisites": [],
   "course_name": "CURRICULUM DESIGN AND INSTRUCTIONAL METHODS",
@@ -249,14 +249,14 @@
   "course_number": "ED 451",
   "credits": "4",
   "description": "Assessment for and of learning and its importance to student engagement and advancement. Formal and informal writing derived from multiple revisions will result in documents intended for different audiences including parents, school administrators, and national assessment prompts citing research-based practices.",
-  "prerequisites": ["ED 450"]
+  "prerequisites": [["ED 450"]]
 }, {
   "corequisites": [],
   "course_name": "USING DATA TO SUPPORT ALL STUDENTS",
   "course_number": "ED 452",
   "credits": "3",
   "description": "Teacher candidates will gather and analyze student data to inform instructional practice devoted to enhancing student learning; develop data literacy skills; differentiate instruction for targeted groups and individualized student learners while continuing to foster higher-order thinking and communication skills in the whole class: analyze patterns and gaps in individualized student learning; apply differentiated instruction and assessment strategies to support student growth; engage learners in goal setting; and identify teaching and assessment strategies to work with students with exceptional needs.",
-  "prerequisites": ["ED 451"]
+  "prerequisites": [["ED 451"]]
 }, {
   "corequisites": [],
   "course_name": "STRATEGIES FOR TEACHING LANGUAGE ARTS AND SOCIAL STUDIES",
@@ -319,7 +319,7 @@
   "course_number": "ED 468",
   "credits": "4",
   "description": "Development of pedagogy in teaching of reading to elementary-aged students, including the teaching of vocabulary, comprehension, phonics, fluency and motivation to read. Use of children's literature, assessment approaches, and special needs students are also addressed. Gain a deeper level of understanding in how to differentiate the teaching of reading at grades K-5, how to run a Writers’ Workshop, and how to integrate literacy into other content areas.",
-  "prerequisites": ["ED 465"]
+  "prerequisites": [["ED 465"]]
 }, {
   "corequisites": [],
   "course_name": "STRATEGIES FOR TEACHING THE FINE ARTS",
@@ -333,14 +333,14 @@
   "course_number": "ED 470",
   "credits": "3",
   "description": "Explores literacy development in Spanish and English. Examines differences in literacy development across the two languages, as well as pedagogical approaches that leverage students' home language and literacy practices. Explores equity and bias in classroom language practices. Taught bilingually in Spanish and English.",
-  "prerequisites": ["ED 472"]
+  "prerequisites": [["ED 472"]]
 }, {
   "corequisites": [],
   "course_name": "MULTILINGUAL LINGUISTICS",
   "course_number": "ED 471",
   "credits": "3",
   "description": "Explores linguistic categories: phonology, morphology, syntax, semantics, pragmatics, and discourse. Focuses on academic language development and teaching implications for emergent bilingual students in Spanish-English K-12 dual language programs. Taught bilingually in Spanish and English.",
-  "prerequisites": ["ED 472"]
+  "prerequisites": [["ED 472"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF ESOL EDUCATION",
@@ -354,7 +354,7 @@
   "course_number": "ED 473",
   "credits": "3",
   "description": "Examines characteristics of standards-based content-area instruction for emergent bilinguals. Includes integration of content and language development, classroom-based assessment, and use of technology to support student learning.",
-  "prerequisites": ["ED 472"]
+  "prerequisites": [["ED 472"]]
 }, {
   "corequisites": [],
   "course_name": "PROJECT-BASED MATHEMATICS",
@@ -375,7 +375,7 @@
   "course_number": "ED 476",
   "credits": "3",
   "description": "Considers social and political issues pertaining to educating English language learners. Focuses on exploring multiple ideologies in ESOL and building partnerships across schools, families, and communities.",
-  "prerequisites": ["ED 472"]
+  "prerequisites": [["ED 472"]]
 }, {
   "corequisites": [],
   "course_name": "DIFFERENTIATION FOR STUDENTS WITH SPECIAL NEEDS",
@@ -396,7 +396,7 @@
   "course_number": "ED 479",
   "credits": "3",
   "description": "Explores linguistic categories: phonology, morphology, syntax, semantics, pragmatics, and discourse. Focuses on teaching implications--from psycholinguistic, sociolinguistic, and critical perspectives--for emergent bilingual students in P-12 contexts.",
-  "prerequisites": ["ED 472"]
+  "prerequisites": [["ED 472"]]
 }, {
   "corequisites": [],
   "course_name": "READING AND WRITING FOR SECONDARY LEARNERS IN CONTEXT",
@@ -529,14 +529,14 @@
   "course_number": "ED 514",
   "credits": "2",
   "description": "Students will expand their knowledge about constructing a positive K-12 classroom environment to a productive learning environment accommodated to fit the needs of a diversified student population.",
-  "prerequisites": ["ED 513"]
+  "prerequisites": [["ED 513"]]
 }, {
   "corequisites": [],
   "course_name": "LEARNING ENVIRONMENTS III: CULTURES AND COMMUNITIES",
   "course_number": "ED 515",
   "credits": "2",
   "description": "The third in a series of courses to assist the Teacher candidate in developing a classroom culture of learning that challenges every student to succeed and thrive. Teacher candidates will understand the important role that culture and community play in the teaching and learning process, and develop culturally responsive teaching practices.",
-  "prerequisites": ["ED 513", "ED 514"]
+  "prerequisites": [["ED 513"], ["ED 514"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL PRACTICE IN THE TEACHING COMMUNITY",
@@ -599,14 +599,14 @@
   "course_number": "ED 532",
   "credits": "4",
   "description": "Development of skill in identifying and addressing misconceptions or naive conceptions as part of the individualized conceptual change process. Integration of technology tools for instruction and assessment. Development of high-leverage science teaching practices with a focus on enhancing classroom discourse and evidence-based argumentation with a survey of science curriculum models.",
-  "prerequisites": ["ED 531"]
+  "prerequisites": [["ED 531"]]
 }, {
   "corequisites": [],
   "course_name": "SCIENCE METHODS III: SCIENCE FOR ALL LEARNERS",
   "course_number": "ED 533",
   "credits": "4",
   "description": "Teaching science as a community of practice means addressing the needs of all learners, particularly those underrepresented in science. Uses technology to enhance high-leverage teaching practices and practices safe and effective laboratory teaching methods. Explores contextualized and interdisciplinary approaches to science education.",
-  "prerequisites": ["ED 531", "ED 532"]
+  "prerequisites": [["ED 531"], ["ED 532"]]
 }, {
   "corequisites": [],
   "course_name": "MATHEMATICAL METHODS I: FOUNDATIONS OF NUMERICAL THOUGHT",
@@ -620,14 +620,14 @@
   "course_number": "ED 538",
   "credits": "4",
   "description": "Teacher candidates create instructional units based on student knowledge and skill while attending to needed accommodations. Designed to help the teacher candidate select or modify instructional materials based on student prior knowledge, experience, and interests; make accommodations for students; and provide for multiple representations across a unit of instruction.",
-  "prerequisites": ["ED 537"]
+  "prerequisites": [["ED 537"]]
 }, {
   "corequisites": [],
   "course_name": "MATHEMATICAL METHODS III: MATHEMATICS FOR EVERY LEARNER",
   "course_number": "ED 539",
   "credits": "4",
   "description": "Teacher candidates will develop practices that support all students, regardless of background or ability. The teacher candidate will design a unit of instruction with complex learning goals that are cross- and multi-disciplinary, draw on multiple perspectives, and invoke higher order thinking and communication skills.",
-  "prerequisites": ["ED 537", "ED 538"]
+  "prerequisites": [["ED 537"], ["ED 538"]]
 }, {
   "corequisites": [],
   "course_name": "HUMAN DEVELOPMENT AND PSYCHOLOGY OF THE ADOLESCENT",
@@ -655,7 +655,7 @@
   "course_number": "ED 551",
   "credits": "4",
   "description": "The second of three courses examining the iterative cycle of curriculum planning, instruction, and assessment. Learning in this class will concentrate on assessment for and of learning and its importance to student engagement and advancement.",
-  "prerequisites": ["ED 550"]
+  "prerequisites": [["ED 550"]]
 }, {
   "corequisites": [],
   "course_name": "STRATEGIES FOR TEACHING WELLNESS AND FINE ARTS",
@@ -718,14 +718,14 @@
   "course_number": "ED 570",
   "credits": "3",
   "description": "Explores literacy development in Spanish and English. Examines differences in literacy development across the two languages, as well as pedagogical approaches that leverage students' home language and literacy practices. Explores equity and bias in classroom language practices. Taught bilingually in Spanish and English.",
-  "prerequisites": ["ED 572"]
+  "prerequisites": [["ED 572"]]
 }, {
   "corequisites": [],
   "course_name": "MULTILINGUAL LINGUISTICS",
   "course_number": "ED 571",
   "credits": "3",
   "description": "Explores linguistic categories: phonology, morphology, syntax, semantics, pragmatics, and discourse. Focuses on academic language development and teaching implications for emergent bilingual students in Spanish-English K-12 dual language programs. Taught bilingually in Spanish and English.",
-  "prerequisites": ["ED 572"]
+  "prerequisites": [["ED 572"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF ESOL EDUCATION",
@@ -739,14 +739,14 @@
   "course_number": "ED 573",
   "credits": "3",
   "description": "Examines characteristics of standards-based content-area instruction for emergent bilinguals. Includes integration of content and language development, classroom-based assessment, and use of technology to support student learning.",
-  "prerequisites": ["ED 572"]
+  "prerequisites": [["ED 572"]]
 }, {
   "corequisites": [],
   "course_name": "PARTNERSHIPS AND IDEOLOGIES IN ESOL EDUCATION",
   "course_number": "ED 576",
   "credits": "3",
   "description": "Considers social and political issues pertaining to educating English language learners. Focuses on exploring multiple ideologies in ESOL and building partnerships across schools, families, and communities.",
-  "prerequisites": ["ED 572"]
+  "prerequisites": [["ED 572"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL EDUCATION LAW RIGHTS AND REGULATIONS",
@@ -760,7 +760,7 @@
   "course_number": "ED 579",
   "credits": "3",
   "description": "Explores linguistic categories: phonology, morphology, syntax, semantics, pragmatics, and discourse. Focuses on teaching implications--from psycholinguistic, sociolinguistic, and critical perspectives--for emergent bilingual students in P-12 contexts.",
-  "prerequisites": ["ED 572"]
+  "prerequisites": [["ED 572"]]
 }, {
   "corequisites": [],
   "course_name": "STRATEGIES FOR DEVELOPING LITERACY",
@@ -788,7 +788,7 @@
   "course_number": "ED 586",
   "credits": "4",
   "description": "Learning to teach language arts as a community of practice including the development of high-leverage instructional practices. Focus on enhancing classroom discourse and building student comprehension, meaning construction, interpretation, and response to complex text. Integration of technology tools for instruction and assessment.",
-  "prerequisites": ["ED 584", "ED 585"]
+  "prerequisites": [["ED 584"], ["ED 585"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL STUDIES METHODS I: ADOLESCENT LITERACY",
@@ -809,7 +809,7 @@
   "course_number": "ED 589",
   "credits": "4",
   "description": "Learning to teach social studies as a community of practice including the development of high-leverage instructional practices. Focus on curriculum strategies that provide opportunities for learners to develop and use facts, concepts, interpretations, and analyses to build and support arguments. Integration of technology tools for instruction and assessment.",
-  "prerequisites": ["ED 587", "ED 588"]
+  "prerequisites": [["ED 587"], ["ED 588"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL JUSTICE IN EDUCATION",
@@ -928,14 +928,14 @@
   "course_number": "ED 622",
   "credits": "3",
   "description": "A study of qualitative research designs and analytical procedures with specific applications in education.",
-  "prerequisites": ["ED 620"]
+  "prerequisites": [["ED 620"]]
 }, {
   "corequisites": [],
   "course_name": "QUANTITATIVE RESEARCH DESIGN AND CRITICAL ANALYSIS",
   "course_number": "ED 624",
   "credits": "3",
   "description": "A study of quantitative research designs and analytical procedures with specific applications in education.",
-  "prerequisites": ["ED 620"]
+  "prerequisites": [["ED 620"]]
 }, {
   "corequisites": [],
   "course_name": "EQUITY AND EDUCATION POLICY",
@@ -956,7 +956,7 @@
   "course_number": "ED 652",
   "credits": "3",
   "description": "As an advanced qualitative method class, this course introduces theory and ethnographic research methods by presenting the various ways by which socio-cultural anthropologists observe and analyze phenomena, groups or individuals in everyday language and social practices in their local and global contexts, taking into account issues of language, equity and educational policy. Students will carry out an ethnographic research project of a particular phenomenon they wish to learn more about.",
-  "prerequisites": ["ED 622"]
+  "prerequisites": [["ED 622", "SED 622"]]
 }, {
   "corequisites": [],
   "course_name": "DISCOURSE",

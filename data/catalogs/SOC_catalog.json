@@ -109,14 +109,14 @@
   "course_number": "SOC 316",
   "credits": "4",
   "description": "Provides statistical and computing skills necessary to analyze quantitative sociological data. Covers the construction and interpretation of contingency tables, basic ideas of probability and statistical inference, and an introduction to correlation and regression. Provides an opportunity to learn using at least two statistical software programs. Explores ethical considerations in data reporting.",
-  "prerequisites": ["SOC 315"]
+  "prerequisites": [["SOC 315"]]
 }, {
   "corequisites": [],
   "course_name": "^QUALITATIVE RESEARCH METHODS",
   "course_number": "SOC 318",
   "credits": "4",
   "description": "Emphasizes how to read, critique, and conduct qualitative (non-numerical) social research. Builds on social research learned in SOC 315 and focuses on exploring various theories and methods unique to qualitative research. Provides exposure to examples of excellent qualitative research and writing and provides opportunities to hone research skills by engaging in various practical exercises, which may include field observations, interviews, focus groups, and content analysis. Develops writing skills by describing, comparing, and evaluating materials.",
-  "prerequisites": ["SOC 315"]
+  "prerequisites": [["SOC 315"]]
 }, {
   "corequisites": [],
   "course_name": "DEVIANT BEHAVIOR AND SOCIAL CONTROL",

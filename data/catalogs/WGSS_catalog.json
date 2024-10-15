@@ -151,7 +151,7 @@
   "course_number": "WGSS 319",
   "credits": "3",
   "description": "Examines traditional scientific methods through a feminist philosophy of science lens that incorporates critiques of the racialized and gendered origins of modern science. Introduces the breadth of feminist research methods associated with social justice research.",
-  "prerequisites": ["WGSS 223", "WGSS 223H"]
+  "prerequisites": [["WGSS 223", "WGSS 223H"]]
 }, {
   "corequisites": [],
   "course_name": "*GENDER AND TECHNOLOGY",
@@ -312,21 +312,21 @@
   "course_number": "WGSS 414",
   "credits": "4",
   "description": "Explores the ways different systems of oppression and discrimination impact women's lives. Examines sexism, classism, racism, and anti-Jewish oppression, as well as discrimination against queer women, older women, and those who differ in ability and appearance. (SS) (Bacc Core Course)",
-  "prerequisites": ["WGSS 223", "WGSS 223H"]
+  "prerequisites": [["WGSS 223", "WGSS 223H"]]
 }, {
   "corequisites": [],
   "course_name": "THEORIES OF FEMINISM",
   "course_number": "WGSS 416",
   "credits": "4",
   "description": "Explores feminist conceptions about the nature of the world, women's reality and visions for change. Analyzes major issues raised by the women's movement and the development of feminist ideas, as well as provides a critical examination of feminist thought and different theories which comprise it.",
-  "prerequisites": ["WGSS 223", "WGSS 223H", "WGSS 224"]
+  "prerequisites": [["WS 223", "WS 223H", "WS 224", "WGSS 223", "WGSS 223H", "WGSS 224"]]
 }, {
   "corequisites": [],
   "course_name": "WOMEN OF COLOR FEMINISMS",
   "course_number": "WGSS 430",
   "credits": "4",
   "description": "Explores the contemporary experiences of women of color, as well as the theoretical and practical frameworks of women of color feminisms. Analyses key themes in women of color feminisms, including politics of representation, multiple forms of state and interpersonal violence, intersecting forms of oppression, economic justice, reproductive justice, and strategies of resistance.",
-  "prerequisites": ["WGSS 223", "WGSS 223H"]
+  "prerequisites": [["WS 223", "WS 223H", "WGSS 223", "WGSS 223H"]]
 }, {
   "corequisites": [],
   "course_name": "*QUEER OF COLOR CRITIQUES",
@@ -368,7 +368,7 @@
   "course_number": "WGSS 460",
   "credits": "FEMINISMS",
   "description": "Explores the historical, theoretical, and political dimensions of female sexuality. Examines the basic assumptions about the meaning of gendered sexuality, how it has been shaped and controlled, and why women's sexuality has been/is a source of both women's liberation and subjugation. Incorporates Queer and Trans* theories about gendered/women's sexualities.",
-  "prerequisites": ["WGSS 223", "WGSS 223H", "WGSS 224"]
+  "prerequisites": [["WGSS 223", "WGSS 223H", "WGSS 224"]]
 }, {
   "corequisites": [],
   "course_name": "*QUEER THEORIES",
@@ -403,7 +403,7 @@
   "course_number": "WGSS 476",
   "credits": "4",
   "description": "Explores contemporary experiences of sexualities within transnational contexts. Analyzes themes including queer and LGBTQI organizing, same-sex desires, queer transnational immigration and labor flows, sex industries and discourses of trafficking, sex tourism, and reproductive justice, using feminist, queer, and postcolonial theoretical frameworks. CROSSLISTED as QS 476/WGSS 476 and QS 576/WGSS 576.",
-  "prerequisites": ["QS 262", "QS 262H", "WGSS 262", "WGSS 262H"]
+  "prerequisites": [["QS 262", "QS 262H", "WGSS 262", "WGSS 262H"]]
 }, {
   "corequisites": [],
   "course_name": "QUEER/TRANS PEOPLE OF COLOR ARTS AND ACTIVISM",
@@ -417,14 +417,14 @@
   "course_number": "WGSS 480",
   "credits": "3",
   "description": "Focuses on social constructions of gender in global context. Explores the comparative realities of various gendered struggles for social justice and studies key definitions and theoretical assumptions relevant to the subject of global feminist activism.",
-  "prerequisites": ["WGSS 223", "WGSS 223H", "WGSS 224"]
+  "prerequisites": [["WGSS 223", "WGSS 223H", "WGSS 224"]]
 }, {
   "corequisites": [],
   "course_name": "*GENDER AND TRANSNATIONAL ACTIVISMS",
   "course_number": "WGSS 480H",
   "credits": "3",
   "description": "Focuses on social constructions of gender in global context. Explores the comparative realities of various gendered struggles for social justice and studies key definitions and theoretical assumptions relevant to the subject of global feminist activism.",
-  "prerequisites": ["WGSS 223", "WGSS 223H", "WGSS 224"]
+  "prerequisites": [["WGSS 223", "WGSS 223H", "WGSS 224"]]
 }, {
   "corequisites": [],
   "course_name": "GLOBAL PERSPECTIVES ON WOMEN'S HEALTH",
@@ -445,14 +445,14 @@
   "course_number": "WGSS 485",
   "credits": "2",
   "description": "Working with an advisor from the Social Justice minor, conduct research to synthesize and extend analysis of a particular social justice issue, building on three previous papers or projects. Results are presented in a 10-15 page paper and a public poster, presentation or website. CROSSLISTED as ANTH 485/ES 485/WGSS 485.",
-  "prerequisites": ["ANTH 373", "ANTH 410", "ES 410", "WGSS 410", "WLC 410"]
+  "prerequisites": [["ANTH 373", "ES 373", "WGSS 373", "WLC 373"], ["ANTH 410", "ES 410", "WGSS 410", "WLC 410"]]
 }, {
   "corequisites": [],
   "course_name": "FEMINIST PRACTICE",
   "course_number": "WGSS 498",
   "credits": "4",
   "description": "For graduating seniors in women, gender, and sexuality studies. Building on knowledge and experiences acquired in required and elective women, gender, and sexuality studies courses, it focuses on central questions for feminist research and activism. In particular, the course helps students develop deeper understandings of the process of generating feminist knowledge and its application in diverse forms of feminist practice.",
-  "prerequisites": ["WGSS 414", "WGSS 416"]
+  "prerequisites": [["WGSS 414"], ["WGSS 416"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS",
@@ -746,7 +746,7 @@
   "course_number": "WGSS 617",
   "credits": "TRANSNATIONAL",
   "description": "Introduces doctoral students to foundational and emerging themes and texts in women, gender, and sexuality studies, with particular emphases on women of color feminisms, transnational feminisms, and queer feminist critiques. The second seminar in a two-part sequence (WGSS 616 and 617).",
-  "prerequisites": ["WGSS 616"]
+  "prerequisites": [["WGSS 616"]]
 }, {
   "corequisites": [],
   "course_name": "DECOLONIZING METHODS",

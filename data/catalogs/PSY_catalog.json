@@ -74,21 +74,21 @@
   "course_number": "PSY 297",
   "credits": "4",
   "description": "Develops thinking skills involved in empirical inquiry and evidence evaluation necessary to be a savvy consumer of psychological science. Critiques general media presentations of psychological science. Emphasizes ability to communicate clearly and effectively about psychological research, including methodological and ethical issues, based on an understanding of the strengths and limitations of empirical evidence.",
-  "prerequisites": ["MTH 105", "MTH 105Z", "MTH 111", "MTH 111Z", "PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["MTH 105", "MTH 105Z", "MTH 111", "MTH 111Z"], ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "QUANTITATIVE METHODS IN PSYCHOLOGICAL SCIENCE",
   "course_number": "PSY 298",
   "credits": "4",
   "description": "Explores quantitative methods in psychological science, including descriptive statistics, hypothesis testing, correlation, one-way or two-way ANOVA, and regression. Discusses controversies and emerging practices in open psychological science. Examines methods of data reporting and visualization.",
-  "prerequisites": ["PSY 297"]
+  "prerequisites": [["PSY 297"]]
 }, {
   "corequisites": [],
   "course_name": "QUANTITATIVE METHODS IN PSYCHOLOGICAL SCIENCE",
   "course_number": "PSY 298H",
   "credits": "4",
   "description": "Explores quantitative methods in psychological science, including descriptive statistics, hypothesis testing, correlation, one-way or two-way ANOVA, and regression. Discusses controversies and emerging practices in open psychological science. Examines methods of data reporting and visualization.",
-  "prerequisites": ["PSY 297"]
+  "prerequisites": [["PSY 297"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -109,28 +109,28 @@
   "course_number": "PSY 301",
   "credits": "4",
   "description": "Explores the principles of research design in the field of psychology. Emphasizes ability to identify research questions, formulate hypotheses to test those questions, and design a research study to test hypotheses. Develops ability to apply statistics and draw conclusions about research questions based on research design choices.",
-  "prerequisites": ["PSY 298", "PSY 298H", "PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ", "ST 352"]
+  "prerequisites": [["PSY 298", "PSY 298H", "PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"], ["ST 352"]]
 }, {
   "corequisites": [],
   "course_name": "^RESEARCH METHODS IN PSYCHOLOGICAL SCIENCE",
   "course_number": "PSY 301H",
   "credits": "4",
   "description": "Explores the principles of research design in the field of psychology. Emphasizes ability to identify research questions, formulate hypotheses to test those questions, and design a research study to test hypotheses. Develops ability to apply statistics and draw conclusions about research questions based on research design choices.",
-  "prerequisites": ["PSY 298", "PSY 298H", "PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ", "ST 352"]
+  "prerequisites": [["PSY 298", "PSY 298H", "PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"], ["ST 352"]]
 }, {
   "corequisites": [],
   "course_name": "USER EXPERIENCE RESEARCH",
   "course_number": "PSY 302",
   "credits": "3",
   "description": "Design ethical, lab-based experimental research studies in humans’ interactions with computing technologies. Analyze and interpret quantitative and qualitative data using relevant inferential methods. Prepare reports and visualize data to communicate research findings.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 298", "PSY 298H", "ST 314", "ST 352"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 298", "PSY 298H", "ST 314", "ST 352"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSFER TRANSITIONS: CAREERS IN PSYCHOLOGY",
   "course_number": "PSY 311",
   "credits": "2",
   "description": "Explores careers for psychology majors and non-majors with previous foundational psychology coursework, including careers in industry, academia, clinical practice, and other options. Introduces students to relevant coursework, skills, and certifications necessary for a variety of careers. Prepares students to format materials for a successful internship, research experience, paid work, or volunteer search.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "CAREERS IN HUMAN COMPUTER INTERACTION",
@@ -144,56 +144,56 @@
   "course_number": "PSY 330",
   "credits": "4",
   "description": "Introduction to the relationships of the structure and functioning of the human brain to behavior. Information from neuroanatomy, neurochemistry, neurosurgery and neurology is combined with psychological research on both normal and abnormal human behavior.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "COGNITIVE PSYCHOLOGY",
   "course_number": "PSY 340",
   "credits": "4",
   "description": "Explores mental processes and considers their impact on behavior. Covers topics including perception, attention, memory, reasoning, decision making, and language.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"]]
 }, {
   "corequisites": [],
   "course_name": "COGNITIVE PSYCHOLOGY",
   "course_number": "PSY 340H",
   "credits": "4",
   "description": "Explores mental processes and considers their impact on behavior. Covers topics including perception, attention, memory, reasoning, decision making, and language.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"]]
 }, {
   "corequisites": [],
   "course_name": "HUMAN LIFESPAN DEVELOPMENT",
   "course_number": "PSY 350",
   "credits": "4",
   "description": "An introduction to physical, social, cognitive and linguistic development with an emphasis on theory and methodology.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL PSYCHOLOGY",
   "course_number": "PSY 360",
   "credits": "4",
   "description": "The study of behavior and experience in a social context. Topics include person perception, attribution, attraction and love, attitudes and attitude change, aggression, social influence and group dynamics. Applications of social psychological principles to other fields, e.g., law, health care, etc.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL PSYCHOLOGY",
   "course_number": "PSY 360H",
   "credits": "4",
   "description": "The study of behavior and experience in a social context. Topics include person perception, attribution, attraction and love, attitudes and attitude change, aggression, social influence and group dynamics. Applications of social psychological principles to other fields, e.g., law, health care, etc.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "PERSONALITY",
   "course_number": "PSY 370",
   "credits": "4",
   "description": "An overview of major theories of personality is followed by an introduction to personality testing and research.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "ABNORMAL PSYCHOLOGY",
   "course_number": "PSY 381",
   "credits": "4",
   "description": "Survey of various forms of psychological disorders; theories regarding etiology and treatment. Special emphasis on research approaches to such disorders.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -277,28 +277,28 @@
   "course_number": "PSY 426",
   "credits": "4",
   "description": "Survey of theories, life cycles and contemporary problems of women and men in a social context. Scientific examination of gender related to psychological functioning and behavior. Topics can include psychological research on human similarities and differences in gender attitudes, relationships, sexuality, violence, employment, and mental health.",
-  "prerequisites": ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOLOGY OF RACE AND RACISM",
   "course_number": "PSY 427",
   "credits": "4",
   "description": "Introduces psychological theories and concepts pertaining to different racial groups in the United States. Explores racism in the U.S. and its psychological effect on racial identity and the intersections of race, ethnicity, sex, gender identity, social class, and nationality. Develops cultural competence and humility to prepare students to live and work with individuals from diverse socio-cultural backgrounds.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOLOGY AND THE LAW",
   "course_number": "PSY 428",
   "credits": "4",
   "description": "Explores a range of legal issues that are informed by behavioral sciences research in general, and psychology in particular. Focuses on areas including but not limited to psychologists and the legal system; lawyers: socialization, training and ethics; morality and justice; forensic assessment; competency and insanity; eyewitness identification; jury selection theories on crime; punishment and sentencing. Considers issues of culture, gender, and age as they pertain to the specific topics.",
-  "prerequisites": ["PSY 360", "PSY 360H", "PSY 370", "PSY 381"]
+  "prerequisites": [["PSY 360", "PSY 360H", "PSY 370", "PSY 381"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSIOLOGICAL PSYCHOLOGY",
   "course_number": "PSY 432",
   "credits": "4",
   "description": "Basic vertebrate neurophysiology and neuroanatomy in relation to behavior. Neural and hormonal correlates of sensation, learning, memory and motivation.",
-  "prerequisites": ["PSY 330"]
+  "prerequisites": [["PSY 330"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOPHARMACOLOGY",
@@ -312,245 +312,245 @@
   "course_number": "PSY 437",
   "credits": "4",
   "description": "Biological, learning, and cognitive approaches to human and animal motivation. Topics include evolution, homeostasis, drive, arousal, incentive motivation, achievement motivation, and social motivation.",
-  "prerequisites": ["PSY 330", "PSY 340", "PSY 340H", "PSY 301", "PSY 301H"]
+  "prerequisites": [["PSY 330", "PSY 340", "PSY 340H"], ["PSY 301", "PSY 301H"]]
 }, {
   "corequisites": [],
   "course_name": "^COGNITION RESEARCH",
   "course_number": "PSY 440",
   "credits": "4",
   "description": "Advanced scientific methodology primarily in the areas of attention, learning, memory, and thinking. Students will design their own research projects, collect and analyze data, and write a professional report.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 340", "PSY 340H"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 340", "PSY 340H"]]
 }, {
   "corequisites": [],
   "course_name": "PERCEPTION",
   "course_number": "PSY 442",
   "credits": "4",
   "description": "Fundamental concepts of animal and human sensation and perception, with emphasis on audition and vision. Applications of psychophysical methods to research in all sensory modalities. Includes review workshops on basic mathematical, physical and physiological concepts necessary to interpret research in this field.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 330", "PSY 340", "PSY 340H"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 330", "PSY 340", "PSY 340H"]]
 }, {
   "corequisites": [],
   "course_name": "LEARNING AND MEMORY",
   "course_number": "PSY 444",
   "credits": "4",
   "description": "Experimental and theoretical work on learning, conditioning, and memory in animals and humans.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 340", "PSY 340H"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 340", "PSY 340H"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOLOGY OF HUMAN COMPUTER INTERACTION",
   "course_number": "PSY 446",
   "credits": "4",
   "description": "Explore biological, behavioral, perceptual, cognitive and social issues relevant to how humans interact with other computing technology from a psychological science perspective. Evaluate, design, and experimentally test human computer interactions using experimental methods in psychological science.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"]]
 }, {
   "corequisites": [],
   "course_name": "CONSCIOUSNESS",
   "course_number": "PSY 448",
   "credits": "4",
   "description": "Psychological, phenomenological, and physiological approaches to the content and processes of subjective awareness. Topics include philosophical issues, cortical and reticular neurophysiology, sleeping and dreaming, selective attention, imagery, and self-awareness.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 340", "PSY 340H"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 340", "PSY 340H"]]
 }, {
   "corequisites": [],
   "course_name": "^EDUCATIONAL PSYCHOLOGY",
   "course_number": "PSY 450",
   "credits": "4",
   "description": "Examines psychological theories of learning applied to educational contexts including behaviorism, information processing, social cognitivism, and constructivism. Emphasizes on review of literature in selected topic area and writing a psychological research or program proposal.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 340", "PSY 340H", "PSY 350"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 340", "PSY 340H", "PSY 350"]]
 }, {
   "corequisites": [],
   "course_name": "CROSS-CULTURAL PSYCHOLOGY",
   "course_number": "PSY 452",
   "credits": "4",
   "description": "Explores meanings of culture. Examines topics in cognitive, social, developmental, and health psychology in light of various cultural backgrounds, orientations, and forces. Emphasizes contemporary applications of empirical findings from cross-cultural psychological research. Develops a historical, ecological, and global perception of psychology.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "COGNITIVE DEVELOPMENT",
   "course_number": "PSY 454",
   "credits": "4",
   "description": "Discusses intellectual development from infancy to adulthood. Topics include the origin of thinking, the development of perception, attention, memory, problem solving, language, academic skills, and social cognition. Piaget, Vygotsky, and information processing approaches will be discussed.",
-  "prerequisites": ["PSY 350"]
+  "prerequisites": [["PSY 350"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL DEVELOPMENT",
   "course_number": "PSY 456",
   "credits": "4",
   "description": "Covers theories and research concerning human social development. Topics include theories of socialization; the development of social relationships; the self-concept; emotion; sex roles; social cognition; pro-social behavior; morality; self-control; and aggression.",
-  "prerequisites": ["PSY 350"]
+  "prerequisites": [["PSY 350"]]
 }, {
   "corequisites": [],
   "course_name": "AUTISM AND NEURODIVERSITY",
   "course_number": "PSY 457",
   "credits": "4",
   "description": "Examines autism and neurodiversity from a psychological perspective. Emphasizes the scientific basis of autism and neurodiversity, with an emphasis on research co-created with autistic researchers and reflecting the lived experience of autistic and neurodivergent individuals, including those with a range of support needs, in social context. Critically examines historical and current diagnostic criteria and processes, evidence-based therapies, interventions and supports, and inclusive workplace, educational, legal, and healthcare environments that allow autistic and neurodivergent people to enjoy fulfilling, interdependent lives in community with other neurotypical and neurodivergent people.",
-  "prerequisites": ["PSY 201Z", "PSY 201HZ", "PSY 201", "PSY 201H", "PSY 202Z", "PSY 202HZ", "PSY 202", "PSY 202H"]
+  "prerequisites": [["PSY 201Z", "PSY 201H", "PSY 201", "PSY 201H"], ["PSY 202Z", "PSY 202H", "PSY 202", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "LANGUAGE ACQUISITION",
   "course_number": "PSY 458",
   "credits": "4",
   "description": "Psychological processes involved in the acquisition and use of language throughout childhood. Biological, cognitive, and social influences on language will be discussed, as well as personal uses of language, such as language in thought and reading.",
-  "prerequisites": ["PSY 350"]
+  "prerequisites": [["PSY 350"]]
 }, {
   "corequisites": [],
   "course_name": "^ADVANCED SOCIAL RESEARCH METHODS",
   "course_number": "PSY 460",
   "credits": "4",
   "description": "Advanced experimental research methods in the social sciences. Issues in psychological construct operationalization, experimental design, data collection, analysis, and report writing will be emphasized.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 360", "PSY 360H"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 360", "PSY 360H"]]
 }, {
   "corequisites": [],
   "course_name": "^ADVANCED SOCIAL RESEARCH METHODS",
   "course_number": "PSY 460H",
   "credits": "4",
   "description": "Advanced experimental research methods in the social sciences. Issues in psychological construct operationalization, experimental design, data collection, analysis, and report writing will be emphasized.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 360", "PSY 360H"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 360", "PSY 360H"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOLOGY OF DISABILITY",
   "course_number": "PSY 462",
   "credits": "4",
   "description": "Examines disability from social psychological and disability studies perspectives. Emphasizes the social construction of disability and its inter- and intra-personal ramifications. Explores stereotyping, prejudice and discrimination, adaptation to disability, disability identity, working with people with disabilities, intersectionality, and sexuality.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "JUDGMENT AND DECISION MAKING",
   "course_number": "PSY 463",
   "credits": "4",
   "description": "Explores ways to improve judgment and decision making through the application of research from cognitive psychology. Emphasis on development of critical thinking skills.",
-  "prerequisites": ["PSY 340", "PSY 340H"]
+  "prerequisites": [["PSY 340", "PSY 340H"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL COGNITION",
   "course_number": "PSY 464",
   "credits": "4",
   "description": "Research and theory concerning cognitive structures and processes underlying social judgment and social behavior. Topics include attribution theory, social inference, person memory, schema-based information processing.",
-  "prerequisites": ["PSY 360", "PSY 360H"]
+  "prerequisites": [["PSY 360", "PSY 360H"]]
 }, {
   "corequisites": [],
   "course_name": "POLITICAL PSYCHOLOGY",
   "course_number": "PSY 467",
   "credits": "4",
   "description": "Survey of classic and contemporary perspectives in political psychology. Special focus on how citizens form political judgments. Topics include personality, affect, cognition, group influence, voting, nationalism, and political tolerance.",
-  "prerequisites": ["PSY 360", "PSY 360H"]
+  "prerequisites": [["PSY 360", "PSY 360H"]]
 }, {
   "corequisites": [],
   "course_name": "THE PSYCHOLOGY OF CLOSE RELATIONSHIPS",
   "course_number": "PSY 468",
   "credits": "4",
   "description": "Explores the research and theory on the development, maintenance, and dissolution of human relationships. Examines various directions to the study of interpersonal relationships, including attachment, evolutionary-biological, cognition, and interdependence. Topics include physical attraction, love, friendship, communication, trust, jealousy, and several issues that are specific to troubled dyadic relations.",
-  "prerequisites": ["PSY 360", "PSY 360H"]
+  "prerequisites": [["PSY 360", "PSY 360H"]]
 }, {
   "corequisites": [],
   "course_name": "NONVERBAL BEHAVIOR",
   "course_number": "PSY 476",
   "credits": "4",
   "description": "Examines empirical findings, phenomena, and theories related to nonverbal behavior and its perception from a psychological perspective. Covers topics including: theories of nonverbal behavior encoding, decoding, and their accuracy; the neurophysiological basis for nonverbal behavior; valid assessments of nonverbal behavior abilities; and the impact that nonverbal behavior has on interaction processes and social relationships.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "^CLINICAL RESEARCH METHODS",
   "course_number": "PSY 480",
   "credits": "4",
   "description": "Advanced research methods used in clinical psychology research. Design of studies, assessment, data collection, and interpretation will be discussed. The clinical content area focused on will vary.",
-  "prerequisites": ["PSY 301", "PSY 301H", "PSY 381"]
+  "prerequisites": [["PSY 301", "PSY 301H"], ["PSY 381"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOTHERAPY",
   "course_number": "PSY 482",
   "credits": "4",
   "description": "Survey of the theory, techniques and research on the major contemporary systems of psychotherapy.",
-  "prerequisites": ["PSY 370", "PSY 381"]
+  "prerequisites": [["PSY 370", "PSY 380", "PSY 381", "PSY 481"]]
 }, {
   "corequisites": [],
   "course_name": "DEVELOPMENTAL PSYCHOPATHOLOGY",
   "course_number": "PSY 483",
   "credits": "4",
   "description": "Developmental perspective on child and adolescent psychological disorders including causal factors, associated features, and research-supported interventions.",
-  "prerequisites": ["PSY 350", "PSY 381"]
+  "prerequisites": [["PSY 350", "PSY 381", "PSY 481"]]
 }, {
   "corequisites": [],
   "course_name": "^PSYCHOLOGY OF ADDICTION",
   "course_number": "PSY 484",
   "credits": "4",
   "description": "Focuses on the psychological factors in drug and behavioral addictions and associated interventions. The approach will be biopsychosocial, addressing neurobiological, behavioral, psychological, and social factors that influence addiction. Topics will include epidemiology and public health impact, diagnosis, models of addiction, and intervention and treatment approaches.",
-  "prerequisites": ["H 220", "PSY 301", "PSY 301H", "SOC 315"]
+  "prerequisites": [["H 220", "PSY 301", "PSY 301H", "SOC 315"]]
 }, {
   "corequisites": [],
   "course_name": "BEHAVIOR MODIFICATION",
   "course_number": "PSY 485",
   "credits": "4",
   "description": "Review of basics of operant and classical conditioning. Research on behavior modification and behavior therapy with both normal and abnormal animals, human adults, and children. Application areas include behavior problems, handicaps, eating disorders, time management, self-control stress management, contingency contracts, and cognitive therapies.",
-  "prerequisites": ["PSY 350", "PSY 381"]
+  "prerequisites": [["PSY 350", "PSY 380", "PSY 381", "PSY 481"]]
 }, {
   "corequisites": [],
   "course_name": "YOGA AND MENTAL HEALTH",
   "course_number": "PSY 486",
   "credits": "4",
   "description": "Examines the use of yoga in psychological practice with a particular focus on managing mental and physical illnesses.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOLOGY OF TRAUMA",
   "course_number": "PSY 488",
   "credits": "OPPRESSION",
   "description": "Focuses on the psychological science of humans' reactions to traumatic events. Critically examines the social and cultural context for those events and reactions, including systemic racism, sexism, and other forms of oppression. Explores the psychological science of healing, resilience, and liberation, in the context of evidence-based clinical psychological treatments, institutional courage, and societal change.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "CONSERVATION PSYCHOLOGY",
   "course_number": "PSY 492",
   "credits": "4",
   "description": "Explores connections between the study of human behavior and the achievement of conservation goals. Understanding how people think about and interact with nature is crucial for promoting environmental sustainability and human well-being. Students will examine theory and research on human cognitive, emotional, and behavioral responses to nature.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "CONSERVATION PSYCHOLOGY",
   "course_number": "PSY 492H",
   "credits": "4",
   "description": "Explores connections between the study of human behavior and the achievement of conservation goals. Understanding how people think about and interact with nature is crucial for promoting environmental sustainability and human well-being. Students will examine theory and research on human cognitive, emotional, and behavioral responses to nature.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "POSITIVE PSYCHOLOGY",
   "course_number": "PSY 493",
   "credits": "4",
   "description": "Psychological theory, research, and interventions directed at how humans can flourish and identify and enhance positive strengths. Topics include positive emotional and cognitive states and processes, prosocial behavior, positive school and work environments, and discovering meaning in life.",
-  "prerequisites": ["PSY 360", "PSY 360H", "PSY 370"]
+  "prerequisites": [["PSY 360", "PSY 360H", "PSY 370"]]
 }, {
   "corequisites": [],
   "course_name": "ENGINEERING PSYCHOLOGY",
   "course_number": "PSY 494",
   "credits": "4",
   "description": "Survey human capabilities and limitations in human-machine interaction, including vision, memory, attention, motor control, and human error. Emphasis on theory and implications for system designs.",
-  "prerequisites": ["PSY 340", "PSY 340H"]
+  "prerequisites": [["PSY 340", "PSY 340H"]]
 }, {
   "corequisites": [],
   "course_name": "PSYCHOLOGY OF MEDITATION",
   "course_number": "PSY 495",
   "credits": "4",
   "description": "Explores the psychological processes of meditation, and requires regular meditation sessions by students. Readings ranging from traditional Eastern philosophy to empirical psychological research journal articles will focus on outcomes and effective methods of meditation practice.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY",
   "course_number": "PSY 496",
   "credits": "4",
   "description": "Survey of psychological research and theory relevant to organizations, industry, and other work settings. Topics include training, employee selection, performance evaluation, work attitudes, and motivation.",
-  "prerequisites": ["PSY 360", "PSY 360H", "PSY 370"]
+  "prerequisites": [["PSY 360", "PSY 360H", "PSY 370"]]
 }, {
   "corequisites": [],
   "course_name": "EVOLUTIONARY PSYCHOLOGY",
   "course_number": "PSY 497",
   "credits": "4",
   "description": "Evolutionary approach to the study of psychology. Focus on psychological mechanisms as evolved traits.",
-  "prerequisites": ["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201HZ", "PSY 202", "PSY 202H", "PSY 202Z", "PSY 202HZ"]
+  "prerequisites": [["PSY 201", "PSY 201H", "PSY 201Z", "PSY 201H"], ["PSY 202", "PSY 202H", "PSY 202Z", "PSY 202H"]]
 }, {
   "corequisites": [],
   "course_name": "HEALTH PSYCHOLOGY",
   "course_number": "PSY 498",
   "credits": "4",
   "description": "Psychological factors in the maintenance of good health and in the prevention of, treatment of, and recovery from illness: Behavioral contributions to illness, life-style risk factors, stress and the immune system, psychological response to symptoms and care-givers, health habits and self-care, management of pain and chronic illness, disability and terminal illness.",
-  "prerequisites": ["PSY 330", "PSY 340", "PSY 340H", "PSY 350", "PSY 360", "PSY 360H", "PSY 370", "PSY 381"]
+  "prerequisites": [["PSY 330", "PSY 340", "PSY 340H", "PSY 350", "PSY 360", "PSY 360H", "PSY 370", "PSY 381", "PSY 481"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -634,7 +634,7 @@
   "course_number": "PSY 514",
   "credits": "4",
   "description": "An introduction to the tools and methods that psychologists use to examine the processes that underlie human behavior. Emphasis is on the skills necessary for completing a research study: hypothesis formulation, design criteria, data collection, analysis, interpretation, write-up, and presentation of results. Utilizes a combination of readings, discussions, and class exercises. Course culminates in an independent research project proposal.",
-  "prerequisites": ["ST 511"]
+  "prerequisites": [["ST 511"]]
 }, {
   "corequisites": [],
   "course_name": "METHODS AND ETHICS FOR CLINICAL PSYCHOLOGISTS",
@@ -774,7 +774,7 @@
   "course_number": "PSY 571",
   "credits": "4",
   "description": "A graduate level introduction to psychological testing theory and practice, and to ethical, sociopolitical, psychological, and psychometric issues in the use of psychological tests. Particularly emphasizes basic psychometric principles that are important in scale construction, test evaluation, and practical assessment.",
-  "prerequisites": ["ST 511", "ST 512"]
+  "prerequisites": [["ST 511"], ["ST 512"]]
 }, {
   "corequisites": [],
   "course_name": "NONVERBAL BEHAVIOR",

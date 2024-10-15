@@ -11,14 +11,14 @@
   "course_number": "CHN 112",
   "credits": "4",
   "description": "Essentials of colloquial Mandarin with emphasis on conversation, reading, and writing. Designed for students with no prior training in Chinese. Native and/or bilingual speakers of Chinese will not receive credit for CHN 111, CHN 112, CHN 113.",
-  "prerequisites": ["CHN 111"]
+  "prerequisites": [["CHN 111"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR CHINESE",
   "course_number": "CHN 113",
   "credits": "4",
   "description": "Essentials of colloquial Mandarin with emphasis on conversation, reading, and writing. Designed for students with no prior training in Chinese. Native and/or bilingual speakers of Chinese will not receive credit for CHN 111, CHN 112, CHN 113.",
-  "prerequisites": ["CHN 112"]
+  "prerequisites": [["CHN 112"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -32,21 +32,21 @@
   "course_number": "CHN 211",
   "credits": "4",
   "description": "Further development of listening comprehension, speaking, reading, and writing skills. Emphasis on conversational fluency and increased vocabulary. Native and/or bilingual speakers of Chinese will not receive credit for CHN 211, CHN 212, CHN 213.",
-  "prerequisites": ["CHN 113"]
+  "prerequisites": [["CHN 113"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR CHINESE",
   "course_number": "CHN 212",
   "credits": "4",
   "description": "Further development of listening comprehension, speaking, reading, and writing skills. Emphasis on conversational fluency and increased vocabulary. Native and/or bilingual speakers of Chinese will not receive credit for CHN 211, CHN 212, CHN 213.",
-  "prerequisites": ["CHN 211"]
+  "prerequisites": [["CHN 211"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR CHINESE",
   "course_number": "CHN 213",
   "credits": "4",
   "description": "Further development of listening comprehension, speaking, reading, and writing skills. Emphasis on conversational fluency and increased vocabulary. Native and/or bilingual speakers of Chinese will not receive credit for CHN 211, CHN 212, CHN 213.",
-  "prerequisites": ["CHN 212"]
+  "prerequisites": [["CHN 212"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -60,21 +60,21 @@
   "course_number": "CHN 311",
   "credits": "3",
   "description": "Further development of listening, speaking, reading, and writing skills to a more advanced level with emphasis on the practical application of the Chinese language.",
-  "prerequisites": ["CHN 213"]
+  "prerequisites": [["CHN 213"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR CHINESE LANGUAGE",
   "course_number": "CHN 312",
   "credits": "3",
   "description": "Further development of listening, speaking, reading, and writing skills to a more advanced level with emphasis on the practical application of the Chinese language. Lec/rec.",
-  "prerequisites": ["CHN 311"]
+  "prerequisites": [["CHN 311"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR CHINESE LANGUAGE",
   "course_number": "CHN 313",
   "credits": "3",
   "description": "Further development of listening, speaking, reading, and writing skills to a more advanced level with emphasis on the practical application of the Chinese language.",
-  "prerequisites": ["CHN 312"]
+  "prerequisites": [["CHN 312"]]
 }, {
   "corequisites": [],
   "course_name": "PROCTOR EXPERIENCE",

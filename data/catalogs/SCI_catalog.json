@@ -25,14 +25,14 @@
   "course_number": "SCI 472",
   "credits": "2",
   "description": "Produce a first-pass product-market gap analysis on one example application of a science technology platform in a given market. Define a platform in collaboration with research faculty or from work completed in CH 470/SCI 470. Assess the opportunity – if any – that a product might have for application in a chosen market before planning and conducting scientific research. CROSSLISTED as CH 472/SCI 472.",
-  "prerequisites": ["SCI 470", "CH 470"]
+  "prerequisites": [["SCI 470", "CH 470"]]
 }, {
   "corequisites": [],
   "course_name": "INNOVATION TO IMPACT",
   "course_number": "SCI 474",
   "credits": "2",
   "description": "Build on skills gained in CH 472/SCI 472 to conduct and refine a first pass product-market gap analysis on one example application of a technology platform for a market segment selected from a defined technology platform. Investigate and determine the opportunity – if any – that a product might have in a chosen market before proposing and executing a research plan. CROSSLISTED as CH 474/SCI 474.",
-  "prerequisites": ["SCI 472", "CH 472"]
+  "prerequisites": [["SCI 472", "CH 472"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -53,7 +53,7 @@
   "course_number": "SCI 552X",
   "credits": "2",
   "description": "Examines the application of NMR spectroscopy to the study of protein structure and function. Topics covered include protein structure determination, protein dynamics analysis, and interaction analysis.",
-  "prerequisites": ["SCI 551X"]
+  "prerequisites": [["SCI 551X"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF INNOVATION",
@@ -67,12 +67,12 @@
   "course_number": "SCI 572",
   "credits": "2",
   "description": "Produce a first-pass product-market gap analysis on one example application of a science technology platform in a given market. Define a platform in collaboration with research faculty or from work completed in CH 570/SCI 570. Assess the opportunity – if any – that a product might have for application in a chosen market before planning and conducting scientific research. CROSSLISTED as CH 572/SCI 572.",
-  "prerequisites": ["SCI 570", "CH 570"]
+  "prerequisites": [["SCI 570", "CH 570"]]
 }, {
   "corequisites": [],
   "course_name": "INNOVATION TO IMPACT",
   "course_number": "SCI 574",
   "credits": "2",
   "description": "Build on skills gained in CH 572/SCI 572 to conduct and refine a first pass product-market gap analysis on one example application of a technology platform for a market segment selected from a defined technology platform. Investigate and determine the opportunity – if any – that a product might have in a chosen market before proposing and executing a research plan. CROSSLISTED as CH 574/SCI 574.",
-  "prerequisites": ["SCI 572", "CH 572"]
+  "prerequisites": [["SCI 572", "CH 572"]]
 }]

@@ -137,7 +137,7 @@
   "course_number": "CROP 433",
   "credits": "4",
   "description": "Covers the botanical and taxonomic relationships, breeding systems and adaptation of vegetable crops. Fresh material is used to illustrate varietal differences and traits of importance. CROSSLISTED as CROP 433/HORT 433.",
-  "prerequisites": ["BI 102", "BI 213", "BI 213H", "BI 223", "BI 223H", "BI 311", "BI 311H", "PBG 430", "PBG 450"]
+  "prerequisites": [["BI 102", "BI 213", "BI 213H", "BI 223", "BI 223H", "BI 311", "BI 311H", "HORT 430", "CSS 430", "PBG 430", "HORT 450", "CSS 450", "PBG 450"]]
 }, {
   "corequisites": [],
   "course_name": "WEED MANAGEMENT",
@@ -172,7 +172,7 @@
   "course_number": "CROP 475",
   "credits": "3",
   "description": "Explores hemp and hops history, products, utilization, phytochemistry, organic and conventional production systems, including rotation, fertilization, weed and pest control, multiple utilization streams, harvesting, postharvest operations.",
-  "prerequisites": ["AGRI 420", "CROP 430", "CSS 205", "HORT 316", "HORT 421", "SOIL 205", "SOIL 205H", "SOIL 430", "WSE 266"]
+  "prerequisites": [["AGRI 420", "CROP 430", "CSS 205", "CSS 305", "CSS 315", "HORT 316", "HORT 421", "SOIL 205", "SOIL 205H", "SOIL 430", "WSE 266"]]
 }, {
   "corequisites": [],
   "course_name": "CASE STUDIES IN CROPPING SYSTEMS MANAGEMENT",
@@ -291,7 +291,7 @@
   "course_number": "CROP 575",
   "credits": "3",
   "description": "Explores hemp and hops history, products, utilization, phytochemistry, organic and conventional production systems, including rotation, fertilization, weed and pest control, multiple utilization streams, harvesting, postharvest operations.",
-  "prerequisites": ["AGRI 520", "CROP 530", "HORT 521", "SOIL 525", "SOIL 530"]
+  "prerequisites": [["AGRI 520", "CROP 530", "HORT 521", "SOIL 525", "SOIL 530"]]
 }, {
   "corequisites": [],
   "course_name": "CASE STUDIES IN CROPPING SYSTEMS MANAGEMENT",

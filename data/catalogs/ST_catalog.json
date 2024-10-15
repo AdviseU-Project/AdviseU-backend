@@ -18,7 +18,7 @@
   "course_number": "ST 202",
   "credits": "4",
   "description": "Comparisons of means and proportions between two populations (t-tests, chi-square tests, nonparametric tests), simple linear regression, correlation.",
-  "prerequisites": ["ST 201", "ST 243Z"]
+  "prerequisites": [["ST 201", "ST 243Z"]]
 }, {
   "corequisites": [],
   "course_name": "ELEMENTARY STATISTICS I",
@@ -32,7 +32,7 @@
   "course_number": "ST 314",
   "credits": "3",
   "description": "Probability, common probability distributions, sampling distributions, estimation, hypothesis testing, control charts, regression analysis, experimental design.",
-  "prerequisites": ["MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO STATISTICAL METHODS",
@@ -53,7 +53,7 @@
   "course_number": "ST 352",
   "credits": "4",
   "description": "Randomization tests and other nonparametric tests for one- and two-sample inference, simple and multiple linear regression, correlation, one- and two-way analysis of variance, logistic regression. Lec/lab.",
-  "prerequisites": ["ST 351", "ST 351H"]
+  "prerequisites": [["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "READING AND CONFERENCE",
@@ -95,21 +95,21 @@
   "course_number": "ST 412",
   "credits": "4",
   "description": "Multiple linear regression, including model checking, dummy variables, using regression to fit analysis of variance models, analysis of covariance, variable selection methods.",
-  "prerequisites": ["ST 411"]
+  "prerequisites": [["ST 411"]]
 }, {
   "corequisites": [],
   "course_name": "METHODS OF DATA ANALYSIS",
   "course_number": "ST 413",
   "credits": "4",
   "description": "Principles of experimental design; randomized block and factorial designs; repeated measures; categorical data analysis, including comparison of proportions, tests of homogeneity and independence in cross-classified frequency tables, Mantel-Haenszel test, logistic regression, log-linear regression. Introduction to multivariate statistics.",
-  "prerequisites": ["ST 412"]
+  "prerequisites": [["ST 412"]]
 }, {
   "corequisites": [],
   "course_name": "DESIGN AND ANALYSIS OF PLANNED EXPERIMENTS",
   "course_number": "ST 415",
   "credits": "3",
   "description": "Principles of experimental design; uses, construction and analysis of completely randomized, randomized block and Latin square designs; covariates; factorial treatments, split plotting; random effects and variance components.",
-  "prerequisites": ["ST 352", "ST 411"]
+  "prerequisites": [["ST 352", "ST 411"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO MATHEMATICAL STATISTICS",
@@ -123,7 +123,7 @@
   "course_number": "ST 422",
   "credits": "4",
   "description": "Sampling distributions, Central Limit Theorem, estimation, confidence intervals, properties of estimators, and hypothesis testing.",
-  "prerequisites": ["ST 421"]
+  "prerequisites": [["ST 421"]]
 }, {
   "corequisites": [],
   "course_name": "SAMPLING METHODS",
@@ -144,21 +144,21 @@
   "course_number": "ST 439",
   "credits": "3",
   "description": "Discusses survey design, survey administration, and modes of survey data collection. Emphasizes development of the questionnaire including survey question structures, questionnaire flow, and question formulation. Designs survey using Qualtrics given a specific population. Discusses recommended timings of survey delivery and accompanying letters to recruit participants.",
-  "prerequisites": ["ST 201", "ST 243Z", "ST 351", "ST 351H"]
+  "prerequisites": [["ST 201", "ST 243Z", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "PROBABILITY",
   "course_number": "ST 441",
   "credits": "COMPUTING",
   "description": "Review of probability, including univariate distributions and limit theorems. Random-number generation and simulation of statistical distributions. Bootstrap estimates of standard error. Variance reduction techniques. Emphasis on the use of computation in statistics using the MATLAB programming language.",
-  "prerequisites": ["ST 422"]
+  "prerequisites": [["ST 422"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED STOCHASTIC MODELS",
   "course_number": "ST 443",
   "credits": "3",
   "description": "Development of stochastic models commonly arising in statistics and operations research, such as Poisson processes, birth-and-death processes, discrete-time and continuous-time Markov chains, renewal and Markov renewal processes. Analysis of stochastic models by simulation and other computational techniques.",
-  "prerequisites": ["ST 421"]
+  "prerequisites": [["ST 421"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -228,14 +228,14 @@
   "course_number": "ST 512",
   "credits": "4",
   "description": "Multiple linear regression, including model checking, dummy variables, using regression to fit analysis of variance models, analysis of covariance, variable selection methods.",
-  "prerequisites": ["ST 511"]
+  "prerequisites": [["ST 511"]]
 }, {
   "corequisites": [],
   "course_name": "METHODS OF DATA ANALYSIS",
   "course_number": "ST 513",
   "credits": "4",
   "description": "Principles of experimental design; randomized block and factorial designs; repeated measures; categorical data analysis, including comparison of proportions, tests of homogeneity and independence in cross-classified frequency tables, Mantel-Haenszel test, logistic regression, log-linear regression. Introduction to multivariate statistics.",
-  "prerequisites": ["ST 512"]
+  "prerequisites": [["ST 512"]]
 }, {
   "corequisites": [],
   "course_name": "DESIGN AND ANALYSIS OF PLANNED EXPERIMENTS",
@@ -256,14 +256,14 @@
   "course_number": "ST 517",
   "credits": "4",
   "description": "Methods for modeling quantitative data and statistical learning--simple and multiple linear regression; linear mixed effects models; data imputation; prediction and cross-validation; scaling up to large datasets. Simulations and data analysis using R. Offered via Ecampus only.",
-  "prerequisites": ["ST 516"]
+  "prerequisites": [["ST 516"]]
 }, {
   "corequisites": [],
   "course_name": "DATA ANALYTICS II",
   "course_number": "ST 518",
   "credits": "4",
   "description": "Statistical methods and data analysis techniques for count data. Topics include tests for tables of counts, logistic regression, log-linear regression, generalized linear mixed models, and issues for large datasets. Data analysis in R.",
-  "prerequisites": ["ST 517"]
+  "prerequisites": [["ST 517"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO MATHEMATICAL STATISTICS",
@@ -277,14 +277,14 @@
   "course_number": "ST 522",
   "credits": "4",
   "description": "Sampling distributions, Central Limit Theorem, estimation, confidence intervals, properties of estimators, and hypothesis testing.",
-  "prerequisites": ["ST 521"]
+  "prerequisites": [["ST 521"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED SURVIVAL ANALYSIS",
   "course_number": "ST 525",
   "credits": "3",
   "description": "Statistical methods for analyzing survival data or time-to-event data, which may be censored and/or truncated. Specific topics can vary term to term, and could include Kaplan-Meier estimator; K-sample hypothesis tests for survival data; Accelerated failure time model; Cox proportional hazard regression model.",
-  "prerequisites": ["ST 516", "ST 517", "ST 518"]
+  "prerequisites": [["ST 516"], ["ST 517"], ["ST 518"]]
 }, {
   "corequisites": [],
   "course_name": "SAMPLING METHODS",
@@ -305,14 +305,14 @@
   "course_number": "ST 537",
   "credits": "3",
   "description": "Perceptual principles for displaying data; critique and improvement of data visualizations; use of color in visualization; principles of tidy data; strategies for data exploration; select special topics.",
-  "prerequisites": ["ST 512", "ST 517", "ST 552"]
+  "prerequisites": [["ST 512", "ST 517", "ST 552"]]
 }, {
   "corequisites": [],
   "course_name": "MODERN STATISTICAL METHODS FOR LARGE AND COMPLEX DATA SETS",
   "course_number": "ST 538",
   "credits": "3",
   "description": "Provides students with the tools and experience to analyze big and messy data and work effectively in a data science team. Covers the tools to handle big data and answer statistical questions based on the data. Includes three big data analysis projects that students work on in groups. Focuses on proper use of modern data analysis techniques related to regression, classification and clustering for data coming from a variety of application fields. R will be the lingua franca.",
-  "prerequisites": ["ST 512", "ST 517", "ST 552", "ST 412"]
+  "prerequisites": [["ST 512", "ST 517", "ST 552", "ST 412"]]
 }, {
   "corequisites": [],
   "course_name": "SURVEY METHODS",
@@ -347,21 +347,21 @@
   "course_number": "ST 552",
   "credits": "4",
   "description": "Simple and multiple linear regression including polynomial regression, indicator variables, weighted regression, and influence statistics, nonlinear regression and linear models for binary data.",
-  "prerequisites": ["ST 551"]
+  "prerequisites": [["ST 551"]]
 }, {
   "corequisites": [],
   "course_name": "STATISTICAL METHODS",
   "course_number": "ST 553",
   "credits": "4",
   "description": "Principles and analysis of designed experiments, including factorial experiments, analysis of covariance, random and mixed effect models. Lec/lab.",
-  "prerequisites": ["ST 552"]
+  "prerequisites": [["ST 552"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED EXPERIMENTAL DESIGN",
   "course_number": "ST 555",
   "credits": "3",
   "description": "Designs leading to mixed models including split plots, repeated measures, crossovers and incomplete blocks. Introduction to experimental design in industry including confounding, fractional factorials and response surface methodology. Analysis of unbalanced data.",
-  "prerequisites": ["ST 553"]
+  "prerequisites": [["ST 553"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED MULTIVARIATE ANALYSIS",
@@ -375,7 +375,7 @@
   "course_number": "ST 558",
   "credits": "3",
   "description": "Basics of matrix algebra, principal components analysis, cluster analysis, factor analysis, multidimensional scaling.",
-  "prerequisites": ["ST 518"]
+  "prerequisites": [["ST 518"]]
 }, {
   "corequisites": [],
   "course_name": "BAYESIAN STATISTICS",
@@ -396,14 +396,14 @@
   "course_number": "ST 562",
   "credits": "4",
   "description": "Sufficiency, exponential families, location and scale families; point estimation: maximum likelihood, Bayes, and unbiased estimators; asymptotic distributions of maximum likelihood estimators; Taylor series approximations.",
-  "prerequisites": ["ST 561"]
+  "prerequisites": [["ST 561"]]
 }, {
   "corequisites": [],
   "course_name": "THEORY OF STATISTICS",
   "course_number": "ST 563",
   "credits": "4",
   "description": "Hypothesis testing: likelihood ratio, Bayesian, and uniformly most powerful tests; similar tests in exponential families; asymptotic distributions of likelihood ratio test statistics; confidence intervals.",
-  "prerequisites": ["ST 562"]
+  "prerequisites": [["ST 562"]]
 }, {
   "corequisites": [],
   "course_name": "TIME SERIES",
@@ -417,7 +417,7 @@
   "course_number": "ST 566",
   "credits": "3",
   "description": "Focuses on statistical and analytical tools for analyzing data that are observed sequentially over time. Specific topics can vary term to term, and could include methods for exploratory time series analysis, linear time series models (ARMA, ARIMA), forecasting, spectral analysis and state-space models. The focus will be on applied problems, though some mathematical statistics is necessary for a solid understanding of the statistical issues. This course is designed for students in Data Analytics MS and Certificate programs.",
-  "prerequisites": ["ST 516", "ST 517", "ST 518"]
+  "prerequisites": [["ST 516"], ["ST 517"], ["ST 518"]]
 }, {
   "corequisites": [],
   "course_name": "SPATIAL STATISTICS",
@@ -445,7 +445,7 @@
   "course_number": "ST 595",
   "credits": "3",
   "description": "Integrates and applies the analytics skills learned in the MS in Data Analytics program to solve real-world problems and interpret and communicate results. Engages student teams in the entire process of solving data science projects in realistic settings, from placing the problem into appropriate statistical framework to applying suitable analytic methods to the problem. Emphasizes problem solving, written and oral communication skills.",
-  "prerequisites": ["ST 516", "ST 517", "ST 518", "ST 558"]
+  "prerequisites": [["ST 516"], ["ST 517"], ["ST 518"], ["ST 558"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -480,14 +480,14 @@
   "course_number": "ST 623",
   "credits": "3",
   "description": "Maximum likelihood analysis for frequency data; regression-type models for binomial and Poisson data; iterative weighted least squares and maximum likelihood; analysis of deviance and residuals; over-dispersion and quasilikelihood models; log-linear models for multidimensional contingency tables.",
-  "prerequisites": ["ST 553", "ST 563"]
+  "prerequisites": [["ST 553"], ["ST 563"]]
 }, {
   "corequisites": [],
   "course_name": "SURVIVAL ANALYSIS",
   "course_number": "ST 625",
   "credits": "3",
   "description": "Prepares students to understand and analyze survival data. Concepts to be discussed include: hazard function (failure rate function); nonparametric likelihood; empirical processes; empirical distribution function; censoring (mostly right independent censoring); Kaplan-Meier estimator; Bias of the KM estimator; Cox proportional hazards model; Accelerated Failure Time Model; Partial Likelihood; log-rank test.",
-  "prerequisites": ["ST 553", "ST 563"]
+  "prerequisites": [["ST 553", "ST 563"]]
 }, {
   "corequisites": [],
   "course_name": "LINEAR MODEL THEORY",
@@ -501,7 +501,7 @@
   "course_number": "ST 652",
   "credits": "3",
   "description": "Explores advanced topics in linear and generalized linear mixed models: estimation, tests, confidence intervals, prediction, model diagnostics, model selection.",
-  "prerequisites": ["ST 651"]
+  "prerequisites": [["ST 651"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED THEORY OF STATISTICS",
@@ -515,12 +515,12 @@
   "course_number": "ST 662",
   "credits": "3",
   "description": "Uniformly most powerful, unbiased, similar, and invariant tests. Offered alternate years.",
-  "prerequisites": ["ST 661"]
+  "prerequisites": [["ST 661"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED THEORY OF STATISTICS",
   "course_number": "ST 663",
   "credits": "3",
   "description": "First-order and higher-order asymptotics; likelihood ratio, score, and Wald tests; Edgeworth and saddlepoint approximations. Offered alternate years.",
-  "prerequisites": ["ST 662"]
+  "prerequisites": [["ST 662"]]
 }]

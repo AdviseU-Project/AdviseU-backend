@@ -88,7 +88,7 @@
   "course_number": "FILM 310",
   "credits": "4",
   "description": "Survey of significant works and movements in film theory and criticism, from classical to contemporary eras. Begins with the question of what distinguishes film from other visual arts, pursuing questions about the ontology of film, medium specificity, and aesthetics. Proceeds with investigations concerning issues of technology, authorship, genre, the avant-garde, gender, race and ethnicity, commercialism, transnationalism, queer theory, and affect. Weekly screenings will supplement class readings, lectures and discussions.",
-  "prerequisites": ["FILM 110", "FILM 125"]
+  "prerequisites": [["FILM 110", "FILM 125"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

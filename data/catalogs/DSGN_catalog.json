@@ -32,7 +32,7 @@
   "course_number": "DSGN 226",
   "credits": "4",
   "description": "Introduces terminology, assembly process, quality factors, and costs in the development of sewn product specifications.",
-  "prerequisites": ["DSGN 121"]
+  "prerequisites": [["DSGN 121"]]
 }, {
   "corequisites": [],
   "course_name": "COLOR INNOVATION",
@@ -53,7 +53,7 @@
   "course_number": "DSGN 253",
   "credits": "3",
   "description": "Introduces career management process. Emphasizes ongoing, systematic nature of process. Topics include self-assessment, career exploration, preliminary employment strategies.",
-  "prerequisites": ["DSGN 121"]
+  "prerequisites": [["DSGN 121"]]
 }, {
   "corequisites": [],
   "course_name": "TEXTILES",
@@ -88,7 +88,7 @@
   "course_number": "DSGN 283",
   "credits": "1",
   "description": "Examines how a culture of effective dialogue fosters employee engagement.",
-  "prerequisites": ["BA 252", "BA 252H"]
+  "prerequisites": [["BA 252", "BA 252H"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF PERSONAL FINANCE I",
@@ -102,14 +102,14 @@
   "course_number": "DSGN 287",
   "credits": "4",
   "description": "Focuses on design communication. Develops skills to create 2D and 3D visualizations and presentations of interiors.",
-  "prerequisites": ["DSGN 101", "DSGN 121"]
+  "prerequisites": [["DSGN 101"], ["DSGN 121"]]
 }, {
   "corequisites": [],
   "course_name": "STUDIO II: RESIDENTIAL DESIGN",
   "course_number": "DSGN 288",
   "credits": "4",
   "description": "Emphasizes space planning principles in the design of residences. Explores rendering techniques, perspective drawing skills, graphic communication techniques, and model building skills.",
-  "prerequisites": ["DSGN 287"]
+  "prerequisites": [["DSGN 287"]]
 }, {
   "corequisites": [],
   "course_name": "FRAMING YOUR CAREER PLAN",
@@ -137,21 +137,21 @@
   "course_number": "DSGN 327",
   "credits": "4",
   "description": "Develop apparel using fundamental flat pattern methods. Analyze apparel construction related to equipment, cost, quality, end use and customer need.",
-  "prerequisites": ["DSGN 226"]
+  "prerequisites": [["DSGN 226"]]
 }, {
   "corequisites": [],
   "course_name": "APPAREL INDUSTRY COLLABORATION",
   "course_number": "DSGN 329",
   "credits": "3",
   "description": "Engages in industry lead team project that incorporates the use of advanced 2D and 3D applications.",
-  "prerequisites": ["DSGN 327"]
+  "prerequisites": [["DSGN 327"]]
 }, {
   "corequisites": [],
   "course_name": "^FASHION FORECASTING AND MARKET ANALYSIS",
   "course_number": "DSGN 330",
   "credits": "4",
   "description": "Forecasting and market analysis processes applied to fashion goods.",
-  "prerequisites": ["WR 227Z", "WR 227HZ", "WR 323", "WR 323H", "WR 327"]
+  "prerequisites": [["WR 222", "WR 222H", "WR 227Z", "WR 227H", "WR 323", "WR 323H", "WR 327", "WR 327H"]]
 }, {
   "corequisites": [],
   "course_name": "HISTORY OF CONTEMPORARY FASHION",
@@ -179,42 +179,42 @@
   "course_number": "DSGN 342",
   "credits": "4",
   "description": "Introduces the foundations and concepts of design strategy and creative development.",
-  "prerequisites": ["DSGN 341", "DSGN 341H"]
+  "prerequisites": [["DSGN 341", "DSGN 341H"]]
 }, {
   "corequisites": [],
   "course_name": "IDEA VISUALIZATION",
   "course_number": "DSGN 343",
   "credits": "4",
   "description": "Focuses on the design process through visual communication of ideation and sketching.",
-  "prerequisites": ["DSGN 342"]
+  "prerequisites": [["DSGN 342"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIFICATION AND EVALUATION OF PERFORMANCE MATERIALS",
   "course_number": "DSGN 356",
   "credits": "3",
   "description": "Specification of materials for athletic and outdoor apparel to enhance human comfort, safety, and performance.",
-  "prerequisites": ["DSGN 255"]
+  "prerequisites": [["DSGN 255"]]
 }, {
-  "corequisites": ["DSGN 356"],
+  "corequisites": [["DSGN 356"]],
   "course_name": "EVALUATION OF PERFORMANCE MATERIALS LABORATORY",
   "course_number": "DSGN 357",
   "credits": "1",
   "description": "Evaluation of materials for athletic and outdoor apparel to enhance human comfort, safety, and performance.",
-  "prerequisites": ["DSGN 255", "DSGN 327"]
+  "prerequisites": [["DSGN 255"], ["DSGN 327"]]
 }, {
   "corequisites": [],
   "course_name": "MERCHANDISE PLANNING AND CONTROL",
   "course_number": "DSGN 372",
   "credits": "4",
   "description": "Quantitative analysis of inventory planning, pricing, and control for the profitable management of soft goods; analysis of management problems using quantitative data and merchandising principles.",
-  "prerequisites": ["DSGN 276"]
+  "prerequisites": [["DSGN 276"]]
 }, {
   "corequisites": [],
   "course_name": "RETAIL AND MERCHANDISING ANALYTICS",
   "course_number": "DSGN 377",
   "credits": "4",
   "description": "Evaluates performance within the merchandising functions of an organization. Develops merchandising plans based on quantitative and qualitative analysis, as well merchandising principles.",
-  "prerequisites": ["DSGN 372"]
+  "prerequisites": [["DSGN 372"]]
 }, {
   "corequisites": [],
   "course_name": "BUILDING CONSTRUCTION AND MATERIALS",
@@ -228,21 +228,21 @@
   "course_number": "DSGN 387",
   "credits": "4",
   "description": "Development of presentation and Building Information Modeling (BIM) skills through various computer programs including Adobe Illustrator, Adobe PhotoShop, Sketchup, and Revit Architecture. In-class exercises and take-home assignments.",
-  "prerequisites": ["DSGN 287"]
+  "prerequisites": [["DSGN 287"]]
 }, {
   "corequisites": [],
   "course_name": "STUDIO IV: HOSPITALITY DESIGN",
   "course_number": "DSGN 388",
   "credits": "4",
   "description": "Study and design of hospitality spaces in compliance with building codes and industry standards, with emphasis on sustainability, safety, and cultural context.",
-  "prerequisites": ["DSGN 387"]
+  "prerequisites": [["DSGN 387"]]
 }, {
   "corequisites": [],
   "course_name": "STUDIO V: LIGHTING DESIGN",
   "course_number": "DSGN 394",
   "credits": "4",
   "description": "Lighting design and documentation for residential and small commercial projects. The commercial projects include space planning and lighting design for workspace and retail environments.",
-  "prerequisites": ["DSGN 388"]
+  "prerequisites": [["DSGN 388"]]
 }, {
   "corequisites": [],
   "course_name": "THESIS",
@@ -319,63 +319,63 @@
   "course_number": "DSGN 426",
   "credits": "3",
   "description": "Develop apparel using computer-aided flat pattern, grading and marker software. Develop virtual prototypes to aid in design and product development.",
-  "prerequisites": ["DSGN 329"]
+  "prerequisites": [["DSGN 329"]]
 }, {
   "corequisites": [],
   "course_name": "APPAREL DESIGN WITH DRAPING",
   "course_number": "DSGN 427",
   "credits": "4",
   "description": "Develop apparel from 3D form using draping methods. Advanced analysis of apparel construction related to equipment, cost quality, end use, and customer needs.",
-  "prerequisites": ["DSGN 329"]
+  "prerequisites": [["DSGN 329"]]
 }, {
   "corequisites": [],
   "course_name": "APPAREL GRADING",
   "course_number": "DSGN 428",
   "credits": "SIZING",
   "description": "Focuses on theory and development of sizing and grading systems used in apparel, and evaluation of garment fit by use of virtual and physical prototypes.",
-  "prerequisites": ["DSGN 426", "DSGN 427"]
+  "prerequisites": [["DSGN 426"], ["DSGN 427"]]
 }, {
   "corequisites": [],
   "course_name": "SENIOR APPAREL DESIGN STUDIO",
   "course_number": "DSGN 429",
   "credits": "4",
   "description": "Develops individual design projects with the purpose of creating an apparel collection and digital showcase.",
-  "prerequisites": ["DSGN 426", "DSGN 427"]
+  "prerequisites": [["DSGN 426"], ["DSGN 427"]]
 }, {
   "corequisites": [],
   "course_name": "DESIGN RESEARCH",
   "course_number": "DSGN 440",
   "credits": "4",
   "description": "Surveys design principles, methods and applications in business outcomes. Application of design research is investigated and analyzed in group projects.",
-  "prerequisites": ["DSGN 343"]
+  "prerequisites": [["DSGN 343"]]
 }, {
   "corequisites": [],
   "course_name": "SERVICE DESIGN INNOVATION",
   "course_number": "DSGN 441",
   "credits": "4",
   "description": "Focuses on the impact that service design has on business enterprises. Creative ideation, critical analysis, and innovative thinking are integrated as foundations for service design outcomes.",
-  "prerequisites": ["DSGN 440"]
+  "prerequisites": [["DSGN 440"]]
 }, {
   "corequisites": [],
   "course_name": "MATERIALITY AND MAKING FIELD PROJECT",
   "course_number": "DSGN 442",
   "credits": "4",
   "description": "Focuses on material properties and specifications. Students work in the makerspace to design product outcomes.",
-  "prerequisites": ["DSGN 440"]
+  "prerequisites": [["DSGN 440"]]
 }, {
   "corequisites": [],
   "course_name": "CONTEMPORARY HISTORY OF INTERIORS AND HOUSING",
   "course_number": "DSGN 464",
   "credits": "3",
   "description": "Covers history of interior design from the mid-19th century until the present. Integrates social, political, and physical influences affecting historical changes in design of the built environment.",
-  "prerequisites": ["DSGN 388", "ART 204", "ART 205", "ART 206"]
+  "prerequisites": [["DSGN 388"], ["ART 204", "ART 205", "ART 206"]]
 }, {
   "corequisites": [],
   "course_name": "RETAIL ENVIRONMENT STRATEGIES",
   "course_number": "DSGN 471",
   "credits": "4",
   "description": "Examines competitive presentation strategies within retail environments and channels (e.g., in-store, catalog, online, mobile) by integrating the principles and elements of design with sensory marketing.",
-  "prerequisites": ["DSGN 377", "BA 390", "BA 390H", "BA 223", "BA 223H"]
+  "prerequisites": [["DSGN 377"], ["BA 390", "BA 390H", "BA 223", "BA 223H"]]
 }, {
   "corequisites": [],
   "course_name": "*GLOBAL SOURCING OF TEXTILES",
@@ -389,12 +389,12 @@
   "course_number": "DSGN 488",
   "credits": "4",
   "description": "Interior design project development with emphasis on healthcare design, contract documents, and building codes.",
-  "prerequisites": ["DSGN 394"]
+  "prerequisites": [["DSGN 394"]]
 }, {
   "corequisites": [],
   "course_name": "STUDIO VII: SENIOR THESIS II",
   "course_number": "DSGN 495",
   "credits": "4",
   "description": "Individual design project development of programming document and construction drawings.",
-  "prerequisites": ["DSGN 488"]
+  "prerequisites": [["DSGN 488"]]
 }]

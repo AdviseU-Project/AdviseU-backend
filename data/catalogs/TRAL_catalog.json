@@ -13,14 +13,14 @@
   "description": "Students will learn fundamentals of canoeing in sheltered & moving water based on the internationally recognized British Canoe (BC) and American Canoe Association (ACA) teaching and skills certification systems. Emphasis is on activity and basic skills.",
   "prerequisites": []
 }, {
-  "corequisites": ["TRAL 118"],
+  "corequisites": [["TRAL 118"]],
   "course_name": "OUTDOOR LIVING SKILLS",
   "course_number": "TRAL 115",
   "credits": "2",
   "description": "Educates and introduces students on how to travel safely in the backcountry through proper preparation, risk awareness, Leave No Trace ethics, terrain recognition, navigation, and camp craft. Classroom and field (lab) experience. Includes one mandatory weekend overnight outing. CROSSLISTED as PAC 115/TRAL 115.",
   "prerequisites": []
 }, {
-  "corequisites": ["TRAL 115"],
+  "corequisites": [["TRAL 115"]],
   "course_name": "LABORATORY FOR OUTDOOR LIVING SKILLS",
   "course_number": "TRAL 118",
   "credits": "1",
@@ -53,7 +53,7 @@
   "course_number": "TRAL 218",
   "credits": "2",
   "description": "Affirms Intermediate Rock foundational skills such as proper equipment, knots, belay & lead climbing techniques, movement, rappelling, and basic climbing anchor systems based on internationally recognized teaching and skills certification systems. Focuses on building upon those foundational skills by covering more complex anchor systems, belay techniques, vertical rescues, releasable rappels and movement through various rock specific terrains.",
-  "prerequisites": ["TRAL 173", "PAC 173"]
+  "prerequisites": [["TRAL 173", "PAC 173"]]
 }, {
   "corequisites": [],
   "course_name": "WILDERNESS FIRST RESPONDER",
@@ -81,7 +81,7 @@
   "course_number": "TRAL 260",
   "credits": "2",
   "description": "Learn how to successfully paddle as a competent group member within moving water & whitewater environments up to class III. This course will emphasize that the student has a holistic approach to river running, can be an effective group member during river rescues, can contribute to the safety, group skills and leadership of a river descent and showcase the knowledge required of an intermediate whitewater paddler based on internationally recognized British Canoe (BC) and American Canoe Association (ACA) teaching and skills certification systems. Uses a variety of diverse whitewater specific kayaks and canoes.",
-  "prerequisites": ["TRAL 110", "PAC 110", "TRAL 111", "PAC 111"]
+  "prerequisites": [["TRAL 110", "PAC 110"], ["TRAL 111", "PAC 111"]]
 }, {
   "corequisites": [],
   "course_name": "PRE-INTERNSHIP SEMINAR",
@@ -95,7 +95,7 @@
   "course_number": "TRAL 280",
   "credits": "3",
   "description": "A week-long outdoor expedition focusing on water-based and land-based skills while developing a comprehensive understanding of expedition behavior. Students will meet in the classroom to prepare for the week-long field expedition covering various topics such as risk management, expedition planning, navigation, water safety and other topics. The expedition will expose students to extended travel in the backcountry while further developing technical and interpersonal skills.",
-  "prerequisites": ["TRAL 110", "PAC 110", "TRAL 111", "PAC 111", "TRAL 115", "TRAL 118", "TRAL 173"]
+  "prerequisites": [["TRAL 110", "PAC 110"], ["TRAL 111", "PAC 111"], ["TRAL 115"], ["TRAL 118"], ["TRAL 173"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -109,7 +109,7 @@
   "course_number": "TRAL 301",
   "credits": "2",
   "description": "Focuses on fundamentals of white water kayaking based on the internationally recognized American Canoe Association (ACA). Emphasizes safety, enjoyment and skill acquisition for entry-level through intermediate individuals.",
-  "prerequisites": ["TRAL 110", "TRAL 260"]
+  "prerequisites": [["TRAL 110"], ["TRAL 260"]]
 }, {
   "corequisites": [],
   "course_name": "ACA LEVEL 2-4 RAFTING INSTRUCTOR",
@@ -130,7 +130,7 @@
   "course_number": "TRAL 304",
   "credits": "2",
   "description": "Focuses on fundamentals of canoeing based on the internationally recognized American Canoe Association (ACA). Emphasizes safety, enjoyment and skill acquisition for entry-level through intermediate individuals.",
-  "prerequisites": ["TRAL 111", "TRAL 260"]
+  "prerequisites": [["TRAL 111"], ["TRAL 260"]]
 }, {
   "corequisites": [],
   "course_name": "ACA LEVEL 2-4 SWIFT WATER RESCUE",
@@ -144,7 +144,7 @@
   "course_number": "TRAL 306",
   "credits": "2",
   "description": "Focuses on fundamentals of single pitch climbing based on the internationally recognized American Mountain Guides Association (AMGA). Emphasizes safety, enjoyment and skill acquisition.",
-  "prerequisites": ["TRAL 173", "PAC 173", "TRAL 218"]
+  "prerequisites": [["TRAL 173", "PAC 173"], ["TRAL 218"]]
 }, {
   "corequisites": [],
   "course_name": "PMBIA LEVEL 1 MOUNTAIN BIKE INSTRUCTOR",
@@ -172,14 +172,14 @@
   "course_number": "TRAL 311",
   "credits": "2",
   "description": "Focuses on the essentials of traditional and multi-pitch rock climbing. Emphasizes safety, enjoyment and skill acquisition.",
-  "prerequisites": ["TRAL 173", "PAC 173", "TRAL 218"]
+  "prerequisites": [["TRAL 173", "PAC 173"], ["TRAL 218"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR RECREATION MANAGEMENT ON PUBLIC LANDS",
   "course_number": "TRAL 351",
   "credits": "3",
   "description": "Explores current issues and problems in outdoor recreation management on public lands and approaches to address these. Emphasis on day-to-day, field-based management of recreation resources, rather than broad-scale planning.",
-  "prerequisites": ["TRAL 251"]
+  "prerequisites": [["TRAL 251", "FES 251"]]
 }, {
   "corequisites": [],
   "course_name": "NATURE",
@@ -207,14 +207,14 @@
   "course_number": "TRAL 370",
   "credits": "4",
   "description": "Introduction to pedagogical, administrative, and organizational knowledge, skills, and dispositions for effective design and management of effective short and extended duration outdoor experiences in wilderness-like areas. Covers personnel logistics, site planning, itinerary planning, educational and skills progression, communication with volunteers and program contacts, budgets.",
-  "prerequisites": ["TRAL 280"]
+  "prerequisites": [["TRAL 280", "TOL 375"]]
 }, {
   "corequisites": [],
   "course_name": "OUTDOOR ADVENTURE EDUCATION",
   "course_number": "TRAL 374",
   "credits": "3",
   "description": "Rationale for and methods used in the application of outdoor adventure education programs in education, recreation, corporate and human service settings. Historical and contemporary philosophies and practices in outdoor adventure education. Explores the educational, social, and ethical consequences of outdoor adventure education programs. Examines outdoor adventure education in the context of the United States and differing paradigms informing the practice in other cultures internationally. Presents current research in outdoor adventure education.",
-  "prerequisites": ["TRAL 132", "TRAL 215"]
+  "prerequisites": [["TRAL 130"], ["TRAL 132"], ["TRAL 215"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIENTIAL EDUCATION",
@@ -223,19 +223,19 @@
   "description": "Theory, techniques, and practice of experiential education. Students will define learning objectives, design curriculum, develop teaching materials, and effectively teach a variety of audiences.",
   "prerequisites": []
 }, {
-  "corequisites": ["TRAL 379"],
+  "corequisites": [["TRAL 379"]],
   "course_name": "RIVER EXPEDITION",
   "course_number": "TRAL 377",
   "credits": "5",
   "description": "Develops the knowledge, skills, and dispositions needed to safely and effectively lead, and participate in, an extended water based expedition of one week or longer. Emphasizes technical skill in whitewater kayaks and/or rafts and/or canoes with an additional focus on swift water rescue skills.",
-  "prerequisites": ["TRAL 370", "TRAL 260"]
+  "prerequisites": [["TRAL 370"], ["TRAL 260"]]
 }, {
-  "corequisites": ["TRAL 377"],
+  "corequisites": [["TRAL 377"]],
   "course_name": "MOUNTAIN EXPEDITION",
   "course_number": "TRAL 379",
   "credits": "10",
   "description": "Develops the knowledge, skills, and dispositions needed to safely and effectively lead and participate in an extended backcountry mountain expedition. Emphasizes spring mountaineering skills and group leadership in a backcountry context.",
-  "prerequisites": ["TRAL 370"]
+  "prerequisites": [["TRAL 370"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -284,14 +284,14 @@
   "course_number": "TRAL 456",
   "credits": "4",
   "description": "Concepts related to the creation and design of outdoor recreation plans. Techniques for collecting data pertaining to visitor experiences and preferences. Recreation planning at several levels, both for public and private lands, with emphasis on larger scale site planning where recreation is integrated with other resource uses.",
-  "prerequisites": ["TRAL 251"]
+  "prerequisites": [["TRAL 251", "FES 251"]]
 }, {
   "corequisites": [],
   "course_name": "PLANNING FOR SUSTAINABLE TOURISM",
   "course_number": "TRAL 457",
   "credits": "4",
   "description": "Examines relationships among tourists, tourism developments, and the planning of tourist attractions and services. Focuses on planning tourist resources and programs within a geographic region, as well as at both the destination and site levels. Planning tools and design concepts are reviewed, analyzed, and applied.",
-  "prerequisites": ["TRAL 251"]
+  "prerequisites": [["TRAL 251", "FES 251"]]
 }, {
   "corequisites": [],
   "course_name": "RISK MANAGEMENT IN TOURISM",

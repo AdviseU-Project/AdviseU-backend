@@ -81,14 +81,14 @@
   "course_number": "ANS 302",
   "credits": "4",
   "description": "An introduction to common diseases of selected companion animals. Emphasis will be placed on identifying predisposing factors, clinical signs, common diagnostic procedures and potential implications for human health.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "CH 121", "CH 122", "CH 123"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"], ["CH 121"], ["CH 122"], ["CH 123"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF ANIMAL NUTRITION",
   "course_number": "ANS 311",
   "credits": "3",
   "description": "Classification, digestion, absorption, and metabolism of nutrients in animals; consequences of nutritional deficiencies and toxicities.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED ANIMAL NUTRITION: FEEDS AND RATION FORMULATION",
@@ -116,28 +116,28 @@
   "course_number": "ANS 316",
   "credits": "4",
   "description": "Anatomy and physiology of mammalian and avian reproductive systems; fertilization, embryonic and fetal development, placentation and parturition; reproductive technologies.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "CH 121", "CH 231", "CH 231H"]
+  "prerequisites": [["BI 211", "BI 211H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"], ["CH 121", "CH 221", "CH 231", "CH 231H"]]
 }, {
   "corequisites": [],
   "course_name": "REPRODUCTION IN DOMESTIC ANIMALS LABORATORY",
   "course_number": "ANS 317",
   "credits": "1",
   "description": "Gross and microscopic anatomy of the reproductive tract; semen collection, evaluation and extension; evaluation of fertilization, embryo and fetal development and placentation.",
-  "prerequisites": ["ANS 316"]
+  "prerequisites": [["ANS 316"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF COMPANION ANIMAL NUTRITION",
   "course_number": "ANS 320",
   "credits": "3",
   "description": "Learn about nutrients, the digestive process, and the application of nutritional sciences to the health and welfare of companion animals. Introduction to the metabolic basis and practical preventative management for nutritional diseases in companion animals.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "EQUINE STABLE MANAGEMENT",
   "course_number": "ANS 333",
   "credits": "3",
   "description": "Discusses developing a business plan, financial statements, and ratios, budgeting, financial planning, taxation, and employment issues within the current equine industry.",
-  "prerequisites": ["ANS 220"]
+  "prerequisites": [["ANS 220"]]
 }, {
   "corequisites": [],
   "course_name": "EQUINE HEALTH AND DISEASE",
@@ -151,7 +151,7 @@
   "course_number": "ANS 341",
   "credits": "3",
   "description": "Survey, discuss, and explore principles of animal behavior and cognition from a comparative perspective, taking into account the interacting influences of biology, environment, and life experience on the individual and group behavior of animals across species. Aspects of animal cognition, including reasoning, perception, memory and personality, that play an important role in animal behavior will also be addressed.",
-  "prerequisites": ["BI 102", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 102", "BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED PRINCIPLES OF ANIMAL FOODS TECHNOLOGY",
@@ -165,28 +165,28 @@
   "course_number": "ANS 378",
   "credits": "4",
   "description": "Fundamentals of inheritance, principles of genetic segregation, population and quantitative genetics, response to natural selection and artificial manipulation of populations.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF ANIMAL ANATOMY AND PHYSIOLOGY",
   "course_number": "ANS 380",
   "credits": "3",
   "description": "An introductory course in animal anatomy to provide a foundation for advanced courses in the Animal Science curriculum. Emphasis is on acquisition of a basic knowledge of minute and gross anatomical structures, their operation, and integration. Begins with anatomical nomenclature such as body planes and directional terms then covers the following tissues and organ systems: epithelium, connective tissue, blood and bone marrow, bone/cartilage, muscle tissue, nervous tissue, digestive system, circulatory system, reproductive system, urinary system, and respiratory system.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF MAMMALIAN HISTOLOGY",
   "course_number": "ANS 385",
   "credits": "4",
   "description": "Provides a basic knowledge of mammalian microscopic anatomy. Emphasizes the appearance, organization and function of minute anatomical structures that can only be observed with the help of a visual enhancer, such as a microscope. Topics include basic histological techniques and histology and related functions of the following tissues and organ systems: epithelium, connective tissue, bone/cartilage, blood, muscle tissue, nervous tissue, circulatory system, digestive system, reproductive system, urinary system, respiratory system, immune system, integument, eye and ear. Covers gametogenesis, fertilization, and early development of the vertebrate embryo.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BB 314", "BB 314H", "ANS 380"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"], ["BB 314", "BB 314H"], ["ANS 380"]]
 }, {
   "corequisites": [],
   "course_name": "GROSS ANATOMY OF DOMESTIC ANIMALS",
   "course_number": "ANS 390",
   "credits": "4",
   "description": "Provides a foundation for advanced courses in animal science. Emphasizes mammalian anatomy, including anatomical nomenclature, structure, operation, and integration of major organ systems. Uses the dog as a general model while some comparative domestic animal anatomy will also be covered.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "ANS 380"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"], ["ANS 380"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -242,7 +242,7 @@
   "course_number": "ANS 427",
   "credits": "5",
   "description": "Principles, techniques and recent development in semen collection, evaluation, extension and preservation; artificial insemination, estrus detection and synchronization; pregnancy diagnosis and embryo transfer.",
-  "prerequisites": ["ANS 316", "ANS 317"]
+  "prerequisites": [["ANS 316"], ["ANS 317"]]
 }, {
   "corequisites": [],
   "course_name": "EQUINE SYSTEMS I: EXERCISE SCIENCE",
@@ -263,7 +263,7 @@
   "course_number": "ANS 432",
   "credits": "4",
   "description": "Senior and graduate students explore the fundamentals of equine reproduction and their application in horse breeding. Includes practical training of laboratory techniques.",
-  "prerequisites": ["ANS 220", "ANS 316"]
+  "prerequisites": [["ANS 220"], ["ANS 316"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED ANIMAL BEHAVIOR",
@@ -291,14 +291,14 @@
   "course_number": "ANS 440",
   "credits": "3",
   "description": "Focuses on knowledge and techniques for diagnosis of common diseases, preventative management, and therapeutic care necessary for a dairy herdsman position. Emphasizes hands-on instruction in basic calf, heifer, lactating and dry cow care. Discusses and practices essential management techniques including those relating to cattle handling, reproduction, hoof health, calf care as well as instruction in understanding and utilizing cow monitoring systems and records.",
-  "prerequisites": ["ANS 439"]
+  "prerequisites": [["ANS 439"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS IN ANIMAL LEARNING",
   "course_number": "ANS 441",
   "credits": "3",
   "description": "Explore when and how the behavior of animals can be shaped by the environment, individual experiences, and interactions with other animals (including humans).",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "BEEF PRODUCTION SYSTEMS",
@@ -312,7 +312,7 @@
   "course_number": "ANS 446",
   "credits": "4",
   "description": "Equips non-animal science majors with basic ruminant livestock (beef cattle, sheep and meat goat) production knowledge, so they may communicate and collaborate effectively with livestock producers.",
-  "prerequisites": ["ANS 121", "ANS 121H"]
+  "prerequisites": [["ANS 121", "ANS 121H"]]
 }, {
   "corequisites": [],
   "course_name": "LIVESTOCK PRODUCTION ON PASTURE",
@@ -333,7 +333,7 @@
   "course_number": "ANS 456",
   "credits": "3",
   "description": "Fundamentals of dog and cat breeding stock selection, feeding and housing as well as biology and management from estrus through parturition to weaning. Due to the nature of this class, a variety of animals may be present during class session. Questions and interactions are encouraged but, while precautions are taken, any contact with animals carries some risk of injury or illness.",
-  "prerequisites": ["ANS 313", "ANS 316", "ANS 317", "ANS 378"]
+  "prerequisites": [["ANS 313"], ["ANS 316"], ["ANS 317"], ["ANS 378"]]
 }, {
   "corequisites": [],
   "course_name": "SWINE PRODUCTION SYSTEMS",
@@ -557,7 +557,7 @@
   "course_number": "ANS 662",
   "credits": "3",
   "description": "Mechanisms of action of peptide and steroid hormones and related compounds at the cellular level.",
-  "prerequisites": ["BB 551", "BB 592"]
+  "prerequisites": [["BB 551", "BB 592"]]
 }, {
   "corequisites": [],
   "course_name": "BIOLOGY OF MAMMALIAN REPRODUCTION",

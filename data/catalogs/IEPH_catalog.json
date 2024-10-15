@@ -4,7 +4,7 @@
   "course_number": "IEPH 021NC",
   "credits": "9",
   "description": "Development of listening and speaking skills beyond the basic level. Primary focus is to practice and expand listening and conversational skills. Students participate in discussions, conduct interviews and make short oral reports using everyday English vocabulary.",
-  "prerequisites": []
+  "prerequisites": [["IEPG 011N"], ["IEPH 011N", "IEPG 021N"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

@@ -39,14 +39,14 @@
   "course_number": "ENGR 103",
   "credits": "3",
   "description": "Explores fundamental computational concepts and practices with algorithmic thinking. Focuses on problem solving skills, algorithm design, debugging, and writing programs using universal design principles. Articulates limitations in these solutions related to social or structural inequities such as: racial, cultural, gender, socioeconomic and accessibility. Explores computation through an application to specific topics.",
-  "prerequisites": ["ENGR 102", "ENGR 102H", "MTH 112", "MTH 112Z"]
+  "prerequisites": [["ENGR 102", "ENGR 102H"], ["MTH 112", "MTH 112Z"]]
 }, {
   "corequisites": [],
   "course_name": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
   "course_number": "ENGR 103H",
   "credits": "3",
   "description": "Explores fundamental computational concepts and practices with algorithmic thinking. Focuses on problem solving skills, algorithm design, debugging, and writing programs using universal design principles. Articulates limitations in these solutions related to social or structural inequities such as: racial, cultural, gender, socioeconomic and accessibility. Explores computation through an application to specific topics.",
-  "prerequisites": ["ENGR 102", "ENGR 102H", "MTH 112", "MTH 112Z"]
+  "prerequisites": [["ENGR 102", "ENGR 102H"], ["MTH 112", "MTH 112Z"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -60,70 +60,70 @@
   "course_number": "ENGR 201",
   "credits": "3",
   "description": "Analysis of linear circuits. Circuit laws and theorems. DC responses of circuits. Operational amplifier characteristics and applications. Lec/lab.",
-  "prerequisites": ["MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 251", "MTH 251H"], ["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRICAL FUNDAMENTALS I",
   "course_number": "ENGR 201H",
   "credits": "3",
   "description": "Analysis of linear circuits. Circuit laws and theorems. DC responses of circuits. Operational amplifier characteristics and applications. Lec/lab.",
-  "prerequisites": ["MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 251", "MTH 251H"], ["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRICAL FUNDAMENTALS II",
   "course_number": "ENGR 202",
   "credits": "3",
   "description": "Sinusoidal steady-state analysis and phasors. Application of circuit analysis to solve single-phase and three-phase circuits including power, mutual inductance, transformers and passive filters. Lec/lab.",
-  "prerequisites": ["ENGR 201", "ENGR 201H"]
+  "prerequisites": [["ENGR 201", "ENGR 201H"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRICAL FUNDAMENTALS III",
   "course_number": "ENGR 203",
   "credits": "3",
   "description": "Laplace transforms, Fourier series, Bode plots, and their application to circuit analysis.",
-  "prerequisites": ["ENGR 201", "ENGR 201H", "ENGR 202", "MTH 256", "MTH 256H"]
+  "prerequisites": [["ENGR 201", "ENGR 201H"], ["ENGR 202", "ENGR 202H"], ["MTH 256", "MTH 256H"]]
 }, {
   "corequisites": [],
   "course_name": "STATICS",
   "course_number": "ENGR 211",
   "credits": "3",
   "description": "Analysis of forces induced in structures and machines by various types of loading.",
-  "prerequisites": ["MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "STATICS",
   "course_number": "ENGR 211H",
   "credits": "3",
   "description": "Analysis of forces induced in structures and machines by various types of loading.",
-  "prerequisites": ["MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "DYNAMICS",
   "course_number": "ENGR 212",
   "credits": "3",
   "description": "Kinematics, Newton's laws of motion, and work-energy and impulse-momentum relationships applied to engineering systems.",
-  "prerequisites": ["ENGR 211", "ENGR 211H", "PH 211", "PH 211H"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"], ["PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "DYNAMICS",
   "course_number": "ENGR 212H",
   "credits": "3",
   "description": "Kinematics, Newton's laws of motion, and work-energy and impulse-momentum relationships applied to engineering systems.",
-  "prerequisites": ["ENGR 211", "ENGR 211H", "PH 211", "PH 211H"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"], ["PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "STRENGTH OF MATERIALS",
   "course_number": "ENGR 213",
   "credits": "3",
   "description": "Properties of structural materials; analysis of stress and deformation in axially loaded members, circular shafts, and beams, and in statically indeterminate systems containing these components.",
-  "prerequisites": ["ENGR 211", "ENGR 211H"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"]]
 }, {
   "corequisites": [],
   "course_name": "STRENGTH OF MATERIALS",
   "course_number": "ENGR 213H",
   "credits": "3",
   "description": "Properties of structural materials; analysis of stress and deformation in axially loaded members, circular shafts, and beams, and in statically indeterminate systems containing these components.",
-  "prerequisites": ["ENGR 211", "ENGR 211H"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"]]
 }, {
   "corequisites": [],
   "course_name": "ENGINEERING GRAPHICS AND 3-D MODELING",
@@ -214,7 +214,7 @@
   "course_number": "ENGR 416",
   "credits": "4",
   "description": "Utilizes engineering methodologies in a team environment to develop real-world solutions to an engineering problem. Teams will be responsible for all phases of system development, including project planning, requirements analysis, design, testing, configuration management, quality assurance, documentation, and delivery. Second course/term of a two term design project.",
-  "prerequisites": ["ENGR 415"]
+  "prerequisites": [["ENGR 415"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -249,7 +249,7 @@
   "course_number": "ENGR 521",
   "credits": "1",
   "description": "Demonstrate how graduate learning outcomes have been met. Formulate clear and reasonable professional goals and articulate how the program has helped prepare for achievement of those goals. Create a final portfolio document summarizing core knowledge and its integration with other fields.",
-  "prerequisites": ["ENGR 520"]
+  "prerequisites": [["ENGR 520"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED IMAGING AND IMAGE PROCESSING",

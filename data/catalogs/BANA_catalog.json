@@ -25,14 +25,14 @@
   "course_number": "BANA 371",
   "credits": "3",
   "description": "Familiarize students with the major activities involved in collecting and managing data for a data analytics project, including extracting information from relational databases, mapping organizational requirements into a data design, transforming data into information, and exploring basic concepts underlying No Structured Query Language (NoSQL) data management and analysis methods.",
-  "prerequisites": ["BANA 270", "BANA 370"]
+  "prerequisites": [["BANA 270", "BANA 370"]]
 }, {
   "corequisites": [],
   "course_name": "DATA EXPLORATION AND VISUALIZATION",
   "course_number": "BANA 372",
   "credits": "3",
   "description": "Explores and visualizes data in business analytics projects. Focuses on exploring and wrangling data to discover interesting analysis questions and prepare for other analytics activities. Pays special attention to data visualization methods and their overall place in data science and business analytics.",
-  "prerequisites": ["BANA 270", "BANA 370"]
+  "prerequisites": [["BANA 270", "BANA 370"]]
 }, {
   "corequisites": [],
   "course_name": "INTERNSHIP",
@@ -46,14 +46,14 @@
   "course_number": "BANA 450",
   "credits": "2",
   "description": "Introduces the applications of data analytics across all functional areas of sport business, including marketing, event management, human resource management, finance, facility operation, legal services, etc. Explains how data can be applied to improve the decision outcomes and operation performance in talent identification, team performance management, ticket sales, and risk management.",
-  "prerequisites": ["BA 350"]
+  "prerequisites": [["BA 350"]]
 }, {
   "corequisites": [],
   "course_name": "MACHINE LEARNING AND TEXT MINING FOR BUSINESS",
   "course_number": "BANA 472",
   "credits": "3",
   "description": "Examines how machine learning (ML) and natural language processing (NLP) technologies can be used to improve decision-making. Covers the fundamental principles and techniques of ML, NLP, and uses real-world examples and cases to place ML and NLP techniques in context. Provides hands-on experience with ML and NLP software.",
-  "prerequisites": ["BANA 371", "BANA 372"]
+  "prerequisites": [["BANA 371", "BANA 470", "BA 474"], ["BANA 372", "BANA 471", "BA 475"]]
 }, {
   "corequisites": [],
   "course_name": "DATA ANALYTICS FOR COMPETITIVE ADVANTAGE",
@@ -67,26 +67,26 @@
   "course_number": "BANA 570",
   "credits": "3",
   "description": "Familiarize students with the major activities involved in collecting and managing data for a data analytics project, including extracting information from relational databases, mapping organizational requirements into a data design, transforming data into information, and exploring basic concepts underlying noSQL data management and analysis methods.",
-  "prerequisites": ["BANA 560"]
+  "prerequisites": [["BA 573", "BANA 560"]]
 }, {
   "corequisites": [],
   "course_name": "DATA EXPLORATION AND VISUALIZATION",
   "course_number": "BANA 571",
   "credits": "3",
   "description": "Explores and visualizes data in business analytics projects. Focuses on exploring and wrangling data to discover interesting analysis questions and prepare for other analytics activities. Pays special attention to data visualization methods and their overall place in data science and business analytics.",
-  "prerequisites": ["BANA 560"]
+  "prerequisites": [["BA 573", "BANA 560"]]
 }, {
   "corequisites": [],
   "course_name": "MACHINE LEARNING AND TEXT MINING FOR BUSINESS",
   "course_number": "BANA 572",
   "credits": "3",
   "description": "Examines how machine learning (ML) and natural language processing (NLP) technologies can be used to improve decision-making. Covers the fundamental principles and techniques of ML, NLP, and uses real-world examples and cases to place ML and NLP techniques in context. Provides hands-on experience with ML and NLP software.",
-  "prerequisites": ["BANA 570", "BANA 571"]
+  "prerequisites": [["BA 574", "BANA 570"], ["BA 575", "BANA 571"]]
 }, {
   "corequisites": [],
   "course_name": "INTEGRATED BUSINESS ANALYTICS PROJECT",
   "course_number": "BANA 577",
   "credits": "3",
   "description": "Integrates what students have learned to solve industry-sponsored problems. Provides opportunities to design, implement, and evaluate analytic solutions for a real-world enterprise. Student teams examine the data requirements, technical requirements, and organizational requirements necessary for the success of analytical solutions. Gives students the experience of leading and managing an analytical team, much as a Chief Analytics Officer (CAO) would be expected to do.",
-  "prerequisites": ["BA 555", "BANA 570", "BANA 571"]
+  "prerequisites": [["BA 555"], ["BA 574", "BANA 570"], ["BA 575", "BANA 571"]]
 }]

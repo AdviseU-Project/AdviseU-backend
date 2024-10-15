@@ -179,14 +179,14 @@
   "course_number": "SED 576",
   "credits": "4",
   "description": "Continues to develop pedagogical content knowledge, skills, and dispositions for teaching diverse youth in grades 6-12 mathematics. Shifts from applying and synthesizing ideas in SED 574 to evaluating and justifying critical teaching and learning goals in SED 576. Interrogates how mathematics instruction has perpetuated educational injustices through course core readings. Continues to support creating and enacting ways that schooling and instruction can disrupt inequality using research-practice multi-media.",
-  "prerequisites": ["SED 574"]
+  "prerequisites": [["SED 574"]]
 }, {
   "corequisites": [],
   "course_name": "SCIENCE PEDAGOGY AND TECHNOLOGY II",
   "course_number": "SED 577",
   "credits": "4",
   "description": "Develops pedagogical content knowledge for supporting grades 6-12 science instruction. Explores equitable and ambitious science teaching, learning theory, nature of science, and technology integration.",
-  "prerequisites": ["SED 573"]
+  "prerequisites": [["SED 573"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS IN SCIENCE EDUCATION",
@@ -242,14 +242,14 @@
   "course_number": "SED 611",
   "credits": "3",
   "description": "Critical analysis of perspectives of research in science/math education with a focus on teaching as the unit of analysis.",
-  "prerequisites": ["ED 620"]
+  "prerequisites": [["SED 580", "ED 620"]]
 }, {
   "corequisites": [],
   "course_name": "LEARNING THEORY",
   "course_number": "SED 613",
   "credits": "3",
   "description": "Provides a critical overview and analysis of current theories of learning and development, beginning with a discussion about what learning is, how it has been viewed and studied over time, and how seminal theories inform an understanding of lifelong learning and its facilitation.",
-  "prerequisites": ["ED 620"]
+  "prerequisites": [["SED 580", "ED 620"]]
 }, {
   "corequisites": [],
   "course_name": "PRACTICUM IN MATHEMATICS/SCIENCE IN COLLEGE TEACHING",
@@ -263,14 +263,14 @@
   "course_number": "SED 621",
   "credits": "3",
   "description": "Critical analysis of perspectives on student thinking and learning in science/math education.",
-  "prerequisites": ["ED 620"]
+  "prerequisites": [["SED 580", "ED 620"]]
 }, {
   "corequisites": [],
   "course_name": "CURRICULUM THEORY",
   "course_number": "SED 623",
   "credits": "3",
   "description": "Establishes theoretical grounding of curriculum. Includes theoretical background, practical knowledge, and skills related to science and mathematics curriculum, including the history, curriculum theory and practice.",
-  "prerequisites": ["ED 620"]
+  "prerequisites": [["SED 580", "ED 620"]]
 }, {
   "corequisites": [],
   "course_name": "CRITICAL PEDAGOGY",

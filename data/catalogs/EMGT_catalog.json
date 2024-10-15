@@ -74,7 +74,7 @@
   "course_number": "EMGT 587",
   "credits": "4",
   "description": "An introduction to the management of information systems and their strategic importance in business. Topics covered include global e-business and collaboration, databases and information management, basics of telecommunications and wireless technology, security vulnerabilities of information systems, basics of business intelligence and business analytics, knowledge management and enhanced decision making.",
-  "prerequisites": ["EMGT 572"]
+  "prerequisites": [["EMGT 572", "IE 582"]]
 }, {
   "corequisites": [],
   "course_name": "MANAGEMENT OF NEW PRODUCT DEVELOPMENT",
@@ -95,12 +95,12 @@
   "course_number": "EMGT 591",
   "credits": "4",
   "description": "Provides a first review of basic probability and statistical inference concepts and methods relevant for engineering managers. Presents frequently utilized statistical methods in industry, including process control, regression analysis, and experimental design. Covers the fundamental ideas of each method, and presents simple examples to provide engineering managers with the background needed to initiate and manage applications of these methods in industry. Ends with an overview of process optimization, and robust parameter design.",
-  "prerequisites": ["EMGT 572"]
+  "prerequisites": [["EMGT 572", "IE 582"]]
 }, {
   "corequisites": [],
   "course_name": "ENGINEERING MANAGEMENT CAPSTONE",
   "course_number": "EMGT 595",
   "credits": "3",
   "description": "Identifies critical problems and applies appropriate solutions to a real-world or simulated situation. Integrates project management skills, basic management knowledge, and engineering economic analysis. Emphasizes problem-solving, critical thinking, innovative application of curriculum knowledge, ethical considerations, and written and oral communication skills.",
-  "prerequisites": ["IE 571", "EMGT 572", "EMGT 573"]
+  "prerequisites": [["IE 571"], ["EMGT 572", "IE 582"], ["EMGT 573", "IE 583"]]
 }]

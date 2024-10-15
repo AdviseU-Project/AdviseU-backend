@@ -46,7 +46,7 @@
   "course_number": "BOT 313",
   "credits": "4",
   "description": "The structural components of vascular plants and how plant structure relates to function, development, environment, evolution, and human use of plants.",
-  "prerequisites": ["BI 212", "BI 212H", "BI 211", "BI 211H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 205", "BI 206"]
+  "prerequisites": [["BI 212", "BI 212H"], ["BI 211", "BI 211H", "BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H", "BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT SYSTEMATICS",
@@ -81,14 +81,14 @@
   "course_number": "BOT 331",
   "credits": "4",
   "description": "Survey of physiological processes in plants, including photosynthesis and plant metabolism, mineral nutrition and ion uptake processes, plant cell/water relations, regulation of plant growth and development, and transpiration and translocation.",
-  "prerequisites": ["BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 205", "BI 206", "CH 123", "CH 233", "CH 263", "CH 233H", "CH 263H"]
+  "prerequisites": [["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H", "BI 205"], ["BI 206"], ["CH 123", "CH 233"], ["CH 263", "CH 233H"], ["CH 263H"]]
 }, {
   "corequisites": [],
   "course_name": "LABORATORY TECHNIQUES IN PLANT BIOLOGY",
   "course_number": "BOT 332",
   "credits": "3",
   "description": "Emphasizes laboratory experiences in the manipulation and observation of the genomic, cell and molecular processes in plant systems. Analyzes and interprets experimental data generated in plant systems. Focuses on training in basic laboratory skills, including the principles and procedures involved in the use of common items of laboratory instrumentation.",
-  "prerequisites": ["BB 314", "BB 314H", "BOT 331"]
+  "prerequisites": [["BB 314", "BB 314H", "BOT 331"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT ECOLOGY",
@@ -165,7 +165,7 @@
   "course_number": "BOT 413",
   "credits": "3",
   "description": "Analyzes effects of diseases on forest ecosystems. Focuses on recognition of important groups, prediction of pathogen responses to environmental changes, and management strategies for protection of forest resources. CROSSLISTED as BOT 413/FOR 413.",
-  "prerequisites": ["BI 204", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "FES 240"]
+  "prerequisites": [["BI 204", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "FES 240"]]
 }, {
   "corequisites": [],
   "course_name": "AQUATIC BOTANY",
@@ -200,28 +200,28 @@
   "course_number": "BOT 445",
   "credits": "3",
   "description": "Examines how the abiotic environment, climate, and positive and negative biotic interactions produce variation in plant distribution, abundance, and diversity. Examines the role of plant diversity in the stability, productivity, succession, and flow of nutrients through ecosystems. Examines evidence for past and current population, community, and ecosystem responses to climate change. Evaluates primary scientific literature on the origin and maintenance of plant diversity in ecological systems.",
-  "prerequisites": ["BOT 341", "BI 370", "BI 370H", "FES 341"]
+  "prerequisites": [["BOT 341", "BI 370", "BI 370H", "FES 341"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT PATHOLOGY",
   "course_number": "BOT 451",
   "credits": "4",
   "description": "Examines the causal agents, nature, and dynamics of plant disease. Examines the role of major diseases of economically important plants. Examines the biology of pathogens and the factors influencing disease development. Evaluates methods of disease diagnosis and principles of disease management.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "MYCOLOGY",
   "course_number": "BOT 461",
   "credits": "4",
   "description": "Broad taxonomic survey of the fungi and their biology. Examines fungal life histories, systematics, ecology, and genetics, as well as ethnomycology. Introduces approaches to mycology in the field, including collection and preparation of specimens.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 204", "BI 205", "BI 206", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 204"], ["BI 205"], ["BI 206", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "FUNGAL ECOLOGY",
   "course_number": "BOT 462",
   "credits": "3",
   "description": "Examines how fungi interact with other organisms and their environment. Course topics include but are not limited to: fungal diversity and distribution; fungal community ecology; fungal interactions with plants, insects, and bacteria; decomposition and nutrient cycling.",
-  "prerequisites": ["BOT 461", "BOT 341", "BI 370", "BI 370H", "FES 341", "HORT 318"]
+  "prerequisites": [["BOT 461", "BOT 341", "BI 370", "BI 370H", "FES 341", "HORT 318"]]
 }, {
   "corequisites": [],
   "course_name": "LICHENOLOGY",
@@ -249,7 +249,7 @@
   "course_number": "BOT 483X",
   "credits": "3",
   "description": "Covers major primary producers in aquatic ecosystems. Explores both the bottom-up (light and nutrients) and top-down (grazing and mortality) controls on primary production. Addresses the ecosystem services provided by aquatic primary producers in supporting food webs and fisheries.",
-  "prerequisites": ["BI 211", "BI 212", "BI 211H", "BI 212H", "BI 211", "BI 213", "BI 211H", "BI 213H", "BI 212", "BI 213", "BI 212H", "BI 213H", "BI 204", "BI 205", "BI 204", "BI 206", "BI 205", "BI 206", "BI 221", "BI 222", "BI 221H", "BI 222H", "BI 221", "BI 223", "BI 221H", "BI 223H", "BI 222", "BI 223", "BI 222H", "BI 223H"]
+  "prerequisites": [["BI 211"], ["BI 212", "BI 211H"], ["BI 212H", "BI 211"], ["BI 213", "BI 211H"], ["BI 213H", "BI 212"], ["BI 213", "BI 212H"], ["BI 213H", "BI 204"], ["BI 205", "BI 204"], ["BI 206", "BI 205"], ["BI 206", "BI 221"], ["BI 222", "BI 221H"], ["BI 222H", "BI 221"], ["BI 223", "BI 221H"], ["BI 223H", "BI 222"], ["BI 223", "BI 222H"], ["BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL PHYSIOLOGY OF PLANTS",

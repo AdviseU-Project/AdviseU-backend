@@ -11,21 +11,21 @@
   "course_number": "JPN 112",
   "credits": "4",
   "description": "Designed to help students develop an understanding of basic language structures and to acquire the ability to use them appropriately in a variety of practical, everyday social contexts. Primary focus is on verbal and non-verbal communication skills. Native and/or bilingual speakers of Japanese will not receive credit for JPN 111, JPN 112, JPN 113.",
-  "prerequisites": ["JPN 111"]
+  "prerequisites": [["JPN 111"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR JAPANESE",
   "course_number": "JPN 113",
   "credits": "4",
   "description": "Designed to help students develop an understanding of basic language structures and to acquire the ability to use them appropriately in a variety of practical, everyday social contexts. Primary focus is on verbal and non-verbal communication skills. Native and/or bilingual speakers of Japanese will not receive credit for JPN 111, JPN 112, JPN 113.",
-  "prerequisites": ["JPN 112"]
+  "prerequisites": [["JPN 112"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO KANJI",
   "course_number": "JPN 151",
   "credits": "1",
   "description": "Covers basic kanjis (Chinese characters) to complement the First Year Japanese course series. Explores characteristics and functions of kanji such as on-reading, kun-reading, and how and when to use them. Practices reading and writing kanjis. Taught in English.",
-  "prerequisites": ["JPN 112"]
+  "prerequisites": [["JPN 112"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES: INTENSIVE JAPANESE",
@@ -39,21 +39,21 @@
   "course_number": "JPN 211",
   "credits": "4",
   "description": "Continued development of basic oral communication skills as required in a variety of social contexts. Initial development of reading skills. Native and/or bilingual speakers of Japanese will not receive credit for JPN 211, JPN 212, JPN 213.",
-  "prerequisites": ["JPN 113"]
+  "prerequisites": [["JPN 113"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR JAPANESE",
   "course_number": "JPN 212",
   "credits": "4",
   "description": "Continued development of basic oral communication skills as required in a variety of social contexts. Initial development of reading skills. Native and/or bilingual speakers of Japanese will not receive credit for JPN 211, JPN 212, JPN 213.",
-  "prerequisites": ["JPN 211"]
+  "prerequisites": [["JPN 211"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR JAPANESE",
   "course_number": "JPN 213",
   "credits": "4",
   "description": "Continued development of basic oral communication skills as required in a variety of social contexts. Initial development of reading skills. Native and/or bilingual speakers of Japanese will not receive credit for JPN 211, JPN 212, JPN 213.",
-  "prerequisites": ["JPN 212"]
+  "prerequisites": [["JPN 212"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -67,14 +67,14 @@
   "course_number": "JPN 311",
   "credits": "3",
   "description": "Continued development of oral communication skills as required in a variety of social contexts. Further development of reading skills.",
-  "prerequisites": ["JPN 213"]
+  "prerequisites": [["JPN 213"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR JAPANESE",
   "course_number": "JPN 312",
   "credits": "3",
   "description": "Continued development or oral communication skills as required in a variety of social contexts. Further development of reading skills.",
-  "prerequisites": ["JPN 311"]
+  "prerequisites": [["JPN 311"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR JAPANESE",

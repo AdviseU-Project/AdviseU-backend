@@ -4,21 +4,21 @@
   "course_number": "ROB 417",
   "credits": "4",
   "description": "Covers kinematics, dynamics, and control of robot arms, with cross-over coverage of gyroscopes for situations in which the gyroscopic dynamics help to elucidate principles of three-dimensional motion. Focuses around an integrated series of guided programming assignments in which the students construct a multi-body dynamics simulator from first principles, then use it to explore fundamental ideas in the control of robot arms.",
-  "prerequisites": ["ECE 356", "ME 320", "ME 320H"]
+  "prerequisites": [["ECE 356", "ECE 451", "ME 320", "ME 320H", "ME 430", "ME 430H"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED ROBOTICS",
   "course_number": "ROB 421",
   "credits": "4",
   "description": "Multidisciplinary teams of students design, build, and demonstrate a robotic system, including all sensing, computation, and actuation. The specific task, such as checkers-playing robots, changes each year, and is designed to be challenging for ambitious students. Robots will compete in a friendly competition at the end of the term.",
-  "prerequisites": ["ECE 356", "ME 320", "ME 320H"]
+  "prerequisites": [["ECE 356", "ECE 451", "ME 320", "ME 320H", "ME 430", "ME 430H"]]
 }, {
   "corequisites": [],
   "course_name": "INTELLIGENT ROBOTS",
   "course_number": "ROB 456",
   "credits": "4",
   "description": "Foundations of probabilistic reasoning for robotics. Topics include state estimation, robot motion, perception, localization and decision making under uncertainty.",
-  "prerequisites": ["ST 314"]
+  "prerequisites": [["ST 314"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH",
@@ -67,7 +67,7 @@
   "course_number": "ROB 515",
   "credits": "4",
   "description": "Provides experience working with physical robotic systems, with the goal of giving you an understanding of the 'stack' on which higher-level robot control algorithms rest. Covers various useful tips and tricks in working with robots and computer code that often fall outside of the academic curriculum.",
-  "prerequisites": ["ROB 514"]
+  "prerequisites": [["ROB 514"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH ROBOTICS",

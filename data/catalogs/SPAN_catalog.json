@@ -11,14 +11,14 @@
   "course_number": "SPAN 112",
   "credits": "4",
   "description": "Develops novice level listening comprehension, speaking, reading, and writing skills in Spanish as guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Context. Incorporates interpretive, interpersonal, and presentational elements. Taught in Spanish.",
-  "prerequisites": ["SPAN 111"]
+  "prerequisites": [["SPAN 111"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR SPANISH",
   "course_number": "SPAN 113",
   "credits": "4",
   "description": "Develops novice level listening comprehension, speaking, reading, and writing skills in Spanish as guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Context. Incorporates interpretive, interpersonal, and presentational elements. Taught in Spanish.",
-  "prerequisites": ["SPAN 112"]
+  "prerequisites": [["SPAN 112"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR SPANISH-COMPLETE SEQUENCE",
@@ -39,21 +39,21 @@
   "course_number": "SPAN 211",
   "credits": "4",
   "description": "Develops intermediate level proficiency through further development of listening comprehension, speaking, reading, and writing skills in Spanish as guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Context. Incorporates interpretive, interpersonal, and presentational elements. Taught in Spanish.",
-  "prerequisites": ["SPAN 113"]
+  "prerequisites": [["SPAN 113"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR SPANISH",
   "course_number": "SPAN 212",
   "credits": "4",
   "description": "Develops intermediate level proficiency through further development of listening comprehension, speaking, reading, and writing skills in Spanish as guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Context. Incorporates interpretive, interpersonal, and presentational elements. Taught in Spanish.",
-  "prerequisites": ["SPAN 211"]
+  "prerequisites": [["SPAN 211"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR SPANISH",
   "course_number": "SPAN 213",
   "credits": "4",
   "description": "Develops intermediate level proficiency through further development of listening comprehension, speaking, reading, and writing skills in Spanish as guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Context. Incorporates interpretive, interpersonal, and presentational elements. Taught in Spanish.",
-  "prerequisites": ["SPAN 212"]
+  "prerequisites": [["SPAN 212"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR SPANISH-COMPLETE SEQUENCE",
@@ -74,7 +74,7 @@
   "course_number": "SPAN 222",
   "credits": "3",
   "description": "SPAN 221 and SPAN 222 is a two-part series focusing on development of listening, comprehension, vocabulary, speaking, reading and writing skills. SPAN 222 builds on concepts learned in SPAN 221, deepening the grammar base up to ACTFL intermediate high-level. Focuses on healthcare topics related to micro-systems of the human body and diseases not discussed in SPAN 221. Designed for students studying health sciences, pre-professional related fields or those that are currently healthcare professionals. Provides cultural learning and competency needed to serve Latino populations. Conducted in Spanish.",
-  "prerequisites": ["SPAN 221"]
+  "prerequisites": [["SPAN 221"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -88,21 +88,21 @@
   "course_number": "SPAN 311",
   "credits": "3",
   "description": "Focuses on reading, writing, oral production, listening comprehension and the acquisition of skills related to inter-cultural communication. Enables further development of the language skills acquired in earlier courses while studying the more complex aspects of the language. Spanish classes at OSU are guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Community.",
-  "prerequisites": ["SPAN 213"]
+  "prerequisites": [["SPAN 213"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD YEAR SPANISH",
   "course_number": "SPAN 312",
   "credits": "3",
   "description": "Focuses on reading, writing, oral production, listening comprehension and the acquisition of skills related to inter-cultural communication. Enables further development of the language skills acquired in earlier courses while studying the more complex aspects of the language. Spanish classes at OSU are guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Community.",
-  "prerequisites": ["SPAN 213", "SPAN 311"]
+  "prerequisites": [["SPAN 213", "SPAN 311"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD YEAR SPANISH",
   "course_number": "SPAN 313",
   "credits": "3",
   "description": "Focuses on reading, writing, oral production, listening comprehension and the acquisition of skills related to inter-cultural communication. Spanish classes at OSU are guided by the national standards, known as the five Cs: Communication, Culture, Connections, Comparisons, and Community.",
-  "prerequisites": ["SPAN 213", "SPAN 311", "SPAN 312"]
+  "prerequisites": [["SPAN 213", "SPAN 311", "SPAN 312"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR SPANISH FOR HERITAGE LANGUAGE LEARNERS",
@@ -130,7 +130,7 @@
   "course_number": "SPAN 317",
   "credits": "3",
   "description": "Emphasizes reading comprehension and improving writing ability. Builds on language skills and cultural awareness using different forms of literary expression from the Spanish-speaking world.",
-  "prerequisites": ["SPAN 311", "SPAN 312", "SPAN 313", "SPAN 314", "SPAN 315", "SPAN 316"]
+  "prerequisites": [["SPAN 311"], ["SPAN 312"], ["SPAN 313", "SPAN 314"], ["SPAN 315"], ["SPAN 316"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO SPANISH LANGUAGE LITERATURE",
@@ -151,7 +151,7 @@
   "course_number": "SPAN 320",
   "credits": "3",
   "description": "Facilitates extensive interpretive, interpersonal and presentational practice in Spanish. Emphasizes confident, creative and spontaneous communication in Spanish through a student-directed learning community. Taught in Spanish.",
-  "prerequisites": ["SPAN 311", "SPAN 312", "SPAN 313", "SPAN 314", "SPAN 315", "SPAN 316"]
+  "prerequisites": [["SPAN 311"], ["SPAN 312"], ["SPAN 313", "SPAN 314"], ["SPAN 315"], ["SPAN 316"]]
 }, {
   "corequisites": [],
   "course_name": "MEXICAN-AMERICAN LITERATURE AND COMPOSITION FOR SPANISH HERITAGE LANGUAGE LEARNERS",
@@ -186,28 +186,28 @@
   "course_number": "SPAN 336",
   "credits": "3",
   "description": "Emphasizes literary and artistic expressions in the diverse cultures of Spanish-speaking communities across Latin America and Europe. Explores events and developments across the regions using a variety of Spanish language texts to develop perspectives, make connections and build understanding of contemporary Spanish-speaking cultures.",
-  "prerequisites": ["SPAN 311", "SPAN 312", "SPAN 313"]
+  "prerequisites": [["SPAN 311"], ["SPAN 312"], ["SPAN 313"]]
 }, {
   "corequisites": [],
   "course_name": "TEXTOS Y NARRATIVAS DEL MUNDO HISPANOHABLANTE: TEXTS AND NARRATIVES OF THE SPANISH-SPEAKING WORLD",
   "course_number": "SPAN 337",
   "credits": "3",
   "description": "Emphasizes literary and artistic expressions in the diverse cultures of Spanish-speaking communities across Latin America and Europe from the post-independence period to the present. Explores events and developments across the regions using a variety of Spanish language texts to develop perspectives, make connections and build understanding of contemporary Spanish-speaking cultures.",
-  "prerequisites": ["SPAN 311", "SPAN 312", "SPAN 313"]
+  "prerequisites": [["SPAN 311"], ["SPAN 312"], ["SPAN 313"]]
 }, {
   "corequisites": [],
   "course_name": "TEXTOS Y NARRATIVAS DEL MUNDO HISPANOHABLANTE: TEXTS AND NARRATIVES OF THE SPANISH-SPEAKING WORLD",
   "course_number": "SPAN 338",
   "credits": "3",
   "description": "Emphasizes literary and artistic expressions in the diverse cultures of Spanish-speaking communities across Latin America and Europe from the post-independence period to the present. Explores events and developments across the regions using a variety of Spanish language texts to develop perspectives, make connections and build understanding of contemporary Spanish-speaking cultures.",
-  "prerequisites": ["SPAN 311", "SPAN 312", "SPAN 313"]
+  "prerequisites": [["SPAN 311"], ["SPAN 312"], ["SPAN 313"]]
 }, {
   "corequisites": [],
   "course_name": "MEXICAN IMMIGRANT EXPERIENCE IN THE UNITED STATES",
   "course_number": "SPAN 339",
   "credits": "3",
   "description": "Examines the historical, economic, and social determinants of Mexican migration to the United States. Analyzes the social, ethnic, linguistic, political and economic consequences for migrant families and communities on both sides of the Río Grande, through readings, movies, radio programs and music from various disciplines such as history, sociology, economics, ethnography, and creative literature. Taught in Spanish.",
-  "prerequisites": ["SPAN 311", "SPAN 312", "SPAN 313", "SPAN 336", "SPAN 337"]
+  "prerequisites": [["SPAN 311"], ["SPAN 312"], ["SPAN 313"], ["SPAN 336", "SPAN 337"]]
 }, {
   "corequisites": [],
   "course_name": "PHONETICS AND PRONUNCIATION",
@@ -221,14 +221,14 @@
   "course_number": "SPAN 351",
   "credits": "3",
   "description": "Explores scientific approach to the structure of the Spanish language: syntax, phonology, word formation, dialectal differences. Taught in Spanish.",
-  "prerequisites": ["LING 201", "SPAN 311", "SPAN 312", "SPAN 313", "SPAN 314", "SPAN 315", "SPAN 316"]
+  "prerequisites": [["LING 201"], ["SPAN 311"], ["SPAN 312"], ["SPAN 313", "SPAN 314"], ["SPAN 315"], ["SPAN 316"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO SPANISH TRANSLATION",
   "course_number": "SPAN 355",
   "credits": "3",
   "description": "Combines beginning translation theory with hands-on practice using a variety of activities from several areas of professional specialization. Introduces the uses and limits of automatic translators. Includes a brief introduction to simultaneous interpretation as it is done in professional conference settings. Taught in English and Spanish; participants must be proficient in both.",
-  "prerequisites": ["SPAN 311", "SPAN 314"]
+  "prerequisites": [["SPAN 311", "SPAN 314"]]
 }, {
   "corequisites": [],
   "course_name": "PROCTOR EXPERIENCE",

@@ -718,7 +718,7 @@
   "course_number": "HST 426",
   "credits": "4",
   "description": "Examines World War I from a global perspective, its origins, the course of the conflict and its aftermath, looking especially at Great Britain, France, Russia, Germany and their colonial possessions. Topics will include the concept of total war and the home fronts of a number of nations.",
-  "prerequisites": ["HST 103"]
+  "prerequisites": [["HST 103"]]
 }, {
   "corequisites": [],
   "course_name": "TEACHING THE HOLOCAUST",

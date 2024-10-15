@@ -4,49 +4,49 @@
   "course_number": "MATS 321",
   "credits": "4",
   "description": "Crystal structure, microstructure, and physical properties of metals, ceramics, polymers, composites, and amorphous materials. Also includes elementary mechanical behavior and phase equilibria.",
-  "prerequisites": ["CH 202", "CH 232", "CH 232H"]
+  "prerequisites": [["CH 202", "CH 222", "CH 232", "CH 232H", "CH 224H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO MATERIALS SCIENCE",
   "course_number": "MATS 321H",
   "credits": "4",
   "description": "Crystal structure, microstructure, and physical properties of metals, ceramics, polymers, composites, and amorphous materials. Also includes elementary mechanical behavior and phase equilibria.",
-  "prerequisites": ["CH 202", "CH 232", "CH 232H"]
+  "prerequisites": [["CH 202", "CH 222", "CH 232", "CH 232H", "CH 224H"]]
 }, {
   "corequisites": [],
   "course_name": "MECHANICAL PROPERTIES OF MATERIALS",
   "course_number": "MATS 322",
   "credits": "4",
   "description": "Examines mechanical behavior of materials, relating laboratory test results to material structure and elements of mechanical analysis.",
-  "prerequisites": ["MATS 321", "MATS 321H"]
+  "prerequisites": [["MATS 321", "MATS 321H", "ENGR 321", "ENGR 321H"]]
 }, {
   "corequisites": [],
   "course_name": "THERMODYNAMICS OF MATERIALS",
   "course_number": "MATS 413",
   "credits": "4",
   "description": "Explores the statistical interpretation of entropy, heat capacity, enthalpy of condensed phases, solution thermodynamics, liquid-solid and solid-solid phase equilibria. Considers the principles of thermodynamics governing phase stability with a focus on liquid-solid and solid-solid equilibria, and phase stability in two-component systems. Examines the relationship of Gibbs free energy to phase stability.",
-  "prerequisites": ["MATS 321", "MATS 321H"]
+  "prerequisites": [["MATS 321", "MATS 321H"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL METALLURGY",
   "course_number": "MATS 441",
   "credits": "3",
   "description": "Introduction to properties of metals and alloys including solidification, diffusion, solid solutions, intermediate phases, annealing, heat treatment and phase transformation with a focus on ferrous and non-ferrous metal systems. Identifies relationships between material composition, structure, and properties resulting from synthesis, processing or service. Explores the knowledge of ferrous and non-ferrous alloy systems and their significant metallurgical properties and applications.",
-  "prerequisites": ["MATS 321"]
+  "prerequisites": [["MATS 321"]]
 }, {
   "corequisites": [],
   "course_name": "WELDING METALLURGY",
   "course_number": "MATS 445",
   "credits": "4",
   "description": "Theory-based course focused on the metallurgy of welds. Topics covered include welding/joining processes, heat input, diffusion, solidification, phase transformation, materials compatibility and welding defects. This is NOT a practical welding class.",
-  "prerequisites": ["MATS 321"]
+  "prerequisites": [["MATS 321", "ENGR 321", "ENGR 321H"]]
 }, {
   "corequisites": [],
   "course_name": "THIN FILM MATERIALS CHARACTERIZATION AND PROPERTIES",
   "course_number": "MATS 478",
   "credits": "4",
   "description": "Processing of thin films and characterization of the microstructure; diffusion and solid state reactions; mechanical, magnetic and electronic properties of thin films.",
-  "prerequisites": ["ME 311", "ME 311H", "NSE 311", "NSE 311H", "MATS 321", "MATS 321H", "MATS 322"]
+  "prerequisites": [["ME 311", "ME 311H", "NSE 311", "NSE 311H"], ["ENGR 321", "ENGR 321H", "MATS 321", "MATS 321H"], ["ENGR 322", "MATS 322"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -88,7 +88,7 @@
   "course_number": "MATS 555",
   "credits": "4",
   "description": "Materials processing, characterization, computational and data analysis techniques in materials science. Focus on processing-structure-property relationships.",
-  "prerequisites": ["MATS 570"]
+  "prerequisites": [["MATS 570"]]
 }, {
   "corequisites": [],
   "course_name": "STRUCTURE-PROPERTY RELATIONS IN MATERIALS",
@@ -123,7 +123,7 @@
   "course_number": "MATS 582",
   "credits": "3",
   "description": "Diffusion in solids, including vacancy and interstitial and short-circuit diffusion. Phase transformations including classic nucleation and growth theory. Applications to materials development.",
-  "prerequisites": ["MATS 581"]
+  "prerequisites": [["MATS 581", "ME 581"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED FRACTURE OF MATERIALS",

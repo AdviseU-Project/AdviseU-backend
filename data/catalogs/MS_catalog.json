@@ -81,7 +81,7 @@
   "course_number": "MS 314",
   "credits": "6",
   "description": "Practical and theoretical instruction and training in soldier skills for four weeks. Practical leadership application and experience in a military environment.",
-  "prerequisites": ["MS 311", "MS 312", "MS 313"]
+  "prerequisites": [["MS 311"], ["MS 312"], ["MS 313"]]
 }, {
   "corequisites": [],
   "course_name": "READING AND CONFERENCE",

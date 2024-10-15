@@ -4,21 +4,21 @@
   "course_number": "MUED 100",
   "credits": "3",
   "description": "An introduction to the practice of teaching music in public schools in the United States. Participants will learn about teaching and learning music through reading, discussion, creative projects, field observations, and peer teaching experiences. Provides a breadth of experiences so prospective teachers can make informed decisions regarding their career path. While completion of this course does not guarantee admittance to the Music Education Program at OSU, it will prepare candidates for the admission process.",
-  "prerequisites": ["MUS 121"]
+  "prerequisites": [["MUS 121"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL SEMINAR IN MUSIC EDUCATION I",
   "course_number": "MUED 275",
   "credits": "1",
   "description": "Provides a professional community for emerging music educators. Students will complete field-work, interact with field specialists and practitioners, and study emerging topics and contemporary practices in music education. Students will begin to develop their professional portfolios. This course begins a series of seminars, which will be dedicated to professional development the exploration of trends in music education.",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL SEMINAR IN MUSIC EDUCATION II",
   "course_number": "MUED 276",
   "credits": "1",
   "description": "Continued engagement in field-work, interaction with field specialists and practitioners, and a study of emerging topics and contemporary practices in music education.",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
   "corequisites": [],
   "course_name": "PEDAGOGIC TECHNIQUES FOR THE MUSIC EDUCATOR",
@@ -32,42 +32,42 @@
   "course_number": "MUED 350",
   "credits": "1",
   "description": "Explores basic concepts and pedagogies of jazz music as applicable to the school jazz ensemble. Establishes a basic foundation of jazz knowledge and pedagogy that can be built upon in future independent learning endeavors.",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
   "corequisites": [],
   "course_name": "MUSIC EDUCATION IN PUBLIC SCHOOLS",
   "course_number": "MUED 353",
   "credits": "3",
   "description": "Examines historical practices, philosophical differences and pedagogical approaches that influence public school music programs. Field experiences provide contextual models with genuine teaching opportunities each week.",
-  "prerequisites": ["MUS 121"]
+  "prerequisites": [["MUS 121"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL SEMINAR IN MUSIC EDUCATION III",
   "course_number": "MUED 375",
   "credits": "1",
   "description": "Continued interaction with field specialists and practitioners, and study of emerging topics and contemporary practices in music education. Fieldwork focuses on instructional strategies for guiding critical thinking and creative music listening.",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL SEMINAR IN MUSIC EDUCATION IV",
   "course_number": "MUED 376",
   "credits": "1",
   "description": "Continued interaction with field specialists and practitioners, and study of emerging topics and contemporary practices in music education. Fieldwork focuses on observation, leadership of composition, and improvisation activities.",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
   "corequisites": [],
   "course_name": "SECONDARY GENERAL MUSIC FOUNDATIONS",
   "course_number": "MUED 391",
   "credits": "3",
   "description": "Prepares the teacher candidate to design and facilitate experiences in music learning appropriate for secondary students (grades 6 to 12).",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
-  "corequisites": ["MUED 410"],
+  "corequisites": [["MUED 410"]],
   "course_name": "^PROFESSIONAL WRITING IN MUSIC EDUCATION",
   "course_number": "MUED 400",
   "credits": "3",
   "description": "Examines, reviews, and engages in professional writing in music education as it relates to research, theory, and practical application. Reads and responds to relevant literature pertaining to teaching and learning in music. Provides basis of knowledge for writing assignments throughout the term and promotes critical thinking in music education. Focuses on writing formal and informal texts related to teaching music, including a review of related literature, lesson and unit plans, and teaching reflections.",
-  "prerequisites": ["MUED 376"]
+  "prerequisites": [["MUED 376"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH AND SCHOLARSHIP",
@@ -123,14 +123,14 @@
   "course_number": "MUED 450",
   "credits": "1",
   "description": "Examines different time periods of wind band literature from the Renaissance through current repertoire. Explores wind band literature through study of the music and historical practices.",
-  "prerequisites": ["MUS 326"]
+  "prerequisites": [["MUS 326"]]
 }, {
   "corequisites": [],
   "course_name": "MARCHING BAND TECHNIQUES LABORATORY",
   "course_number": "MUED 469",
   "credits": "1",
   "description": "Provides an in-depth study of the unique techniques and demands of running a marching band.",
-  "prerequisites": ["MUS 121"]
+  "prerequisites": [["MUS 121"]]
 }, {
   "corequisites": [],
   "course_name": "METHODS AND MATERIALS FOR THE PUBLIC SCHOOL WIND BAND",
@@ -144,28 +144,28 @@
   "course_number": "MUED 473",
   "credits": "3",
   "description": "Focuses on pedagogical content knowledge in music for specialists preparing to teach Kindergarten through grade five. Students will focus on the developmental characteristics of learners, repertoire and instructional techniques appropriate for the elementary music classroom, and lesson planning incorporating state and national standards. Issues related to diverse and special needs populations will be interwoven throughout each segment of the course.",
-  "prerequisites": ["MUED 353"]
+  "prerequisites": [["MUED 353"]]
 }, {
   "corequisites": [],
   "course_name": "ELEMENTARY APPROACHES SEMINAR I",
   "course_number": "MUED 474",
   "credits": "1",
   "description": "Topics include practical applications of varied teaching methods, lesson planning, curricular design, repertoire, and resources for the general music classroom at the elementary level.",
-  "prerequisites": ["MUED 473"]
+  "prerequisites": [["MUED 473"]]
 }, {
   "corequisites": [],
   "course_name": "ELEMENTARY APPROACHES SEMINAR II",
   "course_number": "MUED 475",
   "credits": "1",
   "description": "Provides the foundation for teacher candidates to develop a critical disposition regarding contemporary issues in the general music classroom.",
-  "prerequisites": ["MUED 473"]
+  "prerequisites": [["MUED 473"]]
 }, {
   "corequisites": [],
   "course_name": "CLASSROOM CHORAL METHODS",
   "course_number": "MUED 480",
   "credits": "3",
   "description": "Examines research, theory, and pedagogical methods of choral classrooms. Primary topics: the role of choral music in various school settings and the responsibilities of the music teacher in developing/implementing goals and objectives for a choral music education curriculum.",
-  "prerequisites": ["MUED 100"]
+  "prerequisites": [["MUED 100"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",

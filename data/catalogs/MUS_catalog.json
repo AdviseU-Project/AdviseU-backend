@@ -74,14 +74,14 @@
   "course_number": "MUS 112",
   "credits": "3",
   "description": "Students will develop a thorough understanding of digital audio in both theory and application. Topics to be explored include common DAW operations, CD authoring, audio for web, sound design, MIDI, songwriting and composition, and digital effects. Course projects will engage students in both technical and creative capacities of digital audio production.",
-  "prerequisites": ["MUS 111"]
+  "prerequisites": [["MUS 111"]]
 }, {
   "corequisites": [],
   "course_name": "AUDIO TECHNOLOGIES",
   "course_number": "MUS 113",
   "credits": "3",
   "description": "Students will gain a thorough understanding of the technical and creative potential of various audio equipment used in sound production including microphones, speakers, mixers, recording equipment, effects processors, patch bays, MIDI, and various video equipment. Through discussion and experimentation, students will pursue real-world audio problems in collaborative and individual projects.",
-  "prerequisites": ["MUS 111"]
+  "prerequisites": [["MUS 111"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS: APPLIED LISTENING AND THEORY",
@@ -95,7 +95,7 @@
   "course_number": "MUS 115",
   "credits": "THEORY",
   "description": "Part two of a general music foundation series that facilitates students with no prior formal musical background to develop contemporary music literacy using modes of listening including radio, digital music libraries, interactive tutorials and guided listenings and visual mapping.",
-  "prerequisites": ["MUS 114"]
+  "prerequisites": [["MUS 114"]]
 }, {
   "corequisites": [],
   "course_name": "LITERATURE AND MATERIALS OF MUSIC I",
@@ -125,7 +125,7 @@
   "description": "Transpose scores, harmonic idioms, harmonic progressions.",
   "prerequisites": []
 }, {
-  "corequisites": ["MUS 121"],
+  "corequisites": [["MUS 121"]],
   "course_name": "AURAL SKILLS I",
   "course_number": "MUS 134",
   "credits": "1",
@@ -291,14 +291,14 @@
   "course_number": "MUS 172",
   "credits": "1",
   "description": "Part 2 of the first-year group piano sequence. A continuation of MUS 171.",
-  "prerequisites": ["MUS 171"]
+  "prerequisites": [["MUS 171"]]
 }, {
   "corequisites": [],
   "course_name": "GROUP PIANO III",
   "course_number": "MUS 173",
   "credits": "1",
   "description": "Part 3 of the first-year group piano sequence. A continuation of MUS 172.",
-  "prerequisites": ["MUS 172"]
+  "prerequisites": [["MUS 172"]]
 }, {
   "corequisites": [],
   "course_name": "GROUP GUITAR",
@@ -312,7 +312,7 @@
   "course_number": "MUS 190",
   "credits": "2",
   "description": "Teaches the process involved in composing and constructing drum beats for any style of popular music. This course will take you through the basics of understand the roles of each individual drum on a typical drum kit, to programming on an 808 or sequenced style virtual kit. We will also explore putting together your own collection of sounds and building drum and percussion kits for your own creative applications and compositions.",
-  "prerequisites": ["MUS 111"]
+  "prerequisites": [["MUS 111"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO MUSIC PRODUCTION TECHNIQUES",
@@ -347,21 +347,21 @@
   "course_number": "MUS 202",
   "credits": "1",
   "description": "Presents the principles of lyric diction in Italian and provides practice in the skills needed to sing the languages accurately and expressively.",
-  "prerequisites": ["MUS 201"]
+  "prerequisites": [["MUS 201"]]
 }, {
   "corequisites": [],
   "course_name": "GERMAN LYRIC DICTION FOR SINGERS",
   "course_number": "MUS 203",
   "credits": "1",
   "description": "Presents the principles of German lyric diction and provides practice in the skills needed to sing the language accurately and expressively.",
-  "prerequisites": ["MUS 201"]
+  "prerequisites": [["MUS 201"]]
 }, {
   "corequisites": [],
   "course_name": "FRENCH LYRIC DICTION FOR SINGERS",
   "course_number": "MUS 204",
   "credits": "1",
   "description": "Presents the principles of French lyric diction and provides practice in the skills needed to sing the language accurately and expressively.",
-  "prerequisites": ["MUS 201"]
+  "prerequisites": [["MUS 201"]]
 }, {
   "corequisites": [],
   "course_name": "THE MUSIC BUSINESS",
@@ -445,14 +445,14 @@
   "course_number": "MUS 272",
   "credits": "1",
   "description": "Part of the second-year group piano sequence. Group instruction in piano skills and basic theory.",
-  "prerequisites": ["MUS 271"]
+  "prerequisites": [["MUS 271"]]
 }, {
   "corequisites": [],
   "course_name": "GROUP PIANO VI",
   "course_number": "MUS 273",
   "credits": "1",
   "description": "Part of the second-year group piano sequence. Group instruction in piano skills and basic theory.",
-  "prerequisites": ["MUS 272"]
+  "prerequisites": [["MUS 272"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO SONGWRITING 1",
@@ -473,28 +473,28 @@
   "course_number": "MUS 301",
   "credits": "2",
   "description": "Survey of the development of English solo vocal literature from the Renaissance period to the present.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "SOLO VOCAL REPERTOIRE: ITALIAN",
   "course_number": "MUS 302",
   "credits": "2",
   "description": "Survey of the development of Italian solo vocal literature from the Renaissance period to the present.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "SOLO VOCAL REPERTOIRE: GERMAN",
   "course_number": "MUS 303",
   "credits": "2",
   "description": "Survey of the development of German solo vocal literature from the Renaissance period to the present.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "SOLO VOCAL REPERTOIRE: FRENCH",
   "course_number": "MUS 304",
   "credits": "2",
   "description": "Survey of the development of French solo vocal literature from the 19th century to the present.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "*WOMEN IN WESTERN MUSIC",
@@ -550,21 +550,21 @@
   "course_number": "MUS 324",
   "credits": "3",
   "description": "Chronological survey of the Euro-American traditions in music to be taken in sequence.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "HISTORY OF WESTERN MUSIC",
   "course_number": "MUS 325",
   "credits": "3",
   "description": "Traces the development of Western music history from the early Classic period through the end of the 19th century. Explores major trends in orchestral, solo, chamber and vocal music through lectures, readings, research, discussion, score studies, and intensive writing assignments.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "HISTORY OF WESTERN MUSIC",
   "course_number": "MUS 326",
   "credits": "3",
   "description": "Chronological survey of the Euro-American traditions in music to be taken in sequence.",
-  "prerequisites": ["MUS 123"]
+  "prerequisites": [["MUS 123"]]
 }, {
   "corequisites": [],
   "course_name": "*GENRE STUDIES: POPULAR MUSIC AND CULTURE IN LATIN AMERICA",
@@ -599,21 +599,21 @@
   "course_number": "MUS 341",
   "credits": "2",
   "description": "Provides an understanding of the singing voice and establishes guidelines for teaching vocal techniques. Explores the anatomical, physiological and acoustic elements of singing, providing students with a working knowledge of the vocal mechanism.",
-  "prerequisites": ["MUP 291"]
+  "prerequisites": [["MUP 291"]]
 }, {
   "corequisites": [],
   "course_name": "VOCAL PEDAGOGY II",
   "course_number": "MUS 342",
   "credits": "2",
   "description": "Provides a clear understanding of the singing voice as it progresses through the stages of maturation. Emphasizes appropriate repertoire selection for each voice classification. Provides theoretical framework and practical application of vocal pedagogy.",
-  "prerequisites": ["MUS 341"]
+  "prerequisites": [["MUS 341"]]
 }, {
   "corequisites": [],
   "course_name": "VOCAL PEDAGOGY PRACTICUM",
   "course_number": "MUS 343X",
   "credits": "2",
   "description": "Provides practical application of MUS 341 and MUS 342 through planning and implementation of vocal instruction. Emphasizes vocal tone building.",
-  "prerequisites": ["MUS 341", "MUS 342"]
+  "prerequisites": [["MUS 341"], ["MUS 342"]]
 }, {
   "corequisites": [],
   "course_name": "INSTRUMENTAL PEDAGOGY AND REPERTOIRE",
@@ -760,14 +760,14 @@
   "course_number": "MUS 372",
   "credits": "1",
   "description": "Part of the third-year group piano sequence. Group instruction in piano skills and basic theory.",
-  "prerequisites": ["MUS 371"]
+  "prerequisites": [["MUS 371"]]
 }, {
   "corequisites": [],
   "course_name": "GROUP PIANO IX",
   "course_number": "MUS 373",
   "credits": "1",
   "description": "Part of the third-year group piano sequence. Group instruction in piano skills and basic theory.",
-  "prerequisites": ["MUS 372"]
+  "prerequisites": [["MUS 372"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -781,7 +781,7 @@
   "course_number": "MUS 400",
   "credits": "3",
   "description": "Students will read relevant literature pertaining to a selected topic. These readings will be discussed during the class period, serve as a basis of knowledge for the writing assignments throughout the quarter, and promote critical thinking about the topic. A large portion of the term will be devoted to learning various genres of writing about music, including formal writing and informal, low-stakes writing. Students will be introduced to a variety of ways of writing about music through the course readings and will learn how to tailor one’s writing style towards a genre’s particular audience.",
-  "prerequisites": ["MUS 325"]
+  "prerequisites": [["MUS 325"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH AND SCHOLARSHIP",
@@ -832,7 +832,7 @@
   "description": "",
   "prerequisites": []
 }, {
-  "corequisites": [],
+  "corequisites": [["MUS 446", "MUS 447"]],
   "course_name": "PIANO PEDAGOGY PRACTICUM",
   "course_number": "MUS 409",
   "credits": "2",

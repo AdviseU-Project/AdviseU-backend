@@ -74,7 +74,7 @@
   "course_number": "LEAD 433",
   "credits": "3",
   "description": "Plans and executes an activity course for students, including class sessions and at least one outing. Emphasizes teaching and leading groups through outdoor activities at a professional level, including risk management, trip logistics, policies, response plans, evacuation skills, situational leadership theory, and group development. Explores their personal leadership styles and how to adapt based on the group's needs. Instructor guides student through implementation and reflection of leadership skills and styles throughout the course.",
-  "prerequisites": ["LEAD 432"]
+  "prerequisites": [["LEAD 432"]]
 }, {
   "corequisites": [],
   "course_name": "LEADERSHIP SKILLS FOR CAREER SUCCESS",
@@ -165,7 +165,7 @@
   "course_number": "LEAD 533",
   "credits": "3",
   "description": "Plans and executes an activity course for students, including class sessions and at least one outing. Emphasizes teaching and leading groups through outdoor activities at a professional level, including risk management, trip logistics, policies, response plans, evacuation skills, situational leadership theory, and group development. Explores their personal leadership styles and how to adapt based on the group's needs. Instructor guides student through implementation and reflection of leadership skills and styles throughout the course.",
-  "prerequisites": ["LEAD 532"]
+  "prerequisites": [["LEAD 532"]]
 }, {
   "corequisites": [],
   "course_name": "LEADERSHIP SKILLS FOR CAREER SUCCESS",

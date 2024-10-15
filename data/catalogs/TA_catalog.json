@@ -81,7 +81,7 @@
   "course_number": "TA 249",
   "credits": "3",
   "description": "Continued work in the basic principles and techniques of acting. Emphasis on improvisation, character analysis, and creation, the balance between truth and technique.",
-  "prerequisites": ["TA 248"]
+  "prerequisites": [["TA 248"]]
 }, {
   "corequisites": [],
   "course_name": "WORKSHOP: THEATRE ARTS",
@@ -109,7 +109,7 @@
   "course_number": "TA 321",
   "credits": "3",
   "description": "Interpretative theory; programming, adapting materials for oral interpretation, reader's theatre, chamber theatre experimentation in presentational forms.",
-  "prerequisites": ["TA 121"]
+  "prerequisites": [["TA 121"]]
 }, {
   "corequisites": [],
   "course_name": "*HISTORY OF THE THEATRE",
@@ -137,28 +137,28 @@
   "course_number": "TA 344",
   "credits": "3",
   "description": "Study of major approaches to playscript analysis and detailed application of these systems to the theatrical production process.",
-  "prerequisites": ["TA 147"]
+  "prerequisites": [["TA 147"]]
 }, {
   "corequisites": [],
   "course_name": "SCENE AND STAGE DESIGN",
   "course_number": "TA 346",
   "credits": "3",
   "description": "Designs for stage productions including elements of color, mass, line, and lighting for various types of theatre architecture and plays.",
-  "prerequisites": ["TA 244"]
+  "prerequisites": [["TA 244"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED ACTING: REALISM",
   "course_number": "TA 348",
   "credits": "3",
   "description": "Discussion, research, rehearsal, performance, and criticism of scenes from realistic drama. Emphasis on the craft of acting, emotional availability/honesty, personal awareness.",
-  "prerequisites": ["TA 248"]
+  "prerequisites": [["TA 248"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED ACTING: STYLES",
   "course_number": "TA 349",
   "credits": "3",
   "description": "Discussion, research, rehearsal, performance, and criticism of scenes from a range of period and genre styles.",
-  "prerequisites": ["TA 248"]
+  "prerequisites": [["TA 248"]]
 }, {
   "corequisites": [],
   "course_name": "WORKSHOP: THEATRE ARTS",
@@ -326,7 +326,7 @@
   "course_number": "TA 454",
   "credits": "3",
   "description": "Expanded exploration of directing theories and techniques. Practical application through the production of a one-act play in a laboratory theatre.",
-  "prerequisites": ["TA 354"]
+  "prerequisites": [["TA 354"]]
 }, {
   "corequisites": [],
   "course_name": "OFF THE SCREEN - VIDEO INSTALLATION ART",

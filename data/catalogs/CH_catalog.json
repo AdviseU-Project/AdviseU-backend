@@ -4,7 +4,7 @@
   "course_number": "CH 101",
   "credits": "3",
   "description": "Provides some extra preparation for students before enrolling in a general chemistry course. Emphasizes the skills required to be successful in general chemistry and the use of those skill in the context of chemistry concepts.",
-  "prerequisites": ["MTH 103", "MTH 105", "MTH 105Z", "MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 228", "MTH 241", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 095", "MTH 103", "MTH 105", "MTH 105Z", "MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 228", "MTH 241", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "*ROYGBIV: THE CHEMISTRY OF COLORS",
@@ -25,14 +25,14 @@
   "course_number": "CH 122",
   "credits": "5",
   "description": "A general chemistry sequence intended for majors in fields other than the physical sciences.",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H"]
+  "prerequisites": [["CH 121", "CH 201", "CH 231", "CH 231H"]]
 }, {
   "corequisites": [],
   "course_name": "*GENERAL CHEMISTRY",
   "course_number": "CH 123",
   "credits": "5",
   "description": "A general chemistry sequence intended for majors in fields other than the physical sciences.",
-  "prerequisites": ["CH 122", "CH 232", "CH 232H", "CH 262", "CH 262H", "CH 272", "CH 202", "CH 205"]
+  "prerequisites": [["CH 122", "CH 232", "CH 232H"], ["CH 262", "CH 262H", "CH 272", "CH 202"], ["CH 205"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL CHEMISTRY OF LIVING SYSTEMS",
@@ -60,21 +60,21 @@
   "course_number": "CH 201",
   "credits": "3",
   "description": "A sequence of selected chemistry topics for engineering students.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "MTH 254", "MTH 254H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "MTH 254", "MTH 254H"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMISTRY FOR ENGINEERING MAJORS",
   "course_number": "CH 202",
   "credits": "3",
   "description": "A sequence of selected chemistry topics for engineering students.",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H"]
+  "prerequisites": [["CH 121", "CH 201", "CH 231", "CH 231H"]]
 }, {
   "corequisites": [],
   "course_name": "LABORATORY FOR CH 202",
   "course_number": "CH 205",
   "credits": "1",
   "description": "Three-hour weekly session for the development of laboratory skills in general chemistry for engineers.",
-  "prerequisites": ["CH 202"]
+  "prerequisites": [["CH 202"]]
 }, {
   "corequisites": [],
   "course_name": "CAREERS IN CHEMISTRY",
@@ -88,196 +88,196 @@
   "course_number": "CH 231",
   "credits": "4",
   "description": "A general chemistry sequence for students majoring in most sciences, pharmacy, and chemical engineering. CH 231 is a lecture course; CH 261 is the laboratory component. (Bacc Core Course if taken with CH 261)",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "MTH 254", "MTH 254H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "MTH 254", "MTH 254H"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL CHEMISTRY",
   "course_number": "CH 231H",
   "credits": "4",
   "description": "A general chemistry sequence for students majoring in most sciences, pharmacy, and chemical engineering. CH 231 is a lecture course; CH 261 is the laboratory component. (Bacc Core Course if taken with CH 261)",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "MTH 254", "MTH 254H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "MTH 254", "MTH 254H"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL CHEMISTRY",
   "course_number": "CH 232",
   "credits": "4",
   "description": "A general chemistry sequence for students majoring in most sciences, pre-pharmacy, and chemical engineering. CH 232 is a lecture course; CH 262 is the laboratory component. (Bacc Core Course if taken with CH 262)",
-  "prerequisites": ["CH 231", "CH 231H"]
+  "prerequisites": [["CH 231", "CH 231H", "CH 221"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL CHEMISTRY",
   "course_number": "CH 232H",
   "credits": "4",
   "description": "A general chemistry sequence for students majoring in most sciences, pre-pharmacy, and chemical engineering. CH 232 is a lecture course; CH 262 is the laboratory component. (Bacc Core Course if taken with CH 262)",
-  "prerequisites": ["CH 231", "CH 231H"]
+  "prerequisites": [["CH 231", "CH 231H", "CH 221"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL CHEMISTRY",
   "course_number": "CH 233",
   "credits": "4",
   "description": "A general chemistry sequence for students majoring in most sciences, pharmacy, and chemical engineering. CH 233 is a lecture course; CH 263 is the laboratory component. (Bacc Core Course if taken with CH 263)",
-  "prerequisites": ["CH 232", "CH 232H"]
+  "prerequisites": [["CH 232", "CH 232H", "CH 222"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL CHEMISTRY",
   "course_number": "CH 233H",
   "credits": "4",
   "description": "A general chemistry sequence for students majoring in most sciences, pharmacy, and chemical engineering. CH 233 is a lecture course; CH 263 is the laboratory component. (Bacc Core Course if taken with CH 263)",
-  "prerequisites": ["CH 232", "CH 232H"]
+  "prerequisites": [["CH 232", "CH 232H", "CH 222"]]
 }, {
-  "corequisites": ["CH 231"],
+  "corequisites": [["CH 231"]],
   "course_name": "*LABORATORY FOR CHEMISTRY 231",
   "course_number": "CH 261",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in most sciences, pharmacy, and chemical engineering. (Bacc Core Course if taken with CH 231)",
   "prerequisites": []
 }, {
-  "corequisites": ["CH 231H"],
+  "corequisites": [["CH 231H"]],
   "course_name": "*LABORATORY FOR CHEMISTRY 231",
   "course_number": "CH 261H",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in most sciences, pharmacy, and chemical engineering. (Bacc Core Course if taken with CH 231)",
   "prerequisites": []
 }, {
-  "corequisites": ["CH 232"],
+  "corequisites": [["CH 232"]],
   "course_name": "*LABORATORY FOR CHEMISTRY 232",
   "course_number": "CH 262",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in most sciences, pharmacy, and chemical engineering. (Bacc Core Course if taken with CH 232)",
-  "prerequisites": ["CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 261", "CH 261H", "CH 271", "CH 221", "CH 224H"]]
 }, {
-  "corequisites": ["CH 232H"],
+  "corequisites": [["CH 232H"]],
   "course_name": "*LABORATORY FOR CHEMISTRY 232",
   "course_number": "CH 262H",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in most sciences, pharmacy, and chemical engineering. (Bacc Core Course if taken with CH 232)",
-  "prerequisites": ["CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 261", "CH 261H", "CH 271", "CH 221", "CH 224H"]]
 }, {
-  "corequisites": ["CH 233"],
+  "corequisites": [["CH 233"]],
   "course_name": "*LABORATORY FOR CHEMISTRY 233",
   "course_number": "CH 263",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in most sciences, pharmacy, and chemical engineering. (Bacc Core Course if taken with CH 233)",
-  "prerequisites": ["CH 262", "CH 262H", "CH 272"]
+  "prerequisites": [["CH 262", "CH 262H", "CH 272", "CH 222", "CH 225H"]]
 }, {
-  "corequisites": ["CH 233H"],
+  "corequisites": [["CH 233H"]],
   "course_name": "*LABORATORY FOR CHEMISTRY 233",
   "course_number": "CH 263H",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in most sciences, pharmacy, and chemical engineering. (Bacc Core Course if taken with CH 233)",
-  "prerequisites": ["CH 262", "CH 262H", "CH 272"]
+  "prerequisites": [["CH 262", "CH 262H", "CH 272", "CH 222", "CH 225H"]]
 }, {
-  "corequisites": ["CH 231"],
+  "corequisites": [["CH 231"]],
   "course_name": "*LABORATORY FOR CH 231 FOR CHEMISTRY MAJORS",
   "course_number": "CH 271",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in chemistry. (Bacc Core Course if taken with CH 231)",
   "prerequisites": []
 }, {
-  "corequisites": ["CH 232"],
+  "corequisites": [["CH 232"]],
   "course_name": "*LABORATORY FOR CH 232 FOR CHEMISTRY MAJORS",
   "course_number": "CH 272",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in chemistry. (Bacc Core Course if taken with CH 232)",
-  "prerequisites": ["CH 271"]
+  "prerequisites": [["CH 271", "CH 221", "CH 224H"]]
 }, {
-  "corequisites": ["CH 233"],
+  "corequisites": [["CH 233"]],
   "course_name": "*LABORATORY FOR CH 233 FOR CHEMISTRY MAJORS",
   "course_number": "CH 273",
   "credits": "1",
   "description": "A general chemistry laboratory sequence for students majoring in chemistry. (Bacc Core Course if taken with CH 233)",
-  "prerequisites": ["CH 272"]
+  "prerequisites": [["CH 272", "CH 222", "CH 225H"]]
 }, {
   "corequisites": [],
   "course_name": "QUANTITATIVE ANALYSIS",
   "course_number": "CH 324",
   "credits": "4",
   "description": "A basic course in modern chemical analysis. Self-paced laboratory. CH 130 does not meet the prerequisites for this course.",
-  "prerequisites": ["CH 123", "CH 233", "CH 233H", "CH 263", "CH 263H", "CH 273"]
+  "prerequisites": [["CH 123", "CH 223", "CH 226H", "CH 233", "CH 233H"], ["CH 263", "CH 263H", "CH 273"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY",
   "course_number": "CH 331",
   "credits": "4",
   "description": "Service course covering aliphatic and aromatic chemistry. Introduction to nomenclature, mechanism and synthesis.",
-  "prerequisites": ["CH 123", "CH 233", "CH 233H", "CH 263", "CH 263H", "CH 273"]
+  "prerequisites": [["CH 123", "CH 223", "CH 226H", "CH 233", "CH 233H"], ["CH 263", "CH 263H", "CH 273"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY",
   "course_number": "CH 331H",
   "credits": "4",
   "description": "Service course covering aliphatic and aromatic chemistry. Introduction to nomenclature, mechanism and synthesis.",
-  "prerequisites": ["CH 123", "CH 233", "CH 233H", "CH 263", "CH 263H", "CH 273"]
+  "prerequisites": [["CH 123", "CH 223", "CH 226H", "CH 233", "CH 233H"], ["CH 263", "CH 263H", "CH 273"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY",
   "course_number": "CH 332",
   "credits": "4",
   "description": "Service course covering aliphatic and aromatic chemistry. Introduction to nomenclature, mechanism and synthesis.",
-  "prerequisites": ["CH 331"]
+  "prerequisites": [["CH 331"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY",
   "course_number": "CH 334",
   "credits": "3",
   "description": "Professional course for majors in chemistry, biochemistry, chemical engineering and other students who need a year of organic chemistry. In-depth treatment of major classes of organic compounds. Interrelation of mechanistic and synthetic approaches.",
-  "prerequisites": ["CH 123", "CH 233", "CH 233H", "CH 263", "CH 263H", "CH 273"]
+  "prerequisites": [["CH 123", "CH 223", "CH 226H", "CH 233", "CH 233H"], ["CH 263", "CH 263H", "CH 273"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY",
   "course_number": "CH 335",
   "credits": "3",
   "description": "Professional course for majors in chemistry, biochemistry, chemical engineering and other students who need a year of organic chemistry. In-depth treatment of major classes of organic compounds. Interrelation of mechanistic and synthetic approaches.",
-  "prerequisites": ["CH 334"]
+  "prerequisites": [["CH 334"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY",
   "course_number": "CH 336",
   "credits": "3",
   "description": "Professional course for majors in chemistry, biochemistry, chemical engineering and other students who need a year of organic chemistry. In-depth treatment of major classes of organic compounds. Interrelation of mechanistic and synthetic approaches.",
-  "prerequisites": ["CH 335"]
+  "prerequisites": [["CH 335"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC CHEMISTRY LABORATORY",
   "course_number": "CH 337",
   "credits": "4",
   "description": "Laboratory course in organic chemistry for nonmajors, designed to supplement CH 331, CH 332 and CH 334, CH 335, CH 336.",
-  "prerequisites": ["CH 331", "CH 332", "CH 334", "CH 335", "CH 336"]
+  "prerequisites": [["CH 331"], ["CH 332", "CH 334"], ["CH 335"], ["CH 336"]]
 }, {
   "corequisites": [],
   "course_name": "EXPERIMENTAL CHEMISTRY I",
   "course_number": "CH 361",
   "credits": "3",
   "description": "First term of integrated laboratory program for chemistry majors highlighting techniques in organic, physical, and analytical chemistry. First-hand experience is gained using specialized glassware, scientific equipment and instrumentation plus computers. Essential technical laboratory standards and technical writing are emphasized. Lec/lab.",
-  "prerequisites": ["CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271", "CH 232", "CH 232H", "CH 262", "CH 262H", "CH 272", "CH 233", "CH 233H", "CH 263", "CH 263H", "CH 273", "MTH 251", "MTH 251H", "PH 201", "PH 211", "PH 211H", "CH 334"]
+  "prerequisites": [["CH 221"], ["CH 222"], ["CH 223", "CH 224H"], ["CH 225H"], ["CH 226H", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"], ["CH 232", "CH 232H"], ["CH 262", "CH 262H", "CH 272"], ["CH 233", "CH 233H"], ["CH 263", "CH 263H", "CH 273"], ["MTH 251", "MTH 251H"], ["PH 201", "PH 211", "PH 211H"], ["CH 334"]]
 }, {
   "corequisites": [],
   "course_name": "EXPERIMENTAL CHEMISTRY I",
   "course_number": "CH 361H",
   "credits": "3",
   "description": "First term of integrated laboratory program for chemistry majors highlighting techniques in organic, physical, and analytical chemistry. First-hand experience is gained using specialized glassware, scientific equipment and instrumentation plus computers. Essential technical laboratory standards and technical writing are emphasized. Lec/lab.",
-  "prerequisites": ["CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271", "CH 232", "CH 232H", "CH 262", "CH 262H", "CH 272", "CH 233", "CH 233H", "CH 263", "CH 263H", "CH 273", "MTH 251", "MTH 251H", "PH 201", "PH 211", "PH 211H", "CH 334"]
+  "prerequisites": [["CH 221"], ["CH 222"], ["CH 223", "CH 224H"], ["CH 225H"], ["CH 226H", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"], ["CH 232", "CH 232H"], ["CH 262", "CH 262H", "CH 272"], ["CH 233", "CH 233H"], ["CH 263", "CH 263H", "CH 273"], ["MTH 251", "MTH 251H"], ["PH 201", "PH 211", "PH 211H"], ["CH 334"]]
 }, {
   "corequisites": [],
   "course_name": "EXPERIMENTAL CHEMISTRY I",
   "course_number": "CH 362",
   "credits": "3",
   "description": "First-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry. Lec/lab.",
-  "prerequisites": ["CH 361", "CH 361H", "CH 335"]
+  "prerequisites": [["CH 361", "CH 361H"], ["CH 335"]]
 }, {
   "corequisites": [],
   "course_name": "EXPERIMENTAL CHEMISTRY I",
   "course_number": "CH 362H",
   "credits": "3",
   "description": "First-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry. Lec/lab.",
-  "prerequisites": ["CH 361", "CH 361H", "CH 335"]
+  "prerequisites": [["CH 361", "CH 361H"], ["CH 335"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL CHEMISTRY",
   "course_number": "CH 390",
   "credits": "3",
   "description": "Sources, reactions, transport, effects, and fates of chemical species in water, soil, air, and living environments and the effects of technology thereon.",
-  "prerequisites": ["CH 331", "CH 334"]
+  "prerequisites": [["CH 331", "CH 334"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -347,7 +347,7 @@
   "course_number": "CH 412",
   "credits": "3",
   "description": "Descriptive chemistry of the elements, focusing on main-group compounds, transition metal complexes, and solid-state chemistry.",
-  "prerequisites": ["CH 411"]
+  "prerequisites": [["CH 411"]]
 }, {
   "corequisites": [],
   "course_name": "COORDINATION AND BIOINORGANIC CHEMISTRY",
@@ -389,91 +389,91 @@
   "course_number": "CH 435",
   "credits": "4",
   "description": "Use of infrared, nuclear magnetic resonance, and mass spectra for determination of structures and stereochemistry of complex organic molecules.",
-  "prerequisites": ["CH 336"]
+  "prerequisites": [["CH 336"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL CHEMISTRY",
   "course_number": "CH 440",
   "credits": "3",
   "description": "Thermodynamics, electrochemistry, solutions, kinetic theory of gases, chemical kinetics, quantum theory and statistical mechanics, molecular structure and spectroscopy.",
-  "prerequisites": ["MTH 254", "MTH 254H"]
+  "prerequisites": [["MTH 254", "MTH 254H"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL CHEMISTRY",
   "course_number": "CH 441",
   "credits": "3",
   "description": "Thermodynamics, electrochemistry, solutions, kinetic theory of gases, chemical kinetics, quantum theory and statistical mechanics, molecular structure and spectroscopy.",
-  "prerequisites": ["CH 440", "CHE 311", "MTH 254", "MTH 254H"]
+  "prerequisites": [["CH 440", "CHE 311"], ["MTH 254", "MTH 254H"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL CHEMISTRY",
   "course_number": "CH 442",
   "credits": "3",
   "description": "Thermodynamics, electrochemistry, solutions, kinetic theory of gases, chemical kinetics, quantum theory and statistical mechanics, molecular structure and spectroscopy.",
-  "prerequisites": ["MTH 254", "MTH 254H", "CH 441"]
+  "prerequisites": [["MTH 254", "MTH 254H"], ["CH 441"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTORY QUANTUM CHEMISTRY",
   "course_number": "CH 450",
   "credits": "3",
   "description": "Elementary wave mechanics and matrix mechanics of atoms and molecules. Quantum basis of chemical structure.",
-  "prerequisites": ["CH 442"]
+  "prerequisites": [["CH 442"]]
 }, {
   "corequisites": [],
   "course_name": "EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 461",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry. Lec/lab.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 421", "CH 440"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 421"], ["CH 440"]]
 }, {
   "corequisites": [],
   "course_name": "EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 461H",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic and physical chemistry. Lec/Lab.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 421", "CH 440"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 421"], ["CH 440"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 462",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 441", "CH 324", "CH 461", "CH 461H"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 441"], ["CH 324", "CH 461", "CH 461H"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 462H",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 441", "CH 324", "CH 461", "CH 461H"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 441"], ["CH 324", "CH 461", "CH 461H"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 463",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 324", "CH 461", "CH 461H", "CH 442"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 324", "CH 461", "CH 461H"], ["CH 442"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 463H",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 324", "CH 461", "CH 461H", "CH 442"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 324", "CH 461", "CH 461H"], ["CH 442"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 464",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 442"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 442"]]
 }, {
   "corequisites": [],
   "course_name": "^EXPERIMENTAL CHEMISTRY II",
   "course_number": "CH 464H",
   "credits": "3",
   "description": "Second-level integrated laboratory course for majors in chemistry and related disciplines, covering experimental techniques of analytical, inorganic, organic and physical chemistry.",
-  "prerequisites": ["CH 362", "CH 362H", "CH 442"]
+  "prerequisites": [["CH 362", "CH 362H"], ["CH 442"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF INNOVATION",
@@ -487,14 +487,14 @@
   "course_number": "CH 472",
   "credits": "2",
   "description": "Produce a first-pass product-market gap analysis on one example application of a science technology platform in a given market. Define a platform in collaboration with research faculty or from work completed in CH 470/SCI 470. Assess the opportunity – if any – that a product might have for application in a chosen market before planning and conducting scientific research. CROSSLISTED as CH 472/SCI 472.",
-  "prerequisites": ["SCI 470", "CH 470"]
+  "prerequisites": [["SCI 470", "CH 470"]]
 }, {
   "corequisites": [],
   "course_name": "INNOVATION TO IMPACT",
   "course_number": "CH 474",
   "credits": "2",
   "description": "Build on skills gained in CH 472/SCI 472 to conduct and refine a first pass product-market gap analysis on one example application of a technology platform for a market segment selected from a defined technology platform. Investigate and determine the opportunity – if any – that a product might have in a chosen market before proposing and executing a research plan. CROSSLISTED as CH 474/SCI 474.",
-  "prerequisites": ["SCI 472", "CH 472"]
+  "prerequisites": [["SCI 472", "CH 472"]]
 }, {
   "corequisites": [],
   "course_name": "MATERIALS CHEMISTRY IN RECHARGEABLE BATTERIES",
@@ -557,7 +557,7 @@
   "course_number": "CH 512",
   "credits": "4",
   "description": "Descriptive chemistry of the elements, focusing on main-group compounds, transition metal complexes, and solid-state chemistry.",
-  "prerequisites": ["CH 511"]
+  "prerequisites": [["CH 511"]]
 }, {
   "corequisites": [],
   "course_name": "SOLID STATE CHEMISTRY",
@@ -634,7 +634,7 @@
   "course_number": "CH 550",
   "credits": "3",
   "description": "Elementary wave mechanics and matrix mechanics of atoms and molecules. Quantum basis of chemical structure.",
-  "prerequisites": ["CH 542"]
+  "prerequisites": [["CH 542"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL THERMODYNAMICS",
@@ -655,14 +655,14 @@
   "course_number": "CH 572",
   "credits": "2",
   "description": "Produce a first-pass product-market gap analysis on one example application of a science technology platform in a given market. Define a platform in collaboration with research faculty or from work completed in CH 570/SCI 570. Assess the opportunity – if any – that a product might have for application in a chosen market before planning and conducting scientific research. CROSSLISTED as CH 572/SCI 572.",
-  "prerequisites": ["SCI 570", "CH 570"]
+  "prerequisites": [["SCI 570", "CH 570"]]
 }, {
   "corequisites": [],
   "course_name": "INNOVATION TO IMPACT",
   "course_number": "CH 574",
   "credits": "2",
   "description": "Build on skills gained in CH 572/SCI 572 to conduct and refine a first pass product-market gap analysis on one example application of a technology platform for a market segment selected from a defined technology platform. Investigate and determine the opportunity – if any – that a product might have in a chosen market before proposing and executing a research plan. CROSSLISTED as CH 574/SCI 574.",
-  "prerequisites": ["SCI 572", "CH 572"]
+  "prerequisites": [["SCI 572", "CH 572"]]
 }, {
   "corequisites": [],
   "course_name": "MATERIALS CHEMISTRY IN RECHARGEABLE BATTERIES",
@@ -816,7 +816,7 @@
   "course_number": "CH 680",
   "credits": "3",
   "description": "Nonsequence courses designed to acquaint students with recent advances in physical chemistry. Topics include molecular structure dynamics determination (UV-visible, near-IR light sources, x-ray, electron and neutron diffraction), spectroscopy (ultrafast, nonlinear, multidimensional, multiphoton, magnetic resonance, photoelectron), physical chemistry of condensed phase systems (biomolecules, aqueous solution, novel materials, ionic, molecular and liquid crystals, critical phenomena, mass transport), theoretical chemistry (chemical bonding, scattering theory, group theory, dynamics), electronic structure theory of molecules, structural dynamics of complex systems. Need not be taken in order. Not offered every year.",
-  "prerequisites": ["CH 550"]
+  "prerequisites": [["CH 550"]]
 }, {
   "corequisites": [],
   "course_name": "SELECTED TOPICS IN PHYSICAL CHEMISTRY",

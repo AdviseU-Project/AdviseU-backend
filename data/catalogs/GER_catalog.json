@@ -11,14 +11,14 @@
   "course_number": "GER 112",
   "credits": "4",
   "description": "Development of basic writing, reading, listening, and speaking skills; includes cultural component. Designed solely for students with no prior training in German. Native or bilingual speakers of German will not receive credit for GER 111, GER 112, or GER 113.",
-  "prerequisites": ["GER 111"]
+  "prerequisites": [["GER 111"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR GERMAN",
   "course_number": "GER 113",
   "credits": "4",
   "description": "Development of basic writing, reading, listening, and speaking skills; includes cultural component. Designed solely for students with no prior training in German. Native or bilingual speakers of German will not receive credit for GER 111, GER 112, or GER 113.",
-  "prerequisites": ["GER 112"]
+  "prerequisites": [["GER 112"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -32,21 +32,21 @@
   "course_number": "GER 211",
   "credits": "4",
   "description": "Continuing development of writing, reading, listening, and speaking skills; cultural component. Native or bilingual speakers of German will not receive credit for GER 211, GER 212 or GER 213.",
-  "prerequisites": ["GER 113"]
+  "prerequisites": [["GER 113"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR GERMAN",
   "course_number": "GER 212",
   "credits": "4",
   "description": "Continuing development of writing, reading, listening, and speaking skills; cultural component. Native or bilingual speakers of German will not receive credit for GER 211, GER 212, or GER 213.",
-  "prerequisites": ["GER 211"]
+  "prerequisites": [["GER 211"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR GERMAN",
   "course_number": "GER 213",
   "credits": "4",
   "description": "Continuing development of writing, reading, listening, and speaking skills; cultural component. Native or bilingual speakers of German will not receive credit for GER 211, GER 212, or GER 213.",
-  "prerequisites": ["GER 212"]
+  "prerequisites": [["GER 212"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -60,21 +60,21 @@
   "course_number": "GER 311",
   "credits": "4",
   "description": "Focus on development of German writing, speaking, and listening skills towards the level B1/B2 of the Common European Framework of Languages. Conducted in German.",
-  "prerequisites": ["GER 213"]
+  "prerequisites": [["GER 213"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR GERMAN",
   "course_number": "GER 312",
   "credits": "4",
   "description": "Develop writing, speaking, and listening skills in German towards the B1 level of the Common European Framework of Languages. Focus on continued development of intermediate language skills learned in GER 311. Conducted in German.",
-  "prerequisites": ["GER 311"]
+  "prerequisites": [["GER 311"]]
 }, {
   "corequisites": [],
   "course_name": "THIRD-YEAR GERMAN",
   "course_number": "GER 313",
   "credits": "4",
   "description": "Develop writing, speaking, and listening skills in German towards the B1 level of the Common European Framework of Languages. Focus on continued development of intermediate language skills learned in GER 312. Conducted in German.",
-  "prerequisites": ["GER 312"]
+  "prerequisites": [["GER 312"]]
 }, {
   "corequisites": [],
   "course_name": "SELECTED TOPICS IN GERMAN LANGUAGE",
@@ -88,7 +88,7 @@
   "course_number": "GER 320",
   "credits": "3",
   "description": "Emphasizes intensive application of language for intermediate and advanced everyday proficiency (B1-C1), career exploration, and employment. Explores German-speaking companies: business practices, corporate structure, human resources, product development, marketing, finance, law, cultural aspects. Develops skills in different modes of communication as appropriate in business settings. Taught in German.",
-  "prerequisites": ["GER 213"]
+  "prerequisites": [["GER 213"]]
 }, {
   "corequisites": [],
   "course_name": "SELECTED TOPICS IN LITERATURE AND/OR CULTURE",
@@ -116,7 +116,7 @@
   "course_number": "GER 350",
   "credits": "3",
   "description": "Introduces the linguistic structure of German and its variations through linguistic problem-solving. Explores what comprises the German language and how it is used today. Examines linguistic subfields and their relationship with a special focus on morphology, syntax, semantics and pragmatics. Develops skills for language analysis and applied linguistic knowledge in order to improve comprehension and communication skills in German. Taught in German.",
-  "prerequisites": ["GER 213"]
+  "prerequisites": [["GER 213"]]
 }, {
   "corequisites": [],
   "course_name": "GERMAN PRONUNCIATION AND PHONETICS",
@@ -130,7 +130,7 @@
   "course_number": "GER 355",
   "credits": "3",
   "description": "Introduces students to translation studies in theory and practice. Students will learn problems behind translating texts and strategies to overcome these issues, before working on shorter and longer translation projects of a variety of texts. Taught in English.",
-  "prerequisites": ["GER 312"]
+  "prerequisites": [["GER 312"]]
 }, {
   "corequisites": [],
   "course_name": "CRITICAL ISSUES OF GERMAN CINEMA",
@@ -214,21 +214,21 @@
   "course_number": "GER 411",
   "credits": "4",
   "description": "Develops German writing, speaking, and listening skills towards the level B2/C1 of the Common European Framework of Languages. Conducted in German.",
-  "prerequisites": ["GER 313"]
+  "prerequisites": [["GER 313"]]
 }, {
   "corequisites": [],
   "course_name": "FOURTH-YEAR GERMAN",
   "course_number": "GER 412",
   "credits": "4",
   "description": "Focus on development of German writing, speaking, and listening skills towards the level B2/C1 of the Common European Framework of Languages. Conducted in German.",
-  "prerequisites": ["GER 411"]
+  "prerequisites": [["GER 411"]]
 }, {
   "corequisites": [],
   "course_name": "FOURTH-YEAR GERMAN",
   "course_number": "GER 413",
   "credits": "4",
   "description": "Develops German writing, speaking, and listening skills towards the level B2/C1 of the Common European Framework of Languages. Conducted in German.",
-  "prerequisites": ["GER 412"]
+  "prerequisites": [["GER 412"]]
 }, {
   "corequisites": [],
   "course_name": "SELECTED TOPICS IN GERMAN LITERATURE",

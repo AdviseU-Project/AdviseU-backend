@@ -123,14 +123,14 @@
   "course_number": "BI 205",
   "credits": "4",
   "description": "Explores fundamental concepts in molecular and cellular biology, beginning with biomolecules and the origin of life, and ending with genomics. Emphasizes applications of molecular and cellular biology to solve human problems. Reinforces general course content, through companion laboratory experiments, while cultivating student skills in critical thinking, scientific writing, and experimental design. Not intended for pre-health profession students.",
-  "prerequisites": ["BI 204", "CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["BI 204"], ["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271", "CH 271H"]]
 }, {
   "corequisites": [],
   "course_name": "*INTRODUCTORY BIOLOGY III",
   "course_number": "BI 206",
   "credits": "4",
   "description": "Explores basic plant and animal physiology from an evolutionary perspective. Significant emphasis on topics of importance to human society, including human and plant disease. Laboratory emphasizes skills in critical thinking, scientific writing, and experimental design. Not intended for pre-health professional students.",
-  "prerequisites": ["BI 204", "CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["BI 204"], ["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271", "CH 271H"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY",
@@ -151,70 +151,70 @@
   "course_number": "BI 212",
   "credits": "4",
   "description": "Cell biology, organ systems, plant and animal physiology. Lec/lab. (Bacc Core Course)",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 121", "CH 201", "CH 221", "CH 224H", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY",
   "course_number": "BI 212H",
   "credits": "4",
   "description": "Cell biology, organ systems, plant and animal physiology. Lec/lab. (Bacc Core Course)",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 121", "CH 201", "CH 221", "CH 224H", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY",
   "course_number": "BI 213",
   "credits": "4",
   "description": "Genetics, evolution, natural selection, and ecology. Lec/lab. (Bacc Core Course)",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 121", "CH 201", "CH 221", "CH 224H", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY",
   "course_number": "BI 213H",
   "credits": "4",
   "description": "Genetics, evolution, natural selection, and ecology. Lec/lab. (Bacc Core Course)",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 121", "CH 201", "CH 221", "CH 224H", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY: CELLS",
   "course_number": "BI 221",
   "credits": "4",
   "description": "Introduction to fundamental biological concepts and theories about the chemical and molecular basis of life, structure and function, transformation of energy and matter and information flow at a cellular and molecular level. (Bacc Core Course)",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY: CELLS",
   "course_number": "BI 221H",
   "credits": "4",
   "description": "Introduction to fundamental biological concepts and theories about the chemical and molecular basis of life, structure and function, transformation of energy and matter and information flow at a cellular and molecular level. (Bacc Core Course)",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
   "course_number": "BI 222",
   "credits": "4",
   "description": "Introduction to fundamental biological concepts and theories about plant, and animal physiology, evolution, structure and function, transformation of energy and matter and systems at an organismal level. (Bacc Core Course)",
-  "prerequisites": ["BI 221", "BI 221H", "CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["BI 221", "BI 221H"], ["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
   "course_number": "BI 222H",
   "credits": "4",
   "description": "Introduction to fundamental biological concepts and theories about plant, and animal physiology, evolution, structure and function, transformation of energy and matter and systems at an organismal level. (Bacc Core Course)",
-  "prerequisites": ["BI 221", "BI 221H", "CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["BI 221", "BI 221H"], ["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
   "course_number": "BI 223",
   "credits": "4",
   "description": "Introduction to fundamental biological concepts and theories about diversity, evolution, and ecology; specifically, evolutionary relationship, transformation of energy and matter, information flow and systems at a population level or above. (Bacc Core Course)",
-  "prerequisites": ["BI 221", "BI 221H", "CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["BI 221", "BI 221H"], ["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
   "course_number": "BI 223H",
   "credits": "4",
   "description": "Introduction to fundamental biological concepts and theories about diversity, evolution, and ecology; specifically, evolutionary relationship, transformation of energy and matter, information flow and systems at a population level or above. (Bacc Core Course)",
-  "prerequisites": ["BI 221", "BI 221H", "CH 121", "CH 201", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 271"]
+  "prerequisites": [["BI 221", "BI 221H"], ["CH 121", "CH 201", "CH 231", "CH 231H"], ["CH 261", "CH 261H", "CH 271"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
@@ -228,35 +228,35 @@
   "course_number": "BI 232",
   "credits": "3",
   "description": "The second of a three-term introductory series. Using a strong gross anatomy focus, course topics address the structures, functions and regulatory mechanisms involved in the human nervous, endocrine and reproductive systems. Lec.",
-  "prerequisites": ["BI 231"]
+  "prerequisites": [["BI 231"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
   "course_number": "BI 233",
   "credits": "3",
   "description": "The third of a three-term introductory series. Using a strong gross anatomy focus, course topics address the structures, functions, and regulatory mechanisms involved in the human cardiovascular, respiratory, urinary and digestive systems. Lec.",
-  "prerequisites": ["BI 231"]
+  "prerequisites": [["BI 231"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
   "course_number": "BI 241",
   "credits": "2",
   "description": "The first of a three-term introductory series. Using the human cadaver (prosection), course topics address fundamental concepts of biology as they apply to human anatomy and physiology and then focus on understanding the structures, functions, and regulatory mechanisms involved in the human skeletal, muscular and integumentary systems. Physiology demonstrations illustrate functions of organ systems.",
-  "prerequisites": ["BI 231"]
+  "prerequisites": [["BI 231"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
   "course_number": "BI 242",
   "credits": "2",
   "description": "The second of a three-term introductory series. Using the human cadaver (prosection) and dissection of preserved specimens with a strong gross anatomy focus, course topics address the structures, functions and regulatory mechanisms involved in the nervous, endocrine and reproductive systems. Physiology demonstrations illustrate functions of organ systems.",
-  "prerequisites": ["BI 231", "BI 232", "BI 241"]
+  "prerequisites": [["BI 231"], ["BI 232"], ["BI 241"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
   "course_number": "BI 243",
   "credits": "2",
   "description": "The third of a three-term introductory series. Using the human cadaver (prosection) and dissection of preserved specimens with a strong gross anatomy focus, course topics address the structures, functions, and regulatory mechanisms involved in the human cardiovascular, respiratory, urinary and digestive systems. Physiology demonstrations illustrate functions of organ systems.",
-  "prerequisites": ["BI 231", "BI 233", "BI 241"]
+  "prerequisites": [["BI 231"], ["BI 233"], ["BI 241"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
@@ -270,14 +270,14 @@
   "course_number": "BI 255",
   "credits": "5",
   "description": "Second of a three-term series. Explores the structures, functions and regulatory mechanisms involved in the nervous, endocrine and reproductive systems.",
-  "prerequisites": ["BI 254"]
+  "prerequisites": [["BI 254"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
   "course_number": "BI 256",
   "credits": "5",
   "description": "Third of a three-term series. Explores the structures, functions, and regulatory mechanisms involved in the cardiovascular, respiratory, urinary and digestive systems.",
-  "prerequisites": ["BI 254"]
+  "prerequisites": [["BI 254"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL DEVELOPMENT FOR BIOLOGISTS II",
@@ -326,65 +326,65 @@
   "course_number": "BI 311",
   "credits": "4",
   "description": "Explores fundamentals of transmission, population and molecular genetics.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "GENETICS",
   "course_number": "BI 311H",
   "credits": "4",
   "description": "Explores fundamentals of transmission, population and molecular genetics.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "^THEORY",
   "course_number": "BI 319",
   "credits": "PRACTICE",
   "description": "The practice of science and the critical evaluation of scientific claims are explored though writings, discussions and presentations. Topics including the scientific method, ethics and the role of science in society are examined along with implications for professionals ranging from health care to environmental biology. Strategies for effectively communicating science with diverse audiences are emphasized.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206", "ST 351", "ST 351H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"], ["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "^MICROBIAL INFLUENCES ON HUMAN HEALTH",
   "course_number": "BI 323",
   "credits": "3",
   "description": "Explores how microorganisms contribute in beneficial and detrimental ways to human health. Emphasizes microbial contributions to cancer, gut health, chronic infection and autoimmune diseases.",
-  "prerequisites": ["MB 302", "MB 302H"]
+  "prerequisites": [["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
   "course_number": "BI 331",
   "credits": "3",
   "description": "The first of a three-term advanced series. With a strong focus on the physiological underpinnings of disease, course topics address the fundamental concepts of human anatomy and physiology and then focus on understanding the structures, functions, regulatory mechanisms and common pathologies involved in the skeletal, muscular and integumentary systems. Lec.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "CH 123", "CH 233", "CH 233H", "CH 263", "CH 263H", "BI 341"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H"], ["CH 123", "CH 233", "CH 233H"], ["CH 263", "CH 263H"], ["BI 341"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
   "course_number": "BI 332",
   "credits": "3",
   "description": "The second of a three-term advanced series. With a strong focus on the physiological underpinnings of disease, course topics address the structures, functions, and regulatory mechanisms involved in the nervous, endocrine and reproductive systems. Lec.",
-  "prerequisites": ["BI 331", "BI 342"]
+  "prerequisites": [["BI 331"], ["BI 342"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
   "course_number": "BI 333",
   "credits": "3",
   "description": "The third part of a three-term advanced series. With a strong focus on the physiological underpinnings of disease, course topics address the structures, functions, and regulatory mechanisms involved in the cardiovascular, respiratory, urinary and digestive systems. Lec.",
-  "prerequisites": ["BI 332", "BI 343"]
+  "prerequisites": [["BI 332"], ["BI 343"]]
 }, {
-  "corequisites": ["BI 331"],
+  "corequisites": [["BI 331"]],
   "course_name": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
   "course_number": "BI 341",
   "credits": "2",
   "description": "The first of a three-term advanced series. Using the human cadaver (prosection) and physiological data acquisition equipment, course topics address the fundamental concepts of human anatomy and physiology and then focus on understanding the structures, functions, regulatory mechanisms and common pathologies involved in the human skeletal, muscular and integumentary systems. Lab.",
   "prerequisites": []
 }, {
-  "corequisites": ["BI 332"],
+  "corequisites": [["BI 332"]],
   "course_name": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
   "course_number": "BI 342",
   "credits": "2",
   "description": "The second of a three-term advanced series. Using the human cadaver (prosection), dissection of preserved specimens, and physiological data acquisition equipment, course topics address the structures, functions, regulatory mechanisms and common pathologies involved in the human nervous, endocrine and reproductive systems. Lab.",
   "prerequisites": []
 }, {
-  "corequisites": ["BI 333"],
+  "corequisites": [["BI 333"]],
   "course_name": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
   "course_number": "BI 343",
   "credits": "2",
@@ -403,7 +403,7 @@
   "course_number": "BI 347",
   "credits": "3",
   "description": "The interactions of society and the marine environment, emphasizing the ecological, biogeochemical, economic, sociological, and political significance of the oceans. Topics of current critical importance will include marine pollution, protecting marine habitats, conserving marine biodiversity, fisheries and aquaculture, ocean energy, biogeochemical change, global warming, ocean acidification, and sea level rise.",
-  "prerequisites": ["BI 101", "BI 102", "BI 211", "BI 211H", "BI 213", "BI 213H", "BI 204", "BI 150", "BI 221", "BI 221H"]
+  "prerequisites": [["BI 101", "BI 102", "BI 211", "BI 211H", "BI 213", "BI 213H", "BI 204", "BI 150", "BI 221", "BI 221H"]]
 }, {
   "corequisites": [],
   "course_name": "*HUMAN ECOLOGY",
@@ -417,56 +417,56 @@
   "course_number": "BI 351",
   "credits": "3",
   "description": "Ecological interactions and principles in different marine habitats. Topics include the organisms (plants, invertebrates, vertebrates) found in major habitats and interactions between organisms. Habitats discussed include coral reefs, rocky shores, kelp forests, near-shore waters, open-ocean waters, and the deep sea. Emphasis is placed on how organism-organism interactions produce varying patterns of distribution, abundance, body size, diversity, stability, and succession.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "PACIFIC NORTHWEST COASTAL ECOSYSTEMS",
   "course_number": "BI 353",
   "credits": "4",
   "description": "A field-based introduction to the diversity of ecosystems of the Pacific Northwest coast. Biological and physical processes affecting the distribution, structure, community composition and physical features of these systems are explored through a variety of lectures and field trips. Ecosystem services and human impacts are examined.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "SYMBIOSES AND THE ENVIRONMENT",
   "course_number": "BI 358",
   "credits": "3",
   "description": "Overview of the diversity of mutualistic symbioses and their roles in the natural environment. Integrative approach, from ecosystem to molecule, to the examination of certain key mutualisms. Offered even years",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206", "CH 123", "CH 233", "CH 233H", "CH 263", "CH 263H"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"], ["CH 123", "CH 233", "CH 233H"], ["CH 263", "CH 263H"]]
 }, {
   "corequisites": [],
   "course_name": "ECOLOGY",
   "course_number": "BI 370",
   "credits": "3",
   "description": "Examines the interactions between organisms and their biotic and abiotic environments at the population, community, ecosystem, and biosphere levels of organization.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "ECOLOGY",
   "course_number": "BI 370H",
   "credits": "3",
   "description": "Examines the interactions between organisms and their biotic and abiotic environments at the population, community, ecosystem, and biosphere levels of organization.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "^ECOLOGICAL METHODS",
   "course_number": "BI 371",
   "credits": "3",
   "description": "Experimental design, data collection, analysis and synthesis in ecological studies; local ecosystems emphasized.",
-  "prerequisites": ["BI 370", "BI 370H"]
+  "prerequisites": [["BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "^FIELD METHODS IN MARINE ECOLOGY",
   "course_number": "BI 373",
   "credits": "3",
   "description": "Exposure to research methods used in field studies of the marine rocky intertidal ecosystem. Research projects and writing exercises provide students with hands-on experience of collecting, analyzing, and presenting marine ecological data.",
-  "prerequisites": ["BI 351", "BI 370", "BI 370H", "ST 351", "ST 351H"]
+  "prerequisites": [["BI 351", "BI 370", "BI 370H"], ["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FIELD METHODS IN ECOLOGICAL RESTORATION",
   "course_number": "BI 375",
   "credits": "4",
   "description": "Observation and application of theory and practice in ecological restoration. Using site visits and hands-on research, explores the roles in restoration of fire, local adaptation, disturbance history, natural history, beaver, and soils, including visits to several active and completed restoration projects and overnights in the field. Lab.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "INTERSECTIONS OF BIODIVERSITY AND BUDDHIST CULTURES IN NEPAL",
@@ -550,70 +550,70 @@
   "course_number": "BI 427",
   "credits": "4",
   "description": "Fossils provide a direct window into the evolution, extinction, and ecology of past life on Earth. A process-based study of the marine and terrestrial fossil record is taken to explore the topics of preservation, macroevolution, extinction of biotas, biomechanics, paleoecology, and climate change. Required laboratory and weekend field trip.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206", "GEO 203"]
+  "prerequisites": [["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206", "GEO 203"]]
 }, {
   "corequisites": [],
   "course_name": "EVOLUTION",
   "course_number": "BI 445",
   "credits": "3",
   "description": "Formal analysis of genetic and ecological mechanisms producing evolutionary change; special topics include speciation, ecological constraints, adaptive radiations, paleontology, biogeography, the origin of life, molecular evolution, and human evolution.",
-  "prerequisites": ["BI 311", "BI 311H"]
+  "prerequisites": [["BI 311", "BI 311H"]]
 }, {
   "corequisites": [],
   "course_name": "EVOLUTION",
   "course_number": "BI 445H",
   "credits": "3",
   "description": "Formal analysis of genetic and ecological mechanisms producing evolutionary change; special topics include speciation, ecological constraints, adaptive radiations, paleontology, biogeography, the origin of life, molecular evolution, and human evolution.",
-  "prerequisites": ["BI 311", "BI 311H"]
+  "prerequisites": [["BI 311", "BI 311H"]]
 }, {
   "corequisites": [],
   "course_name": "^MARINE BIOLOGY AND ECOLOGY",
   "course_number": "BI 450",
   "credits": "15",
   "description": "A comprehensive lecture and laboratory introduction to the flora and fauna of the marine environment approached from the level of the organism to ecosystem. Ecological patterns and processes characteristic of marine communities will be emphasized. Taught at Hatfield Marine Science Center, Newport, OR.",
-  "prerequisites": ["BI 370", "BI 370H", "ST 351", "ST 351H"]
+  "prerequisites": [["BI 370", "BI 370H"], ["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FUNCTIONAL ANATOMY OF THE HUMAN MUSCULAR SYSTEM",
   "course_number": "BI 451",
   "credits": "4",
   "description": "In-depth dissection of the orientation, innervation, and functional significance of muscles and muscle groups. Topics include muscle identification, joint anatomy and variation of human form. Student expectations include vascularization and detailed joint anatomy. The laboratory component will consist of the dissection of the muscular anatomy of a human cadaver. Lab fee.",
-  "prerequisites": ["BI 231", "BI 241", "BI 331", "BI 341", "BI 232", "BI 242", "BI 332", "BI 342", "BI 233", "BI 243", "BI 333", "BI 343"]
+  "prerequisites": [["BI 231"], ["BI 241", "BI 331"], ["BI 341"], ["BI 232"], ["BI 242", "BI 332"], ["BI 342"], ["BI 233"], ["BI 243", "BI 333"], ["BI 343"]]
 }, {
   "corequisites": [],
   "course_name": "PHYLOGENETICS",
   "course_number": "BI 456",
   "credits": "4",
   "description": "Explores the theory and practice of modern phylogenetic analysis. Emphasis placed on tree reconstruction algorithms, assessment of statistical support, and contemporary issues in phylogenetics. Lab will focus on the use of phylogenetic software and the analysis of molecular data sets. Offered even years.",
-  "prerequisites": ["ST 351", "ST 351H", "ST 352", "ST 411", "BI 311", "BI 311H", "BI 445", "BI 445H"]
+  "prerequisites": [["ST 351", "ST 351H"], ["ST 352", "ST 411"], ["BI 311", "BI 311H", "BI 445", "BI 445H"]]
 }, {
   "corequisites": [],
   "course_name": "BIOGEOGRAPHY",
   "course_number": "BI 481",
   "credits": "3",
   "description": "Biogeography is the study of the distribution of biodiversity. Focuses on abiotic (geological, climatological) and biotic (ecological, evolutionary) factors that govern diversity across space and through time, emphasizing assembly of communities, global change, and conservation in today’s rapidly changing world. Offered odd years.",
-  "prerequisites": ["BI 370", "BI 370H"]
+  "prerequisites": [["BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "POPULATION BIOLOGY",
   "course_number": "BI 483",
   "credits": "3",
   "description": "Theoretical and empirical views of the structure and function of populations from across the tree of life, emphasizing the integration of ecological and evolutionary approaches.",
-  "prerequisites": ["MTH 241", "MTH 251", "MTH 251H", "MTH 227", "ST 351", "ST 351H", "ST 352", "ST 411", "BI 311", "BI 311H", "BI 370", "BI 370H"]
+  "prerequisites": [["MTH 241", "MTH 251", "MTH 251H", "MTH 227"], ["ST 351", "ST 351H"], ["ST 352", "ST 411"], ["BI 311", "BI 311H", "BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "MONSTER BIOLOGY",
   "course_number": "BI 485",
   "credits": "3",
   "description": "Scientists seek to explain what exists and why things are. An alternative approach is to ask why things are not. Biological and physical laws are used to critically and rigorously assess why monsters from literature, television and film are not possible in the real world.",
-  "prerequisites": ["BI 311", "BI 311H", "BI 370", "BI 370H"]
+  "prerequisites": [["BI 311", "BI 311H"], ["BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "DISEASE ECOLOGY",
   "course_number": "BI 495",
   "credits": "3",
   "description": "An introduction to disease ecology--the study of disease processes in natural populations and communities. Focuses on (I) the role parasites play in the ecology and evolution of animal populations, including humans; and (II) the relevance of ecological and evolutionary considerations in managing infectious diseases. Not offered every year.",
-  "prerequisites": ["BI 370", "BI 370H"]
+  "prerequisites": [["BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "SENIOR ASSESSMENT AND SURVEY",

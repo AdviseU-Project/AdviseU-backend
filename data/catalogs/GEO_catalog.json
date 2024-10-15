@@ -88,7 +88,7 @@
   "course_number": "GEO 301",
   "credits": "4",
   "description": "Explores problem-based numerical data analysis in the Earth Sciences, with an emphasis on practical skills in visualizing and interpreting geoscience data sets.",
-  "prerequisites": ["GEO 201", "ST 351", "ST 351H"]
+  "prerequisites": [["GEO 201"], ["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "*LIVING WITH ACTIVE CASCADE VOLCANOES",
@@ -123,21 +123,21 @@
   "course_number": "GEO 310",
   "credits": "4",
   "description": "Principles of crystal morphology, and structure. Characteristics, identification, and origins of minerals.",
-  "prerequisites": ["GEO 201", "GEO 221", "GEO 221H", "CH 121", "CH 231", "CH 261", "CH 231H", "CH 261H"]
+  "prerequisites": [["GEO 201", "GEO 221", "GEO 221H"], ["CH 121", "CH 231"], ["CH 261", "CH 231H"], ["CH 261H"]]
 }, {
   "corequisites": [],
   "course_name": "EARTH MATERIALS II: PETROLOGY",
   "course_number": "GEO 315",
   "credits": "4",
   "description": "Origin, identification and classification of igneous, sedimentary, and metamorphic rocks. Field trip(s) required, transportation fee charged.",
-  "prerequisites": ["GEO 310"]
+  "prerequisites": [["GEO 310"]]
 }, {
   "corequisites": [],
   "course_name": "SURFACE PROCESSES",
   "course_number": "GEO 322",
   "credits": "4",
   "description": "Examination of surficial processes and terrestrial landforms of the earth, including slopes, rivers, glaciers, deserts, and coastlines. Field trip(s) required; transportation fee charged.",
-  "prerequisites": ["GEO 202", "GEO 202H", "MTH 251", "MTH 251H", "PH 201", "PH 211", "PH 211H"]
+  "prerequisites": [["GEO 102", "GEO 102H", "GEO 202", "GEO 202H"], ["MTH 251", "MTH 251H"], ["PH 201", "PH 201H", "PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "*ASTROBIOLOGY: LIFE BEYOND EARTH",
@@ -158,14 +158,14 @@
   "course_number": "GEO 340",
   "credits": "4",
   "description": "Analysis of geometry and kinematics of geologic structures including brittle and ductile faults, folds, joints, deformation fabrics. Field trip(s) required; transportation fee charged.",
-  "prerequisites": ["GEO 201"]
+  "prerequisites": [["GEO 201"]]
 }, {
   "corequisites": [],
   "course_name": "STRATIGRAPHY AND SEDIMENTOLOGY",
   "course_number": "GEO 370",
   "credits": "4",
   "description": "Basic principles of sedimentology and stratigraphy. Sedimentology is largely concerned with classifying and interpreting the origin of sedimentary rocks. Stratigraphy provides formal rules and strategies for organizing sedimentary (and other) rocks into a temporal framework. Reconstruction of Earth history with various approaches centered on paleoclimatology, paleogeography, paleooceanography, and tectonics.",
-  "prerequisites": ["GEO 201", "GEO 203"]
+  "prerequisites": [["GEO 201"], ["GEO 203"]]
 }, {
   "corequisites": [],
   "course_name": "*EARTHQUAKES IN THE PACIFIC NORTHWEST",
@@ -179,14 +179,14 @@
   "course_number": "GEO 387",
   "credits": "3",
   "description": "Explore basic groundwater concepts, including quantifying water levels, groundwater flow, and groundwater-surface water interactions. Apply hydrogeology concepts to actual management and environmental problems. Understand factors that impact how water flows through the ground and its availability for human consumption and for ecosystem health.",
-  "prerequisites": ["GEO 201", "GEO 202", "GEO 202H", "GEO 221", "GEO 221H"]
+  "prerequisites": [["GEO 201", "GEO 202", "GEO 202H", "GEO 221", "GEO 221H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO FIELD GEOLOGY",
   "course_number": "GEO 395",
   "credits": "3",
   "description": "Build skills to identify igneous, sedimentary, and metamorphic rocks. Recognize and locate rock unit contacts. Establish a field traverse objective based on observations and collect structural and depositional data. Analyze collected field data through the development of geological maps, interpretive cross-sections, and stratigraphic columns. Interpret geological history in these products and written reports.",
-  "prerequisites": ["GEO 201"]
+  "prerequisites": [["GEO 201"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -256,35 +256,35 @@
   "course_number": "GEO 412",
   "credits": "4",
   "description": "Petrogenesis of igneous rocks. Petrographic analysis using polarizing microscopes. Field trip may be required, transportation fee charged.",
-  "prerequisites": ["GEO 315"]
+  "prerequisites": [["GEO 315"]]
 }, {
   "corequisites": [],
   "course_name": "EARTH MATERIALS III: PETROGRAPHY",
   "course_number": "GEO 415",
   "credits": "4",
   "description": "Microscope-based study of minerals and igneous, sedimentary and metamorphic rocks. Representation and interpretation of geological processes based on microscopic observation.",
-  "prerequisites": ["GEO 201", "GEO 310", "GEO 315"]
+  "prerequisites": [["GEO 201"], ["GEO 310"], ["GEO 315"]]
 }, {
   "corequisites": [],
   "course_name": "^VOLCANOLOGY",
   "course_number": "GEO 427",
   "credits": "4",
   "description": "A survey of volcanoes: their distribution, forms, composition, eruptive products, eruptive styles, and associated phenomena. Field trip may be required; transportation fee charged.",
-  "prerequisites": ["GEO 315"]
+  "prerequisites": [["GEO 315"]]
 }, {
   "corequisites": [],
   "course_name": "^GEOCHEMISTRY",
   "course_number": "GEO 430",
   "credits": "4",
   "description": "Principles of geochemistry applied to problems of earth science.",
-  "prerequisites": ["GEO 315", "CH 121", "CH 122", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 232", "CH 232H", "CH 262", "CH 262H"]
+  "prerequisites": [["GEO 315"], ["CH 121"], ["CH 122", "CH 231", "CH 231H"], ["CH 261", "CH 261H"], ["CH 232", "CH 232H"], ["CH 262", "CH 262H"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL GEOCHEMISTRY",
   "course_number": "GEO 431",
   "credits": "3",
   "description": "An introduction to natural processes at and near the earth's surface, as well as an examination of the impact of human activities on the natural environment. Study includes discussion of the sources, transformations, transport, and fate of contaminants. Field trip(s) required; transportation fee charge.",
-  "prerequisites": ["CH 121", "CH 122", "CH 123", "CH 231", "CH 231H", "CH 232", "CH 232H", "CH 233", "CH 233H"]
+  "prerequisites": [["CH 121"], ["CH 122"], ["CH 123", "CH 231", "CH 231H"], ["CH 232", "CH 232H"], ["CH 233", "CH 233H"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED GEOMORPHOLOGY",
@@ -298,21 +298,21 @@
   "course_number": "GEO 433",
   "credits": "3",
   "description": "Morphodynamic approach to coastal landforms, processes and evolution including the impacts and response of humans to coastal change.",
-  "prerequisites": ["PH 211", "PH 211H", "PH 212", "PH 212H", "GEO 322"]
+  "prerequisites": [["PH 211", "PH 211H"], ["PH 212", "PH 212H"], ["GEO 322"]]
 }, {
   "corequisites": [],
   "course_name": "ECONOMIC GEOLOGY",
   "course_number": "GEO 440",
   "credits": "4",
   "description": "Principles of the origin, distribution, and importance of metallic mineral deposits formed by magmatic, hydrothermal, and sedimentary processes.",
-  "prerequisites": ["GEO 315"]
+  "prerequisites": [["GEO 315"]]
 }, {
   "corequisites": [],
   "course_name": "GEOLOGY OF EARTHQUAKES",
   "course_number": "GEO 461",
   "credits": "3",
   "description": "Tectonics of the present day as based on surface geology, geodesy, seismicity, and crustal structure; description of active faults and folds; use of neotectonics in evaluation of earthquake hazard. Field trip(s) may be required; transportation fee charged.",
-  "prerequisites": ["GEO 340"]
+  "prerequisites": [["GEO 340"]]
 }, {
   "corequisites": [],
   "course_name": "^GEOPHYSICS AND TECTONICS",
@@ -326,7 +326,7 @@
   "course_number": "GEO 477",
   "credits": "3",
   "description": "Discusses glaciers as an important component of the cryosphere and the climate of Earth. Examines the physics of glacier formation and flow; glacier interactions with atmosphere, ocean, and landscape. Explores the impact of modern glacier change on water resources and sea level rise.",
-  "prerequisites": ["MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "PH 211", "PH 211H", "PH 212", "PH 212H"]
+  "prerequisites": [["MTH 251", "MTH 251H"], ["MTH 252", "MTH 252H"], ["PH 211", "PH 211H"], ["PH 212", "PH 212H"]]
 }, {
   "corequisites": [],
   "course_name": "GLACIAL GEOLOGY",
@@ -340,21 +340,21 @@
   "course_number": "GEO 484",
   "credits": "3",
   "description": "Interdisciplinary course, applying concepts from chemistry, physics, biology and geology to Earth systems including terrestrial, ocean and freshwater environments; water and energy cycles; carbon, nitrogen, phosphorus and sulfur cycles; biogeochemical cycles through Earth history.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "CH 121", "CH 122", "CH 231", "CH 231H", "CH 261", "CH 261H", "CH 232", "CH 232H", "CH 262", "CH 262H"]
+  "prerequisites": [["MTH 111", "MTH 111Z"], ["CH 121"], ["CH 122", "CH 231", "CH 231H"], ["CH 261", "CH 261H"], ["CH 232", "CH 232H"], ["CH 262", "CH 262H"]]
 }, {
   "corequisites": [],
   "course_name": "QUATERNARY PALEOCLIMATOLOGY",
   "course_number": "GEO 486",
   "credits": "3",
   "description": "Introduction to geochronology, climate proxies, climate forcing, and climate modeling applied to paleoclimate problems. Emphasis on Quaternary climate history.",
-  "prerequisites": ["GEO 202", "GEO 202H", "GEO 203", "CH 122", "CH 232", "CH 232H", "CH 262", "CH 262H", "CH 272"]
+  "prerequisites": [["GEO 202", "GEO 202H", "GEO 203"], ["CH 122", "CH 232", "CH 232H"], ["CH 262", "CH 262H", "CH 272"]]
 }, {
   "corequisites": [],
   "course_name": "HYDROGEOLOGY",
   "course_number": "GEO 487",
   "credits": "4",
   "description": "Movement of water through porous media. Darcy's Law and groundwater flow equation. Development of groundwater resources. Computer models.",
-  "prerequisites": ["MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "QUATERNARY STRATIGRAPHY OF NORTH AMERICA",
@@ -368,7 +368,7 @@
   "course_number": "GEO 495",
   "credits": "6",
   "description": "Six-week summer program in central Oregon. Collect field data to make geological maps, cross-sections, columns, and reports. Fee charged.",
-  "prerequisites": ["GEO 395", "GEO 315", "GEO 340", "GEO 370"]
+  "prerequisites": [["GEO 295", "GEO 395"], ["GEO 315"], ["GEO 340"], ["GEO 370"]]
 }, {
   "corequisites": [],
   "course_name": "FIELD MAPPING OF ORE DEPOSITS",
@@ -494,7 +494,7 @@
   "course_number": "GEO 535",
   "credits": "3",
   "description": "An introduction to the theory, techniques and instrumentation used for the chemical analysis of earth materials, with emphasis on analysis of solid earth material samples (predominantly, but not restricted to, rocks). Includes discussions of laboratory safety, relevant statistical approaches, basic physical and chemical principles of analysis, sample preparation techniques and data processing and reporting. Course also includes a large component of hands-on experience with instrumentation available in-house in the College of Earth, Ocean, and Atmospheric Sciences.",
-  "prerequisites": ["GEO 530"]
+  "prerequisites": [["GEO 530"]]
 }, {
   "corequisites": [],
   "course_name": "TECTONIC GEOMORPHOLOGY",

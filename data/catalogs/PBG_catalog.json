@@ -116,14 +116,14 @@
   "course_number": "PBG 442",
   "credits": "1",
   "description": "Practice and develop skills pertinent to various tissue culture techniques. Employ aseptic technique with a variety of culture types and categorize different potential sources of contamination. Interpret lab results in the context of theories and topics explored in PBG 440/PBG 540.",
-  "prerequisites": ["PBG 440"]
+  "prerequisites": [["PBG 440"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT BREEDING",
   "course_number": "PBG 450",
   "credits": "4",
   "description": "An introduction to the genetic improvement of self-pollinated, cross-pollinated, and asexually propagated species and the genetic principles on which breeding methods are based. Examples are drawn from a wide range of crops, including cereal grains, grasses, fruits, nuts, and vegetables; guest lecturers discuss their breeding programs. Additional topics include crop evaluation, germplasm preservation, disease resistance, and biotechnology.",
-  "prerequisites": ["PBG 430"]
+  "prerequisites": [["PBG 430"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -235,7 +235,7 @@
   "course_number": "PBG 542",
   "credits": "1",
   "description": "Practice and develop skills pertinent to various tissue culture techniques. Employ aseptic technique with a variety of culture types and categorize different potential sources of contamination. Interpret lab results in the context of theories and topics explored in PBG 440/PBG 540.",
-  "prerequisites": ["PBG 540"]
+  "prerequisites": [["PBG 540"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT BREEDING",
@@ -249,14 +249,14 @@
   "course_number": "PBG 551",
   "credits": "1",
   "description": "The overall goal of the course is to gain fundamental knowledge of breeding methods for clonal crops; these methods are different from those used for seed-propagated crops. Specific examples from a wide array of plant species (tree fruits, berries, tree nuts, potato, sweet potato, cassava, cacao) will be provided to illustrate application of the fundamental knowledge.",
-  "prerequisites": ["PBG 450", "PBG 550"]
+  "prerequisites": [["PBG 450", "PBG 550"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT BREEDING AND SEED PRODUCTION IN ORGANIC SYSTEMS",
   "course_number": "PBG 552",
   "credits": "3",
   "description": "Genetic improvement and seed propagation of self-pollinated and cross-pollinated crops bred for and used in organic production. The philosophical basis for organic agriculture will be reviewed in the context of what breeding technologies are allowed and why. Important traits for adaptation to organic production will be described. Models for organic plant breeding and examples of such programs are provided.",
-  "prerequisites": ["PBG 530"]
+  "prerequisites": [["PBG 530"]]
 }, {
   "corequisites": [],
   "course_name": "CROP PLANT DOMESTICATION",

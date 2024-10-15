@@ -83,33 +83,33 @@
   "description": "By special permission and arrangement.",
   "prerequisites": []
 }, {
-  "corequisites": ["AHE 553"],
+  "corequisites": [["AHE 553"]],
   "course_name": "INSTRUCTIONAL TECHNOLOGY I",
   "course_number": "AHE 522",
   "credits": "1",
   "description": "Explores technologies used in distance education to deliver content and facilitate active learning through learner creation of digital portfolios and artifacts using online tools and apps.",
   "prerequisites": []
 }, {
-  "corequisites": ["AHE 533"],
+  "corequisites": [["AHE 533"]],
   "course_name": "INSTRUCTIONAL TECHNOLOGY II",
   "course_number": "AHE 523",
   "credits": "1",
   "description": "An overview of best practices in digital-age learning design, including implementation of backward design principles.",
-  "prerequisites": ["AHE 522"]
+  "prerequisites": [["AHE 522"]]
 }, {
-  "corequisites": ["AHE 531"],
+  "corequisites": [["AHE 531"]],
   "course_name": "INSTRUCTIONAL TECHNOLOGY III",
   "course_number": "AHE 524",
   "credits": "1",
   "description": "Students will develop the knowledge and skills needed to design and create complete online teachings/courses within a learning management system.",
-  "prerequisites": ["AHE 522", "AHE 523"]
+  "prerequisites": [["AHE 522"], ["AHE 523"]]
 }, {
-  "corequisites": ["AHE 547"],
+  "corequisites": [["AHE 547"]],
   "course_name": "INSTRUCTIONAL TECHNOLOGY IV",
   "course_number": "AHE 525",
   "credits": "1",
   "description": "Learners will research and demonstrate how to use a current innovative instructional technology, as well as develop skills in understanding trends and preparing for future innovations in instructional technology.",
-  "prerequisites": ["AHE 522", "AHE 523", "AHE 524"]
+  "prerequisites": [["AHE 522"], ["AHE 523"], ["AHE 524"]]
 }, {
   "corequisites": [],
   "course_name": "INSTRUCTIONAL DESIGN",
@@ -130,7 +130,7 @@
   "course_number": "AHE 533",
   "credits": "4",
   "description": "Introduces workplace learning needs assessment (WLNA) and research principles and practices for individual and collaborative learning groups.",
-  "prerequisites": ["AHE 553"]
+  "prerequisites": [["AHE 553"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIZATIONS AND SYSTEMS THEORY",
@@ -284,7 +284,7 @@
   "course_number": "AHE 616",
   "credits": "3",
   "description": "Develop conceptual and practical understanding of research and evaluation in higher education. Course topics include basic statistics, survey design, data analysis, and assessment issues. As an advanced statistics course, students will have the opportunity to apply concepts and gain direct research experience by conducting an original research project.",
-  "prerequisites": ["AHE 611"]
+  "prerequisites": [["AHE 611"]]
 }, {
   "corequisites": [],
   "course_name": "NEEDS ASSESSMENT IN HIGHER EDUCATION",
@@ -305,7 +305,7 @@
   "course_number": "AHE 619",
   "credits": "3",
   "description": "Focuses on the interlocking concepts of theory and data to broaden understanding and application of qualitative methodologies to improve research design and analysis from varying disciplinary approaches for the study of higher education.",
-  "prerequisites": ["AHE 618"]
+  "prerequisites": [["AHE 618"]]
 }, {
   "corequisites": [],
   "course_name": "CONTEMPORARY ISSUES IN HIGHER EDUCATION",

@@ -172,7 +172,7 @@
   "course_number": "AG 465",
   "credits": "2",
   "description": "Reflect on accumulated knowledge and technical/soft skills gained and conceptualize how to apply communication theories and practices in the context of future agricultural and natural resources careers. Integrate real-life agriculture and natural resources communications scenarios, which will allow for the practice of strategy development, proper implementation, and appropriate assessment methods. Helps package and demonstrate skills verbally and in a portfolio.",
-  "prerequisites": ["AG 351"]
+  "prerequisites": [["AG 351"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

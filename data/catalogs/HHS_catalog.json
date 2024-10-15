@@ -74,14 +74,14 @@
   "course_number": "HHS 420",
   "credits": "3",
   "description": "Introduces how to conduct descriptive analyses, interpret and visualize/present data using Microsoft Excel software. Focuses on data and analysis methods and data interpretation and presentation relevant to public health and human health.",
-  "prerequisites": ["H 220", "ST 201", "ST 243Z"]
+  "prerequisites": [["H 220", "ST 201", "ST 243Z"]]
 }, {
   "corequisites": [],
   "course_name": "^REPORTING OF PUBLIC HEALTH DATA",
   "course_number": "HHS 421",
   "credits": "4",
   "description": "Introduces how to summarize and report descriptive data in the field of public health and how to communicate the data report to varied audiences in order to advance health equity.",
-  "prerequisites": ["HHS 420", "H 425"]
+  "prerequisites": [["HHS 420"], ["H 425"]]
 }, {
   "corequisites": [],
   "course_name": "GLOBAL NUTRITION",
@@ -102,28 +102,28 @@
   "course_number": "HHS 514",
   "credits": "6",
   "description": "An integrated approach to introduce students to the core knowledge and methods used in public health, including: evidence-based approaches to public health; public health and health care systems; planning and management to promote health; and policy in public health. This course is the second of a two part course sequence.",
-  "prerequisites": ["HHS 513"]
+  "prerequisites": [["HHS 513"]]
 }, {
   "corequisites": [],
   "course_name": "CASE STUDIES IN PUBLIC HEALTH PRACTICE",
   "course_number": "HHS 517",
   "credits": "3",
   "description": "Case-based learning to illustrate the complexity of public health issues and to demonstrate the need for integrated approaches for developing and implementing successful strategies in public health practice. Students will apply a wide range of knowledge and skills essential to public health practice that relate to outbreak investigation, policy analysis, regulatory decision-making, ethics, program development, program evaluation, research synthesis, screening programs, working with stakeholders, health risk communication, and disaster preparedness.",
-  "prerequisites": ["H 513", "HHS 514"]
+  "prerequisites": [["H 513", "HHS 514"]]
 }, {
   "corequisites": [],
   "course_name": "APPLICATION OF PUBLIC HEALTH DATA",
   "course_number": "HHS 520",
   "credits": "3",
   "description": "Introduces how to conduct descriptive analyses, interpret and visualize/present data using Microsoft Excel software. Focuses on data and analysis methods and data interpretation and presentation relevant to public health and human health.",
-  "prerequisites": ["H 513", "HHS 513", "H 524", "ST 511"]
+  "prerequisites": [["H 513", "HHS 513", "H 524", "ST 511"]]
 }, {
   "corequisites": [],
   "course_name": "REPORTING OF PUBLIC HEALTH DATA",
   "course_number": "HHS 521",
   "credits": "4",
   "description": "Introduces how to summarize and report descriptive data in the field of public health and how to communicate the data report to varied audiences in order to advance health equity.",
-  "prerequisites": ["HHS 520", "H 513", "HHS 513", "H 523"]
+  "prerequisites": [["HHS 520"], ["H 513", "HHS 513", "H 523"]]
 }, {
   "corequisites": [],
   "course_name": "PUBLIC HEALTH IMPACT",
@@ -137,21 +137,21 @@
   "course_number": "HHS 524",
   "credits": "3",
   "description": "Focuses on in-depth examination of current public health challenges and potential solutions. Provides an immersive project and team-based experience exploring diverse approaches for addressing complex problems. Emphasizes evidence-based practices; stakeholder analysis; appraisal of the social, economic and political landscape; advanced systems thinking approaches; and engagement of interdisciplinary partners.",
-  "prerequisites": ["HHS 523"]
+  "prerequisites": [["HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "LINEAR REGRESSION IN PUBLIC HEALTH",
   "course_number": "HHS 526",
   "credits": "2",
   "description": "Biostatistical tools for scientific applications in public health using linear regression analysis. Confounding, effect modification, variable selection, assessing model fit, observational studies, and exploratory data analysis. Emphasis on the use of statistical packages for analyzing public health data.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524"]]
 }, {
   "corequisites": [],
   "course_name": "LOGISTIC REGRESSION IN PUBLIC HEALTH",
   "course_number": "HHS 527",
   "credits": "2",
   "description": "Biostatistical tools for scientific applications in public health using logistic regression analysis. Confounding, effect modification, variable selection, assessing model fit, exploratory data analysis, and observational studies. Emphasis on the use of statistical packages for analyzing public health data.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTING FOR POPULATION HEALTH DATA",
@@ -172,7 +172,7 @@
   "course_number": "HHS 537",
   "credits": "3",
   "description": "Examines how collaboration differs from working together, and offer opportunities to develop skills for successful and effective group functioning. Students will be challenged to examine personal strengths (and the strengths of others) as they relate to leadership and followership. Explores evidence-based management – identifying and using organizational and scientific data in decision making.",
-  "prerequisites": ["H 536"]
+  "prerequisites": [["H 536"]]
 }, {
   "corequisites": [],
   "course_name": "GLOBAL NUTRITION",
@@ -200,35 +200,35 @@
   "course_number": "HHS 578",
   "credits": "3",
   "description": "Examine evidence-based public health and the process of integrating science-based interventions with community preferences to improve the health of populations. Identify and evaluate evidence-based research including programs, surveillance and policies. Develop skills to select, implement, and adapt evidence-based public health programming integrating input from the community. Align program fit with public health issue and community needs.",
-  "prerequisites": ["HHS 523"]
+  "prerequisites": [["HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "EVIDENCE-BASED PUBLIC HEALTH II",
   "course_number": "HHS 579",
   "credits": "3",
   "description": "Explores evidence-based public health as the process of integrating science-based interventions with community preferences to improve the health of populations. Applies science and adaptation frameworks to planning and evaluating health promotion programs. Synthesizes learning through the development of a grant proposal for an adapted public-health program plus evaluation plan.",
-  "prerequisites": ["HHS 578"]
+  "prerequisites": [["HHS 578"]]
 }, {
   "corequisites": [],
   "course_name": "GRANT WRITING FOR PUBLIC HEALTH PRACTITIONERS",
   "course_number": "HHS 580",
   "credits": "4",
   "description": "Provides an introduction to principles of grant writing, with an emphasis on grants seeking funding from national, regional, or local entities (e.g., CDC, foundations) that support research and program that aim to improve community health through health promotion. There will be a focus on grants that MPH-level practitioners seek to conduct research, enhance practice, and/or support delivery of programs within communities. Students will have the opportunity to integrate skills developed through prior courses in the context of writing a grant proposal.",
-  "prerequisites": ["H 515", "H 575", "H 576"]
+  "prerequisites": [["H 515"], ["H 575"], ["H 576"]]
 }, {
   "corequisites": [],
   "course_name": "SURVEILLANCE AND FIELD EPIDEMIOLOGY FOR PUBLIC HEALTH",
   "course_number": "HHS 584",
   "credits": "3",
   "description": "Review public health surveillance systems, and the continuum of communicable disease surveillance and field epidemiology. Evaluate a public health surveillance system and their contribution to the prevention and control of adverse health-related events. Describe ethical considerations of and cultural bias in public health surveillance.",
-  "prerequisites": ["H 524", "H 525"]
+  "prerequisites": [["H 524", "H 525"]]
 }, {
   "corequisites": [],
   "course_name": "PUBLIC HEALTH LAW",
   "course_number": "HHS 590",
   "credits": "2",
   "description": "Explore the use of law and policy tools to promote access to health and healthy living conditions. Examines the legal powers and duties of government at the federal, state, and local levels to ensure the conditions required for people to be healthy. Discuss individual rights as limitations on the power of the government to act in furtherance of public health goals.",
-  "prerequisites": ["HHS 523"]
+  "prerequisites": [["HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "GLOBAL HEALTH SYSTEMS",

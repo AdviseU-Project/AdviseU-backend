@@ -18,7 +18,7 @@
   "course_number": "FE 208",
   "credits": "4",
   "description": "Introduces theory and practice of surveying methods and measurements as applied to the specifics of forestry problems and their solutions. Prepares students for the Fundamentals of Land Surveying exam, which is necessary to become a professional land surveyor.",
-  "prerequisites": ["MTH 112", "MTH 112Z", "MTH 241", "MTH 241H", "MTH 245", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 112", "MTH 112Z", "MTH 241", "MTH 241H", "MTH 245", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "GIS AND FOREST ENGINEERING APPLICATIONS",
@@ -39,7 +39,7 @@
   "course_number": "FE 310",
   "credits": "4",
   "description": "Route surveying and site surveying applied to forestry problems. Use of surveying equipment; traversing; computations; leveling; horizontal, vertical, compound, reverse and spiral curves; earthwork; construction staking as applied to new road and existing road P-line survey. Includes rapid survey techniques. Lec/lab.",
-  "prerequisites": ["FE 208", "CE 361", "CEM 263"]
+  "prerequisites": [["FE 208", "FE 308", "CE 361", "CEM 263"]]
 }, {
   "corequisites": [],
   "course_name": "FORESTRY FIELD SCHOOL",
@@ -60,35 +60,35 @@
   "course_number": "FE 315",
   "credits": "4",
   "description": "Use of soil in engineering and construction. Identification and classification. Engineering properties of soil: permeability, compressibility, and strength. Compaction principles and methods. Field control of soil engineering projects.",
-  "prerequisites": ["ENGR 213"]
+  "prerequisites": [["ENGR 213"]]
 }, {
   "corequisites": [],
   "course_name": "SOIL MECHANICS",
   "course_number": "FE 316",
   "credits": "4",
   "description": "Soil strength and soil mechanics theories applied to analysis of slope stability, retaining structures, foundations, and pavements.",
-  "prerequisites": ["FE 315", "CE 372"]
+  "prerequisites": [["FE 315", "CE 372"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST ENGINEERING FLUID MECHANICS AND HYDRAULICS",
   "course_number": "FE 330",
   "credits": "3",
   "description": "Fluid properties, pressure, fluid statics, continuity, energy equation, single and series pipe flow, open channel hydraulics, peakflow estimates for culvert design, stream crossing design. Lec/lab.",
-  "prerequisites": ["ENGR 213", "FE 102"]
+  "prerequisites": [["ENGR 213"], ["FE 102"]]
 }, {
   "corequisites": [],
   "course_name": "HARVESTING OPERATIONS",
   "course_number": "FE 370",
   "credits": "4",
   "description": "Timber harvesting and transport methods from the forest to the mill. Technical feasibility, economic, and environmental relationships in forestry operations.",
-  "prerequisites": ["PH 201", "PH 211", "PH 211H"]
+  "prerequisites": [["PH 201", "PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "HARVESTING PROCESS ENGINEERING",
   "course_number": "FE 371",
   "credits": "4",
   "description": "Timber harvesting equipment and systems. Harvesting process evaluation and decisions aided by forest engineering analysis.",
-  "prerequisites": ["ENGR 211", "ENGR 211H", "FE 102"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"], ["FE 102"]]
 }, {
   "corequisites": [],
   "course_name": "THESIS",
@@ -123,21 +123,21 @@
   "course_number": "FE 415",
   "credits": "3",
   "description": "Location, surveying, design, cost estimation, and construction practices for forest roads. Lecture on principles, and laboratory field practice in locating, surveying, designing, and cost estimating.",
-  "prerequisites": ["FE 310"]
+  "prerequisites": [["FE 310"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST ROAD SYSTEM MANAGEMENT",
   "course_number": "FE 416",
   "credits": "4",
   "description": "Structural characteristics of bridges, load rating, structural design of culverts, aggregate testing and evaluation, environmental assessment of forest road systems, road maintenance cycles and management.",
-  "prerequisites": ["ENGR 211", "ENGR 211H", "ENGR 213", "ENGR 213H", "FE 316", "FE 415"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"], ["ENGR 213", "ENGR 213H"], ["FE 316"], ["FE 415"]]
 }, {
   "corequisites": [],
   "course_name": "UNMANNED AIRCRAFT SYSTEM REMOTE SENSING",
   "course_number": "FE 423",
   "credits": "3",
   "description": "Presents and explores techniques in Unmanned Aircraft System (UAS) design and applications for remote sensing measurements of both natural and constructed landscapes.",
-  "prerequisites": ["GEOG 380", "GEOG 481"]
+  "prerequisites": [["GEOG 380", "GEOG 480", "GEOG 481"]]
 }, {
   "corequisites": [],
   "course_name": "WATERSHED PROCESSES",
@@ -151,28 +151,28 @@
   "course_number": "FE 434",
   "credits": "4",
   "description": "Physical hydrology, erosion processes, streams, and riparian areas of forested ecosystems. The material can be widely applied, but is applicable primarily to the humid, temperate rainforests of the Pacific Northwest.",
-  "prerequisites": ["CH 121", "CH 201", "CH 231", "CH 231H", "SOIL 205", "SOIL 205H", "CSS 205", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["CH 121", "CH 201", "CH 231", "CH 231H"], ["SOIL 205", "SOIL 205H", "CSS 305", "CSS 205"], ["MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST DISTURBANCE HYDROLOGY",
   "course_number": "FE 436",
   "credits": "3",
   "description": "Impacts of forest disturbance, including timber harvest, wildfire, insect outbreaks, and low frequency storms and floods on watershed hydrology and streams.",
-  "prerequisites": ["FE 434"]
+  "prerequisites": [["FE 434"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST OPERATIONS ANALYSIS",
   "course_number": "FE 440",
   "credits": "4",
   "description": "Identification and measurement of production components in harvesting systems. Methods analysis, productivity improvement and engineering economics. Report writing skills emphasized.",
-  "prerequisites": ["FE 102", "FE 370", "FE 371"]
+  "prerequisites": [["FE 102"], ["FE 370", "FE 371"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST REMOTE SENSING AND PHOTOGRAMMETRY",
   "course_number": "FE 444",
   "credits": "4",
   "description": "Introduction to spectral reflectance, photogrammetry, image analysis, and point clouds. Fundamentals of data acquisition with passive and active sensors installed on airborne and spaceborne platforms. Radar and lidar in forestry.",
-  "prerequisites": ["FE 257", "MTH 112", "MTH 112Z", "MTH 241", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H", "PH 201", "PH 211", "PH 211H"]
+  "prerequisites": [["FE 257"], ["MTH 112", "MTH 112Z", "MTH 241", "MTH 251", "MTH 251H", "MTH 252", "MTH 252H"], ["PH 201", "PH 211", "PH 211H"]]
 }, {
   "corequisites": [],
   "course_name": "*INTERNATIONAL FORESTRY",
@@ -186,14 +186,14 @@
   "course_number": "FE 457",
   "credits": "4",
   "description": "Use of linear programming, nonlinear programming, dynamic programming, and simulation to solve complex forest management problems, with emphasis on intertemporal multiple-use scheduling. Forestry transportation problems, multiple-use allocation, and investment analysis. Field trips required. CROSSLISTED as FE 457/FOR 457 and FE 557.",
-  "prerequisites": ["FOR 329", "FOR 441", "FOR 443"]
+  "prerequisites": [["FOR 329"], ["FOR 441", "FOR 443"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST MANAGEMENT PLANNING AND DESIGN I",
   "course_number": "FE 459",
   "credits": "4",
   "description": "Integration of environmental, economic, and social aspects of forestry in management planning. Development of strategic and tactical plans using diverse data types and sources. Senior capstone class projects. Lec/lab. CROSSLISTED as FE 459/FOR 459.",
-  "prerequisites": ["FE 457", "FOR 457"]
+  "prerequisites": [["FE 457", "FOR 457"]]
 }, {
   "corequisites": [],
   "course_name": "^FOREST OPERATIONS REGULATIONS AND POLICY ISSUES",
@@ -214,14 +214,14 @@
   "course_number": "FE 469",
   "credits": "4",
   "description": "A team-based, project-centric course for integrated timber harvest planning. Establish tactical and operational planning goals and constraints, identify feasible harvesting and transportation systems, and design harvest units to meet objectives and constraints. Lec/lab. CROSSLISTED as FE 469/FOR 469.",
-  "prerequisites": ["FE 459", "FOR 459"]
+  "prerequisites": [["FE 459", "FOR 459"]]
 }, {
   "corequisites": [],
   "course_name": "LOGGING MECHANICS",
   "course_number": "FE 470",
   "credits": "4",
   "description": "Relationship of torque, power, and thrust to the operation of cable and ground-based harvesting systems. On-highway and off-highway heavy truck performance.",
-  "prerequisites": ["ENGR 211", "ENGR 211H", "ENGR 213", "FE 371"]
+  "prerequisites": [["ENGR 211", "ENGR 211H"], ["ENGR 213"], ["FE 371"]]
 }, {
   "corequisites": [],
   "course_name": "HARVESTING MANAGEMENT",
@@ -298,7 +298,7 @@
   "course_number": "FE 523",
   "credits": "3",
   "description": "Presents and explores techniques in Unmanned Aircraft System (UAS) design and applications for remote sensing measurements of both natural and constructed landscapes.",
-  "prerequisites": ["GEOG 560", "GEOG 561", "GEOG 580", "GEOG 581", "OC 678"]
+  "prerequisites": [["GEOG 560", "GEOG 561", "GEOG 580", "GEOG 581", "OC 678"]]
 }, {
   "corequisites": [],
   "course_name": "WATERSHED PROCESSES",

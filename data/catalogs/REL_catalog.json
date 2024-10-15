@@ -389,14 +389,14 @@
   "course_number": "REL 437",
   "credits": "2",
   "description": "Develops upon yoga instructional methods and applies anatomy, physiology, biomechanics, and teaching methodology in yoga sequencing with a focus on adaptations and misadaptations in the postural practice. Examines professional ethics for yoga teachers. Further develops personal teaching approach, verbal articulation, observation, and demonstration for teaching with application to both specific populations and diverse groups.",
-  "prerequisites": ["PAC 204"]
+  "prerequisites": [["PAC 204"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED YOGA TEACHING SEMINAR II",
   "course_number": "REL 438",
   "credits": "2",
   "description": "Examines guiding meditation and contemplative inquiry, as well as professional ethics. Develops and applies personal teaching philosophy and approach. Emphasizes teacher qualities, theme integration, and marketing.",
-  "prerequisites": ["REL 437"]
+  "prerequisites": [["REL 437"]]
 }, {
   "corequisites": [],
   "course_name": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",

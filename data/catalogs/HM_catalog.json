@@ -11,14 +11,14 @@
   "course_number": "HM 210",
   "credits": "3",
   "description": "Students are required to complete this internship so that OSU and the sponsoring company can offer a platform from where students can apply the management concepts learned in class and acquire the necessary hands-on experience in a hotel, restaurant/food service and/or tourism industry to eventually qualify for a supervisory of managerial level role.",
-  "prerequisites": ["HM 101"]
+  "prerequisites": [["HM 101"]]
 }, {
   "corequisites": [],
   "course_name": "LODGING MANAGEMENT",
   "course_number": "HM 230",
   "credits": "4",
   "description": "Provides a comprehensive introduction to the management of hotels and lodging properties. Focuses on operations, service, management and financials of the lodging industry.",
-  "prerequisites": ["HM 101"]
+  "prerequisites": [["HM 101"]]
 }, {
   "corequisites": [],
   "course_name": "HOSPITALITY LAW AND LABOR RELATIONS",
@@ -74,7 +74,7 @@
   "course_number": "HM 410",
   "credits": "3",
   "description": "Hospitality Internship III builds on the knowledge the students have gained from their course work and their previous internships (HM 210 & HM 310). Students are required to complete this internship in a hotel, restaurant/food service and/or related hospitality sector. In cooperation with OSU and the sponsoring company, students apply the HM concepts learned in class to a real-world environment.",
-  "prerequisites": ["HM 310"]
+  "prerequisites": [["HM 310"]]
 }, {
   "corequisites": [],
   "course_name": "REVENUE MANAGEMENT AND PRICING",

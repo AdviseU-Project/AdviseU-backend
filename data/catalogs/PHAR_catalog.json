@@ -144,7 +144,7 @@
   "course_number": "PHAR 528",
   "credits": "3",
   "description": "Emphasizes statistical methods and data analysis for the pharmaceutical sciences. Topics including visualization/display of data, hypothesis testing (frequentist and Bayesian), regression methods, data clustering, and meta-analysis and issues in clinical trial designs. Covers issues specifically relevant for big data. Illustrates core concepts using examples from pharmacogenomics, drug-drug interactions, diagnostic testing, and personalized medicine.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524"]]
 }, {
   "corequisites": [],
   "course_name": "BIOORGANIC CHEMISTRY",
@@ -412,7 +412,7 @@
   "description": "Identifies appropriate information resources and systematically collects, arranges, and analyzes pertinent information related to a particular patient or drug product question.",
   "prerequisites": []
 }, {
-  "corequisites": ["PHAR 734"],
+  "corequisites": [["PHAR 734"]],
   "course_name": "COMPOUNDING PHARMACEUTICALS",
   "course_number": "PHAR 732",
   "credits": "1",

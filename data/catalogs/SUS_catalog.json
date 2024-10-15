@@ -102,7 +102,7 @@
   "course_number": "SUS 450",
   "credits": "3",
   "description": "Provides knowledge and tools to facilitate sustainability transitions at organizational and sectoral levels. Focuses on how pioneering organizations leverage technology, business and management skills, assessment tools, and stakeholder engagement and communication strategies to fully embed sustainability in their operations. Relates policy frameworks to sector-wide transformations. Develops comprehensive sustainability plans for a specific organization.",
-  "prerequisites": ["SUS 304", "SUS 350"]
+  "prerequisites": [["SUS 304"], ["SUS 350"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

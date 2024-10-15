@@ -25,7 +25,7 @@
   "course_number": "NR 325",
   "credits": "3",
   "description": "Approaches to disciplinary and interdisciplinary problem analysis in natural resources. Introduces systems thinking and the benefits and limitations of different tools used to integrate information from multiple disciplines and stakeholders. Applications of alternative analysis tools are illustrated through selected forest-related case studies.",
-  "prerequisites": ["MTH 111", "MTH 111Z"]
+  "prerequisites": [["MTH 111", "MTH 111Z"]]
 }, {
   "corequisites": [],
   "course_name": "*WHEN SCIENCE ESCAPES THE LAB: SCIENCE AND RESOURCE MANAGEMENT",
@@ -95,7 +95,7 @@
   "course_number": "NR 455",
   "credits": "4",
   "description": "Students will participate on collaborative planning teams that effectively engage stakeholders in the decision making process, and offer sound natural resource decisions that are supported by multiple interests.",
-  "prerequisites": ["FES 485", "BI 371", "BI 373", "ENSC 321", "FE 460", "FES 486", "FOR 460", "FW 435", "FW 439", "FW 454", "FW 497", "GEOG 323", "HORT 318", "SOIL 395", "WR 462"]
+  "prerequisites": [["FES 485"], ["BI 371", "BI 373", "ENSC 479", "ENSC 321", "FE 460", "FES 486", "FOR 460", "FW 435", "FW 439", "FW 454", "FW 497", "GEOG 323", "HORT 318", "SOIL 395", "WR 462"]]
 }, {
   "corequisites": [],
   "course_name": "*AGROFORESTRY",

@@ -25,7 +25,7 @@
   "course_number": "HC 199",
   "credits": "3",
   "description": "Through a range of assignments, texts, and guest speakers, Honors College students will develop critical thinking skills and a strategy for writing in their discipline.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "SELECTED TOPICS",

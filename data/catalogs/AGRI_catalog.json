@@ -46,7 +46,7 @@
   "course_number": "AGRI 420",
   "credits": "3",
   "description": "History of organic farming, advantages and disadvantages, review of long-term studies comparing organic and conventional production systems, a review of the federal organic production guidelines, methods and applications for organic production facilities, crop nutrition, compost and manure utilization, organic amendments, organic field crop production, organic gardening, organic livestock production, weed and pest control in organic systems, and marketing of organic produce.",
-  "prerequisites": ["CROP 200", "SOIL 205", "SOIL 205H", "CSS 205", "BI 204", "BI 213", "BI 213H"]
+  "prerequisites": [["CROP 200", "SOIL 205", "SOIL 205H", "CSS 205", "CSS 305", "BI 204", "BI 213", "BI 213H"]]
 }, {
   "corequisites": [],
   "course_name": "EXPLORING WORLD AGRICULTURE",

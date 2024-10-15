@@ -13,12 +13,12 @@ import (
 )
 
 type Course struct {
-	CourseNumber  string `json:"course_number"`
-	CourseName    string `json:"course_name"`
-	Credits       string `json:"credits"`
-	Description   string `json:"description"`
-	Prerequisites string `json:"prerequisites"`
-	Corequisites  string `json:"corequisites"`
+	CourseNumber  string     `json:"course_number"`
+	CourseName    string     `json:"course_name"`
+	Credits       string     `json:"credits"`
+	Description   string     `json:"description"`
+	Prerequisites [][]string `json:"prerequisites"`
+	Corequisites  [][]string `json:"corequisites"`
 }
 
 // Handler for the "/catalog" endpoint to serve course data from the JSON file
@@ -43,6 +43,10 @@ func catalogHandler(w http.ResponseWriter, r *http.Request) {
 
 	var catalog []Course
 	json.Unmarshal(byteValue, &catalog)
+	if err != nil {
+		http.Error(w, "Error parsing catalog JSON", http.StatusInternalServerError)
+		return
+	}
 
 	// Serve JSON as HTTP response
 	w.Header().Set("Content-Type", "application/json")

@@ -97,7 +97,7 @@
   "description": "Team play, individual and team skills developed and refined, competitive round robin tournaments.",
   "prerequisites": []
 }, {
-  "corequisites": ["PAC 115"],
+  "corequisites": [["PAC 115"]],
   "course_name": "LABORATORY FOR OUTDOOR LIVING SKILLS",
   "course_number": "PAC 118",
   "credits": "1",
@@ -249,7 +249,7 @@
   "course_number": "PAC 150",
   "credits": "1",
   "description": "Emphasizes learning line dances at the intermediate level with a focus on terminology, syncopation, tags, restarts, and overall pacing. Review of line dances learned in PAC 151. Focuses on choreographing original line dances as well as reading and writing line dance step sheets at the intermediate level.",
-  "prerequisites": ["PAC 151"]
+  "prerequisites": [["PAC 151"]]
 }, {
   "corequisites": [],
   "course_name": "COUNTRY LINE DANCE",
@@ -284,7 +284,7 @@
   "course_number": "PAC 156",
   "credits": "1",
   "description": "Advanced two-step patterns and styling with a focus on musical interpretation; development of leading and following.",
-  "prerequisites": ["PAC 155"]
+  "prerequisites": [["PAC 155"]]
 }, {
   "corequisites": [],
   "course_name": "DANCE: BEGINNING SWING (LEAD/FOLLOW)",
@@ -305,21 +305,21 @@
   "course_number": "PAC 160",
   "credits": "1",
   "description": "Additional steps and patterns of popular ballroom dances.",
-  "prerequisites": ["PAC 159"]
+  "prerequisites": [["PAC 159"]]
 }, {
   "corequisites": [],
   "course_name": "DANCE: BALLROOM III (LEAD/FOLLOW)",
   "course_number": "PAC 161",
   "credits": "1",
   "description": "Styling; additional dances: rhumba, silver fox trot, and Viennese waltz; advanced dance figures for tango and cha-cha.",
-  "prerequisites": ["PAC 160"]
+  "prerequisites": [["PAC 160"]]
 }, {
   "corequisites": [],
   "course_name": "DANCE: LATIN I",
   "course_number": "PAC 163",
   "credits": "1",
   "description": "Latin dances including cha-cha, mambo, salsa, rhumba, merengue, bolero, salsa, and paso doble. Emphasis on proper styling and technical execution of each dance; effective leading and following techniques.",
-  "prerequisites": ["PAC 159"]
+  "prerequisites": [["PAC 159"]]
 }, {
   "corequisites": [],
   "course_name": "PARTNER DANCE: WEST COAST SWING I",
@@ -333,7 +333,7 @@
   "course_number": "PAC 166",
   "credits": "1",
   "description": "Focuses on foundational through intermediate patterns for country-western two-step, waltz, and polka, with an emphasis on techniques for leading and following. Includes foundational figures for nightclub two step, Arizona two-step, one-step, and other progressive styles.",
-  "prerequisites": ["PAC 154", "PAC 155", "PAC 159", "PAC 160"]
+  "prerequisites": [["PAC 154", "PAC 155", "PAC 159", "PAC 160"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL DANCE: LINDY HOP SWING",
@@ -347,14 +347,14 @@
   "course_number": "PAC 168",
   "credits": "1",
   "description": "Intermediate patterns, syncopations, play techniques, and styling with a focus on musical interpretation in the Lindy Hop style; development of leading and following.",
-  "prerequisites": ["PAC 167"]
+  "prerequisites": [["PAC 167"]]
 }, {
   "corequisites": [],
   "course_name": "DANCE: WEST COAST SWING II (LEAD/FOLLOW)",
   "course_number": "PAC 170",
   "credits": "1",
   "description": "Intermediate patterns, syncopations, play techniques, and styling with a focus on musical interpretation; development of leading and following.",
-  "prerequisites": ["PAC 165"]
+  "prerequisites": [["PAC 165"]]
 }, {
   "corequisites": [],
   "course_name": "INTERMEDIATE ROCK CLIMBING",
@@ -529,7 +529,7 @@
   "course_number": "PAC 204",
   "credits": "1",
   "description": "Lead physical activity curriculum within dance, yoga, fitness, aquatics, sports, martial arts, or cross-disciplinary physical activities. Gain experience implementing already designed lesson plans, assessment, and leading peers through basic exercise, while supervised by university and program personnel.",
-  "prerequisites": ["PAC 203"]
+  "prerequisites": [["PAC 203"]]
 }, {
   "corequisites": [],
   "course_name": "ROWING",
@@ -816,7 +816,7 @@
   "course_number": "PAC 285",
   "credits": "1",
   "description": "Utilizes differing work to rest ratios to increase metabolic efficiency in a total body fitness program. Applies the functional and compound strength training exercises and cardio interval training formats introduced in prerequisite courses. Open to all fitness levels.",
-  "prerequisites": ["PAC 284", "PAC 287", "PAC 288"]
+  "prerequisites": [["PAC 284", "PAC 287", "PAC 288"]]
 }, {
   "corequisites": [],
   "course_name": "WEIGHT TRAINING: CIRCUITS",
@@ -837,7 +837,7 @@
   "course_number": "PAC 288",
   "credits": "1",
   "description": "Intermediate level of weight training in free and fixed weights.",
-  "prerequisites": ["PAC 287"]
+  "prerequisites": [["PAC 287"]]
 }, {
   "corequisites": [],
   "course_name": "FITNESS & WELLNESS LEADERSHIP I",
@@ -851,7 +851,7 @@
   "course_number": "PAC 290",
   "credits": "1",
   "description": "Builds on PAC 289 by developing skills in programming cardiorespiratory and resistance training fitness program design for groups and individuals. Builds competency in designing, delivering and assessing group fitness classes and variable training formats. Applies active listening skills taught in PAC 289 to enhance the ability to use motivational interviewing in wellness coaching and other dynamic situations.",
-  "prerequisites": ["PAC 289"]
+  "prerequisites": [["PAC 289"]]
 }, {
   "corequisites": [],
   "course_name": "WRESTLING",
@@ -984,14 +984,14 @@
   "course_number": "PAC 316",
   "credits": "1",
   "description": "Focuses on developing technical climbing skills related to lead climbing and anchor construction. Includes a one-day outdoor experience. PAC courses may not be used to fulfill upper-division requirements.",
-  "prerequisites": ["PAC 315"]
+  "prerequisites": [["PAC 315"]]
 }, {
   "corequisites": [],
   "course_name": "ALI: ROCK CLIMBING III",
   "course_number": "PAC 317",
   "credits": "1",
   "description": "Focuses on developing technical climbing skills in an outdoor setting. Includes a weekend long outdoor experience and cover skills ranging from building anchors using natural protection, to advanced outdoor movement skills. PAC courses may not be used to fulfill upper-division requirements.",
-  "prerequisites": ["PAC 315", "PAC 316"]
+  "prerequisites": [["PAC 315"], ["PAC 316"]]
 }, {
   "corequisites": [],
   "course_name": "ALI: TECHNICAL RAPPELLING",
@@ -1005,14 +1005,14 @@
   "course_number": "PAC 320",
   "credits": "1",
   "description": "Develop snow climbing techniques and snow camping/living skills; practice anchoring, belaying and rappelling techniques; and apply wilderness ethics. PAC courses may not be used to fulfill upper-division requirements.",
-  "prerequisites": ["PAC 330"]
+  "prerequisites": [["PAC 330"]]
 }, {
   "corequisites": [],
   "course_name": "ALI: MOUNTAINEERING II",
   "course_number": "PAC 321",
   "credits": "1",
   "description": "Building on skills learned in Mountaineering I; rope team/glacier travel experience, fundamentals of crevasse rescue, advanced snow climbing techniques, safe anchoring, belaying and rappelling techniques, snow camping/living skills, and wilderness ethics. PAC courses may not be used to fulfill upper-division requirements.",
-  "prerequisites": ["PAC 320"]
+  "prerequisites": [["PAC 320"]]
 }, {
   "corequisites": [],
   "course_name": "ALI: ICE CLIMBING",
@@ -1026,7 +1026,7 @@
   "course_number": "PAC 323",
   "credits": "1",
   "description": "Focuses on developing technical skills in a mountain rescue system. PAC courses may not be used to fulfill upper-division requirements.",
-  "prerequisites": ["PAC 320"]
+  "prerequisites": [["PAC 320"]]
 }, {
   "corequisites": [],
   "course_name": "ALI: WHITE WATER RESCUE",

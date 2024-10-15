@@ -32,7 +32,7 @@
   "course_number": "AEC 211",
   "credits": "4",
   "description": "Economic and business principles applied to the management of firms in agricultural and food industries, including farms, ranches and nurseries, agricultural input suppliers, packers, shippers, processors and food manufacturers and distributors; firm-level goal setting, information management and financial analysis.",
-  "prerequisites": ["AEC 250", "AEC 250H", "AEC 251", "ECON 201", "ECON 201H"]
+  "prerequisites": [["AEC 250", "AEC 250H", "AEC 251", "ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL AND FOOD MARKETING",
@@ -88,42 +88,42 @@
   "course_number": "AEC 311",
   "credits": "4",
   "description": "An examination of the theories of consumer behavior and demand, production cost, the firm, supply, and competitive and monopoly market structures.",
-  "prerequisites": ["AEC 250", "AEC 250H", "AEC 251", "ECON 201", "ECON 201H", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["AEC 250", "AEC 250H", "AEC 251", "ECON 201", "ECON 201H"], ["MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "INTERMEDIATE APPLIED ECONOMICS II: MARKETS",
   "course_number": "AEC 313",
   "credits": "WELFARE",
   "description": "Complementing the private-decision focus in AEC 311, the present course focuses on the intermediate microeconomic theory of social welfare and public decision-making. Topics include exchange, monopoly, game theory, social welfare, externalities, public goods and choice, asymmetric information, uncertainty, and cost-benefit analysis. Substantial attention will be given to the implications of these theories for real-world problems, especially regarding resource and environmental issues.",
-  "prerequisites": ["MTH 241", "AEC 311", "ECON 311"]
+  "prerequisites": [["MTH 241", "AEC 311", "ECON 311"]]
 }, {
   "corequisites": [],
   "course_name": "*NATURAL RESOURCE ECONOMICS AND POLICY",
   "course_number": "AEC 351",
   "credits": "3",
   "description": "Application of principles of economics to identify the causes, consequences, and ways of dealing with natural resource problems, including problems associated with fisheries, forests, water resources, and land. Conceptual topics and policy applications. Emphasis is on developing students' skill in applying an economic way of thinking about natural resource management.",
-  "prerequisites": ["AEC 250", "AEC 250H", "ECON 201", "ECON 201H"]
+  "prerequisites": [["AEC 250", "AEC 250H", "ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "*ENVIRONMENTAL ECONOMICS AND POLICY",
   "course_number": "AEC 352",
   "credits": "3",
   "description": "Provides an overview of the interrelationships between economic activity, the environment, and public policy. Through case studies, discussion groups, readings, and group activities, students learn how economists define and analyze environmental problems and the types of policies they advocate for managing environmental quality. CROSSLISTED as AEC 352/ECON 352.",
-  "prerequisites": ["AEC 250", "AEC 250H", "ECON 201", "ECON 201H"]
+  "prerequisites": [["AEC 250", "AEC 250H", "ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "*INTRODUCTION TO COASTAL AND MARINE RESOURCE ECONOMICS",
   "course_number": "AEC 353",
   "credits": "3",
   "description": "Introduces tools of economic analysis for understanding coastal and marine resource management. Surveys a selection of current topics in the field, emphasizing innovation in production and stewardship, institutions, and sustainability.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "AEC 250", "AEC 250H", "ECON 201", "ECON 201H"]
+  "prerequisites": [["MTH 111", "MTH 111Z"], ["AEC 250", "AEC 250H", "ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL COOPERATIVES",
   "course_number": "AEC 372",
   "credits": "3",
   "description": "An introduction to and in-depth examination of the agricultural cooperative. Students will gain a working knowledge of the concepts, principles, and terminology of agricultural cooperatives through reference materials, lectures, presentations by guest speakers and a cooperatives tour. Students will consider the strengths and weaknesses of the agricultural cooperative as well as the unique management and operational challenges inherent to this form of business operation.",
-  "prerequisites": ["AEC 211"]
+  "prerequisites": [["AEC 211"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL LAW",
@@ -235,14 +235,14 @@
   "course_number": "AEC 434",
   "credits": "4",
   "description": "Develops the fundamental tools for Benefit-Cost Analysis, a technique for evaluating a project or investment by comparing the economic benefits with the economic costs of the activity. Examines the tricky topic of how to measure the benefits of non-market such as good health and higher environmental quality. The methods introduced here apply to a wide variety of situations. Explores the broad issues of how to think about uncertainty and risk, how to discount future costs and benefits, to value lives saved, and other challenging topics.",
-  "prerequisites": ["AEC 311", "ECON 411"]
+  "prerequisites": [["AEC 311", "ECON 411"]]
 }, {
   "corequisites": [],
   "course_name": "THE ECONOMICS OF BUSINESS ORGANIZATION IN THE FOOD SYSTEM",
   "course_number": "AEC 440",
   "credits": "4",
   "description": "Application of economic analysis to questions related to the choice of an appropriate form of business organization for a wide variety of food system enterprises. Topics include costs of contracting, costs of ownership, enterprise scope and scale, and the dynamics of business ownership and structure. Particular emphasis is given to entrepreneurial enterprises and cooperative businesses in the food system.",
-  "prerequisites": ["AEC 311", "ECON 311"]
+  "prerequisites": [["AEC 311", "ECON 311"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL BUSINESS MANAGEMENT",
@@ -263,7 +263,7 @@
   "course_number": "AEC 446",
   "credits": "4",
   "description": "Introduces students to applied econometrics: the use of statistical techniques to estimate and test economic relationships. Topics include multiple regression models, multicollinearity, and simultaneous equations. The applications and labs will focus on econometric analysis of real world problems pertaining to issues in environmental, food, and resource economics and policy.",
-  "prerequisites": ["AEC 311", "ST 351", "ST 351H"]
+  "prerequisites": [["AEC 311"], ["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL PRICE AND MARKET ANALYSIS",
@@ -277,14 +277,14 @@
   "course_number": "AEC 448",
   "credits": "3",
   "description": "Reviews core concepts of economic efficiency and market failures and then focuses on the economics of environmental regulation. Develops an appreciation for the structure of key concepts that underlie the economic approach to environmental issues and applications to policy and regulations. Builds skills in assessing regulatory policies from the perspective of economics.",
-  "prerequisites": ["AEC 311", "AEC 352"]
+  "prerequisites": [["AEC 311"], ["AEC 352"]]
 }, {
   "corequisites": [],
   "course_name": "PROGRAM EVALUATION",
   "course_number": "AEC 455",
   "credits": "3",
   "description": "Explores the leading methods for evaluating the impact of public programs and policies, specifically focusing on causal inference and empirical applications. Methods covered include randomized experiments as well as techniques to estimate impacts using observational data sources common in health, education and development settings.",
-  "prerequisites": ["ST 352", "AEC 446", "ECON 424"]
+  "prerequisites": [["ST 352", "AEC 446", "ECON 424"]]
 }, {
   "corequisites": [],
   "course_name": "SUSTAINABLE AGRICULTURAL DEVELOPMENT",
@@ -298,21 +298,21 @@
   "course_number": "AEC 461",
   "credits": "4",
   "description": "Principles of agricultural and food policy formulation; agricultural price and income policies in relation to land use, water, and food policies; interrelationships among U.S. and foreign agriculture and trade policies.",
-  "prerequisites": ["AEC 311", "ECON 311"]
+  "prerequisites": [["AEC 311", "ECON 311"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL AND FOOD FINANCIAL MANAGEMENT",
   "course_number": "AEC 465",
   "credits": "4",
   "description": "Explores fundamental financial concepts in the context of agriculture and food businesses, including analysis of financial ratios, the use of leverage, compounding and discounting, capital budgeting, and risk management. Emphasizes the application of these concepts and tools to management decisions.",
-  "prerequisites": ["AEC 211", "BA 211", "BA 211H", "BA 211Z", "BA 211HZ", "BA 315"]
+  "prerequisites": [["AEC 211"], ["BA 211", "BA 211H", "BA 211Z", "BA 211H", "BA 315"]]
 }, {
   "corequisites": [],
   "course_name": "AGRICULTURAL AND FOOD MARKETING MANAGEMENT",
   "course_number": "AEC 466",
   "credits": "4",
   "description": "Principles, trends, issues, barriers, policies, strategies and decisions involved in domestic and international marketing of perishable and storable agricultural commodities and food products from the point of production to the point of consumption. Topics include firm-level marketing concepts, the integration of marketing with firms’ overall strategic management goals, as well as comparative studies across multiple outlets for agricultural and food products, to include local, regional, and global markets.",
-  "prerequisites": ["AEC 221", "AEC 250", "AEC 250H", "AEC 251", "ECON 201", "ECON 201H"]
+  "prerequisites": [["AEC 221"], ["AEC 250", "AEC 250H", "AEC 251", "ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -389,7 +389,7 @@
   "course_number": "AEC 513",
   "credits": "4",
   "description": "Emphasizes principles for microeconomic theory at the master's level. Builds upon the foundations covered in AEC 512, and extends the theory and principles to cover uncertainty, game theory, competitive market equilibrium and welfare analysis, imperfect competition, and market failures. Primary emphasis is on understanding microeconomic theory and the underlying assumptions, and how it is applied to real world settings.",
-  "prerequisites": ["AEC 512"]
+  "prerequisites": [["AEC 512"]]
 }, {
   "corequisites": [],
   "course_name": "BEHAVIORAL AND EXPERIMENTAL ECONOMICS",
@@ -459,21 +459,21 @@
   "course_number": "AEC 550",
   "credits": "4",
   "description": "Presents concepts, theories, and methods used in the economic analysis of environmental and natural resource issues. The emphasis is on the economics of environmental policies and the development of decision rules regarding the efficient use of natural resources.",
-  "prerequisites": ["AEC 512"]
+  "prerequisites": [["AEC 512"]]
 }, {
   "corequisites": [],
   "course_name": "APPLICATIONS OF ENVIRONMENTAL AND NATURAL RESOURCE ECONOMICS",
   "course_number": "AEC 551",
   "credits": "4",
   "description": "Applies and expands upon concepts, theories, and methods in environmental and natural resource economics introduced in AEC 550. Topics include non-market valuation, discounting, and benefit-cost analysis, as well as the role and importance of institutions, appropriate research methods, and the philosophical basis for normative judgments in economics.",
-  "prerequisites": ["AEC 550"]
+  "prerequisites": [["AEC 550"]]
 }, {
   "corequisites": [],
   "course_name": "PROGRAM EVALUATION",
   "course_number": "AEC 555",
   "credits": "3",
   "description": "Explores the leading methods for evaluating the impact of public programs and policies, specifically focusing on causal inference and empirical applications. Methods covered include randomized experiments as well as techniques to estimate impacts using observational data sources common in health, education and development settings.",
-  "prerequisites": ["ECON 524", "PPOL 522"]
+  "prerequisites": [["ECON 524", "PPOL 522"]]
 }, {
   "corequisites": [],
   "course_name": "SUSTAINABLE AGRICULTURAL DEVELOPMENT",
@@ -557,14 +557,14 @@
   "course_number": "AEC 611",
   "credits": "4",
   "description": "A rigorous development of the theory of consumption and production, with emphasis on duality.",
-  "prerequisites": ["AEC 512", "AEC 513"]
+  "prerequisites": [["AEC 512"], ["AEC 513"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED MICROECONOMIC THEORY II",
   "course_number": "AEC 612",
   "credits": "4",
   "description": "A rigorous extension of the theory of the consumer and firm to aggregate and heterogeneous populations, decision making under uncertainty, and related game theory concepts.",
-  "prerequisites": ["AEC 611"]
+  "prerequisites": [["AEC 611"]]
 }, {
   "corequisites": [],
   "course_name": "BEHAVIORAL AND EXPERIMENTAL ECONOMICS",
@@ -585,14 +585,14 @@
   "course_number": "AEC 625",
   "credits": "4",
   "description": "Explores estimation techniques used in modern applied economic analysis, with an emphasis on research design. Topics include regression discontinuity design, linear panel data models, difference-in-differences, matching, synthetic control, systems estimation, and inference.",
-  "prerequisites": ["AEC 624"]
+  "prerequisites": [["AEC 624"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED ECONOMETRICS III",
   "course_number": "AEC 626",
   "credits": "4",
   "description": "Develops non-linear econometric methods and applications, including M-estimators, non- linear least-squares, discrete choice, limited dependent variables, quantile regression, and machine learning. Focuses on an applied orientation, emphasizing problems of data measurement, model selection, and model specification encountered in practical applications of econometrics.",
-  "prerequisites": ["AEC 625"]
+  "prerequisites": [["AEC 625"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTATIONAL ECONOMICS",
@@ -606,35 +606,35 @@
   "course_number": "AEC 640",
   "credits": "3",
   "description": "Surveys research on the quantitative economic analysis of sustainable development, with an emphasis on integrated assessment methods and models and their application to agriculture and rural development policy, agricultural technology impact assessment, and climate change impact assessment.",
-  "prerequisites": ["AEC 611", "AEC 612", "AEC 625"]
+  "prerequisites": [["AEC 611"], ["AEC 612"], ["AEC 625"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED TOPICS IN DEVELOPMENT ECONOMICS",
   "course_number": "AEC 643",
   "credits": "3",
   "description": "Introduces students to key issues in the economics of development along with the quantitative methods required to conduct advanced research in these topics. Topics include: the measurement of poverty and inequality, the analysis of health and education policies, the role of land, labor, credit and insurance markets in economic development, technology adoption, agrarian contracts, gender issues, and the political economy of development.",
-  "prerequisites": ["AEC 612", "AEC 626"]
+  "prerequisites": [["AEC 612"], ["AEC 626"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED NATURAL RESOURCE ECONOMICS",
   "course_number": "AEC 651",
   "credits": "3",
   "description": "Contemporary economic theory of dynamic natural resource allocation is introduced. Assignments focus on analytical and numerical methods for solving dynamic optimization problems in resource and environmental management. Lecture and readings emphasize current research trends in the field and relevant advances in quantitative methodology.",
-  "prerequisites": ["AEC 611"]
+  "prerequisites": [["AEC 611"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED ENVIRONMENTAL ECONOMICS",
   "course_number": "AEC 652",
   "credits": "3",
   "description": "Interrelationships of natural resource use and the environment; applied welfare and benefit-cost analysis; externalities and pollution abatement; non-market valuation of resources; property rights; legal and social constraints; policy approaches.",
-  "prerequisites": ["AEC 513", "AEC 525"]
+  "prerequisites": [["AEC 513"], ["AEC 525"]]
 }, {
   "corequisites": [],
   "course_name": "EMPIRICAL ENVIRONMENTAL AND RESOURCE ECONOMICS",
   "course_number": "AEC 653",
   "credits": "3",
   "description": "Introduces empirical methods at the current frontiers of research in environmental and resource economics. General topics may include the identification of non-market values, revealed and stated preference methods, environmental policy evaluation, equilibrium sorting models, and climate econometrics.",
-  "prerequisites": ["AEC 513", "AEC 525"]
+  "prerequisites": [["AEC 513"], ["AEC 525"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

@@ -39,12 +39,12 @@
   "course_number": "MNR 560",
   "credits": "3",
   "description": "Applies content from across the MNR degree in developing a capstone project. Explores the types of capstone projects and methodologies. Identifies and evaluates the data needed to address natural resource problems or topics. Develops outlines for students’ individualized MNR capstone projects.",
-  "prerequisites": ["MNR 511"]
+  "prerequisites": [["MNR 511"]]
 }, {
   "corequisites": [],
   "course_name": "MNR CAPSTONE PROJECT",
   "course_number": "MNR 561",
   "credits": "1-6",
   "description": "Students work with their major advisor on the completion of their capstone project at the end of the MNR degree program. Students incorporate knowledge gained from coursework to address a natural resource problem within interconnected ecological, economic and social contexts.",
-  "prerequisites": ["MNR 560", "SNR 506"]
+  "prerequisites": [["MNR 560", "SNR 506"]]
 }]

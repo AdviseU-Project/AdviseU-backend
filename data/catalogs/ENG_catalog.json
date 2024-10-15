@@ -319,14 +319,14 @@
   "course_number": "ENG 302",
   "credits": "4",
   "description": "Explore the conventions of academic writing, with the goal of developing original textual interpretations and situating those interpretations in relation to secondary sources. Develop an understanding of a broader scholarly conversation by writing about issues of difference, including but not limited to categories of gender, race, ethnicity, sexuality, class, and ability. Practice evaluating scholarly resources, including secondary sources and archival research.",
-  "prerequisites": ["ENG 301"]
+  "prerequisites": [["ENG 301"]]
 }, {
   "corequisites": [],
   "course_name": "CAREER PREPARATION FOR ENGLISH MAJORS",
   "course_number": "ENG 304",
   "credits": "2",
   "description": "Introduces students majoring in English to tasks and processes needed to successfully prepare for a future career. Includes exercises in self-reflection, guidance in exploring professional options and networking, and feedback on job-seeking materials.",
-  "prerequisites": ["ENG 301"]
+  "prerequisites": [["ENG 301"]]
 }, {
   "corequisites": [],
   "course_name": "^STUDIES IN BRITISH PROSE",
@@ -396,7 +396,7 @@
   "course_number": "ENG 345",
   "credits": "4",
   "description": "Focuses on study and analysis of critical frameworks and methodologies for the interpretation of literature and culture.",
-  "prerequisites": ["ENG 301"]
+  "prerequisites": [["ENG 301"]]
 }, {
   "corequisites": [],
   "course_name": "*NATIVE AMERICAN LITERATURE",
@@ -543,7 +543,7 @@
   "course_number": "ENG 427",
   "credits": "4",
   "description": "Investigates how the “medieval period”, spanning the fall of the Western Roman Empire (5th century CE) and the Fall of Constantinople (1453) and generally cast as European, was a complex millennium of global travel, commerce, and cultural exchange, far more heterogeneous than contemporary television, movies, and medievalising fantasy literature usually depicts. Identifies how the literature, travelogues, and life narratives written in Europe, Africa, and Asia reflect political, religious, philosophical, and artistic interpenetration. Examines how these texts help us redefine the medieval and illuminate modern discourses of the nation-state, debates about race and ethnicity, and the concerns of post- and decoloniality.",
-  "prerequisites": ["ENG 301"]
+  "prerequisites": [["ENG 301"]]
 }, {
   "corequisites": [],
   "course_name": "STUDIES IN LITERATURE 1700-1900",

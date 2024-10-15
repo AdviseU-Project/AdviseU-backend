@@ -130,7 +130,7 @@
   "course_number": "ES 319",
   "credits": "3",
   "description": "Examines traditional scientific methods through a feminist philosophy of science lens that incorporates critiques of the racialized and gendered origins of modern science. Introduces the breadth of feminist research methods associated with social justice research.",
-  "prerequisites": ["WGSS 223", "WGSS 223H"]
+  "prerequisites": [["WGSS 223", "WGSS 223H"]]
 }, {
   "corequisites": [],
   "course_name": "AFRICAN AMERICAN POLITICAL AND SOCIAL THOUGHT: 20TH CENTURY",
@@ -384,12 +384,12 @@
   "description": "A seminar developing techniques for collecting, analyzing, and incorporating ethnic community histories in research papers and theses.",
   "prerequisites": []
 }, {
-  "corequisites": ["ES 345"],
+  "corequisites": [["ES 345"]],
   "course_name": "KALAPUYA PEOPLES CULTURE AND HISTORY STUDIES",
   "course_number": "ES 454",
   "credits": "4",
   "description": "Presents and analyzes the deep history and cultural contexts of the Kalapuya peoples of western Oregon from multiple academic disciplines, including anthropology, history, linguistics, archaeology, geography, and environmental studies. Addresses historic and prehistoric themes including Traditional Ecological Knowledge (TEK), arts and crafts (material culture), settler colonization, treaties & removal, reservation life, federal Indian policy, termination & restoration, and survivance of contemporary cultural identity. CROSSLISTED as ANTH 454/ES 454.",
-  "prerequisites": ["ES 241", "ES 241H"]
+  "prerequisites": [["ES 241", "ES 241H"]]
 }, {
   "corequisites": [],
   "course_name": "INTERNSHIP SEMINAR",
@@ -452,7 +452,7 @@
   "course_number": "ES 485",
   "credits": "2",
   "description": "Working with an advisor from the Social Justice minor, conduct research to synthesize and extend analysis of a particular social justice issue, building on three previous papers or projects. Results are presented in a 10-15 page paper and a public poster, presentation or website. CROSSLISTED as ANTH 485/ES 485/WGSS 485.",
-  "prerequisites": ["ANTH 373", "ANTH 410", "ES 410", "WGSS 410", "WLC 410"]
+  "prerequisites": [["ANTH 373", "ES 373", "WGSS 373", "WLC 373"], ["ANTH 410", "ES 410", "WGSS 410", "WLC 410"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

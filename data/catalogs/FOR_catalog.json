@@ -27,7 +27,7 @@
   "description": "",
   "prerequisites": []
 }, {
-  "corequisites": ["SOIL 205"],
+  "corequisites": [["SOIL 205"]],
   "course_name": "*FOREST SOILS LABORATORY FOR SOIL 205",
   "course_number": "FOR 206",
   "credits": "1",
@@ -74,28 +74,28 @@
   "course_number": "FOR 321",
   "credits": "5",
   "description": "Encompasses methods used to measure tree, stand and forest-level attributes, and sample and analyze forest resources data. Provides information that support forest management decisions at the stand and forest levels. Focuses mainly on quantitative analysis of forest vegetation. Uses considerable time and effort on measuring other forest resources (e.g., wildlife habitat and riparian zones).",
-  "prerequisites": ["FES 241", "FE 208", "MTH 241", "MTH 245", "MTH 251", "MTH 251H", "ST 201", "ST 243Z", "ST 314", "ST 351", "ST 351H"]
+  "prerequisites": [["FES 241"], ["FE 208"], ["MTH 241", "MTH 245", "MTH 251", "MTH 251H"], ["ST 201", "ST 243Z", "ST 314", "ST 314H", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST MODELS",
   "course_number": "FOR 322",
   "credits": "3",
   "description": "Focuses on introduction to static and dynamic forest models: defining what they are, how they might be used, and, in general terms, how they are developed.",
-  "prerequisites": ["FOR 321", "MTH 241", "MTH 241H", "MTH 251", "MTH 251H", "ST 201", "ST 243Z", "ST 314", "ST 351", "ST 351H"]
+  "prerequisites": [["FOR 321"], ["MTH 241", "MTH 241H", "MTH 251", "MTH 251H"], ["ST 201", "ST 243Z", "ST 314", "ST 314H", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST RESOURCE ECONOMICS I",
   "course_number": "FOR 329",
   "credits": "4",
   "description": "Explores main concepts associated with the sustainable use of forest resources from an economic perspective. Introduces financial and economic aspects of forest management decision making, at both the stand and forest level. Topics including forest products markets, appraisal, rotation, thinning, uneven-aged management and forest regulation. Covers economics of timber management and harvest scheduling.",
-  "prerequisites": ["ST 201", "ST 243Z", "ST 314", "ST 351", "ST 351H"]
+  "prerequisites": [["ST 201", "ST 243Z", "ST 314", "ST 314H", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST RESOURCE ECONOMICS II",
   "course_number": "FOR 332",
   "credits": "2",
   "description": "Utilizes tools of investment analysis and approaches to capital budgeting under risk. Explores basic wood products markets. Examines forest resource market failures and externalities. Evaluates nonmarket valuation and multiple-use forestry. Discusses impacts of forest management and public policy decisions on forest resource use. Analyzes international trade considerations.",
-  "prerequisites": ["FOR 329"]
+  "prerequisites": [["FOR 329"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS IN WILDLAND FIRE",
@@ -172,14 +172,14 @@
   "course_number": "FOR 413",
   "credits": "3",
   "description": "Analyzes effects of diseases on forest ecosystems. Focuses on recognition of important groups, prediction of pathogen responses to environmental changes, and management strategies for protection of forest resources. CROSSLISTED as BOT 413/FOR 413.",
-  "prerequisites": ["BI 204", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "FES 240"]
+  "prerequisites": [["BI 204", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "FES 240"]]
 }, {
   "corequisites": [],
   "course_name": "ECONOMICS AND POLICY OF FOREST WILDLAND FIRE",
   "course_number": "FOR 431",
   "credits": "3",
   "description": "Explores current issues in wildfire policy and management. Analyzes relevant laws and regulations, including liability standards and air quality rules. Uses an economic framework for evaluating allocation of resources, the role of incentives and risk preferences, and for valuation of forest assets under risk.",
-  "prerequisites": ["FOR 332", "ECON 201", "ECON 201H", "AEC 250", "AEC 250H"]
+  "prerequisites": [["FOR 330", "FOR 332", "ECON 201", "ECON 201H", "AEC 250", "AEC 250H"]]
 }, {
   "corequisites": [],
   "course_name": "WILDLAND FIRE SCIENCE AND MANAGEMENT",
@@ -193,28 +193,28 @@
   "course_number": "FOR 441",
   "credits": "4",
   "description": "Nursery operation, vegetation management, herbivores, fire, seeding and planting techniques. Introduction to principles and techniques involving vegetation control, thinning, fertilizing, and harvesting. Environmental considerations related to forest stand treatments.",
-  "prerequisites": ["FES 240", "FES 240H", "FES 241"]
+  "prerequisites": [["FES 240", "FES 240H"], ["FES 241"]]
 }, {
-  "corequisites": ["FOR 443"],
+  "corequisites": [["FOR 443"]],
   "course_name": "SILVICULTURE REFORESTATION",
   "course_number": "FOR 442",
   "credits": "4",
   "description": "Silvicultural principles and practices needed to successfully regenerate forestlands in North America. Topics include artificial and natural regeneration, genetic improvement, seed orchards, forest tree nurseries, site preparation, seedling quality and handling, vegetation management, animal damage protection, early stand management, and ecological and ecophysiological considerations. Emphasis is placed on regeneration methods applied to plantations in western Oregon. Field trips required.",
-  "prerequisites": ["SOIL 205", "SOIL 205H", "CSS 205", "FES 240", "FES 240H"]
+  "prerequisites": [["SOIL 205", "SOIL 205H", "CSS 205", "CSS 305"], ["FES 240", "FES 240H"]]
 }, {
-  "corequisites": ["FOR 442"],
+  "corequisites": [["FOR 442"]],
   "course_name": "SILVICULTURAL PRACTICES",
   "course_number": "FOR 443",
   "credits": "4",
   "description": "Manipulation of forest stand structure and dynamics to meet various resource management objectives. Covers key concepts and practices associated with vegetation control, thinning, fertilization, even-aged and uneven-aged regeneration systems including social and environmental considerations associated with treatments. Two-day field trip required.",
-  "prerequisites": ["FES 240", "FES 240H", "FOR 321"]
+  "prerequisites": [["FES 240", "FES 240H"], ["FOR 321"]]
 }, {
   "corequisites": [],
   "course_name": "PRESCRIBED FIRE PRACTICUM",
   "course_number": "FOR 452",
   "credits": "3",
   "description": "Explores prescribed fire in an ecological context and as a management tool. Emphasizes evaluating sites for prescribed fire potential/suitability, developing burn prescriptions and burn plans to meet landowner and ecological objectives, monitoring results, and accessing resources and expertise. Develops a burn plan and implements a prescribed burn.",
-  "prerequisites": ["FOR 252"]
+  "prerequisites": [["FOR 252"]]
 }, {
   "corequisites": [],
   "course_name": "*INTERNATIONAL FORESTRY",
@@ -228,14 +228,14 @@
   "course_number": "FOR 457",
   "credits": "4",
   "description": "Use of linear programming, nonlinear programming, dynamic programming, and simulation to solve complex forest management problems, with emphasis on intertemporal multiple-use scheduling. Forestry transportation problems, multiple-use allocation, and investment analysis. Field trips required. CROSSLISTED as FE 457/FOR 457 and FE 557.",
-  "prerequisites": ["FOR 329", "FOR 441", "FOR 443"]
+  "prerequisites": [["FOR 329"], ["FOR 441", "FOR 443"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST MANAGEMENT PLANNING AND DESIGN I",
   "course_number": "FOR 459",
   "credits": "4",
   "description": "Integration of environmental, economic, and social aspects of forestry in management planning. Development of strategic and tactical plans using diverse data types and sources. Senior capstone class projects. Lec/lab. CROSSLISTED as FE 459/FOR 459.",
-  "prerequisites": ["FE 457", "FOR 457"]
+  "prerequisites": [["FE 457", "FOR 457"]]
 }, {
   "corequisites": [],
   "course_name": "^FOREST POLICY",
@@ -263,7 +263,7 @@
   "course_number": "FOR 469",
   "credits": "4",
   "description": "A team-based, project-centric course for integrated timber harvest planning. Establish tactical and operational planning goals and constraints, identify feasible harvesting and transportation systems, and design harvest units to meet objectives and constraints. Lec/lab. CROSSLISTED as FE 469/FOR 469.",
-  "prerequisites": ["FE 459", "FOR 459"]
+  "prerequisites": [["FE 459", "FOR 459"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -333,7 +333,7 @@
   "course_number": "FOR 520",
   "credits": "4",
   "description": "Examines passive and active sensors used in remote sensing. Explores manipulation of geospatial data in R and classification of images using machine learning. Extract forest relevant information from lidar and photogrammetric point clouds. Sampling for accuracy assessment.",
-  "prerequisites": ["FE 544", "GEOG 580"]
+  "prerequisites": [["FE 544", "GEOG 580"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST BIOMETRICS",
@@ -347,7 +347,7 @@
   "course_number": "FOR 525",
   "credits": "4",
   "description": "Develops forest models using regression and machine learning models. Explores techniques and assumptions used to develop static and dynamic models. Emphasizes regression analysis, random forests, and neural networks.",
-  "prerequisites": ["ST 521", "ST 552"]
+  "prerequisites": [["ST 521", "ST 552"]]
 }, {
   "corequisites": [],
   "course_name": "3-PG FOREST GROWTH MODEL",

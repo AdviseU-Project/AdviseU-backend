@@ -25,77 +25,77 @@
   "course_number": "CHE 311",
   "credits": "3",
   "description": "Entropy, the second law of thermodynamics, equations of state, and thermodynamic network.",
-  "prerequisites": ["CBEE 212", "CBEE 212H", "CBEE 280", "MTH 256", "MTH 256H"]
+  "prerequisites": [["CBEE 212", "CBEE 212H", "CBEE 280"], ["MTH 256", "MTH 256H"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL ENGINEERING THERMODYNAMICS",
   "course_number": "CHE 312",
   "credits": "3",
   "description": "Thermodynamic mixtures, fugacity, phase equilibrium, and chemical reactions equilibrium.",
-  "prerequisites": ["CHE 311"]
+  "prerequisites": [["CHE 311"]]
 }, {
   "corequisites": [],
   "course_name": "SAFETY",
   "course_number": "CHE 320",
   "credits": "ENGINEERING",
   "description": "Introduction to engineering ethics and safety concepts. Topics include professional engineering responsibility, codes of ethics, ethical assessment, conflicts of interest, loyalty and dissent, life-long learning, hazard identification, risk and safety, and process safety management.",
-  "prerequisites": ["CBEE 212", "CBEE 212H", "CBEE 280"]
+  "prerequisites": [["CBEE 212", "CBEE 212H", "CBEE 280"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA I",
   "course_number": "CHE 331",
   "credits": "4",
   "description": "Applies momentum and energy transfer phenomena to fluid (i.e., gases and liquids) flow for the design of processes in chemical, biological, and environmental engineering.",
-  "prerequisites": ["MTH 256", "MTH 256H", "CBEE 212", "CBEE 212H", "CBEE 280"]
+  "prerequisites": [["MTH 256", "MTH 256H"], ["CBEE 212", "CBEE 212H", "CBEE 280"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA I",
   "course_number": "CHE 331H",
   "credits": "4",
   "description": "Applies momentum and energy transfer phenomena to fluid (i.e., gases and liquids) flow for the design of processes in chemical, biological, and environmental engineering.",
-  "prerequisites": ["MTH 256", "MTH 256H", "CBEE 212", "CBEE 212H", "CBEE 280"]
+  "prerequisites": [["MTH 256", "MTH 256H"], ["CBEE 212", "CBEE 212H", "CBEE 280"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA II",
   "course_number": "CHE 332",
   "credits": "3",
   "description": "A unified treatment using control volume and differential analysis of heat transfer, prediction of heat transport properties, and introduction to heat transfer operations.",
-  "prerequisites": ["CHE 311", "CHE 331", "CHE 331H"]
+  "prerequisites": [["CHE 311"], ["CHE 331", "CHE 331H"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA II",
   "course_number": "CHE 332H",
   "credits": "3",
   "description": "A unified treatment using control volume and differential analysis of heat transfer, prediction of heat transport properties, and introduction to heat transfer operations.",
-  "prerequisites": ["CHE 311", "CHE 331", "CHE 331H"]
+  "prerequisites": [["CHE 311"], ["CHE 331", "CHE 331H"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA III",
   "course_number": "CHE 333",
   "credits": "3",
   "description": "A unified treatment using control volume and differential analysis of binary mass transfer, prediction of mass transport properties, and introduction to mass transfer operations. Lec/studio.",
-  "prerequisites": ["CHE 331", "CHE 331H", "CHE 332", "CHE 332H"]
+  "prerequisites": [["CHE 331", "CHE 331H", "CHE 332", "CHE 332H"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA III",
   "course_number": "CHE 333H",
   "credits": "3",
   "description": "A unified treatment using control volume and differential analysis of binary mass transfer, prediction of mass transport properties, and introduction to mass transfer operations. Lec/studio.",
-  "prerequisites": ["CHE 331", "CHE 331H", "CHE 332", "CHE 332H"]
+  "prerequisites": [["CHE 331", "CHE 331H", "CHE 332", "CHE 332H"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORT PHENOMENA LABORATORY",
   "course_number": "CHE 334",
   "credits": "3",
   "description": "Engineering lab practices and the application of the macroscopic balances of mass, energy, and chemical species; fluid flow, heat and mass transfer experiments by teams for demonstrations of principles established in previous transport phenomena courses.",
-  "prerequisites": ["CBEE 213", "CHE 333", "CHE 333H"]
+  "prerequisites": [["CBEE 213"], ["CHE 333", "CHE 333H"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL PROCESS DYNAMICS AND SIMULATION",
   "course_number": "CHE 361",
   "credits": "3",
   "description": "Fundamental principles for process dynamic modeling used in the control of process variables such as pressure, temperature, flow rate and chemical composition.",
-  "prerequisites": ["MTH 256", "MTH 256H", "CHE 331", "CHE 331H"]
+  "prerequisites": [["MTH 256", "MTH 256H"], ["CHE 331", "CHE 331H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -158,49 +158,49 @@
   "course_number": "CHE 411",
   "credits": "4",
   "description": "Mass transfer operations; design of separation processes.",
-  "prerequisites": ["CHE 312", "CHE 333", "CHE 333H"]
+  "prerequisites": [["CHE 312"], ["CHE 333", "CHE 333H"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL ENGINEERING LABORATORY I",
   "course_number": "CHE 415",
   "credits": "3",
   "description": "Theoretical and empirical analysis of several unit operations, use of formal work processes, safety, teamwork, oral and written communication, and personal accountability.",
-  "prerequisites": ["CBEE 414", "CHE 411", "CHE 443", "CHE 361"]
+  "prerequisites": [["CBEE 414"], ["CHE 411"], ["CHE 443"], ["CHE 361"]]
 }, {
   "corequisites": [],
   "course_name": "INSTRUMENTATION IN CHEMICAL",
   "course_number": "CHE 417",
   "credits": "BIOLOGICAL",
   "description": "Equips students with a toolbox of instrumental techniques important in chemical, biological, and environmental engineering and the background required to determine the appropriate instrumental technique to address a specific problem.",
-  "prerequisites": ["CH 332", "CH 335"]
+  "prerequisites": [["CH 332", "CH 335"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL PLANT DESIGN I",
   "course_number": "CHE 431",
   "credits": "3",
   "description": "Short-cut techniques and other abbreviated and useful methods for specifying equipment sufficient for the preliminary design of processes and equipment; estimating capital and manufacturing costs based on equipment specifications.",
-  "prerequisites": ["CHE 312", "CHE 411", "CHE 443"]
+  "prerequisites": [["CHE 312"], ["CHE 411"], ["CHE 443"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL PLANT DESIGN II",
   "course_number": "CHE 432",
   "credits": "3",
   "description": "Transformation of preliminary design to detailed design; introduction to safety, ethical, economical, and environmental considerations in chemical plant design.",
-  "prerequisites": ["CHE 431"]
+  "prerequisites": [["CHE 431"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL REACTION ENGINEERING",
   "course_number": "CHE 443",
   "credits": "4",
   "description": "Design of chemical reactors for economical processes and waste minimization. Contacting patterns, kinetics and transport rate effects in single phase and catalytic systems.",
-  "prerequisites": ["CHE 312", "CHE 333", "CHE 333H"]
+  "prerequisites": [["CHE 312"], ["CHE 333", "CHE 333H"]]
 }, {
   "corequisites": [],
   "course_name": "THIN FILM MATERIALS PROCESSING",
   "course_number": "CHE 444",
   "credits": "4",
   "description": "Solid state devices are based on the patterning of thin films. This course is primarily an introduction to the technology associated with processing thin films. Topics include chemical vapor deposition, physical vapor deposition, plasma etching, and thin-film characterization.",
-  "prerequisites": ["CHE 443"]
+  "prerequisites": [["CHE 443"]]
 }, {
   "corequisites": [],
   "course_name": "POLYMER ENGINEERING AND SCIENCE",
@@ -214,35 +214,35 @@
   "course_number": "CHE 446",
   "credits": "3",
   "description": "Covers theoretical aspects of all commonly used methods for preparations of polymers, including free radical polymerization, ionic polymerization, vinyl polymerization with complex coordination catalyst, step-group polymerization, and ring-opening polymerization in the first part of the course. Explores practical synthetic methods for preparations of commonly used polymers that include polyesters, polyamides (Nylons), polyethers, polyamines, epoxy resins, phenol-formaldehyde resins, urea-formaldehyde resins, polyurethanes (foams, adhesives, and coatings), pressure-sensitive adhesives, unsaturated polyester resins, vinyl ester resins, rubbers and other elastomers in the second part.",
-  "prerequisites": ["CH 331", "CH 334"]
+  "prerequisites": [["CH 331", "CH 334"]]
 }, {
   "corequisites": [],
   "course_name": "CONVENTIONAL AND ALTERNATIVE ENERGY SYSTEMS",
   "course_number": "CHE 450",
   "credits": "3",
   "description": "Principles of energy conversion from chemical/mechanical energy to electrical energy including an overview of conventional energy systems and of likely renewable energy systems with a focus on the fundamental physico-chemical and thermodynamic concept for each technology. The economics of energy systems will also be discussed.",
-  "prerequisites": ["CHE 311", "ME 311", "ME 311H", "NSE 311", "NSE 311H", "CH 440"]
+  "prerequisites": [["CHE 311", "ME 311", "ME 311H", "NSE 311", "NSE 311H", "CH 440"]]
 }, {
   "corequisites": [],
   "course_name": "SOLAR ENERGY TECHNOLOGIES",
   "course_number": "CHE 451",
   "credits": "3",
   "description": "A foundation in the principles of solar energy processes is provided. Topics covered include photovoltaics and solar thermal, and will cover the fundamental solid state physics of semiconductors to applied heat transfer analysis of solar collectors. The course objective is to equip students with an adequate depth of understanding of the operational principles of solar energy systems, and to cover the breadth of the various approaches employed in active solar energy systems.",
-  "prerequisites": ["CHE 311", "ME 311", "ME 311H", "NSE 311", "NSE 311H", "CH 440"]
+  "prerequisites": [["CHE 311", "ME 311", "ME 311H", "NSE 311", "NSE 311H", "CH 440"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTROCHEMICAL ENERGY SYSTEMS",
   "course_number": "CHE 452",
   "credits": "3",
   "description": "Introduces principles and processes of electrochemical energy storage and conversion systems. Topics include fundamentals of electrochemistry and concepts of electrochemical energy storage systems. Examples from batteries, fuel cells, supercapacitors devices will be discussed.",
-  "prerequisites": ["CHE 311", "CHE 333", "CHE 333H"]
+  "prerequisites": [["CHE 311"], ["CHE 333", "CHE 333H"]]
 }, {
   "corequisites": [],
   "course_name": "PROCESS CONTROL",
   "course_number": "CHE 461",
   "credits": "3",
   "description": "Principles of PID feedback control based on models of chemical processes; analysis and implementation of proportional, integral and derivative tuning; cascade, feedforward, ratio and deadtime compensation; multivariable control and control system design issues and methods.",
-  "prerequisites": ["CHE 331", "CHE 331H", "CHE 332", "CHE 332H", "CHE 361"]
+  "prerequisites": [["CHE 331", "CHE 331H"], ["CHE 332", "CHE 332H"], ["CHE 361"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -340,7 +340,7 @@
   "course_number": "CHE 542",
   "credits": "3",
   "description": "Introducing the principles of heterogeneous catalysis from the molecular aspect with emphasis on computational molecular approaches and surface science. The role of surface structure in heterogeneous catalytic reactions and surface interactions, development and analysis of reaction kinetics through microkinetic modeling approaches will be covered. A class project will utilize Density Functional Theory software to calculate catalytic properties of model systems.",
-  "prerequisites": ["CHE 540"]
+  "prerequisites": [["CHE 540"]]
 }, {
   "corequisites": [],
   "course_name": "THIN FILM MATERIALS PROCESSING",

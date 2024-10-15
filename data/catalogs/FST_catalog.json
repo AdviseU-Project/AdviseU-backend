@@ -67,7 +67,7 @@
   "course_number": "FST 280",
   "credits": "2",
   "description": "Investigates different types of fermentation processes, related techniques, and products. Engages in laboratory activities on cider fermentation and sensory evaluation.",
-  "prerequisites": ["CH 231", "CH 231H", "CH 261", "CH 261H"]
+  "prerequisites": [["CH 231", "CH 231H"], ["CH 261", "CH 261H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -88,7 +88,7 @@
   "course_number": "FST 327",
   "credits": "3",
   "description": "Examines principles and assessment of sustainable food processing. Develops concepts of sustainable food processing technologies and food manufacture operations. Explores sustainable processing of various food commodities and products.",
-  "prerequisites": ["FST 212", "FST 280"]
+  "prerequisites": [["FST 210", "FST 212", "FST 280"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD SAFETY MANAGEMENT: A PRACTICAL GUIDE",
@@ -102,7 +102,7 @@
   "course_number": "FST 360",
   "credits": "3",
   "description": "Principles, practices, and regulations governing and ensuring the microbiological safety of our food supply through risk assessment, surveillance, and intervention.",
-  "prerequisites": ["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "CH 121", "CH 231", "CH 231H"]
+  "prerequisites": [["BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H"], ["CH 121", "CH 221", "CH 221H", "CH 231", "CH 231H"]]
 }, {
   "corequisites": [],
   "course_name": "INDUSTRY PREPARATION/HACCP",
@@ -123,7 +123,7 @@
   "course_number": "FST 385",
   "credits": "3",
   "description": "Guides students in the investigation and critical evaluation of literature on a topic of current interest in food or fermentation science, and the development of their ability to write concisely and with precision about technical subject matter in this discipline.",
-  "prerequisites": ["FST 360", "WR 121", "WR 121H", "WR 121Z", "WR 121HZ", "MB 302", "MB 302H"]
+  "prerequisites": [["FST 360"], ["WR 121", "WR 121H", "WR 121Z", "WR 121H"], ["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -179,7 +179,7 @@
   "course_number": "FST 420",
   "credits": "3",
   "description": "Covers sensory techniques used in the evaluation of the taste, smell, texture, and appearance of foods as well as the evaluation of consumer acceptance. Examines methods for measuring sensory qualities, underlying psychological principles, and statistical methods for analyzing data.",
-  "prerequisites": ["ST 351", "ST 411", "ST 352", "ST 412"]
+  "prerequisites": [["ST 351", "ST 411"], ["ST 352", "ST 412"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD LAW",
@@ -193,7 +193,7 @@
   "course_number": "FST 422",
   "credits": "4",
   "description": "An integrated course applying theories of molecular reactivity to model food systems. Lectures focus on the molecular bases of chemical phenomena that dictate the behavior of foods. Laboratories and recitations provide opportunities for students to observe, manipulate, and explore model food systems. Emphasis on major food components (water, lipids, proteins, and carbohydrates) and their behavior under conditions of particular relevance to food processing.",
-  "prerequisites": ["BB 350", "BB 450", "CH 332", "CH 336", "MTH 228", "MTH 252", "MTH 252H"]
+  "prerequisites": [["BB 350", "BB 450", "BB 450H"], ["CH 332", "CH 336"], ["MTH 228", "MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD ANALYSIS",
@@ -207,14 +207,14 @@
   "course_number": "FST 425",
   "credits": "4",
   "description": "The chemistry of food components in real-world food systems. Focused on water, proteins, carbohydrates, lipids, and food polymers, their interactions, and the effects of food processing and storage. Integrates writing as a learning tool and means of professional communication.",
-  "prerequisites": ["FST 422"]
+  "prerequisites": [["FST 422"]]
 }, {
   "corequisites": [],
   "course_name": "SENSORY EVALUATION OF FOOD LABORATORY",
   "course_number": "FST 428",
   "credits": "1",
   "description": "Emphasizes sensory techniques used in the evaluation of the taste, smell, texture, and appearance of foods as well as the evaluation of consumer acceptance. This includes methods for measuring sensory qualities, statistical methods for analyzing data, and proper interpretation of these results. Focuses on sample presentation, dealing with panelists, data recording, data analysis, interpretation of results, and report writing.",
-  "prerequisites": ["FST 420"]
+  "prerequisites": [["FST 420"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD PRODUCT DEVELOPMENT",
@@ -228,16 +228,16 @@
   "course_number": "FST 437",
   "credits": "3",
   "description": "The underlying science of the production of the distilled spirits will be discussed systematically. The course will cover the requirements for water, the major raw materials (eg. cereals, fruits, agave, syrups, and woods for maturation) and the conversion of these into fermentable extract. The scientific principles of fermentation will be explored, in the context of both ethanol and secondary metabolite production. Distillation will be considered, in terms of the physics and chemistry of liquid-liquid separations, before discussing post-fermentation options such as blending, maturation and product finishing.",
-  "prerequisites": ["FST 251", "BB 350"]
+  "prerequisites": [["FST 251"], ["BB 350"]]
 }, {
   "corequisites": [],
   "course_name": "PRODUCTION AND ANALYSIS OF DISTILLED SPIRITS",
   "course_number": "FST 439",
   "credits": "2",
   "description": "Compares and contrasts different approaches to the manufacture of distilled spirits by using some of the major spirit categories as examples. Discusses the management of a distilled spirits production plant in terms of legislative, safety and process/ product quality before explicit consideration of the requirements for establishing a distilled spirits production plant. Provides students with a broad understanding of the distilled spirits sector.",
-  "prerequisites": ["FST 437"]
+  "prerequisites": [["FST 437"]]
 }, {
-  "corequisites": ["FST 439"],
+  "corequisites": [["FST 439"]],
   "course_name": "PRODUCTION AND ANALYSIS OF DISTILLED SPIRITS LABORATORY",
   "course_number": "FST 440",
   "credits": "1",
@@ -256,37 +256,37 @@
   "course_number": "FST 460",
   "credits": "3",
   "description": "Explores the chemistry, biochemistry, microbiology and engineering of malting and brewing operations for the production of beer, including the compositional analysis of barley, malt, hops, water, and beer and their effects on beer quality.",
-  "prerequisites": ["BI 205", "BI 221", "BI 221H", "CH 331", "CH 332"]
+  "prerequisites": [["BI 205", "BI 221", "BI 221H"], ["CH 331"], ["CH 332"]]
 }, {
   "corequisites": [],
   "course_name": "PRODUCTION AND ANALYSIS OF BEER",
   "course_number": "FST 463",
   "credits": "2",
   "description": "Examines the chemical, microbiological, physical, and sensory analyses for assessing beer quality.",
-  "prerequisites": ["FST 460", "MB 302", "MB 302H"]
+  "prerequisites": [["FST 460"], ["MB 302", "MB 302H"]]
 }, {
-  "corequisites": ["FST 463"],
+  "corequisites": [["FST 463"]],
   "course_name": "PRODUCTION AND ANALYSIS OF BEER LABORATORY",
   "course_number": "FST 464",
   "credits": "1",
   "description": "Focuses on hands-on instruction of brewery operations and analytical techniques for producing and assessing beer.",
-  "prerequisites": ["FST 460", "MB 302", "MB 302H", "MB 303"]
+  "prerequisites": [["FST 460"], ["MB 302", "MB 302H"], ["MB 303", "MB 303H"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMISTRY AND BIOCHEMISTRY OF WINE",
   "course_number": "FST 466",
   "credits": "3",
   "description": "Explores principles of wine production technology from grape berry development through bottling, covering the microbiology and chemistry and biochemistry of fermentation, aging and production practices of red and white table wines as well as sparkling and dessert wines.",
-  "prerequisites": ["MB 302", "MB 302H"]
+  "prerequisites": [["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "PRODUCTION AND ANALYSIS OF WINE",
   "course_number": "FST 469",
   "credits": "2",
   "description": "Examines the fundamentals of red and white wine production including procedures and equipment used and application of key chemical, microbial, and sensory analysis techniques to assess wine.",
-  "prerequisites": ["FST 466", "FST 479"]
+  "prerequisites": [["FST 466"], ["FST 479"]]
 }, {
-  "corequisites": ["FST 469"],
+  "corequisites": [["FST 469"]],
   "course_name": "PRODUCTION AND ANALYSIS OF WINE LABORATORY",
   "course_number": "FST 470",
   "credits": "3",
@@ -298,21 +298,21 @@
   "course_number": "FST 472",
   "credits": "4",
   "description": "Covers fundamental engineering principles for scientists and non-process engineers. Explores unit conversion, mass and energy balances, heat transfer, thermal processing, and lethality. Directed at food scientists and other majors who need or would like a working knowledge of food engineering principles.",
-  "prerequisites": ["MTH 227", "MTH 251", "MTH 251H", "PH 201", "PH 211", "PH 211H", "FST 360"]
+  "prerequisites": [["MTH 227", "MTH 251", "MTH 251H"], ["PH 201", "PH 211", "PH 211H"], ["FST 360"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD ENGINEERING AND PROCESSING II",
   "course_number": "FST 473",
   "credits": "4",
   "description": "Covers fundamental engineering principles for scientists and non-process engineers. Explores mass transfer, extrusion, filtration, osmosis, distillation, extraction, drying, and freezing.",
-  "prerequisites": ["FST 472"]
+  "prerequisites": [["FST 472"]]
 }, {
   "corequisites": [],
   "course_name": "FERMENTATION MICROBIOLOGY",
   "course_number": "FST 479",
   "credits": "3",
   "description": "Introduction to fermentation microbiology that emphasizes the evolution of key physiological traits and biochemical pathways within key microbial genera. Explores the microbial ecology of processes used to make alcoholic beverages, food ingredients, and fermented foods. CROSSLISTED as FST 479/MB 479.",
-  "prerequisites": ["BB 350", "BB 450", "MB 302", "MB 302H"]
+  "prerequisites": [["BB 350", "BB 450"], ["MB 302", "MB 302H"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS IN FERMENTATION",
@@ -326,7 +326,7 @@
   "course_number": "FST 495",
   "credits": "3",
   "description": "Fundamentals of food packaging covering the major packaging solutions with a focus on plastic, paper, glass, metal, and paperboard. Modeling of gas and water permeation and accelerated shelf testing. Regulations in food contact surface and related to indirect food additives.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "PH 201", "CH 331"]
+  "prerequisites": [["MTH 111", "MTH 111Z"], ["PH 201"], ["CH 331"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -382,7 +382,7 @@
   "course_number": "FST 520",
   "credits": "3",
   "description": "Covers sensory techniques used in the evaluation of the taste, smell, texture, and appearance of foods as well as the evaluation of consumer acceptance. Examines methods for measuring sensory qualities, underlying psychological principles, and statistical methods for analyzing data.",
-  "prerequisites": ["ST 511", "ST 512"]
+  "prerequisites": [["ST 511"], ["ST 512"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD LAW",
@@ -410,14 +410,14 @@
   "course_number": "FST 525",
   "credits": "4",
   "description": "The chemistry of food components in real-world food systems. Focused on water, proteins, carbohydrates, lipids, and food polymers, their interactions, and the effects of food processing and storage. Integrates writing as a learning tool and means of professional communication.",
-  "prerequisites": ["FST 522"]
+  "prerequisites": [["FST 522"]]
 }, {
   "corequisites": [],
   "course_name": "SENSORY EVALUATION OF FOOD LABORATORY",
   "course_number": "FST 528",
   "credits": "1",
   "description": "Emphasizes sensory techniques used in the evaluation of the taste, smell, texture, and appearance of foods as well as the evaluation of consumer acceptance. This includes methods for measuring sensory qualities, statistical methods for analyzing data, and proper interpretation of these results. Focuses on sample presentation, dealing with panelists, data recording, data analysis, interpretation of results, and report writing.",
-  "prerequisites": ["FST 520"]
+  "prerequisites": [["FST 520"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMISTRY AND BIOCHEMISTRY OF DISTILLED SPIRITS",
@@ -447,12 +447,12 @@
   "description": "Examines the chemical, microbiological, physical, and sensory analyses for assessing beer quality.",
   "prerequisites": []
 }, {
-  "corequisites": ["FST 463"],
+  "corequisites": [["FST 463"]],
   "course_name": "PRODUCTION AND ANALYSIS OF BEER LABORATORY",
   "course_number": "FST 564",
   "credits": "1",
   "description": "Focuses on hands-on instruction of brewery operations and analytical techniques for producing and assessing beer.",
-  "prerequisites": ["FST 560"]
+  "prerequisites": [["FST 560"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMISTRY AND BIOCHEMISTRY OF WINE",
@@ -466,9 +466,9 @@
   "course_number": "FST 569",
   "credits": "2",
   "description": "Examines the fundamentals of red and white wine production including procedures and equipment used and application of key chemical, microbial, and sensory analysis techniques to assess wine.",
-  "prerequisites": ["FST 566", "FST 579"]
+  "prerequisites": [["FST 566"], ["FST 579"]]
 }, {
-  "corequisites": ["FST 569"],
+  "corequisites": [["FST 569"]],
   "course_name": "PRODUCTION AND ANALYSIS OF WINE LABORATORY",
   "course_number": "FST 570",
   "credits": "3",
@@ -487,7 +487,7 @@
   "course_number": "FST 573",
   "credits": "4",
   "description": "Covers fundamental engineering principles for scientists and non-process engineers. Explores mass transfer, extrusion, filtration, osmosis, distillation, extraction, drying, and freezing.",
-  "prerequisites": ["FST 572"]
+  "prerequisites": [["FST 572"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF WINE PRODUCTION",
@@ -557,7 +557,7 @@
   "course_number": "FST 620",
   "credits": "2",
   "description": "Current and/or advanced subjects in human sensory science. Includes 1) topics in human flavor perception that covers human psychophysics, neuroscience, and related fields, and 2) sensory evaluation techniques and data handling methods that are advanced in nature. Different points of view regarding above topics will be discussed.",
-  "prerequisites": ["FST 520"]
+  "prerequisites": [["FST 520"]]
 }, {
   "corequisites": [],
   "course_name": "FLAVOR CHEMISTRY",
@@ -585,5 +585,5 @@
   "course_number": "FST 666",
   "credits": "3",
   "description": "An in-depth investigation of advanced wine processing techniques and wine research, focusing on their impact on production and wine quality.",
-  "prerequisites": ["FST 566", "FST 569", "FST 570"]
+  "prerequisites": [["FST 566"], ["FST 567", "FST 569"], ["FST 570"]]
 }]

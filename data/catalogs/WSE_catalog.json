@@ -67,14 +67,14 @@
   "course_number": "WSE 320",
   "credits": "3",
   "description": "Describe the anatomy of plant-based materials commonly used by society. Recognize cell types present in the stem and bark of commercially important plants and their origins. Describe the function of cell types in hardwoods, softwoods and monocots. Identify common North American hardwoods and softwoods based on macro- and microscopic features.",
-  "prerequisites": ["WSE 210"]
+  "prerequisites": [["WSE 210"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD CHEMISTRY",
   "course_number": "WSE 321",
   "credits": "3",
   "description": "Emphasizes chemical structures and chemical properties of renewable plant-based materials, especially wood, at the molecular level. Covers chemical compositions of different renewable materials. Discusses chemical and biochemical modifications and applications of renewable materials.",
-  "prerequisites": ["CH 122", "CH 202", "CH 232", "CH 232H"]
+  "prerequisites": [["CH 122", "CH 202", "CH 232", "CH 232H"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL AND MECHANICAL PROPERTIES OF WOOD",
@@ -88,7 +88,7 @@
   "course_number": "WSE 324",
   "credits": "4",
   "description": "Introduces basic lab routines, explains fundamental concepts of physical measurements and testing, relevant to integrated knowledge from WSE 321 and WSE 322. Provides fundamental lab literacy, basic understanding on practical interpretation and use of standards, provides deeper understanding of how chemistry, physics, and anatomy affect material properties of wood and wood-based materials. Uses wood and a range of wood-based materials such as hardwoods, softwoods, wood fibers, composite wood products (e.g., CLT, LVL, OSB, plywood, MDF, wood-plastic composites, paper, etc.) to examine the intricate relationships between fundamental properties and performance.",
-  "prerequisites": ["WSE 321", "WSE 322"]
+  "prerequisites": [["WSE 321"], ["WSE 322"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD PRODUCTS STUDIO",
@@ -158,21 +158,21 @@
   "course_number": "WSE 413",
   "credits": "4",
   "description": "An in-depth look at how character in wood (figure, spalting, knots, etc.) affects machinability and output in both functional and aesthetic turning. Students will work with a wide range of spalted wood types and figure across numerous species while working on advanced turning forms. Particular emphasis will be placed upon how figure affects grain orientation, how spalting affects density and stability, and how the challenges with character wood can be overcome without specialty tools.",
-  "prerequisites": ["WSE 210", "WSE 211"]
+  "prerequisites": [["WSE 210"], ["WSE 211"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO SCULPTURAL WOODTURNING",
   "course_number": "WSE 417",
   "credits": "4",
   "description": "Explore traditional woodturning styles from around the world. Synthesize styles from the North American Studio Woodturning Movement. Modify current styles with personal aesthetics to create studio woodturning work. Recognize the differences between craft, professional, and studio woodturning.",
-  "prerequisites": ["WSE 211", "WSE 413"]
+  "prerequisites": [["WSE 211"], ["WSE 413"]]
 }, {
   "corequisites": [],
   "course_name": "INTEGRATED SCULPTURAL WOODTURNING",
   "course_number": "WSE 418",
   "credits": "4",
   "description": "Synthesize personal style with historic work during object creation. Develop an independent sculptural style. Distinguish craft from sculptural work and the markets that support them. Investigate marketing opportunities based upon your style of work. Develop appropriate products for such spaces. Assemble a cohesive website and marketing plan in which you could thrive as an independent artist.",
-  "prerequisites": ["WSE 417"]
+  "prerequisites": [["WSE 417"]]
 }, {
   "corequisites": [],
   "course_name": "TIMBER TECTONICS IN THE DIGITAL AGE",
@@ -186,7 +186,7 @@
   "course_number": "WSE 430",
   "credits": "4",
   "description": "An introduction to fundamentals of engineering mechanics for RM students selecting Science and Engineering option. While in most aspects the course follows standard introductory mechanics courses for engineers, special attention is paid to elasticity and strength in cellular and anisotopic materials like solid wood and bio-based composites. The overall objective of this course is to provide fundamental knowledge and practical skills in the area of engineering mechanics and mechanical principles behind some of the most important methods of characterization, processing, and utilization of renewable biomaterials; commonly used today, emerging and future.",
-  "prerequisites": ["MTH 254", "MTH 254H", "WSE 324"]
+  "prerequisites": [["MTH 254", "MTH 254H"], ["WSE 324"]]
 }, {
   "corequisites": [],
   "course_name": "STRAND-BASED COMPOSITES MANUFACTURE",
@@ -221,21 +221,21 @@
   "course_number": "WSE 461",
   "credits": "4",
   "description": "First of a three-term series exploring technologies and management practices associated with manufacturing products from wood and other renewable materials. Covers major processing steps for the conversion of raw materials into products. Emphasizes major processing steps, equipment, and the impact of material properties on processing strategies.",
-  "prerequisites": ["WSE 210"]
+  "prerequisites": [["WSE 210"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED WOOD MANUFACTURING 1",
   "course_number": "WSE 462",
   "credits": "4",
   "description": "Second of a three-term series exploring technologies and management practices associated with manufacturing products from wood and other renewable materials. Explores advanced technologies and management practices associated with wood products manufacturing processes. Emphasizes process design, quality control, and continuous process improvement.",
-  "prerequisites": ["WSE 461"]
+  "prerequisites": [["WSE 461"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED MANUFACTURING 2",
   "course_number": "WSE 463",
   "credits": "4",
   "description": "Third of a three-term series exploring technologies and management practices associated with manufacturing products from wood and other renewable materials. Subjects covered include process control, optimization, automation, and contemporary topics such as Big Data and the Internet of Things and the potential impacts of the trends on manufacturing enterprises.",
-  "prerequisites": ["WSE 462"]
+  "prerequisites": [["WSE 462"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD PRODUCTS FIELD SCHOOL",
@@ -319,7 +319,7 @@
   "course_number": "WSE 516",
   "credits": "4",
   "description": "Explore traditional woodturning styles from around the world. Synthesize styles from the North American Studio Woodturning Movement. Modify current styles with personal aesthetics to create studio woodturning work. Recognize the differences between craft, professional, and studio woodturning.",
-  "prerequisites": ["WSE 513"]
+  "prerequisites": [["WSE 513"]]
 }, {
   "corequisites": [],
   "course_name": "TIMBER TECTONICS IN THE DIGITAL AGE",
@@ -368,35 +368,35 @@
   "course_number": "WSE 544",
   "credits": "2",
   "description": "Explores the chemical makeup of lignocellulosic materials with a specific focus on wood. Critically analyzes products that can be made from renewable raw materials. Examines processes required to manufacture paper and wood chemical products.",
-  "prerequisites": ["WSE 541"]
+  "prerequisites": [["WSE 541"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD PHYSICS",
   "course_number": "WSE 545",
   "credits": "2",
   "description": "Examines fundamental physics as applied to plant fibers, solid wood and bio-based composites, with focus on hygroscopicity, heat & mass transport, and synthesis and application of principles to practical examples such as in wood drying or hot pressing. Explores general physical and mechanical theories and models are used to describe the behavior of biomaterials to the same degree as to all other materials. Explores the complexity of materials obtained from forest and agricultural biomass, including discussion of certain aspects of physical models and theories not commonly covered in general physics classes.",
-  "prerequisites": ["WSE 541"]
+  "prerequisites": [["WSE 541"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD MECHANICS",
   "course_number": "WSE 546",
   "credits": "2",
   "description": "Explores at multiple levels the complex structure of wood and how it influences mechanical properties. Analyzes load response, stress, strain, and directional complexities. Critically examines mechanics of engineered wood composites, its strengths and weaknesses, in relationship to other commonly used building materials.",
-  "prerequisites": ["WSE 541"]
+  "prerequisites": [["WSE 541"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD BIODETERIORATION & PRESERVATION",
   "course_number": "WSE 547",
   "credits": "2",
   "description": "Examines wood biodeterioration, biodegradation, and various method for their prevention. Describes the biotic and abiotic agents of wood decay and requires students to compare and contrast them with respect to their impacts on wood. Describes the chemical properties and mode of action of common wood preservatives, wood protection systems, and wood modification technologies. Synthesizes base knowledge in wood preservative technology into novel creative methods for wood protection or environmental risk mitigation.",
-  "prerequisites": ["WSE 541"]
+  "prerequisites": [["WSE 541"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD IDENTIFICATION",
   "course_number": "WSE 548",
   "credits": "2",
   "description": "Explores and identifies the microanatomy of common commercial hardwoods and softwoods from around the world. Identifies key features in target wood species used in morphological identification. Evaluates the anatomy of differing wood species. Models the use of paper and digital databases for wood identification. Reviews current genetic and alternative methods wood identification.",
-  "prerequisites": ["WSE 541"]
+  "prerequisites": [["WSE 541"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST PRODUCTS BUSINESS",
@@ -424,7 +424,7 @@
   "course_number": "WSE 562",
   "credits": "4",
   "description": "Second of a three-term series exploring technologies and management practices associated with manufacturing products from wood and other renewable materials. Explores advanced technologies and management practices associated with wood products manufacturing processes. Emphasizes process design, quality control, and continuous process improvement.",
-  "prerequisites": ["WSE 561"]
+  "prerequisites": [["WSE 561"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED MANUFACTURING 2",

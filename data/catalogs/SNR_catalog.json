@@ -4,7 +4,7 @@
   "course_number": "SNR 506",
   "credits": "2",
   "description": "Identifies, poses, frames, and analyzes the various components of an important natural resource sustainability problem within the country, region, or organization and, at the end of term, present a workplan for its resolution.",
-  "prerequisites": ["SNR 512"]
+  "prerequisites": [["SNR 511", "SNR 512"]]
 }, {
   "corequisites": [],
   "course_name": "SUSTAINABLE NATURAL RESOURCE DEVELOPMENT",
@@ -74,7 +74,7 @@
   "course_number": "SNR 570",
   "credits": "2",
   "description": "Identifies, poses, frames, and analyzes the various components of an important natural resource sustainability problem within the country, region, or organization and, at the end of term, presents a workplan for its resolution. Identifies an important Independent Project within the country, region, or organization.",
-  "prerequisites": ["SNR 512"]
+  "prerequisites": [["SNR 511", "SNR 512"]]
 }, {
   "corequisites": [],
   "course_name": "WORKSHOP",

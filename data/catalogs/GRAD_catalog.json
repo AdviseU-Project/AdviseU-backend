@@ -172,7 +172,7 @@
   "course_number": "GRAD 607",
   "credits": "3",
   "description": "Provides a culminating experience required for all graduate students pursuing the Graduate Certificate in College and University Teaching and for other graduate students seeking a structured opportunity to develop their teaching portfolio.",
-  "prerequisites": ["GRAD 560", "GRAD 561"]
+  "prerequisites": [["GRAD 560"], ["GRAD 561"]]
 }, {
   "corequisites": [],
   "course_name": "PRACTICUM",
@@ -186,5 +186,5 @@
   "course_number": "GRAD 610",
   "credits": "3",
   "description": "Provides a framework for the in-depth internship experiences required of all graduate students pursuing the Graduate Certificate in College and University Teaching and for other graduate students seeking a structured opportunity to reflect on and improve their teaching.",
-  "prerequisites": ["GRAD 560", "GRAD 561"]
+  "prerequisites": [["GRAD 560"], ["GRAD 561"]]
 }]

@@ -53,7 +53,7 @@
   "course_number": "LING 311",
   "credits": "3",
   "description": "Examines key topics in phonetics and phonology ranging from the anatomy of the vocal tract to the cognitive processes behind the comprehension of speech sounds; spoken and non-spoken languages take focus. Explores and evaluates key phonological theories, common phonological processes, and computational techniques for speech analysis. Critically analyzes relationships between phonetics/phonology and sociolinguistic variation, first language acquisition, and second language learning. Provides linguistic tools for examining phonetics and phonology in everyday life.",
-  "prerequisites": ["LING 201"]
+  "prerequisites": [["LING 201"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

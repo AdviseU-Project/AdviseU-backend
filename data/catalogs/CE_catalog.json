@@ -11,7 +11,7 @@
   "course_number": "CE 202",
   "credits": "3",
   "description": "Introductory design principles presented with the use of GIS and geospatial information (remote sensing, GPS, surveying, and aerial photography) for civil engineering problem solving. Introduction to the integration of geospatial data and analysis for decision making and management for site selection, mitigation, change analysis, modeling and assessment. Standard software and custom programming used in course. Students participate in both individual and team projects and presentations. Projects from the area of civil engineering. Lec/lab.",
-  "prerequisites": ["CCE 201", "ENGR 248"]
+  "prerequisites": [["CCE 201", "ENGR 248"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -32,70 +32,70 @@
   "course_number": "CE 311",
   "credits": "4",
   "description": "Focuses on fluid properties, fluid statics, fluid motion, conservation of mass, momentum and energy for incompressible fluids, dimensional analysis, civil engineering applications.",
-  "prerequisites": ["MTH 256", "MTH 256H", "ENGR 211", "ENGR 211H", "PH 213", "PH 213H"]
+  "prerequisites": [["MTH 256", "MTH 256H"], ["ENGR 211", "ENGR 211H"], ["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "HYDRAULIC ENGINEERING",
   "course_number": "CE 313",
   "credits": "4",
   "description": "Analysis of large civil engineering fluid systems including conduit flow, multiple reservoirs, pipe networks, pumps, turbines, open channel flow, and hydraulic structures.",
-  "prerequisites": ["CE 311", "ARE 311", "CHE 331", "CHE 331H"]
+  "prerequisites": [["CE 311", "ARE 311", "CHE 331", "CHE 331H"]]
 }, {
   "corequisites": [],
   "course_name": "SURVEYING THEORY",
   "course_number": "CE 361",
   "credits": "4",
   "description": "Use of surveying equipment, Gaussian error theory applied to measurements, calculations of position on spherical and plane surfaces, state plane coordinate systems, introduction to global positioning systems.",
-  "prerequisites": ["CCE 201", "CE 202", "ENGR 213", "ENGR 213H", "PH 213", "PH 213H", "ST 314"]
+  "prerequisites": [["CCE 201", "CE 202"], ["ENGR 213", "ENGR 213H"], ["PH 213", "PH 213H"], ["ST 314"]]
 }, {
   "corequisites": [],
   "course_name": "HIGHWAY LOCATION AND DESIGN",
   "course_number": "CE 365",
   "credits": "3",
   "description": "Curve problems in highway design, including circular, vertical, compound curves and spirals; earth distribution analysis; preliminary office studies; paper location procedures and field layout problems.",
-  "prerequisites": ["CE 361", "CEM 263", "FE 208"]
+  "prerequisites": [["CE 361", "CEM 263", "FE 208"]]
 }, {
   "corequisites": [],
   "course_name": "GEOTECHNICAL ENGINEERING I",
   "course_number": "CE 372",
   "credits": "4",
   "description": "Introduces basic soil mechanics including the identification and classification of soil. Computations for soil compaction and consolidation, flow through porous media, effective stress, and compressibility of soil.",
-  "prerequisites": ["ENGR 213", "ENGR 213H", "ARE 311", "CE 311"]
+  "prerequisites": [["ENGR 213", "ENGR 213H"], ["ARE 311", "CE 311", "CEM 311"]]
 }, {
   "corequisites": [],
   "course_name": "GEOTECHNICAL ENGINEERING II",
   "course_number": "CE 373",
   "credits": "4",
   "description": "Applies fundamental soil mechanics principles to analyses of slope stability, retaining structures, and foundation support.",
-  "prerequisites": ["CE 372", "CEM 372", "FE 315"]
+  "prerequisites": [["CE 372", "CEM 372", "FE 315"]]
 }, {
   "corequisites": [],
   "course_name": "STRUCTURAL THEORY I",
   "course_number": "CE 381",
   "credits": "4",
   "description": "Analysis of statically determinate structures (beams, frames, trusses, arches, and cables). Approximate analysis, influence lines, deflections.",
-  "prerequisites": ["ENGR 213", "ENGR 213H"]
+  "prerequisites": [["ENGR 213", "ENGR 213H"]]
 }, {
   "corequisites": [],
   "course_name": "STRUCTURAL THEORY II",
   "course_number": "CE 382",
   "credits": "4",
   "description": "Analysis of statically indeterminate structures (beams, frames, trusses). Deflections. Energy methods, introduction to matrix methods.",
-  "prerequisites": ["CE 381", "MTH 306", "MTH 306H", "MTH 264", "MTH 264H", "MTH 265", "MTH 265H"]
+  "prerequisites": [["CE 381"], ["MTH 306", "MTH 306H", "MTH 264", "MTH 264H"], ["MTH 265", "MTH 265H"]]
 }, {
   "corequisites": [],
   "course_name": "DESIGN OF STEEL STRUCTURES",
   "course_number": "CE 383",
   "credits": "4",
   "description": "Introduction to design of steel members, connections and structural systems. Lec/lab.",
-  "prerequisites": ["CE 382"]
+  "prerequisites": [["CE 382"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HIGHWAY ENGINEERING",
   "course_number": "CE 392",
   "credits": "4",
   "description": "Introduces highway engineering standards. Topics including an overview of geometric design, cross-section design, and roadside design. Emphasizes types of highway surfaces, highways and the environment, pavement design, highway construction, and its maintenance.",
-  "prerequisites": ["ENGR 212", "ENGR 212H"]
+  "prerequisites": [["ENGR 212", "ENGR 212H"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH",
@@ -158,14 +158,14 @@
   "course_number": "CE 411",
   "credits": "4",
   "description": "Covers linear wave theory and wave forces on ocean structures. Explores guided design of a fixed and floating body system for offshore renewable wind and wave energy. Reviews studies on excitation, drag, and system performance analyses on Oregon coasts. CROSSLISTED as CE 411/MIME 411.",
-  "prerequisites": ["CE 313"]
+  "prerequisites": [["CE 313", "CEM 311"]]
 }, {
   "corequisites": [],
   "course_name": "HYDROLOGY",
   "course_number": "CE 412",
   "credits": "4",
   "description": "Fundamentals of hydrology, the hydrologic cycle, precipitation, streamflow, hydrograph analysis and hydrologic measurements.",
-  "prerequisites": ["CE 313"]
+  "prerequisites": [["CE 313"]]
 }, {
   "corequisites": [],
   "course_name": "GIS IN WATER RESOURCES",
@@ -179,28 +179,28 @@
   "course_number": "CE 415",
   "credits": "3",
   "description": "Planning and design criteria of coastal infrastructure, including breakwaters, jetties, sea walls, groins, piers, submerged pipelines, harbor design, and tsunami defense. Use of laboratory models, numerical simulations, and field observations for design.",
-  "prerequisites": ["CE 313"]
+  "prerequisites": [["CE 313"]]
 }, {
   "corequisites": [],
   "course_name": "HYDRAULIC ENGINEERING DESIGN",
   "course_number": "CE 417",
   "credits": "4",
   "description": "Theory, planning, analysis, and design of hydraulic structures. Application of basic principles detailed analysis and design. Engineering planning and design of water resource systems.",
-  "prerequisites": ["CE 313"]
+  "prerequisites": [["CE 313"]]
 }, {
   "corequisites": [],
   "course_name": "^CIVIL ENGINEERING PROFESSIONAL PRACTICE",
   "course_number": "CE 418",
   "credits": "3",
   "description": "Explores engineering career paths; ethics and professionalism, project planning, execution and delivery; team building/management; dispute resolution; partnering; effective decision making; uncertainty and risk analysis; and current industry design and construction methods.",
-  "prerequisites": ["CE 382", "CE 313", "CE 372", "FE 315", "CE 373", "CE 383", "CE 412", "CE 481", "CE 491"]
+  "prerequisites": [["CE 382"], ["CE 313"], ["CE 372", "FE 315"], ["CE 373", "CE 383", "CE 412", "CE 481", "CE 491"]]
 }, {
   "corequisites": [],
   "course_name": "^CIVIL INFRASTRUCTURE DESIGN",
   "course_number": "CE 419",
   "credits": "3",
   "description": "A capstone design project experience exposing students to problems and issues similar to those encountered in the practice of civil engineering.",
-  "prerequisites": ["CE 418"]
+  "prerequisites": [["CE 418"]]
 }, {
   "corequisites": [],
   "course_name": "ENGINEERING PLANNING",
@@ -214,14 +214,14 @@
   "course_number": "CE 424",
   "credits": "4",
   "description": "Fundamentals of construction industry contracts, including technical specifications, and issues related to time, money, warranty, insurance, and changed conditions.",
-  "prerequisites": ["CEM 442"]
+  "prerequisites": [["CEM 442"]]
 }, {
   "corequisites": [],
   "course_name": "TEMPORARY CONSTRUCTION STRUCTURES",
   "course_number": "CE 427",
   "credits": "4",
   "description": "Focuses on design and construction of temporary structures including formwork, shoring, and earth retaining structures.",
-  "prerequisites": ["CCE 321", "FE 315", "CE 372", "CEM 372", "CEM 383", "CE 383"]
+  "prerequisites": [["CCE 321"], ["FE 315", "CE 372", "CEM 372"], ["CEM 383", "CE 383"]]
 }, {
   "corequisites": [],
   "course_name": "OPTIMIZATION IN WATER RESOURCES ENGINEERING",
@@ -235,91 +235,91 @@
   "course_number": "CE 461",
   "credits": "3",
   "description": "Geometry of terrestrial and vertical photographs, flightline planning, stereoscopy and parallax, stereoscopic plotting instruments, analytical photogrammetry, orthophotography, introduction to photo interpretation, and aerial cameras.",
-  "prerequisites": ["CE 361", "CEM 263", "FE 208"]
+  "prerequisites": [["CE 361", "CEM 263", "FE 208"]]
 }, {
   "corequisites": [],
   "course_name": "CONTROL SURVEYING",
   "course_number": "CE 463",
   "credits": "4",
   "description": "Global Positioning Systems (GPS) theory, networks, and fieldwork; control specifications, methods and problems in obtaining large area measurements; precise leveling; network adjustments using least square techniques; field instrument adjustments.",
-  "prerequisites": ["CE 361", "CEM 263", "FE 208"]
+  "prerequisites": [["CE 361", "CEM 263", "FE 208"]]
 }, {
   "corequisites": [],
   "course_name": "OREGON LAND SURVEY LAW",
   "course_number": "CE 465",
   "credits": "3",
   "description": "Introduction to U.S. public land survey; Oregon state statutes, common law decisions, and administrative rules dealing with boundary law; case studies; unwritten land transfers; original and resurvey platting laws; guarantees of title; deed descriptions.",
-  "prerequisites": ["CE 361", "CEM 263", "FE 208"]
+  "prerequisites": [["CE 361", "CEM 263", "FE 208"]]
 }, {
   "corequisites": [],
   "course_name": "PROPERTY SURVEYS",
   "course_number": "CE 469",
   "credits": "3",
   "description": "U.S. public land survey: restoration of corners, subdivision of sections; topographic mapping; subdivision and partition plats, resurvey plats, subdivision design; introduction to LIS/GIS; field astronomy.",
-  "prerequisites": ["CE 361", "CEM 263", "FE 208"]
+  "prerequisites": [["CE 361", "CEM 263", "FE 208"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS FOR STRUCTURES",
   "course_number": "CE 471",
   "credits": "3",
   "description": "Criteria, theory, design, and construction for foundations of structures; use of in-situ tests for geotechnical engineering; computer applications.",
-  "prerequisites": ["CE 373", "FE 316"]
+  "prerequisites": [["CE 373", "FE 316"]]
 }, {
   "corequisites": [],
   "course_name": "SLOPE AND EMBANKMENT DESIGN",
   "course_number": "CE 479",
   "credits": "3",
   "description": "A comprehensive overview of evaluating stability and performance for natural and engineered slopes. Design aspects include construction of road embankments, slope remediation techniques and application of geosynthetics for slope stabilization, slope and wall construction, and drainage.",
-  "prerequisites": ["CE 373", "FE 316"]
+  "prerequisites": [["CE 373", "FE 316"]]
 }, {
   "corequisites": [],
   "course_name": "REINFORCED CONCRETE I",
   "course_number": "CE 481",
   "credits": "4",
   "description": "Basic principles of reinforced concrete design; strength, stability, and serviceability criteria; design of reinforced concrete members for flexure and shear. Detailing, development length and splices.",
-  "prerequisites": ["CE 382"]
+  "prerequisites": [["CE 382"]]
 }, {
   "corequisites": [],
   "course_name": "MASONRY DESIGN",
   "course_number": "CE 482",
   "credits": "3",
   "description": "A critical examination in depth of masonry design topics.",
-  "prerequisites": ["CE 481"]
+  "prerequisites": [["CE 481"]]
 }, {
   "corequisites": [],
   "course_name": "WOOD DESIGN",
   "course_number": "CE 484",
   "credits": "4",
   "description": "Study of basic wood properties and design considerations. Design and behavior of wood connectors, beams, columns and beam columns. Introduction to plywood and glued laminated members. Analysis and design of structural diaphragms and shear walls.",
-  "prerequisites": ["CE 383", "CE 481"]
+  "prerequisites": [["CE 383", "CE 481"]]
 }, {
   "corequisites": [],
   "course_name": "PRESTRESSED CONCRETE",
   "course_number": "CE 486",
   "credits": "3",
   "description": "Prestressed concrete analysis and design, systems of prestressing, materials, economics.",
-  "prerequisites": ["CE 481"]
+  "prerequisites": [["CE 481"]]
 }, {
   "corequisites": [],
   "course_name": "SEISMIC DESIGN FUNDAMENTALS",
   "course_number": "CE 489",
   "credits": "3",
   "description": "Explores fundamentals of earthquake engineering, introduction to structural dynamics principles, response spectra, and ASCE 7 design and analysis provisions.",
-  "prerequisites": ["CE 383", "CE 481"]
+  "prerequisites": [["CE 383"], ["CE 481"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSPORTATION ENGINEERING",
   "course_number": "CE 491",
   "credits": "3",
   "description": "Introduction to transportation engineering systems characteristics, traffic estimation, comprehensive transportation planning, highway economics, driver and vehicle characteristics, highway operations and capacity, signalization and control. Introduction to intelligent transportation.",
-  "prerequisites": ["CE 392", "ST 314"]
+  "prerequisites": [["CE 392"], ["ST 314"]]
 }, {
   "corequisites": [],
   "course_name": "PAVEMENT STRUCTURES",
   "course_number": "CE 492",
   "credits": "3",
   "description": "Design and rehabilitation of pavement structures for streets, highways, and airports.",
-  "prerequisites": ["CE 392"]
+  "prerequisites": [["CE 392"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -417,7 +417,7 @@
   "course_number": "CE 516",
   "credits": "4",
   "description": "Introduction to urban stormwater drainage systems; urban hydrologic analysis; water quality in urban storm water; design of stormwater control systems; low impact development; storm water monitoring; and computer modeling of urban storm water systems.",
-  "prerequisites": ["CE 512", "BEE 512"]
+  "prerequisites": [["CE 512", "BEE 512"]]
 }, {
   "corequisites": [],
   "course_name": "HYDRAULIC ENGINEERING DESIGN",
@@ -445,7 +445,7 @@
   "course_number": "CE 525",
   "credits": "3",
   "description": "Introduction to fundamental concepts that are needed for stochastic modeling of hydrologic processes in presence of nonstationarity and uncertainty.",
-  "prerequisites": ["CE 512", "BEE 512"]
+  "prerequisites": [["CE 512", "BEE 512"]]
 }, {
   "corequisites": [],
   "course_name": "TEMPORARY CONSTRUCTION STRUCTURES",
@@ -480,7 +480,7 @@
   "course_number": "CE 532",
   "credits": "4",
   "description": "Emphasizes theory and applications of the finite element method to structural and mechanical analysis and elasticity problems. Focuses on element development and use of finite element computer programs.",
-  "prerequisites": ["CE 531", "ME 521"]
+  "prerequisites": [["CE 531", "ME 521"]]
 }, {
   "corequisites": [],
   "course_name": "STRUCTURAL STABILITY",
@@ -508,7 +508,7 @@
   "course_number": "CE 537",
   "credits": "4",
   "description": "Analyzes frame and truss structures using material and geometrically nonlinear formulations. Assesses solution strategies for nonlinear structural analysis. Investigates nonlinear constitutive models of steel and reinforced concrete members. Develops computer programs for nonlinear structural analysis.",
-  "prerequisites": ["CE 536"]
+  "prerequisites": [["CE 536"]]
 }, {
   "corequisites": [],
   "course_name": "STRUCTURAL RELIABILITY AND RISK ANALYSIS",
@@ -662,7 +662,7 @@
   "course_number": "CE 576",
   "credits": "3",
   "description": "Presents the analysis and design of ground improvement techniques. Topics supporting course objectives include design for accelerated settlement (surcharge design) with and without pre-fabricated vertical drains, vibro-compaction, vibro-replacement (stone columns) and aggregate piers, deep soil mixing, jet grouting, EPS geofoam, and other improvement techniques for improving soil strength and stability, and limiting deformations and the effects of liquefaction.",
-  "prerequisites": ["CE 572", "CE 577"]
+  "prerequisites": [["CE 572"], ["CE 577"]]
 }, {
   "corequisites": [],
   "course_name": "STATIC AND DYNAMIC SOIL BEHAVIOR",
@@ -858,14 +858,14 @@
   "course_number": "CE 631",
   "credits": "3",
   "description": "Second in the sequence of ocean wave engineering mechanics, covers the following topics: introduction to long wave theory, wave superposition, wave height distribution, and the wind-wave spectrum, introduction to wave forces, and basic nonlinear properties of water waves. May include additional selected topic in wave mechanics. CROSSLISTED as CE 631/OC 631.",
-  "prerequisites": ["CE 630", "OC 630"]
+  "prerequisites": [["CE 630", "OC 630"]]
 }, {
   "corequisites": [],
   "course_name": "LONG WAVE MECHANICS",
   "course_number": "CE 634",
   "credits": "3",
   "description": "Theory of long waves. Depth-integrated Euler's equation and its jump conditions. Evolution equations and their solutions. Nonlinear shallow-water waves, the Korteweg-deVries equation and Boussinesq equation. Boundary-layer effects. Shallow-water waves on beaches. Applications of the fundamentals to problems of tsunamis.",
-  "prerequisites": ["CE 630", "OC 630", "CE 631", "OC 631"]
+  "prerequisites": [["CE 630", "OC 630"], ["CE 631", "OC 631"]]
 }, {
   "corequisites": [],
   "course_name": "DYNAMICS OF OCEAN STRUCTURES",
@@ -886,21 +886,21 @@
   "course_number": "CE 642",
   "credits": "3",
   "description": "Random wave theories, probability and statistics of random waves and wave forces, time series analyses of stochastic processes, ocean wave spectra. Offered alternate years.",
-  "prerequisites": ["CE 630"]
+  "prerequisites": [["CE 630"]]
 }, {
   "corequisites": [],
   "course_name": "COASTAL ENGINEERING",
   "course_number": "CE 643",
   "credits": "3",
   "description": "Coastal sediment transport including nearshore currents, longshore onshore-offshore transport, and shoreline configuration; equilibrium beach profile concept with application to shore protection; shoreline modeling; tidal inlet hydrodynamics and inlet stabilization; design criteria for soft structures. Offered alternate years.",
-  "prerequisites": ["CE 630"]
+  "prerequisites": [["CE 630"]]
 }, {
   "corequisites": [],
   "course_name": "WAVE FORCES ON STRUCTURES",
   "course_number": "CE 645",
   "credits": "3",
   "description": "Wave forces on small and large members, dimensional analyses and scaling of equations, identification and selection of force coefficients for Morison equation; compatibility of wave kinematics and force coefficients in Morison equation, diffraction and radiation of surface gravity waves by large floating bodies, wavemaker problem, and reciprocity relations.",
-  "prerequisites": ["CE 630"]
+  "prerequisites": [["CE 630"]]
 }, {
   "corequisites": [],
   "course_name": "OCEAN AND COASTAL ENGINEERING MEASUREMENTS",

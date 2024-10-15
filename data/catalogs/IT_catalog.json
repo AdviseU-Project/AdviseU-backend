@@ -11,14 +11,14 @@
   "course_number": "IT 112",
   "credits": "4",
   "description": "Development of listening comprehension, speaking, reading, and writing skills. Designed for students with no previous training in Italian. Native speakers of Italian will not receive credit for IT 111, IT 112, IT 113.",
-  "prerequisites": ["IT 111"]
+  "prerequisites": [["IT 111"]]
 }, {
   "corequisites": [],
   "course_name": "FIRST-YEAR ITALIAN",
   "course_number": "IT 113",
   "credits": "4",
   "description": "Development of listening comprehension, speaking, reading, and writing skills. Designed for students with no previous training in Italian. Native speakers of Italian will not receive credit for IT 111, IT 112, IT 113.",
-  "prerequisites": ["IT 112"]
+  "prerequisites": [["IT 112"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -32,21 +32,21 @@
   "course_number": "IT 211",
   "credits": "4",
   "description": "Develops more advanced listening comprehension, speaking, reading, and writing skills. Native speakers of Italian will not receive credit for IT 211, IT 212, IT 213.",
-  "prerequisites": ["IT 113"]
+  "prerequisites": [["IT 113"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR ITALIAN",
   "course_number": "IT 212",
   "credits": "4",
   "description": "Develops more advanced listening comprehension, speaking, reading, and writing skills. Native speakers of Italian will not receive credit for IT 211, IT 212, IT 213.",
-  "prerequisites": ["IT 211"]
+  "prerequisites": [["IT 211"]]
 }, {
   "corequisites": [],
   "course_name": "SECOND-YEAR ITALIAN",
   "course_number": "IT 213",
   "credits": "4",
   "description": "Develops more advanced listening comprehension, speaking, reading, and writing skills. Native speakers of Italian will not receive credit for IT 211, IT 212 IT 213.",
-  "prerequisites": ["IT 212"]
+  "prerequisites": [["IT 212"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",

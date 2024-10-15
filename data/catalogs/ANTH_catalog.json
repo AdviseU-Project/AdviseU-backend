@@ -172,7 +172,7 @@
   "course_number": "ANTH 318H",
   "credits": "3",
   "description": "Survey of peoples around the world. Early settlement, cultural history, ecological adaptations, population, family and gender roles, religious ideology, political and economic systems, modern social changes, and contemporary issues pertaining to indigenous peoples in culturally distinct regions of the world. Emphasis is placed on dispelling stereotypic images, both past and present. (NC) (Bacc Core Course)",
-  "prerequisites": ["ANTH 210"]
+  "prerequisites": [["ANTH 110", "ANTH 210"]]
 }, {
   "corequisites": [],
   "course_name": "*PEOPLES OF THE WORLD-JAPAN AND KOREA",
@@ -214,7 +214,7 @@
   "course_number": "ANTH 332",
   "credits": "4",
   "description": "In this course on archaeological inference, or the thought process of forming our understanding about the past, we will take a guided tour of the main stages of archaeological research design and try our hand at making archaeological inferences. We begin by learning about the basic conceptual problems in the study of the past, then, we engage with the theories and models used to address them, and finally we apply this knowledge in hands-on analytical activities during the laboratory sessions with archaeological artifacts. Lec/lab.",
-  "prerequisites": ["ANTH 230"]
+  "prerequisites": [["ANTH 230"]]
 }, {
   "corequisites": [],
   "course_name": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE",
@@ -270,14 +270,14 @@
   "course_number": "ANTH 370",
   "credits": "4",
   "description": "Covers foundational theories, concepts, and approaches in anthropology as a means to understanding how anthropologists past and present use theory. Compares and contrasts prominent theories and their application to current events and situations.",
-  "prerequisites": ["ANTH 101", "ANTH 210"]
+  "prerequisites": [["ANTH 101", "ANTH 210"]]
 }, {
   "corequisites": [],
   "course_name": "RESEARCH METHODS IN CULTURAL ANTHROPOLOGY",
   "course_number": "ANTH 371",
   "credits": "4",
   "description": "Designed for anthropology majors, this course involves students in learning about and practicing anthropological research methods. Students practice ethnographic fieldwork by conducting participant observation and interviews, writing fieldnotes, analyzing real-life material for cultural values and power differences, and writing up a research paper.",
-  "prerequisites": ["ANTH 101", "ANTH 210"]
+  "prerequisites": [["ANTH 101", "ANTH 210"]]
 }, {
   "corequisites": [],
   "course_name": "*SOCIAL NETWORKS AND SOCIETY",
@@ -431,28 +431,28 @@
   "course_number": "ANTH 421",
   "credits": "4",
   "description": "Covers the principles, procedures, and purpose of archaeological lithic analysis and the anthropological interpretation of lithic technologies used by prehistoric hunter-gatherers.",
-  "prerequisites": ["ANTH 230"]
+  "prerequisites": [["ANTH 230"]]
 }, {
   "corequisites": [],
   "course_name": "HISTORIC MATERIALS ANALYSIS",
   "course_number": "ANTH 422",
   "credits": "3",
   "description": "Introduction to the analytical and descriptive methods and techniques used by historical archeologists to study late 18th through 20th century machine and handmade objects.",
-  "prerequisites": ["ANTH 230"]
+  "prerequisites": [["ANTH 230"]]
 }, {
   "corequisites": [],
   "course_name": "CERAMIC ANALYSIS IN ARCHAEOLOGY",
   "course_number": "ANTH 425",
   "credits": "4",
   "description": "Provides fundamental practical skills and theoretical perspectives for the analysis and interpretation of archaeological ceramics. On the practical side, students will learn both basic and advanced techniques for describing and analyzing pottery assemblages encountered by field archaeologists. On the theoretical side, the course will explore the diversity of research questions in which pottery can play a critical role, as well as the various ways in which ceramic data can be interpreted.",
-  "prerequisites": ["ANTH 230"]
+  "prerequisites": [["ANTH 230"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS IN ARCHAEOLOGY",
   "course_number": "ANTH 430",
   "credits": "1-4",
   "description": "Recent advances in archaeology and their application to special fields of study. Topics vary from term to term.",
-  "prerequisites": ["ANTH 230", "ANTH 330", "ANTH 330H"]
+  "prerequisites": [["ANTH 230", "ANTH 330", "ANTH 330H"]]
 }, {
   "corequisites": [],
   "course_name": "*DOMESTICATION",
@@ -487,7 +487,7 @@
   "course_number": "ANTH 435",
   "credits": "4",
   "description": "Description and analysis of requirements and demands of cultural resource management. Historical development of cultural resource laws and appropriate field techniques and strategies to implement legislation.",
-  "prerequisites": ["ANTH 230"]
+  "prerequisites": [["ANTH 230"]]
 }, {
   "corequisites": [],
   "course_name": "NORTHWEST PREHISTORY",
@@ -501,7 +501,7 @@
   "course_number": "ANTH 437",
   "credits": "4",
   "description": "Provides an introduction to geoarchaeological concepts and methods. Emphasis will be placed on the use of geoscientific perspectives and datasets to solve archaeological problems.",
-  "prerequisites": ["ANTH 230"]
+  "prerequisites": [["ANTH 230"]]
 }, {
   "corequisites": [],
   "course_name": "ARCHAEOLOGY FIELD SCHOOL",
@@ -522,42 +522,42 @@
   "course_number": "ANTH 440",
   "credits": "1-4",
   "description": "",
-  "prerequisites": ["ANTH 240", "ANTH 330", "ANTH 330H"]
+  "prerequisites": [["ANTH 240", "ANTH 330", "ANTH 330H"]]
 }, {
   "corequisites": [],
   "course_name": "HUMAN EVOLUTION",
   "course_number": "ANTH 441",
   "credits": "4",
   "description": "The evolutionary history of the primate order as it is represented by fossils of the Paleocene through the Holocene. Special attention given to development of the Hominoids in the Miocene, the Australopithecines in the Pliocene, and members of the genus Homo in the Pleistocene. Lec/lab.",
-  "prerequisites": ["ANTH 210", "ANTH 240"]
+  "prerequisites": [["ANTH 110", "ANTH 210"], ["ANTH 240"]]
 }, {
   "corequisites": [],
   "course_name": "HUMAN ADAPTABILITY",
   "course_number": "ANTH 442",
   "credits": "4",
   "description": "Overview of human biology and its various subfields, applications of human biology in areas of nutrition, health, growth, adaptation, and demography. Understanding adaptive variations among populations and individuals in responses to environment, disease, and nutritional stress.",
-  "prerequisites": ["ANTH 240"]
+  "prerequisites": [["ANTH 240"]]
 }, {
   "corequisites": [],
   "course_name": "HUMAN OSTEOLOGY LAB",
   "course_number": "ANTH 443",
   "credits": "4",
   "description": "Identification and analysis of human skeletal materials in an archaeological context.",
-  "prerequisites": ["ANTH 240"]
+  "prerequisites": [["ANTH 240"]]
 }, {
   "corequisites": [],
   "course_name": "NUTRITIONAL ANTHROPOLOGY",
   "course_number": "ANTH 444",
   "credits": "4",
   "description": "Examines human nutrition and food systems from comparative, biocultural and evolutionary perspectives. Long-term evolutionary processes are examined within an ecological framework as significant factors affecting human biology and susceptibility to diet-related disease. An emphasis on anthropological methods in nutritional assessment including anthropometry, paleodietary assessment and nutritional participant-observation will provide students with the tools to evaluate human diet from skeletal and fossil collections through contemporary cross-cultural populations.",
-  "prerequisites": ["ANTH 240", "ANTH 330", "ANTH 330H"]
+  "prerequisites": [["ANTH 240", "ANTH 330", "ANTH 330H"]]
 }, {
   "corequisites": [],
   "course_name": "FORENSIC ANTHROPOLOGY",
   "course_number": "ANTH 446",
   "credits": "4",
   "description": "Concepts and practices in the use of anthropology in legal matters and police cases, especially involving identification of human remains.",
-  "prerequisites": ["ANTH 443"]
+  "prerequisites": [["ANTH 443"]]
 }, {
   "corequisites": [],
   "course_name": "*ARCTIC PERSPECTIVES ON GLOBAL PROBLEMS",
@@ -578,7 +578,7 @@
   "course_number": "ANTH 448",
   "credits": "4",
   "description": "Evolutionary medicine is founded on the idea that many challenges to human health can be accounted for by discordances between contemporary environments and those under which humans evolved. This course examines ways anthropologists may help to reframe questions about diseases within long-term, evolutionary contexts.",
-  "prerequisites": ["ANTH 210", "ANTH 240", "ANTH 330", "ANTH 330H"]
+  "prerequisites": [["ANTH 110", "ANTH 210"], ["ANTH 240", "ANTH 330", "ANTH 330H"]]
 }, {
   "corequisites": [],
   "course_name": "BIOCULTURAL PERSPECTIVES ON HUMAN REPRODUCTION",
@@ -594,12 +594,12 @@
   "description": "The study of folklore/popular culture in its social and historical context. Examines content, structure, communicative potential, and performative aspects of various forms of oral and written expression. Includes familiarization with the analysis of myths, legends, tall tales, proverbs, riddles, and play languages. (FA)",
   "prerequisites": []
 }, {
-  "corequisites": ["ES 345"],
+  "corequisites": [["ES 345"]],
   "course_name": "KALAPUYA PEOPLES CULTURE AND HISTORY STUDIES",
   "course_number": "ANTH 454",
   "credits": "4",
   "description": "Presents and analyzes the deep history and cultural contexts of the Kalapuya peoples of western Oregon from multiple academic disciplines, including anthropology, history, linguistics, archaeology, geography, and environmental studies. Addresses historic and prehistoric themes including Traditional Ecological Knowledge (TEK), arts and crafts (material culture), settler colonization, treaties & removal, reservation life, federal Indian policy, termination & restoration, and survivance of contemporary cultural identity. CROSSLISTED as ANTH 454/ES 454.",
-  "prerequisites": ["ES 241", "ES 241H"]
+  "prerequisites": [["ES 241", "ES 241H"]]
 }, {
   "corequisites": [],
   "course_name": "REPRODUCTIVE JUSTICE: A SERVICE LEARNING COURSE",
@@ -634,7 +634,7 @@
   "course_number": "ANTH 461",
   "credits": "4",
   "description": "The emerging interdisciplinary field of neuroanthropology combines anthropological understandings of human biological and cultural variation with recent findings in neuroscience. Key topics include socialization and enculturation, addiction, ritual, depression, and psychiatric disorders.",
-  "prerequisites": ["ANTH 240", "ANTH 345", "ANTH 383", "ANTH 383H"]
+  "prerequisites": [["ANTH 240", "ANTH 345", "ANTH 383", "ANTH 383H"]]
 }, {
   "corequisites": [],
   "course_name": "*RURAL ANTHROPOLOGY",
@@ -648,7 +648,7 @@
   "course_number": "ANTH 469",
   "credits": "4",
   "description": "Examines historical and current trends in energy around the globe. Course themes include the role of energy in economic development, cultural innovation in energy production, social problems that arise from energy shortages or the uneven distribution of energy resources and social and cultural changes required as societies attempt to reduce their dependence on fossil fuels.",
-  "prerequisites": ["ANTH 210"]
+  "prerequisites": [["ANTH 110", "ANTH 210"]]
 }, {
   "corequisites": [],
   "course_name": "TOPICS IN CULTURAL ANTHROPOLOGY",
@@ -739,7 +739,7 @@
   "course_number": "ANTH 485",
   "credits": "2",
   "description": "Working with an advisor from the Social Justice minor, conduct research to synthesize and extend analysis of a particular social justice issue, building on three previous papers or projects. Results are presented in a 10-15 page paper and a public poster, presentation or website. CROSSLISTED as ANTH 485/ES 485/WGSS 485.",
-  "prerequisites": ["ANTH 373", "ANTH 410", "ES 410", "WGSS 410", "WLC 410"]
+  "prerequisites": [["ANTH 373", "ES 373", "WGSS 373", "WLC 373"], ["ANTH 410", "ES 410", "WGSS 410", "WLC 410"]]
 }, {
   "corequisites": [],
   "course_name": "ANTHROPOLOGY OF FOOD",
@@ -774,7 +774,7 @@
   "course_number": "ANTH 498",
   "credits": "3",
   "description": "Methodology course focused on the collection and processing of multiple speech genres, including personal narrative, oral history, folklore, and songs. Attention is given to ethics, legal issues, different forms of transcription, and the politics of representation.",
-  "prerequisites": ["ANTH 350"]
+  "prerequisites": [["ANTH 350"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS IN ANTHROPOLOGY",

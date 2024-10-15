@@ -95,14 +95,14 @@
   "course_number": "VMB 518",
   "credits": "5",
   "description": "Physiology of gastrointestinal, endocrine and reproductive systems.",
-  "prerequisites": ["VMB 517"]
+  "prerequisites": [["VMB 517"]]
 }, {
   "corequisites": [],
   "course_name": "VETERINARY PHYSIOLOGY",
   "course_number": "VMB 519",
   "credits": "4",
   "description": "Physiology of respiratory and renal systems and acid-base balance.",
-  "prerequisites": ["VMB 518"]
+  "prerequisites": [["VMB 518"]]
 }, {
   "corequisites": [],
   "course_name": "ZOONOSES",
@@ -200,7 +200,7 @@
   "course_number": "VMB 622",
   "credits": "1",
   "description": "Laboratory instruction to complement VMB 621.",
-  "prerequisites": ["VMB 611"]
+  "prerequisites": [["VMB 611"]]
 }, {
   "corequisites": [],
   "course_name": "ANTIBIOTIC STEWARDSHIP",
@@ -473,7 +473,7 @@
   "course_number": "VMB 725",
   "credits": "2",
   "description": "Emphasizes clinically important anatomical structures through a body systems approach. Interactively solidifies critical microanatomy concepts and applies problem-solving skills. Emphasizes anatomical knowledge in relation to practical clinical cases in both small and large animals.",
-  "prerequisites": ["VMB 711", "VMB 712", "VMB 714"]
+  "prerequisites": [["VMB 711"], ["VMB 712"], ["VMB 714"]]
 }, {
   "corequisites": [],
   "course_name": "PET BIRD AND SMALL MAMMAL MEDICINE AND SURGERY",
@@ -571,7 +571,7 @@
   "course_number": "VMB 756",
   "credits": "1",
   "description": "One-week rotation in advanced clinical pathology: cytology, hematology and clinical chemistry interpretation.",
-  "prerequisites": ["VMB 736"]
+  "prerequisites": [["VMB 736"]]
 }, {
   "corequisites": [],
   "course_name": "VETERINARY BACTERIOLOGY AND MYCOLOGY",
@@ -627,7 +627,7 @@
   "course_number": "VMB 768",
   "credits": "1",
   "description": "A rotation in histopathology at the Veterinary Diagnostic Laboratory. Emphasis is placed on case evaluation, diagnosis and report writing of biopsies of all species. Graded P/N.",
-  "prerequisites": ["VMB 751"]
+  "prerequisites": [["VMB 751"]]
 }, {
   "corequisites": [],
   "course_name": "INTERNATIONAL VETERINARY MEDICINE",

@@ -144,14 +144,14 @@
   "course_number": "GEOG 323",
   "credits": "4",
   "description": "Systematic analysis of global and regional climates. Physical principles of climate, climate classifications, and distribution and characteristics of climate regimes.",
-  "prerequisites": ["GEOG 102", "GEO 202", "GEO 202H", "GEO 221", "GEO 221H", "ATS 201", "ATS 201H", "OC 201", "OC 201H"]
+  "prerequisites": [["GEOG 102", "GEO 202", "GEO 202H", "GEO 221", "GEO 221H", "ATS 201", "ATS 201H", "OC 201", "OC 201H"]]
 }, {
   "corequisites": [],
   "course_name": "^ECOLOGICAL BIOGEOGRAPHY",
   "course_number": "GEOG 324",
   "credits": "4",
   "description": "Spatial distributions and change over time of species, communities, and biomes. Effect of climate, tectonics, disturbance on evolution, extinction, and succession. Implications for conservation.",
-  "prerequisites": ["GEOG 102", "BI 370", "BI 370H"]
+  "prerequisites": [["GEOG 102", "BI 370", "BI 370H"]]
 }, {
   "corequisites": [],
   "course_name": "*GEOGRAPHY OF INTERNATIONAL DEVELOPMENT AND GLOBALIZATION",
@@ -179,7 +179,7 @@
   "course_number": "GEOG 333",
   "credits": "3",
   "description": "Examines the uneven distribution of environmental resources, hazards, and risk among social groups and the emergence of the environmental justice movement in the United States.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "*INTRODUCTION TO WATER SCIENCE AND POLICY",
@@ -214,28 +214,28 @@
   "course_number": "GEOG 361",
   "credits": "4",
   "description": "Develop skills in design and conduct of geospatial analyses using various spatial data structures, techniques and models. Acquire, clean, integrate, manipulate, visualize and analyze geospatial data. Explore various quantitative methods, practice investigating quantitative problems and develop competence in coding.",
-  "prerequisites": ["GEOG 360", "MTH 112", "MTH 112Z", "MTH 241", "MTH 251", "MTH 251H", "ST 351", "ST 351H"]
+  "prerequisites": [["GEOG 360"], ["MTH 112", "MTH 112Z", "MTH 241", "MTH 251", "MTH 251H"], ["ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "CARTOGRAPHY",
   "course_number": "GEOG 370",
   "credits": "4",
   "description": "Create, evaluate, and critique maps using cartographic theories and techniques for effective geovisual communication.",
-  "prerequisites": ["GEOG 201", "GEOG 360", "FE 257", "CE 202"]
+  "prerequisites": [["GEOG 201", "GEOG 360", "FE 257", "CE 202"]]
 }, {
   "corequisites": [],
   "course_name": "WEB MAPPING",
   "course_number": "GEOG 371",
   "credits": "4",
   "description": "Concepts and techniques of web programming, digital storytelling, online project management, and web-based cartographic principles for developing, evaluating, and using web maps.",
-  "prerequisites": ["GEOG 201"]
+  "prerequisites": [["GEOG 201"]]
 }, {
   "corequisites": [],
   "course_name": "REMOTE SENSING: PRINCIPLES AND APPLICATIONS",
   "course_number": "GEOG 380",
   "credits": "4",
   "description": "Focuses on fundamentals of satellite remote sensing and image analysis. Topics include physical principles of remote sensing from the ultraviolet to the microwave, sensors and sensor technology, and environmental applications of remote sensing through image analysis.",
-  "prerequisites": ["GEOG 201"]
+  "prerequisites": [["GEOG 201"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -305,7 +305,7 @@
   "course_number": "GEOG 424",
   "credits": "3",
   "description": "Examines watershed hydrology in the context of water resources management. Examines conceptual, quantitative, and geographic analyses of the hydrologic cycle. Explores historical and enduring challenges of watershed management for water extremes, water use, and climate.",
-  "prerequisites": ["ST 314", "ST 351"]
+  "prerequisites": [["ST 314", "ST 351"]]
 }, {
   "corequisites": [],
   "course_name": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT",
@@ -319,7 +319,7 @@
   "course_number": "GEOG 433",
   "credits": "ADAPTATION",
   "description": "Climate change poses challenges for human security and well-being, and for social and economic development. Evaluate how climate change impacts vary based on vulnerability, exposure, sensitivity, adaptive capacity, and risk.",
-  "prerequisites": ["ATS 201", "ATS 201H", "GEOG 240", "GEOG 323"]
+  "prerequisites": [["ATS 201", "ATS 201H", "GEOG 240", "GEOG 323"]]
 }, {
   "corequisites": [],
   "course_name": "CONFLICT",
@@ -347,7 +347,7 @@
   "course_number": "GEOG 451",
   "credits": "4",
   "description": "Apply GIS skills and techniques to analyze and plan future land uses. Evaluate alternative models including suitability analysis to identify suitable land uses that incorporate community goals, comply with site constraints, and minimize use conflicts. Apply geodesign principles and practices to explore and analyze how land use planning decisions can impact the natural environment, local economies, and society. Assess regulatory and market-based implementation strategies. Evaluate how regional planning principles can promote smart growth and build resilient communities that minimize land use conflicts, mitigate hazard risk, and improve community livability.",
-  "prerequisites": ["CE 202", "FE 257", "GEOG 360"]
+  "prerequisites": [["CE 202", "FE 257", "GEOG 360"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL ASSESSMENT",
@@ -368,56 +368,56 @@
   "course_number": "GEOG 460",
   "credits": "4",
   "description": "Focuses on practical applications of technologies and problem solving skills to spatial analysis within a geographic information system (GIS). Develops a foundation in spatial thinking and guides students through the process of designing and conducting spatial analyses applied to geographic problems. Builds skills using various forms of spatial data, models and techniques including spatial statistics and spatial data science. Emphasizes application and synthesis in a spatial analysis project including written and oral presentation.",
-  "prerequisites": ["GEOG 360", "FE 257", "CE 202", "MTH 112", "MTH 112Z", "MTH 251", "MTH 251H", "ST 314", "ST 351", "ST 351H"]
+  "prerequisites": [["GEOG 360", "FE 257", "CE 202"], ["MTH 112", "MTH 112Z", "MTH 251", "MTH 251H"], ["ST 314", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "PROGRAMMING FOR GEOSPATIAL ANALYSIS",
   "course_number": "GEOG 462",
   "credits": "4",
   "description": "Explore the extension of geographic information systems (GIS) through programming. Examine design and writing of computer programs to automate geospatial analysis. Apply basic principles of programming languages to write, apply, and interpret results of scripts. Develop custom functions and analyze coding information to learn new skills. Emphasizes building foundations and pragmatic approaches to designing and constructing programs and scripts for geospatial analysis.",
-  "prerequisites": ["GEOG 361", "GEOG 460"]
+  "prerequisites": [["GEOG 361", "GEOG 460"]]
 }, {
   "corequisites": [],
   "course_name": "ANALYTICAL WORKFLOWS FOR EARTH SYSTEMS SCIENCE",
   "course_number": "GEOG 463",
   "credits": "4",
   "description": "Explores data science methods used to gather, validate, organize, analyze, and summarize large amounts of environmental and ecological information. Focuses on developing analytical workflows that are efficient, reproducible, and modular using tools such as the R coding language, RStudio, GitHub, and JupyterLab. Examines case studies including climate change, biodiversity assessments, epidemic modeling, marine spatial planning, and natural resource management.",
-  "prerequisites": ["ST 314", "ST 351", "ST 351H"]
+  "prerequisites": [["ST 314", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "GEOSPATIAL PERSPECTIVES ON INTELLIGENCE",
   "course_number": "GEOG 464",
   "credits": "SECURITY",
   "description": "Applications and implications of geospatial science (GIS, remote sensing, and spatial analysis) in intelligence, human, environmental, and ethical domains. Concepts and practices of ethics in geospatial science, including data access, management, visualization, and decision-making.",
-  "prerequisites": ["GEOG 360"]
+  "prerequisites": [["GEOG 360"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED CARTOGRAPHY",
   "course_number": "GEOG 471",
   "credits": "4",
   "description": "Explores advanced concepts, techniques, and theories of Cartography. Examines current research in color theory, typographic design, and other aspects of thematic, reference, and analytic maps. Focuses on the design, compilation, construction, and analysis of maps in multiple formats and created for diverse audiences. Constructs a professional level cartographic portfolio of work using GIS, publishing, and image editing software packages.",
-  "prerequisites": ["GEOG 360"]
+  "prerequisites": [["GEOG 360"]]
 }, {
   "corequisites": [],
   "course_name": "INTERACTIVE CARTOGRAPHY",
   "course_number": "GEOG 472",
   "credits": "4",
   "description": "Examines concepts, theories, and techniques of web programming, digital storytelling, online project management, and web-based cartographic principles. Explores the history, present, and potential future of online mapping libraries, technologies, and data. Builds foundational concepts for compiling, constructing, and analyzing interactive maps. Creates online, interactive web visualizations using open-source tools.",
-  "prerequisites": ["GEOG 361", "GEOG 370"]
+  "prerequisites": [["GEOG 361", "GEOG 370"]]
 }, {
   "corequisites": [],
   "course_name": "SATELLITE IMAGE ANALYSIS",
   "course_number": "GEOG 481",
   "credits": "4",
   "description": "Intermediate concepts and techniques for satellite image processing including image enhancement, clustering, classification, machine learning, change detection, and time series analysis. Hands-on experience with open-source, large volume data and geospatial programming within Google Earth engine.",
-  "prerequisites": ["GEOG 380", "ST 314", "ST 351", "ST 351H"]
+  "prerequisites": [["GEOG 380", "GEOG 480"], ["ST 314", "ST 351", "ST 351H"]]
 }, {
   "corequisites": [],
   "course_name": "FIELD GEOGRAPHY SYNTHESIS",
   "course_number": "GEOG 495",
   "credits": "3",
   "description": "Explore how geographers use field work to investigate landscapes such as mountains, forests, coasts, tundra and desert to understand how they were formed and explain how they have changed over time. Learn techniques for finding out how landscape processes impact humans and, in turn, how humans impact the environment around them. Apply geographic theories and concepts to synthesize, analyze and interpret the relationship between human communities and the environment through the planning and execution of field work.",
-  "prerequisites": ["GEOG 295"]
+  "prerequisites": [["GEOG 295"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -508,7 +508,7 @@
   "course_number": "GEOG 515",
   "credits": "3",
   "description": "Formulates research questions, research designs, expected outcomes, and significance relevant to current research areas in geography and geospatial science.",
-  "prerequisites": ["GEOG 511"]
+  "prerequisites": [["GEOG 511"]]
 }, {
   "corequisites": [],
   "course_name": "PARTICIPATORY RESEARCH DESIGN AND METHODS",
@@ -571,7 +571,7 @@
   "course_number": "GEOG 551",
   "credits": "4",
   "description": "Apply GIS skills and techniques to analyze and plan future land uses. Evaluate alternative models including suitability analysis to identify suitable land uses that incorporate community goals, comply with site constraints, and minimize use conflicts. Apply geodesign principles and practices to explore and analyze how land use planning decisions can impact the natural environment, local economies, and society. Assess regulatory and market-based implementation strategies. Evaluate how regional planning principles can promote smart growth and build resilient communities that minimize land use conflicts, mitigate hazard risk, and improve community livability.",
-  "prerequisites": ["GEOG 560"]
+  "prerequisites": [["GEOG 560"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL ASSESSMENT",
@@ -599,14 +599,14 @@
   "course_number": "GEOG 561",
   "credits": "4",
   "description": "Applications-based course. Development and conduct of geospatial analyses using various spatial data structures, techniques and models. Students acquire, clean, integrate, manipulate, visualize and analyze geospatial data through laboratory work.",
-  "prerequisites": ["GEOG 560"]
+  "prerequisites": [["GEOG 560"]]
 }, {
   "corequisites": [],
   "course_name": "PROGRAMMING FOR GEOSPATIAL ANALYSIS",
   "course_number": "GEOG 562",
   "credits": "4",
   "description": "Explore the extension of geographic information systems (GIS) through programming. Examine design and writing of computer programs to automate geospatial analysis. Apply basic principles of programming languages to write, apply, and interpret results of scripts. Develop custom functions and analyze coding information to learn new skills. Emphasizes building foundations and pragmatic approaches to designing and constructing programs and scripts for geospatial analysis.",
-  "prerequisites": ["GEOG 561"]
+  "prerequisites": [["GEOG 561"]]
 }, {
   "corequisites": [],
   "course_name": "ANALYTICAL WORKFLOWS FOR EARTH SYSTEMS SCIENCE",
@@ -620,7 +620,7 @@
   "course_number": "GEOG 564",
   "credits": "SECURITY",
   "description": "Applications and implications of geospatial science (GIS, remote sensing, and spatial analysis) in intelligence, human, environmental, and ethical domains. Concepts and practices of ethics in geospatial science, including data access, management, visualization, and decision-making.",
-  "prerequisites": ["GEOG 560"]
+  "prerequisites": [["GEOG 560"]]
 }, {
   "corequisites": [],
   "course_name": "SPATIO-TEMPORAL VARIATION IN ECOLOGY AND EARTH SCIENCE",
@@ -662,7 +662,7 @@
   "course_number": "GEOG 581",
   "credits": "4",
   "description": "Intermediate concepts and techniques for satellite image processing including image enhancement, clustering, classification, machine learning, change detection, and time series analysis. Hands-on experience with open-source, large volume data and geospatial programming within Google Earth engine.",
-  "prerequisites": ["GEOG 580"]
+  "prerequisites": [["GEOG 580"]]
 }, {
   "corequisites": [],
   "course_name": "FIELD GEOGRAPHY OF OREGON",

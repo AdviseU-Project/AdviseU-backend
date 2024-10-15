@@ -11,42 +11,42 @@
   "course_number": "ECE 200",
   "credits": "4",
   "description": "Examines discrete-time (DT) signals and systems. Explores DT signals and linear time-invariant systems in time and frequency domains. Applies DT convolution in the time domain. Presents complex sinusoids and phasor representation for frequency analysis. Analyzes signals and systems in DT using DT Fourier series and transform.",
-  "prerequisites": ["MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "DC AND TRANSIENT CIRCUITS ",
   "course_number": "ECE 201",
   "credits": "4",
   "description": "Examines and employs techniques for the analysis of linear circuits, including circuit laws and theorems, DC circuit responses, first-order circuit behaviors, operational amplifier characteristics, and applications. Explores fundamental semiconductor devices and device fabrication.",
-  "prerequisites": ["MTH 251", "MTH 251H", "MTH 252", "MTH 252H"]
+  "prerequisites": [["MTH 251", "MTH 251H"], ["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "AC AND FREQUENCY DEPENDENT CIRCUITS",
   "course_number": "ECE 202",
   "credits": "4",
   "description": "Applies circuit analysis and design techniques for alternating current (AC) and frequency-dependent circuits.",
-  "prerequisites": ["ECE 201", "ENGR 201", "ENGR 201H", "ECE 200"]
+  "prerequisites": [["ECE 201", "ENGR 201", "ENGR 201H"], ["ECE 200"]]
 }, {
   "corequisites": [],
   "course_name": "CONTINUOUS-TIME SIGNAL PROCESSING",
   "course_number": "ECE 203",
   "credits": "4",
   "description": "Examines continuous-time (CT) signals and systems. Explores CT signals and linear time-invariant systems in time and frequency domains. Applies CT convolution in the time domain. Analyzes signals and systems in CT using CT Fourier transform, CT Fourier series, and Laplace transform.",
-  "prerequisites": ["ECE 200", "MTH 252", "MTH 252H"]
+  "prerequisites": [["ECE 200"], ["MTH 252", "MTH 252H"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL LOGIC DESIGN",
   "course_number": "ECE 204",
   "credits": "4",
   "description": "Design, minimize, and simulate combinational and sequential circuits using a Hardware Description Language (HDL). Develop simulation and hardware implementations, utilizing Field Programable Gate Arrays (FPGA), for logic designs within the course.",
-  "prerequisites": ["MTH 231", "MTH 231H"]
+  "prerequisites": [["MTH 231", "MTH 231H"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL LOGIC DESIGN",
   "course_number": "ECE 271",
   "credits": "3",
   "description": "A first course in digital logic design. Data types and representations, Boolean algebra, state machines, simplification of switching expressions, and introductory computer arithmetic.",
-  "prerequisites": ["MTH 251", "MTH 251H", "MTH 231", "MTH 231H"]
+  "prerequisites": [["MTH 251", "MTH 251H", "MTH 231", "MTH 231H"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL LOGIC DESIGN LABORATORY",
@@ -60,147 +60,147 @@
   "course_number": "ECE 310",
   "credits": "4",
   "description": "Explores theory and practice of semiconductor processing techniques. Introduces students to process simulation.",
-  "prerequisites": ["CH 201", "PH 213", "PH 213H"]
+  "prerequisites": [["CH 201"], ["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRONIC CIRCUIT DESIGN I",
   "course_number": "ECE 320",
   "credits": "4",
   "description": "Analyze and design analog electronic circuits, including device characteristics of diodes, MOSFETs, and bipolar junction transistors; transistor amplifier circuits and biasing techniques; small- and large-signal circuit characteristics; and, design of linear circuits.",
-  "prerequisites": ["ECE 202"]
+  "prerequisites": [["ECE 202"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRONICS I",
   "course_number": "ECE 322",
   "credits": "3",
   "description": "Fundamental device characteristics including diodes, MOSFETs and bipolar transistors; small- and large-signal characteristics and design of linear circuits.",
-  "prerequisites": ["ENGR 203", "ESE 330"]
+  "prerequisites": [["ENGR 203", "ESE 330"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRONICS I",
   "course_number": "ECE 322H",
   "credits": "3",
   "description": "Fundamental device characteristics including diodes, MOSFETs and bipolar transistors; small- and large-signal characteristics and design of linear circuits.",
-  "prerequisites": ["ENGR 203", "ESE 330"]
+  "prerequisites": [["ENGR 203", "ESE 330"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRONICS II",
   "course_number": "ECE 323",
   "credits": "3",
   "description": "Transient operation of MOSFETs and bipolar transistors; multistage amplifiers; frequency response; feedback and stability.",
-  "prerequisites": ["ECE 322"]
+  "prerequisites": [["ECE 322"]]
 }, {
   "corequisites": [],
   "course_name": "POWER UP!",
   "course_number": "ECE 330",
   "credits": "4",
   "description": "Explores the fundamentals of electrical energy generation, transmission, and distribution, along with modern trends for renewable generation and load, energy storage, and transportation electrification. Topics including fundamentals of the power grid; types of generation and their characteristics; types of loads; power conversion technologies such as DC to AC converters; energy storage technologies; and social, environmental, and economic factors of power technologies.",
-  "prerequisites": ["ECE 202", "ENGR 202", "CEM 471"]
+  "prerequisites": [["ECE 202", "ENGR 202", "CEM 471"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTROMECHANICAL ENERGY CONVERSION",
   "course_number": "ECE 331",
   "credits": "4",
   "description": "Focuses on energy conversion principles for electric machines. Topics including steady state characteristics of direct current, induction, permanent magnet, and synchronous machines. Performs analysis via space vectors.",
-  "prerequisites": ["ENGR 202", "MTH 256", "MTH 256H", "PH 213", "PH 213H"]
+  "prerequisites": [["ENGR 202", "ENGR 202H"], ["MTH 256", "MTH 256H"], ["PH 213", "PH 213H"]]
 }, {
-  "corequisites": ["ECE 331"],
+  "corequisites": [["ECE 331"]],
   "course_name": "LABORATORY ON ELECTROMECHANICAL ENERGY CONVERSION",
   "course_number": "ECE 332",
   "credits": "1",
   "description": "DC, PMAC, and induction machine testing, operation, and control.",
-  "prerequisites": ["ENGR 202"]
+  "prerequisites": [["ENGR 202", "ENGR 202H"]]
 }, {
   "corequisites": [],
   "course_name": "JUNIOR DESIGN I",
   "course_number": "ECE 341",
   "credits": "3",
   "description": "Introduction to system design and group projects. Design and fabrication of an electrical engineering project in a small group.",
-  "prerequisites": ["CS 261", "ENGR 203"]
+  "prerequisites": [["CS 261"], ["ENGR 203"]]
 }, {
   "corequisites": [],
   "course_name": "JUNIOR DESIGN II",
   "course_number": "ECE 342",
   "credits": "3",
   "description": "Introduction to system design and group projects. Design and fabrication of an electrical engineering project in a small group.",
-  "prerequisites": ["ECE 341"]
+  "prerequisites": [["ECE 341"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF DIGITAL SIGNAL PROCESSING",
   "course_number": "ECE 350",
   "credits": "4",
   "description": "Examines theory and practice of discrete-time signals and systems. Explores sampling and reconstruction from samples. Reviews basics of discrete-time, linear time-invariant systems. Studies z transform, its properties and relationship to discrete-time Fourier transform and its applications to infinite impulse response filter analysis, realizations and design. Explores discrete Fourier transform, its efficient implementations through Fast Fourier transform, and its applications to realization and design of finite impulse response filters.",
-  "prerequisites": ["ECE 203", "MTH 265", "MTH 265H"]
+  "prerequisites": [["ECE 203"], ["MTH 265", "MTH 265H"]]
 }, {
   "corequisites": [],
   "course_name": "SIGNALS AND SYSTEMS I",
   "course_number": "ECE 351",
   "credits": "3",
   "description": "Analytical techniques for continuous-time and discrete-time signal, system, and circuit analysis. Lec.",
-  "prerequisites": ["ENGR 203", "MTH 256", "MTH 256H"]
+  "prerequisites": [["ENGR 203"], ["MTH 256", "MTH 256H"]]
 }, {
   "corequisites": [],
   "course_name": "SIGNALS AND SYSTEMS II",
   "course_number": "ECE 352",
   "credits": "3",
   "description": "Explores analytical techniques for continuous-time and discrete-time signal, system, and circuit analysis.",
-  "prerequisites": ["ECE 351", "MTH 306", "MTH 306H", "MTH 264", "MTH 264H", "MTH 265", "MTH 265H"]
+  "prerequisites": [["ECE 351"], ["MTH 306", "MTH 306H", "MTH 264", "MTH 264H"], ["MTH 265", "MTH 265H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO PROBABILITY AND RANDOM SIGNALS",
   "course_number": "ECE 353",
   "credits": "3",
   "description": "Explores discrete and continuous probability concepts, single and multiple random variable distributions, expectation, introductory stochastic processes, correlation and power spectral density properties of random signals, random signals through linear filters.",
-  "prerequisites": ["ECE 351"]
+  "prerequisites": [["ECE 351"]]
 }, {
   "corequisites": [],
   "course_name": "SYSTEMS DYNAMICS AND CONTROL",
   "course_number": "ECE 356",
   "credits": "4",
   "description": "Models and analyzes linear continuous systems in time and frequency domains. Introduces fundamentals of single-input-single-output control system design. CROSSLISTED as ECE 356/ME 320.",
-  "prerequisites": ["ME 217", "ME 317", "ME 317H", "ECE 351", "ECE 352", "ENGR 212", "ENGR 212H"]
+  "prerequisites": [["ME 217", "ME 317", "ME 317H", "ECE 351"], ["ECE 352"], ["ENGR 212", "ENGR 212H"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTER ORGANIZATION AND ASSEMBLY PROGRAMMING",
   "course_number": "ECE 370",
   "credits": "4",
   "description": "Explores computer organization, how major components in a computer system function together in executing a program, and assembly language.",
-  "prerequisites": ["ECE 204"]
+  "prerequisites": [["ECE 204"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO COMPUTER NETWORKS",
   "course_number": "ECE 372",
   "credits": "4",
   "description": "Computer network principles, fundamental networking concepts, packet-switching and circuit switching, TCP/IP protocol layers, reliable data transfer, congestion control, flow control, packet forwarding and routing, MAC addressing, multiple access techniques. CROSSLISTED as CS 372/ECE 372.",
-  "prerequisites": ["CS 261", "ECE 271", "CS 271"]
+  "prerequisites": [["CS 261"], ["ECE 271", "CS 271"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
   "course_number": "ECE 375",
   "credits": "4",
   "description": "Introduction to computer organization, how major components in a computer system function together in executing a program, and assembly language programming. Lec/lab.",
-  "prerequisites": ["ECE 271"]
+  "prerequisites": [["ECE 271"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTROMAGNETIC FIELDS AND WAVES",
   "course_number": "ECE 380",
   "credits": "4",
   "description": "Analyze static and quasi-static electric and magnetic field problems.",
-  "prerequisites": ["MTH 255", "MTH 255H", "PH 213", "PH 213H", "ENGR 202", "ECE 202"]
+  "prerequisites": [["MTH 255", "MTH 255H"], ["PH 213", "PH 213H"], ["ENGR 202", "ECE 202"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRIC AND MAGNETIC FIELDS",
   "course_number": "ECE 390",
   "credits": "4",
   "description": "Static and quasi-static electric and magnetic fields.",
-  "prerequisites": ["MTH 255", "MTH 255H", "ENGR 203", "PH 213", "PH 213H"]
+  "prerequisites": [["MTH 255", "MTH 255H"], ["ENGR 203"], ["PH 213", "PH 213H"]]
 }, {
   "corequisites": [],
   "course_name": "TRANSMISSION LINES",
   "course_number": "ECE 391",
   "credits": "3",
   "description": "Transient and steady-state analysis of transmission line circuits with application to engineering problems.",
-  "prerequisites": ["ECE 322", "ENGR 203", "MTH 254", "MTH 254H", "MTH 256", "MTH 256H"]
+  "prerequisites": [["ECE 322"], ["ENGR 203"], ["MTH 254", "MTH 254H"], ["MTH 256", "MTH 256H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -256,182 +256,182 @@
   "course_number": "ECE 411",
   "credits": "3",
   "description": "Application of magnetic materials in the design of magnetic devices. Properties of magnetic materials; engineering design of actuators, sensors and data storage devices. Introduction to spintronics.",
-  "prerequisites": ["ECE 390"]
+  "prerequisites": [["ECE 390"]]
 }, {
   "corequisites": [],
   "course_name": "SENSORS",
   "course_number": "ECE 413",
   "credits": "3",
   "description": "Overview of sensor technologies including materials, physics of operation, applications and system integration.",
-  "prerequisites": ["ECE 323", "PH 213", "PH 213H", "CH 201", "CH 121", "CH 122", "CH 231", "CH 231H", "CH 261", "CH 261H"]
+  "prerequisites": [["ECE 323"], ["PH 213", "PH 213H"], ["CH 201", "CH 121"], ["CH 122", "CH 231", "CH 231H"], ["CH 261", "CH 261H"]]
 }, {
   "corequisites": [],
   "course_name": "MATERIAL SCIENCE OF NANOTECHNOLOGY",
   "course_number": "ECE 415",
   "credits": "3",
   "description": "Introductory physical chemistry of solid surfaces, thermodynamics, and kinetics applied to synthesis of nanomaterials such as nanoparticles, nanowires, thin films, carbon nanotubes, fullerenes, graphene, etc. Characterization of nanomaterials, applications of nanomaterials, nano-synthesis techniques, integration of nanotechnology, and emerging nanotechnology topics.",
-  "prerequisites": ["ECE 416", "MATS 321", "MATS 321H"]
+  "prerequisites": [["ECE 416", "MATS 321", "MATS 321H"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRONIC MATERIALS AND DEVICES",
   "course_number": "ECE 416",
   "credits": "4",
   "description": "Semiconductor fundamentals and physical principles of pn junctions and Schottky barrier diodes.",
-  "prerequisites": ["ENGR 201", "ENGR 201H", "PH 213", "PH 213H", "CH 201", "CH 231", "CH 231H", "CH 121", "CH 122", "CH 231", "CH 231H", "CH 261", "CH 261H"]
+  "prerequisites": [["ENGR 201", "ENGR 201H"], ["PH 213", "PH 213H"], ["CH 201", "CH 231", "CH 231H", "CH 121"], ["CH 122", "CH 231", "CH 231H"], ["CH 261", "CH 261H"]]
 }, {
   "corequisites": [],
   "course_name": "BASIC SEMICONDUCTOR DEVICES",
   "course_number": "ECE 417",
   "credits": "4",
   "description": "Theory and physical principles of bipolar junction and field-effect transistors.",
-  "prerequisites": ["ECE 416"]
+  "prerequisites": [["ECE 416"]]
 }, {
   "corequisites": [],
   "course_name": "SEMICONDUCTOR PROCESSING",
   "course_number": "ECE 418",
   "credits": "4",
   "description": "Theory and practice of basic semiconductor processing techniques. Introduction to process simulation.",
-  "prerequisites": ["ECE 416"]
+  "prerequisites": [["ECE 416"]]
 }, {
   "corequisites": [],
   "course_name": "CMOS INTEGRATED CIRCUITS I",
   "course_number": "ECE 422",
   "credits": "4",
   "description": "Analysis and design of analog integrated circuits in CMOS technology; current mirrors, gain stages, single-ended operational amplifier, frequency response, and compensation.",
-  "prerequisites": ["ECE 322", "ECE 323"]
+  "prerequisites": [["ECE 322"], ["ECE 323"]]
 }, {
   "corequisites": [],
   "course_name": "CMOS INTEGRATED CIRCUITS II",
   "course_number": "ECE 423",
   "credits": "4",
   "description": "Analysis and design of analog integrated circuits in CMOS technology; cascaded current mirrors, cascaded gain stages, single-ended and fully differential operational amplifier, common-mode feedback, noise, and distortion.",
-  "prerequisites": ["ECE 422"]
+  "prerequisites": [["ECE 422"]]
 }, {
   "corequisites": [],
   "course_name": "POWER ELECTRONICS",
   "course_number": "ECE 431",
   "credits": "4",
   "description": "Fundamentals and applications of devices, circuits and controllers used in systems for electronic power processing.",
-  "prerequisites": ["ECE 322", "ECE 323", "ECE 351"]
+  "prerequisites": [["ECE 322"], ["ECE 323"], ["ECE 351"]]
 }, {
   "corequisites": [],
   "course_name": "DYNAMICS OF ELECTROMECHANICAL ENERGY CONVERSION",
   "course_number": "ECE 432",
   "credits": "4",
   "description": "Explores generalized machine theory which builds on ECE 331. Builds techniques for dynamic analysis of electromechanical machines including synchronous reference frame theory, as well as motor control structures and approaches.",
-  "prerequisites": ["ECE 331", "ECE 351", "ENGR 203"]
+  "prerequisites": [["ECE 331"], ["ECE 351"], ["ENGR 203"]]
 }, {
   "corequisites": [],
   "course_name": "POWER SYSTEM ANALYSIS",
   "course_number": "ECE 433",
   "credits": "4",
   "description": "Emphasizes fundamentals and control of real and reactive power, steady-state load flow studies, unbalance, stability and transient system analysis.",
-  "prerequisites": ["ECE 323", "ECE 352", "MTH 254", "MTH 254H"]
+  "prerequisites": [["ECE 323"], ["ECE 352"], ["MTH 254", "MTH 254H"]]
 }, {
   "corequisites": [],
   "course_name": "SMART GRID",
   "course_number": "ECE 437",
   "credits": "3",
   "description": "Fundamentals of smart power grids. Technology advances in transmission and distribution systems, policy drivers, assets and demand management, and smart grid security.",
-  "prerequisites": ["ECE 433"]
+  "prerequisites": [["ECE 433"]]
 }, {
   "corequisites": [],
   "course_name": "ELECTRIC AND HYBRID ELECTRIC VEHICLES",
   "course_number": "ECE 438",
   "credits": "4",
   "description": "Reviews transportation electrification history, hybrid electric vehicle architecture, powertrain components and their modeling and control, vehicle system dynamics and controls.",
-  "prerequisites": ["ECE 431", "ECE 331"]
+  "prerequisites": [["ECE 431"], ["ECE 331"]]
 }, {
   "corequisites": [],
   "course_name": "^ENGINEERING DESIGN PROJECT",
   "course_number": "ECE 441",
   "credits": "3",
   "description": "Exposes problem situations and issues in engineering design similar to those encountered in industry through an extended team design project.",
-  "prerequisites": ["ECE 342", "WR 227Z", "WR 227HZ", "WR 327"]
+  "prerequisites": [["ECE 342"], ["WR 227Z", "WR 227H", "WR 327", "WR 327H"]]
 }, {
   "corequisites": [],
   "course_name": "^ENGINEERING DESIGN PROJECT",
   "course_number": "ECE 442",
   "credits": "3",
   "description": "Exposes problem situations and issues in engineering design similar to those encountered in industry through an extended team design project.",
-  "prerequisites": ["ECE 441"]
+  "prerequisites": [["ECE 441"]]
 }, {
   "corequisites": [],
   "course_name": "^ENGINEERING DESIGN PROJECT",
   "course_number": "ECE 443",
   "credits": "2",
   "description": "Exposes problem situations and issues in engineering design similar to those encountered in industry through an extended team design project.",
-  "prerequisites": ["ECE 442"]
+  "prerequisites": [["ECE 442"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO ANALOG AND DIGITAL COMMUNICATIONS",
   "course_number": "ECE 461",
   "credits": "4",
   "description": "Fundamental concepts of analog and digital telecommunication systems: modeling, analysis, and design of analog amplitude and angle modulation systems; probabilistic performance assessment of modulated signals over noisy channels; introduction to baseband digital modulation techniques such as binary pulse amplitude modulation and pulse position modulation and their demodulation in the presence of random noise. Lec.",
-  "prerequisites": ["ECE 351", "ECE 352", "ECE 353"]
+  "prerequisites": [["ECE 351"], ["ECE 352"], ["ECE 353"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL COMMUNICATIONS AND CHANNEL CODING",
   "course_number": "ECE 462",
   "credits": "4",
   "description": "Modeling, analysis, design of baseband and passband digital communications systems: geometric representation of signals; correlator receivers for M-ary digital communications systems; decision theory and its application to digital communication systems in additive white Gaussian noise environment; generation, transmission, and reception of passband digital modulated signals (BPSK, QPSK, FSK PAM); basics of information theory and channel encoding. Lec.",
-  "prerequisites": ["ECE 461", "ECE 351", "ECE 352", "ECE 353"]
+  "prerequisites": [["ECE 461"], ["ECE 351"], ["ECE 352"], ["ECE 353"]]
 }, {
   "corequisites": [],
   "course_name": "WIRELESS COMMUNICATIONS NETWORK",
   "course_number": "ECE 463",
   "credits": "4",
   "description": "Wireless networks: personal area (IEEE 802.15.4a), local area (IEEE 802.11), metropolitan area (IEEE 802.16), and mobile cellular networks (e.g., CDMA); physical-layer techniques for data modulation and multiple access; RF system engineering aspects of mobile cellular networks (e.g., system capability for voice and packet data traffics, RF coverage for a certain propagation environment).",
-  "prerequisites": ["ECE 351", "ECE 352"]
+  "prerequisites": [["ECE 351"], ["ECE 352"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL SIGNAL PROCESSING",
   "course_number": "ECE 464",
   "credits": "4",
   "description": "Analysis and design of discrete-time linear-time invariant systems for processing discrete-time signals: DT-LTI system properties, DT signal analysis using Discrete-Time Fourier Transform, Discrete Fourier Transform and z-Transform, frequency response and transfer function. Signal sampling and reconstruction, digital processing of continuous-time signals, FIR and IIR digital filter design, and filter structures.",
-  "prerequisites": ["ECE 351", "ECE 352"]
+  "prerequisites": [["ECE 351"], ["ECE 352"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL IMAGE PROCESSING",
   "course_number": "ECE 468",
   "credits": "3",
   "description": "Introduction to digital image processing including fundamental concepts of visual perception, image sampling and quantization, image enhancement in spatial and frequency domains (through 2D Fourier transform), image restoration, and color image processing. Implementation of algorithms using Matlab Image Processing Toolbox.",
-  "prerequisites": ["ECE 351", "ECE 352"]
+  "prerequisites": [["ECE 351"], ["ECE 352"]]
 }, {
   "corequisites": [],
   "course_name": "ENERGY-EFFICIENT VLSI DESIGN",
   "course_number": "ECE 471",
   "credits": "4",
   "description": "Combinational and sequential logic design using CMOS transistors; analysis of power consumption and logic delay of digital logic; clock design including skew, jitter, and dynamic clock energy consumption; supply voltage and power supply noise sources; dynamic voltage frequency scaling (DVFS); sub-threshold logic design and effect on energy/robustness; custom digital integrated circuit design including transistor layouts and CAD entry; CMOS scaling and the effect on process variability and power consumption.",
-  "prerequisites": ["ECE 271", "ECE 322", "ECE 323"]
+  "prerequisites": [["ECE 271"], ["ECE 322"], ["ECE 323"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTER ARCHITECTURE",
   "course_number": "ECE 472",
   "credits": "4",
   "description": "Computer architecture using processors, memories, and I/O devices as building blocks. Issues involved in the design of instruction set architecture, processor, pipelining and memory organization. Design philosophies and trade-offs involved in Reduced Instruction Set Computer (RISC) architectures. CROSSLISTED as CS 472/ECE 472 and CS 572/ECE 572.",
-  "prerequisites": ["ECE 375"]
+  "prerequisites": [["ECE 375"]]
 }, {
   "corequisites": [],
   "course_name": "MICROCONTROLLER SYSTEM DESIGN",
   "course_number": "ECE 473",
   "credits": "4",
   "description": "Implementation of embedded computer systems focusing on the development of hardware and software for an embedded microcontroller system. Topics include internal microcontroller architecture, interfacing peripheral devices, mixed analog and digital systems, and hardware and software implementation of several systems using a microcontroller and peripherals.",
-  "prerequisites": ["ECE 322", "ECE 375", "CS 261"]
+  "prerequisites": [["ECE 322"], ["ECE 375"], ["CS 261"]]
 }, {
   "corequisites": [],
   "course_name": "VLSI SYSTEM DESIGN",
   "course_number": "ECE 474",
   "credits": "4",
   "description": "Examines custom and semi-custom digital integrated circuit design as used in VLSI systems. Introduces the use of CAD/CAE tools, design management, and design methodology.",
-  "prerequisites": ["ECE 323", "ECE 375"]
+  "prerequisites": [["ECE 323"], ["ECE 375"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED COMPUTER NETWORKING",
   "course_number": "ECE 476",
   "credits": "4",
   "description": "Covers advanced computer networking concepts: queuing theory, quality-of-service, buffer management, resource allocation and sharing, service models, scheduling policies, and performance modeling and analysis. CROSSLISTED as CS 476/ECE 476.",
-  "prerequisites": ["CS 372", "ECE 372", "ECE 353", "ST 314"]
+  "prerequisites": [["CS 372", "ECE 372"], ["ECE 353", "ST 314", "ST 314H"]]
 }, {
   "corequisites": [],
   "course_name": "MULTIMEDIA SYSTEMS",
@@ -445,7 +445,7 @@
   "course_number": "ECE 478",
   "credits": "4",
   "description": "Basic concepts and techniques in network security, risks and vulnerabilities, applied cryptography and various network security protocols. Coverage of high-level concepts such as authentication, confidentiality, integrity, and availability applied to networking systems. Fundamental techniques including authentication protocols, group key establishment and management, trusted intermediaries, public key infrastructures, SSL/TLS, IPSec, firewalls and intrusion detection CROSSLISTED as CS 478/ECE 478.",
-  "prerequisites": ["CS 372", "ECE 372"]
+  "prerequisites": [["CS 372", "ECE 372"]]
 }, {
   "corequisites": [],
   "course_name": "OPTICAL ELECTRONIC SYSTEMS",
@@ -459,21 +459,21 @@
   "course_number": "ECE 483",
   "credits": "4",
   "description": "Optical fibers, fiber mode structure and polarization effects, fiber interferometry, fiber sensors, optical communication systems. CROSSLISTED as ECE 483/PH 483 and ECE 583/PH 583.",
-  "prerequisites": ["ECE 391", "PH 481"]
+  "prerequisites": [["ECE 391", "PH 481"]]
 }, {
   "corequisites": [],
   "course_name": "ANTENNAS AND PROPAGATION",
   "course_number": "ECE 484",
   "credits": "4",
   "description": "Introduction to antennas and radiowave propagation.",
-  "prerequisites": ["ECE 390", "ECE 391"]
+  "prerequisites": [["ECE 390"], ["ECE 391"]]
 }, {
   "corequisites": [],
   "course_name": "MICROWAVE DESIGN TECHNIQUES",
   "course_number": "ECE 485",
   "credits": "4",
   "description": "Introduction to basic design techniques required for the design of high-frequency circuits and systems.",
-  "prerequisites": ["ECE 390", "ECE 391"]
+  "prerequisites": [["ECE 390"], ["ECE 391"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -578,7 +578,7 @@
   "course_number": "ECE 524",
   "credits": "3",
   "description": "Analyzes and designs phase-locked loop (PLL) architectures and circuits for communication systems. Emphasizes fundamental understanding, design intuition, and implementation of PLLs in modern-day CMOS processes. Topics include acquisition, tracking, noise properties of PLLs, noise in LC oscillators, phase noise measurement techniques, delay-locked loops, multiplying delay locked loops and clock and data recovery circuits.",
-  "prerequisites": ["ECE 520"]
+  "prerequisites": [["ECE 520"]]
 }, {
   "corequisites": [],
   "course_name": "CONTEMPORARY ENERGY APPLICATIONS",

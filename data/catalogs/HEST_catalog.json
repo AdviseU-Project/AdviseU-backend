@@ -67,7 +67,7 @@
   "course_number": "HEST 415",
   "credits": "4",
   "description": "Develop a strong foundation in Unmanned Aerial Vehicles (UAV) systems technologies. Engineering evaluation of UAV systems, subcomponents, aircraft missions, operations and Federal Aviation Administration (FAA) requirements. Apply actual UAV models and subsystems to a real-world project on UAV deployment for humanitarian and environmental missions. Write a technical report as a team-project, developing and demonstrating critical thinking and engineering reporting skills in the subject. CROSSLISTED as AAE 415/HEST 415.",
-  "prerequisites": ["AAE 210", "ME 217", "ME 316", "ME 330", "ME 330H", "NSE 330", "ME 373", "ME 373H"]
+  "prerequisites": [["AAE 210"], ["ME 217"], ["ME 316"], ["ME 330", "ME 330H", "NSE 330"], ["ME 373", "ME 373H"]]
 }, {
   "corequisites": [],
   "course_name": "CO-DESIGN FOR DEVELOPMENT: A REMOTE COLLABORATIVE EXPERIENCE",

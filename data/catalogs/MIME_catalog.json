@@ -32,21 +32,21 @@
   "course_number": "MIME 411",
   "credits": "4",
   "description": "Covers linear wave theory and wave forces on ocean structures. Explores guided design of a fixed and floating body system for offshore renewable wind and wave energy. Reviews studies on excitation, drag, and system performance analyses on Oregon coasts. CROSSLISTED as CE 411/MIME 411.",
-  "prerequisites": ["CE 313"]
+  "prerequisites": [["CE 313", "CEM 311"]]
 }, {
   "corequisites": [],
   "course_name": "^MIME CAPSTONE DESIGN",
   "course_number": "MIME 497",
   "credits": "4",
   "description": "Integrates engineering knowledge and experience by applying skills to work on real-world engineering project. Involves product design; selection and replacement of major tools, processes, and equipment; paperwork controls; subsystem revision; system or plant revision; selection and training of personnel; and long-run policies and strategy.",
-  "prerequisites": ["IE 355", "IE 356", "IE 366", "IE 367", "IE 368", "WR 227Z", "WR 227HZ", "WR 327", "MATS 322", "ENGR 390", "ME 250", "ME 312", "ME 312H", "NSE 312", "NSE 312H", "ME 317", "ME 317H", "ME 382", "ME 382H", "ME 383", "ME 383H", "ST 314", "WR 227Z", "WR 227HZ", "WR 327"]
+  "prerequisites": [["IE 355"], ["IE 356"], ["IE 366"], ["IE 367"], ["IE 368"], ["WR 227Z", "WR 227H", "WR 327", "WR 327H", "MATS 322"], ["ENGR 390"], ["ME 250"], ["ME 312", "ME 312H", "NSE 312", "NSE 312H"], ["ME 317", "ME 317H"], ["ME 382", "ME 382H"], ["ME 383", "ME 383H"], ["ST 314", "ST 314H"], ["WR 227Z", "WR 227H", "WR 327", "WR 327H"]]
 }, {
   "corequisites": [],
   "course_name": "^MIME CAPSTONE DESIGN",
   "course_number": "MIME 498",
   "credits": "4",
   "description": "Product design; selection and replacement of major tools, processes, and equipment; paperwork controls; subsystem revision; system or plant revision; selection and training of personnel; long-run policies and strategy.",
-  "prerequisites": ["MIME 497"]
+  "prerequisites": [["MIME 497", "ESE 497"]]
 }, {
   "corequisites": [],
   "course_name": "WRITING AND CONFERENCE/EXPLORATION",

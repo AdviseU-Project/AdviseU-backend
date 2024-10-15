@@ -32,12 +32,12 @@
   "course_number": "MAST 425",
   "credits": "4",
   "description": "Examines issues related to the ocean and coasts through a transdisciplinary process recognizing insights from multiple perspectives and disciplines. Integrates the varied content explored in the Marine Studies Major through engagement in a substantial research or creative project evidencing intensive study of the social, political, historical, and/or cultural issues of the ocean and coasts.",
-  "prerequisites": ["MAST 300"]
+  "prerequisites": [["MAST 300"]]
 }, {
   "corequisites": [],
   "course_name": "^WRITING FOR MARINE STUDIES",
   "course_number": "MAST 444",
   "credits": "4",
   "description": "Applies techniques, ethics, and methodologies of writing and research in the transdisciplinary field of Marine Studies. Produces an artifact summing up the work throughout the degree and a written narration of this artifact. Presents the project findings and/or expressions to a broad audience at a Marine Studies student conference.",
-  "prerequisites": ["MAST 201", "MAST 300"]
+  "prerequisites": [["MAST 201"], ["MAST 300"]]
 }]

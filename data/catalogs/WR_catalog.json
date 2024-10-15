@@ -53,7 +53,7 @@
   "course_number": "WR 214",
   "credits": "3",
   "description": "Continued practice in writing with an emphasis on the rhetorical and critical thinking demands of writers in business and industry.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ", "WR 121"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*STORIES OF THE US-MEXICO BORDER",
@@ -74,28 +74,28 @@
   "course_number": "WR 224",
   "credits": "3",
   "description": "Discussion workshop. Student work examined in context of contemporary published work.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ", "WR 121"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*INTRODUCTION TO FICTION WRITING",
   "course_number": "WR 224H",
   "credits": "3",
   "description": "Discussion workshop. Student work examined in context of contemporary published work.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ", "WR 121"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*TECHNICAL WRITING",
   "course_number": "WR 227HZ",
   "credits": "4",
   "description": "Introduces students to producing instructive, informative, and persuasive technical/professional documents aimed at well-defined and achievable outcomes. Focuses on presenting information using rhetorically appropriate style, design, vocabulary, structure, and visuals. Gathers, reads, and analyzes information and learns a variety of strategies for producing accessible, usable, reader-centered deliverable documents that are clear, concise, and ethical.",
-  "prerequisites": ["WR 121Z", "WR 121HZ", "WR 121", "WR 121H", "WR 121"]
+  "prerequisites": [["WR 121Z", "WR 121H", "WR 121", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*TECHNICAL WRITING",
   "course_number": "WR 227Z",
   "credits": "4",
   "description": "Introduces students to producing instructive, informative, and persuasive technical/professional documents aimed at well-defined and achievable outcomes. Focuses on presenting information using rhetorically appropriate style, design, vocabulary, structure, and visuals. Gathers, reads, and analyzes information and learns a variety of strategies for producing accessible, usable, reader-centered deliverable documents that are clear, concise, and ethical.",
-  "prerequisites": ["WR 121Z", "WR 121HZ", "WR 121", "WR 121H", "WR 121"]
+  "prerequisites": [["WR 121Z", "WR 121H", "WR 121", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*ESSENTIALS OF ENGLISH GRAMMAR",
@@ -109,21 +109,21 @@
   "course_number": "WR 240",
   "credits": "3",
   "description": "Discussion workshop. Student work examined in context of contemporary published work.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "*INTRODUCTION TO POETRY WRITING",
   "course_number": "WR 241",
   "credits": "3",
   "description": "Discussion workshop. Rudiments of mechanics and some background in development of modern poetry.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ", "WR 121"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*PODCAST STORYTELLING",
   "course_number": "WR 250",
   "credits": "3",
   "description": "Focuses on the skills needed to write, record, and produce informative and engaging podcasts. Students develop themes, write scripts, conduct interviews, and learn to make thoughtful editing decisions in the production of audio podcasts.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -137,21 +137,21 @@
   "course_number": "WR 301",
   "credits": "3",
   "description": "Invites students to learn about editing and copyediting techniques, broader editorial decisions, and current publishing platforms. Students will learn about scholarly publishing in the U.S. and about how social media and public relations fit into this world. Participants will also explore editing within a rhetorical dimension, considering purpose and audience, as well as conventions of grammar, mechanics, and usage. Students will review a scholarly article reporting on research in editing and/or publishing; as well as develop a publication-ready work of their own. As part of a final project, the class will work toward a collaborative publication.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "*WRITING FOR THE WEB",
   "course_number": "WR 303",
   "credits": "3",
   "description": "Concerns the production of instructive, informative, and rhetorically savvy writing for Web-based locations and applications. Helps people find information, get things done, convey their opinions, build communities, and collaborate on complex projects.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "WRITING THE YOUNG ADULT NOVEL",
   "course_number": "WR 310",
   "credits": "3",
   "description": "Explores the literary Young Adult (YA) novel by analyzing the plot, character, language, setting, and voice of established authors. Incorporates YA-specific craft elements to produce novelistic and literary writing. Develops and adapts an established structure and outline for a YA novel. Embarks on YA novel writing journey with rigorous revisions from peer review and instructor feedback.",
-  "prerequisites": ["WR 224", "WR 224H"]
+  "prerequisites": [["WR 224", "WR 224H"]]
 }, {
   "corequisites": [],
   "course_name": "WRITING SCIENCE FICTION & FANTASY",
@@ -172,77 +172,77 @@
   "course_number": "WR 323",
   "credits": "3",
   "description": "Explores advanced argumentation and writes research-based essays to persuade specific audiences. Analyzes texts to evaluate rhetorical purpose and genre conventions. Develops advanced information literacy skills, evaluating and incorporating appropriate research sources. Applies stylistic awareness in writing through close attention to audience and rhetorical context. Crafts advanced strategies for writing processes, collaborating with peers and/or instructor to develop drafts, revise, and reflect to improve transfer to future writing contexts.",
-  "prerequisites": ["WR 121Z", "WR 121HZ", "WR 121", "WR 121H", "WR 121"]
+  "prerequisites": [["WR 121Z", "WR 121H", "WR 121", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*ADVANCED WRITING & ARGUMENTATION",
   "course_number": "WR 323H",
   "credits": "3",
   "description": "Explores advanced argumentation and writes research-based essays to persuade specific audiences. Analyzes texts to evaluate rhetorical purpose and genre conventions. Develops advanced information literacy skills, evaluating and incorporating appropriate research sources. Applies stylistic awareness in writing through close attention to audience and rhetorical context. Crafts advanced strategies for writing processes, collaborating with peers and/or instructor to develop drafts, revise, and reflect to improve transfer to future writing contexts.",
-  "prerequisites": ["WR 121Z", "WR 121HZ", "WR 121", "WR 121H", "WR 121"]
+  "prerequisites": [["WR 121Z", "WR 121H", "WR 121", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "SHORT STORY WRITING",
   "course_number": "WR 324",
   "credits": "4",
   "description": "Study and writing of the short story. (FA)",
-  "prerequisites": ["WR 224", "WR 224H"]
+  "prerequisites": [["WR 224", "WR 224H"]]
 }, {
   "corequisites": [],
   "course_name": "*TECHNICAL WRITING",
   "course_number": "WR 327",
   "credits": "3",
   "description": "Continued practice in writing with an emphasis on the rhetorical and critical thinking demands of writers in scientific and technological fields. NO LONGER TAUGHT. REPLACED WITH COMMON COURSE NUMBER WR 227Z.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "*UNDERSTANDING GRAMMAR",
   "course_number": "WR 330",
   "credits": "3",
   "description": "Advanced study of traditional grammatical forms and conventional grammatical terms with emphasis on the assumptions underlying the structure of traditional grammar.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ", "WR 121"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H", "WR 121"]]
 }, {
   "corequisites": [],
   "course_name": "CREATIVE NONFICTION WRITING",
   "course_number": "WR 340",
   "credits": "4",
   "description": "Intermediate study and writing of creative nonfiction.",
-  "prerequisites": ["WR 240"]
+  "prerequisites": [["WR 240"]]
 }, {
   "corequisites": [],
   "course_name": "POETRY WRITING",
   "course_number": "WR 341",
   "credits": "4",
   "description": "Study and writing of verse. (FA)",
-  "prerequisites": ["WR 241"]
+  "prerequisites": [["WR 241"]]
 }, {
   "corequisites": [],
   "course_name": "WRITING ABOUT PLACES",
   "course_number": "WR 353",
   "credits": "3",
   "description": "Utilizing personal experience, reading, and research, students, study, discuss, and practice the conventions of writing about place far and near, global and local, for various audiences and in a range of formats.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "*SCIENCE WRITING",
   "course_number": "WR 362",
   "credits": "3",
   "description": "Students learn and practice the conventions for writing scientific material for a variety of audiences. Involves writing and research assignments, multimedia presentations, lecture, and in-class and online activities.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "*SCIENCE WRITING",
   "course_number": "WR 362H",
   "credits": "3",
   "description": "Students learn and practice the conventions for writing scientific material for a variety of audiences. Involves writing and research assignments, multimedia presentations, lecture, and in-class and online activities.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "FOOD WRITING",
   "course_number": "WR 383",
   "credits": "4",
   "description": "Focuses on the skills needed to write, edit, and publish engaging stories about food, from recipes to food magazine features. Develops story ideas, practices reporting on those ideas using journalistic techniques, and learns fundamental skills about the publishing process.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "HABITS OF CREATIVE PRACTICE",
@@ -333,7 +333,7 @@
   "course_number": "WR 414",
   "credits": "4",
   "description": "Writing news releases, annual reports, brochures, newsletters, and other PR materials. Writing advertising copy.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "STUDIES IN WRITING",
@@ -347,7 +347,7 @@
   "course_number": "WR 424",
   "credits": "4",
   "description": "Workshop. (FA)",
-  "prerequisites": ["WR 324"]
+  "prerequisites": [["WR 324"]]
 }, {
   "corequisites": [],
   "course_name": "SCIENTIFIC",
@@ -361,14 +361,14 @@
   "course_number": "WR 440",
   "credits": "4-8",
   "description": "An advanced course in creative nonfiction writing, centered around workshops of polished material.",
-  "prerequisites": ["WR 340"]
+  "prerequisites": [["WR 340"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED POETRY WRITING",
   "course_number": "WR 441",
   "credits": "4",
   "description": "Advanced poetry workshop.",
-  "prerequisites": ["WR 341"]
+  "prerequisites": [["WR 341"]]
 }, {
   "corequisites": [],
   "course_name": "MAGAZINE ARTICLE WRITING",
@@ -396,14 +396,14 @@
   "course_number": "WR 462",
   "credits": "4",
   "description": "Writing about environmental topics from multiple perspectives. Includes science journalism, research and writing on current scientific issues and controversies, and theories of rhetoric and environmentalism.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "^ADVANCED TECHNICAL WRITING",
   "course_number": "WR 466",
   "credits": "4",
   "description": "Introduces the texts, contexts, and concepts important to the practice of professional communication in organizational contexts, addressing practical writing skills, rhetoric, and ethics. Course readings concern what professional technical writers do and what theories govern their actions, bridging the gap between real-world problems and academic research. Emphasizes solving real-world writing and communication problems with empirical research, usability testing, and information design.",
-  "prerequisites": ["WR 121", "WR 121H"]
+  "prerequisites": [["WR 121", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "RHETORICS OF RACE",
@@ -424,7 +424,7 @@
   "course_number": "WR 497",
   "credits": "4",
   "description": "From pencils to pixels, telegraphs to texts, and semaphores to social networking, Digital Literacy and Culture focuses on the relationships between human expression and the technologies that provide context, meaning, and shape to those expressions.",
-  "prerequisites": ["WR 121", "WR 121H", "WR 121Z", "WR 121HZ"]
+  "prerequisites": [["WR 121", "WR 121H", "WR 121Z", "WR 121H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -599,49 +599,49 @@
   "course_number": "WR 530",
   "credits": "3",
   "description": "Practices the sharing of original work and critiquing the poetry of others. Creates an opportunity to experiment with writing in different poetics styles and forms.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO WRITING FICTION",
   "course_number": "WR 531",
   "credits": "3",
   "description": "Introduces the craft of writing fiction through discussion of fundamental storytelling techniques such as plot design, character arcs, narrative structure and issues relating to pacing, tone and style. Discusses student work and devises specific strategies for brainstorming, troubleshooting and revising.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO WRITING CREATIVE NONFICTION",
   "course_number": "WR 532",
   "credits": "3",
   "description": "Practices the sharing of original work and critique the work of others. Explore the freedoms and limitations inherent in this genre through supplemental readings and through in-class generative writing prompts.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED POETRY WRITING WORKSHOP",
   "course_number": "WR 533",
   "credits": "3",
   "description": "Practices ethically engaged workshop skills and enacts a regular writing and revision process to strengthen/revise a substantial body of original work. Participate in group writing exercises.",
-  "prerequisites": ["WR 526", "WR 529", "WR 530"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 530"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED FICTION WRITING WORKSHOP",
   "course_number": "WR 534",
   "credits": "3",
   "description": "Addresses advanced issues of craft, including sophisticated storytelling techniques, achieving consistency (tone, balance, rhythm), and other key elements of successful sustained narratives (character arcs, plot design, structural dynamics).",
-  "prerequisites": ["WR 526", "WR 529", "WR 531"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 531"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED CREATIVE NONFICTION",
   "course_number": "WR 535",
   "credits": "3",
   "description": "Focuses on advanced issues of craft, emphasizing how life events or circumstances can be used to ground inquiry and reflect on larger social, political, and cultural domains. Includes synthesizing research artfully, achieving consistency (tone, balance, proportion), experimenting with innovative techniques, becoming more rhetorically aware, and revising intentionally.",
-  "prerequisites": ["WR 526", "WR 529", "WR 532"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 532"]]
 }, {
   "corequisites": [],
   "course_name": "REVISION",
   "course_number": "WR 536",
   "credits": "2",
   "description": "Focuses on the generative potential of revision. Discusses and analyzes texts by well-known writers on the value of revision and revision strategies. Identifies opportunities for expansion and/or compression in original work. Cultivates editorial strategies that students deploy in peer-evaluations and in the revision of a substantial body of original creatives work.",
-  "prerequisites": ["WR 526", "WR 529", "WR 533", "WR 534", "WR 535"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 533", "WR 534", "WR 535"]]
 }, {
   "corequisites": [],
   "course_name": "WRITING FOR SCIENCE AND ENGINEERING",
@@ -655,14 +655,14 @@
   "course_number": "WR 538",
   "credits": "2",
   "description": "Supports participants in developing their own philosophy and approach to creative writing pedagogy. Explores points of confluence between workshop, pedagogical best practices, arts education, and social justice through practicum (designing and implementing unique Teaching Portfolios and Teaching Philosophies), as well as discussion and reflection on essays about MFA programs and teaching by field leaders. Synthesizes practicum outcomes through peer-participation and peer review.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "CREATIVE WRITING WORKSHOP IN SPANISH: TALLER DE CREACIÓN LITERARIA EN ESPAÑOL",
   "course_number": "WR 539",
   "credits": "3",
   "description": "English: Critiques texts in Spanish, English and Spanglish from across the Spanish-speaking literary world, including U.S. Latinx authors. Spanish: Estudian textos en Español, Inglés, y Espanglish del mundo hispanohablante, incluyendo autores Latinx de EE.UU. Escriben y comparten obras originales en respuesta a instrucciones y comentan en las obras de sus compañeros.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED NONFICTION WRITING",
@@ -683,91 +683,91 @@
   "course_number": "WR 542",
   "credits": "2",
   "description": "Prepares students to participate in the literary marketplace. Topics include how to find the right “fit” for your work, writing the query letter, working with editors, when to get an agent, negotiating a contract, self-publishing and independent publishing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "POETRY FOUNDATIONS 1: PROSODY",
   "course_number": "WR 550",
   "credits": "3",
   "description": "Analyzes poetic elements, organized around the history and evolution of poetic forms, including syllable, stanza, and line; of stress, meter, rhyme, and a variety of countings, as well as contemporary explorations of fragmentation, interruption, chance and silence. Demonstrates a range of structural elements, experimental and classic. Integrates craft theory and its application in original student work.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "POETRY FOUNDATIONS 2: TRANSNATIONAL TRANSLATIONS",
   "course_number": "WR 551",
   "credits": "3",
   "description": "Introduces a range of writers whose poetry travels across the borders of nation, language, and form, providing a transnational lens on poetic craft. Includes critical essays on the art of translation. Integrates craft theory and analysis and emphasizes how students may apply these techniques in their own writing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "POETRY FOUNDATIONS 3: POETICS",
   "course_number": "WR 552",
   "credits": "3",
   "description": "Explores the long tradition of the articulation of the meaning and purpose of poetry, from Aristotle to ‘undocumented poetics.’ Introduces essays and poems that give shape to aesthetic judgments and encourages students to respond in their own writing to the history of poetic ideas. Craft analysis integrates craft theory and emphasizes how students may apply these techniques in their own writing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "POETRY FOUNDATIONS 4: EXPERIMENTAL FORMS",
   "course_number": "WR 553",
   "credits": "3",
   "description": "Introduces a range of experimental poetry by writers from a variety of cultural backgrounds. Examines and interrogates the role of “identity,” “narrative,” and “the lyric I” in poetic traditions. Integrates craft theory and emphasizes how students may apply these techniques in their own writing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "FICTION FOUNDATIONS 1: NARRATIVE CONVENTIONS",
   "course_number": "WR 554",
   "credits": "3",
   "description": "Analyzes the formal elements of the craft—narrative structure, character development, point of view consistency, style, detail, imagery, and theme. Identifies specific technical strategies for achieving the writer’s intentions for the work. Considers what general principles might govern story form but also the wide latitude a writer has in addressing them.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "FICTION FOUNDATIONS 2: SHORT FICTION",
   "course_number": "WR 555",
   "credits": "3",
   "description": "Tracks the development of short stories from the mid-nineteenth century to present, in English and in translation. Genres may include psychological realism, modernism, and postmodernism. Stories are contextualized historically and in terms of aesthetic tradition. Craft analysis integrates craft theory and emphasizes how students may apply these techniques in their own writing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "FICTION FOUNDATIONS 3: NARRATIVE DESIGN",
   "course_number": "WR 556",
   "credits": "3",
   "description": "Examines the design and construction of long fiction narratives with an eye toward the relationship between form and content. Craft analysis integrates craft theory and emphasizes how students may apply these techniques in their own writing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "FICTION FOUNDATIONS 4: EXPERIMENTAL FORMS",
   "course_number": "WR 557",
   "credits": "3",
   "description": "Explores experimental approaches to fictional prose, emphasizing writers who work against the conventions of narrative realism. Craft analysis integrates craft theory and emphasizes how students may apply these techniques in their own writing. Readings from various traditions, American and international, showcase discontinuous narratives, metafictional techniques, and non-narrative forms, and serve as models for students’ own writing.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "CREATIVE NONFICTION FOUNDATIONS: NARRATIVE",
   "course_number": "WR 558",
   "credits": "3",
   "description": "Analyzes the formal elements that creative nonfiction borrows from fiction, including narrative, persona/voice, and characterization. Analyzes the ways nonfiction differs, including the use of double perspective and its effect on narrative structure, the ethics of characterization, and the effective management of narrative distance.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "CREATIVE NONFICTION FOUNDATIONS: DOCUMENTARY",
   "course_number": "WR 559",
   "credits": "3",
   "description": "Connects documentary poetics and creative nonfiction through an analysis of style. Readings will demonstrate the use of research strategies, including oral histories, interviews, immersion, and the gathering of information from various types of sources. Uses research to ground and expand the work and experiments with various writing techniques.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "CREATIVE NONFICTION FOUNDATIONS: LYRIC",
   "course_number": "WR 560",
   "credits": "3",
   "description": "Explores the formal elements that creative nonfiction borrows from poetry: imagery, figurative language, juxtaposition, collage, fragmentation, associative movement, and other nonlinear through-lines. Draws from a diverse array of both writers and styles. Explores how lyrical elements work together in an organic whole through experimentation in original student work.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "CREATIVE NONFICTION FOUNDATIONS: EXPERIMENTAL FORMS",
   "course_number": "WR 561",
   "credits": "3",
   "description": "Emphasizes innovative nonfiction through investigations of non-traditional approaches such as, the segmented essay, the uses of fabrication and falsification, hypertext and digital experiments, formal innovations, and more. Practice using such boundary-pushing techniques to expand the possibilities of their own nonfiction.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL WRITING",
@@ -781,21 +781,21 @@
   "course_number": "WR 570",
   "credits": "POWER",
   "description": "Examines texts by writers from diverse communities on topics such as intersectionality, antiracism, and privilege. Discusses how difference, power, and privilege function as content and form in literary texts while writing and sharing original work.",
-  "prerequisites": ["WR 526", "WR 529"]
+  "prerequisites": [["WR 526"], ["WR 529"]]
 }, {
   "corequisites": [],
   "course_name": "CRITICAL STUDIES: WRITING DIFFERENCE",
   "course_number": "WR 571",
   "credits": "POWER",
   "description": "Analyzes and discusses what writing difference means for literary craft. Assesses moral and ethical dimensions of literary technique and creates original work.",
-  "prerequisites": ["WR 526", "WR 529", "WR 570"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 570"]]
 }, {
   "corequisites": [],
   "course_name": "CRITICAL STUDIES: COMMUNITY ENGAGEMENT",
   "course_number": "WR 572",
   "credits": "2",
   "description": "Explores blending writing practices with promoting the literary arts through community engagement and/or public facing events in traditional and non-traditional settings.",
-  "prerequisites": ["WR 526", "WR 529", "WR 570", "WR 571"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 570"], ["WR 571"]]
 }, {
   "corequisites": [],
   "course_name": "THESIS & DISSERTATION WRITING",
@@ -809,7 +809,7 @@
   "course_number": "WR 574",
   "credits": "3",
   "description": "Prepares students for the writing of the thesis, specifically the Critical Introduction. Explores protocols, terminology and discourse patterns necessary to complete the thesis. Connects program of study to students’ original writing and reflects on chosen forms and future goals.",
-  "prerequisites": ["WR 526", "WR 529", "WR 570", "WR 571", "WR 572"]
+  "prerequisites": [["WR 526"], ["WR 529"], ["WR 570"], ["WR 571"], ["WR 572"]]
 }, {
   "corequisites": [],
   "course_name": "RHETORICS OF RACE",

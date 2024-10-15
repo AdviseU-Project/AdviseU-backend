@@ -4,42 +4,42 @@
   "course_number": "CCE 201",
   "credits": "3",
   "description": "Introduces the engineering design process and graphic skills that are used by civil and construction engineers. Topics include design process, geometric construction, multiviews, auxiliary views, sections, dimensioning, tolerances and engineering drawing standards. Students participate in team design projects and presentations. Graphic and design projects from the areas of civil and construction engineering.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 112", "MTH 112Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO VIRTUAL DESIGN AND CONSTRUCTION",
   "course_number": "CCE 203",
   "credits": "3",
   "description": "Basic principles of virtual design and construction (VDC) focusing on skills required for generating design and construction information models. Parametric modeling and design constraints are introduced. Students will utilize construction drawings and documentation to create accurate 3D models. Use of design and construction information models for making estimates of quantities and cost, and for determination of constructability problems.",
-  "prerequisites": ["CCE 201", "ENGR 248"]
+  "prerequisites": [["CCE 201", "ENGR 248"]]
 }, {
   "corequisites": [],
   "course_name": "CCE SEMINAR",
   "course_number": "CCE 207",
   "credits": "1",
   "description": "Visit construction sites and engineering design offices. Engage with faculty and industry professionals on topics including ethics, resume-writing, interviewing, professionalism in the workplace, understanding the nature and culture of the civil and construction engineering industries.",
-  "prerequisites": ["CS 162", "CS 162H", "ENGR 103", "ENGR 103H"]
+  "prerequisites": [["CCE 102", "ENGR 112", "CBEE 102", "NSE 115", "CS 162", "CS 162H", "BEE 102", "ENGR 103", "ENGR 103H"]]
 }, {
   "corequisites": [],
   "course_name": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
   "course_number": "CCE 321",
   "credits": "4",
   "description": "Classify attributes and quantify properties of civil and construction engineering materials including portland cement concrete, asphalt concrete, wood, and metals. Implement and interpret data from standard laboratory material testing methods.",
-  "prerequisites": ["ENGR 213", "ENGR 213H"]
+  "prerequisites": [["ENGR 213", "ENGR 213H"]]
 }, {
   "corequisites": [],
   "course_name": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
   "course_number": "CCE 321H",
   "credits": "4",
   "description": "Classify attributes and quantify properties of civil and construction engineering materials including portland cement concrete, asphalt concrete, wood, and metals. Implement and interpret data from standard laboratory material testing methods.",
-  "prerequisites": ["ENGR 213", "ENGR 213H"]
+  "prerequisites": [["ENGR 213", "ENGR 213H"]]
 }, {
   "corequisites": [],
   "course_name": "GREEN BUILDING MATERIALS",
   "course_number": "CCE 422",
   "credits": "3",
   "description": "Introduces concepts of construction with green building materials. Specific concepts include evaluation of what truly makes a material \"green\", long-term performance (e.g., durability) of materials, material production and life cycle cost analysis. Concepts of green building programs, guidelines and specifications will be introduced.",
-  "prerequisites": ["CCE 321", "CCE 321H"]
+  "prerequisites": [["CCE 321", "CCE 321H"]]
 }, {
   "corequisites": [],
   "course_name": "CONCRETE FUNDAMENTALS",
@@ -53,7 +53,7 @@
   "course_number": "CCE 424",
   "credits": "3",
   "description": "Focuses on characterization of asphalt materials and mixtures, current laboratory testing technology for asphalt binders and mixes, engineering of asphalt mixes to meet design requirements, asphalt recycling process, environmental impacts of asphalt pavements, and recent developments in asphalt technology.",
-  "prerequisites": ["CCE 321"]
+  "prerequisites": [["CCE 321"]]
 }, {
   "corequisites": [],
   "course_name": "FOREST TO FRAME: MASS TIMBER",
@@ -158,7 +158,7 @@
   "course_number": "CCE 621",
   "credits": "4",
   "description": "Concrete durability including freeze-thaw attack, sulfate attack, corrosion, alkali-silica reaction, long-term performance, durability modeling, durability of alternative cements. Non-destructive condition assessment; model-assisted testing; corrosion detection and monitoring; multi-scale assessment; service/remaining life predictions.",
-  "prerequisites": ["CCE 523"]
+  "prerequisites": [["CCE 523"]]
 }, {
   "corequisites": [],
   "course_name": "CORROSION OF METALS AND CORROSION CONTROL",

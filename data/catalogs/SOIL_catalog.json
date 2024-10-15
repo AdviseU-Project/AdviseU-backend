@@ -25,23 +25,23 @@
   "course_number": "SOIL 205",
   "credits": "3",
   "description": "Introduction to the chemical, physical and biological nature of soils. Examines how soils function in terms of plant growth, nutrient supply, the global carbon cycle, ecological habitat, and water purification. Community-based learning projects provide hands-on experience with fundamental soil science principles and the impact of human activities on soil quality and sustainability. (Bacc Core Course if taken with SOIL 206 or FOR 206)",
-  "prerequisites": ["SOIL 206", "SOIL 206H", "FOR 206"]
+  "prerequisites": [["SOIL 206", "SOIL 206H", "FOR 206"]]
 }, {
   "corequisites": [],
   "course_name": "SOIL SCIENCE",
   "course_number": "SOIL 205H",
   "credits": "3",
   "description": "Introduction to the chemical, physical and biological nature of soils. Examines how soils function in terms of plant growth, nutrient supply, the global carbon cycle, ecological habitat, and water purification. Community-based learning projects provide hands-on experience with fundamental soil science principles and the impact of human activities on soil quality and sustainability. (Bacc Core Course if taken with SOIL 206 or FOR 206)",
-  "prerequisites": ["SOIL 206", "SOIL 206H", "FOR 206"]
+  "prerequisites": [["SOIL 206", "SOIL 206H", "FOR 206"]]
 }, {
-  "corequisites": ["SOIL 205"],
+  "corequisites": [["SOIL 205"]],
   "course_name": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
   "course_number": "SOIL 206",
   "credits": "1",
   "description": "Students will gain hands-on experience with soil science concepts and applications. Laboratory exercises and field trips will help students develop proficiency in the methods/tools for analyzing soil chemistry, biology, morphology, physical properties, and soil forming factors. Skills will be taught in the context of soils' social, economic, and environmental importance. (Bacc Core Course if taken with SOIL 205)",
   "prerequisites": []
 }, {
-  "corequisites": ["SOIL 205H"],
+  "corequisites": [["SOIL 205H"]],
   "course_name": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
   "course_number": "SOIL 206H",
   "credits": "1",
@@ -67,7 +67,7 @@
   "course_number": "SOIL 316",
   "credits": "4",
   "description": "Nutrient forms, transformations, and cycling. Diagnosis and correction of nutrient deficiencies, pH and salinity. Impact of nutrient management practices on crop production, soil health, nutrient use efficiency, and environmental quality. Organic and inorganic fertilization. Labs include soil sampling and testing procedures, data collection on soil and plants, computer applications for soil fertility management, and field trips.",
-  "prerequisites": ["CH 121", "CH 231", "CH 231H", "SOIL 205", "SOIL 205H", "CSS 205"]
+  "prerequisites": [["CH 121", "CH 231", "CH 231H"], ["SOIL 205", "SOIL 205H", "CSS 205", "CSS 305"]]
 }, {
   "corequisites": [],
   "course_name": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH",
@@ -81,28 +81,28 @@
   "course_number": "SOIL 360",
   "credits": "3",
   "description": "This is a skills-based soil management course that is part lecture and part student-centered learning. Significant class time will be devoted to making field-scale management decisions. The course includes individual and group work, presentation, and discussion. The intent is to prepare students for real-world application of soil management decisions in certified organic systems. Using the National Organic Program as a starting point as well as farm system descriptions with extensive long-term data sets, we will interpret soil nutrient analyses, cover cropping systems, and organic amendments, to design soil management plans for two model cropping systems (annual and perennial).",
-  "prerequisites": ["CSS 205", "SOIL 205", "SOIL 205H", "SOIL 206", "SOIL 206H", "FOR 206"]
+  "prerequisites": [["CSS 205", "CSS 305", "SOIL 205", "SOIL 205H"], ["SOIL 206", "SOIL 206H", "FOR 206"]]
 }, {
   "corequisites": [],
   "course_name": "ECOSYSTEMS OF WILDLAND SOILS",
   "course_number": "SOIL 366",
   "credits": "3",
   "description": "Focuses on soils that occur in relatively undisturbed ecosystems such as forests and rangelands. Topics covered include properties and processes specific to understanding and managing the soil resource in these areas. An overview of US Soil Taxonomy will also be given.",
-  "prerequisites": ["SOIL 205", "SOIL 205H", "CSS 205"]
+  "prerequisites": [["SOIL 205", "SOIL 205H", "CSS 205", "CSS 305"]]
 }, {
   "corequisites": [],
   "course_name": "SOIL SYSTEMS AND PLANT GROWTH",
   "course_number": "SOIL 388",
   "credits": "4",
   "description": "Introduces soils as providers of critical resources for plant growth. Explains how soils supply water, air, thermal energy and nutrients to plants. Shows that sustainable management of soil resources requires substantial understanding of their role in the functioning of natural, forest, and agricultural systems. Explains controls on stocks and availabilities of individual soil resources and mechanisms making these resources plant-available.",
-  "prerequisites": ["SOIL 205", "SOIL 205H", "SOIL 206", "SOIL 206H", "FOR 206", "CSS 205", "CH 121", "CH 231", "CH 231H", "BOT 220", "BI 204", "BI 205", "BI 206", "BI 211", "BI 212", "BI 213", "BI 211H", "BI 212H", "BI 213H", "BI 221", "BI 222", "BI 223", "BI 221H", "BI 222H", "BI 223H"]
+  "prerequisites": [["SOIL 205", "SOIL 205H"], ["SOIL 206", "SOIL 206H", "FOR 206", "CSS 205"], ["CH 121", "CH 231", "CH 231H"], ["BOT 220", "BI 204", "BI 205", "BI 206", "BI 211", "BI 212", "BI 213", "BI 211H", "BI 212H", "BI 213H", "BI 221", "BI 222", "BI 223", "BI 221H", "BI 222H", "BI 223H"]]
 }, {
   "corequisites": [],
   "course_name": "^WORLD SOIL RESOURCES",
   "course_number": "SOIL 395",
   "credits": "3",
   "description": "The properties, global distribution, and agricultural productivity of major world soil groups are described. Potentials for human-accelerated soil degradation are introduced for each soil group, and reasons for conflicting assessments of degradation are discussed.",
-  "prerequisites": ["CH 121", "CH 122", "CH 123", "CH 201", "CH 202", "CH 231", "CH 231H", "CH 232", "CH 232H", "CH 233", "CH 233H"]
+  "prerequisites": [["CH 121", "CH 122", "CH 123", "CH 201", "CH 202", "CH 231", "CH 231H", "CH 232", "CH 232H", "CH 233", "CH 233H"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -179,35 +179,35 @@
   "course_number": "SOIL 435",
   "credits": "3",
   "description": "Covers principles of soil physical properties and processes as they relate to agricultural, hydrological and environmental problems.",
-  "prerequisites": ["CSS 205", "SOIL 205", "SOIL 205H"]
+  "prerequisites": [["CSS 205", "CSS 305", "SOIL 205", "SOIL 205H"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL SOIL CHEMISTRY",
   "course_number": "SOIL 445",
   "credits": "3",
   "description": "Emphasizes structural chemistry of clay minerals and organic matter, cation and anion exchange, and soil solution equilibria of soils. Ion exchange, mineral-solution equilibria, and adsorption reactions of silicate clays, oxides, and organic matter are emphasized. Covers the sorption behavior of environmental contaminants and the weathering reactions that govern the transport of reactive solutes through soils.",
-  "prerequisites": ["CSS 205", "SOIL 205", "SOIL 205H", "SOIL 206", "SOIL 206H", "FOR 206", "CH 122", "CH 202", "CH 232", "CH 232H", "CH 262", "CH 262H", "CH 272"]
+  "prerequisites": [["CSS 205", "CSS 305", "SOIL 205", "SOIL 205H"], ["SOIL 206", "SOIL 206H", "FOR 206"], ["CH 122", "CH 202", "CH 232", "CH 232H"], ["CH 262", "CH 262H", "CH 272"]]
 }, {
   "corequisites": [],
   "course_name": "BIOLOGY OF SOIL ECOSYSTEMS",
   "course_number": "SOIL 455",
   "credits": "4",
   "description": "Provides a detailed study of the organisms that live in the soil and their activities in the soil ecosystems, soil as a habitat for organisms, taxonomy and biology of soil organisms, fundamentals of nutrient cycles, special topics in soil biology, review basis of soil microbial and ecological principles.",
-  "prerequisites": ["CSS 205", "SOIL 205", "SOIL 205H", "SOIL 206", "SOIL 206H", "FOR 206", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206", "CH 122", "CH 202", "CH 232", "CH 232H", "CH 262", "CH 262H", "CH 272"]
+  "prerequisites": [["CSS 205", "CSS 305", "SOIL 205", "SOIL 205H"], ["SOIL 206", "SOIL 206H", "FOR 206"], ["BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"], ["CH 122", "CH 202", "CH 232", "CH 232H"], ["CH 262", "CH 262H", "CH 272"]]
 }, {
   "corequisites": [],
   "course_name": "SOIL MORPHOLOGY AND CLASSIFICATION",
   "course_number": "SOIL 466",
   "credits": "4",
   "description": "Observation and description of soil properties in the field; writing soil profile descriptions; evaluating criteria that define features used to classify soils; using soil classification keys.",
-  "prerequisites": ["SOIL 205", "SOIL 205H", "CSS 205"]
+  "prerequisites": [["SOIL 205", "SOIL 205H", "CSS 205", "CSS 305"]]
 }, {
   "corequisites": [],
   "course_name": "SOIL LANDSCAPE ANALYSIS",
   "course_number": "SOIL 468",
   "credits": "4",
   "description": "Principles of soil geomorphology, soil stratigraphy, and surficial processes as applied to understanding the soil system and landscape scales. Emphasis on field observations of soils, geomorphic surfaces, and environment. Field project entails design of soil survey map units, field mapping and GIS cartographic techniques.",
-  "prerequisites": ["SOIL 466"]
+  "prerequisites": [["SOIL 466", "CSS 466"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -298,7 +298,7 @@
   "course_number": "SOIL 514",
   "credits": "2",
   "description": "Provide the theoretical background, as well as practical experience needed to plan, select, execute, and interpret soil chemical and physical analyses such as those typically used for nutrient management recommendations. Individual and group activities involve classroom presentations, as well as hands-on work in a teaching laboratory. Samples processed are those collected in SOIL 512, Methods of Soil Analysis - Field. Duration is five full work days.",
-  "prerequisites": ["SOIL 512"]
+  "prerequisites": [["SOIL 512"]]
 }, {
   "corequisites": [],
   "course_name": "SOIL FERTILITY MANAGEMENT",
@@ -361,7 +361,7 @@
   "course_number": "SOIL 568",
   "credits": "4",
   "description": "Principles of soil geomorphology, soil stratigraphy, and surficial processes as applied to understanding the soil system at landscape scales. Emphasis on field observations of soils, geomorphic surfaces, and environment. Field project entails design of soil survey map units, field mapping and GIS cartographic techniques.",
-  "prerequisites": ["SOIL 566"]
+  "prerequisites": [["CSS 566", "SOIL 566"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

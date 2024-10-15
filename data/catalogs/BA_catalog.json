@@ -20,14 +20,14 @@
   "description": "Presents an integrated view of both established and entrepreneurial business organizations by studying their common processes and characteristics. Introduces theory and develops basic skills in the areas of management, finance, accounting and marketing. NO LONGER TAUGHT. REPLACED WITH COMMON COURSE NUMBER BA 101Z.",
   "prerequisites": []
 }, {
-  "corequisites": ["BA 131"],
+  "corequisites": [["BA 131"]],
   "course_name": "INTRODUCTION TO BUSINESS",
   "course_number": "BA 101Z",
   "credits": "4",
   "description": "Presents an integrated view of both established and entrepreneurial businesses by studying their common characteristics and processes in a global context. Introduces theory and develops basic skills in the areas of accounting, finance, management, and marketing, with an emphasis on social responsibility and ethical practices. Explores how businesses can create value for themselves and society by addressing environmental and social challenges.",
   "prerequisites": []
 }, {
-  "corequisites": ["BA 101Z"],
+  "corequisites": [["BA 101Z"]],
   "course_name": "MICROSOFT EXCEL",
   "course_number": "BA 131",
   "credits": "2",
@@ -95,14 +95,14 @@
   "course_number": "BA 162",
   "credits": "3",
   "description": "Second course in a two-course sequence. Topics include evaluating entrepreneurial capabilities, creativity and innovation, opportunity recognition, impression management, and responsible business practices. Continues a conversation on self-management, offering opportunities for active reflection on critical skill sets necessary for success in today's global market.",
-  "prerequisites": ["BA 161", "BA 161H"]
+  "prerequisites": [["BA 161", "BA 161H"]]
 }, {
   "corequisites": [],
   "course_name": "INNOVATION NATION--IDEAS TO REALITY",
   "course_number": "BA 162H",
   "credits": "3",
   "description": "Second course in a two-course sequence. Topics include evaluating entrepreneurial capabilities, creativity and innovation, opportunity recognition, impression management, and responsible business practices. Continues a conversation on self-management, offering opportunities for active reflection on critical skill sets necessary for success in today's global market.",
-  "prerequisites": ["BA 161", "BA 161H"]
+  "prerequisites": [["BA 161", "BA 161H"]]
 }, {
   "corequisites": [],
   "course_name": "B-ENGAGED",
@@ -123,7 +123,7 @@
   "course_number": "BA 168",
   "credits": "3",
   "description": "Continues the conversation on self-management, focused on building a foundation of entrepreneurial knowledge and gaining a competitive edge while becoming aware of your role in managing your own career. BA 167/BA 168 presents an integrated view of both established and entrepreneurial business organizations by studying their common processes and characteristics. The series introduces theory and develops basic skills in the areas of management, finance, accounting, and marketing.",
-  "prerequisites": ["BA 167"]
+  "prerequisites": [["BA 167"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL STUDIES",
@@ -144,56 +144,56 @@
   "course_number": "BA 211",
   "credits": "4",
   "description": "Accounting information from the perspective of external users, principally investors and creditors. Emphasis on the preparation and interpretation of financial statements, income recognition and determination, and asset valuation. NO LONGER TAUGHT. REPLACED WITH COMMON COURSE NUMBER BA 211Z.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "FINANCIAL ACCOUNTING",
   "course_number": "BA 211H",
   "credits": "4",
   "description": "Accounting information from the perspective of external users, principally investors and creditors. Emphasis on the preparation and interpretation of financial statements, income recognition and determination, and asset valuation. NO LONGER TAUGHT. REPLACED WITH COMMON COURSE NUMBER BA 211HZ.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF FINANCIAL ACCOUNTING",
   "course_number": "BA 211HZ",
   "credits": "4",
   "description": "Imparts an understanding of the purpose of accounting, common financial statement items, and the principles of internal controls. Focuses on recording the impact of economic events on account balances using U.S. Generally Accepted Accounting Principles, and the creation and analysis of financial statements to aid in external decision making.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF FINANCIAL ACCOUNTING",
   "course_number": "BA 211Z",
   "credits": "4",
   "description": "Imparts an understanding of the purpose of accounting, common financial statement items, and the principles of internal controls. Focuses on recording the impact of economic events on account balances using U.S. Generally Accepted Accounting Principles, and the creation and analysis of financial statements to aid in external decision making.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "MANAGERIAL ACCOUNTING",
   "course_number": "BA 213",
   "credits": "4",
   "description": "Accounting information from the perspective of management users with an emphasis on data accumulation for product costing, planning, and performance evaluation and control. NO LONGER TAUGHT. REPLACED WITH COMMON COURSE NUMBER BA 213Z.",
-  "prerequisites": ["BA 211", "BA 211H"]
+  "prerequisites": [["BA 211", "BA 211H"]]
 }, {
   "corequisites": [],
   "course_name": "MANAGERIAL ACCOUNTING",
   "course_number": "BA 213H",
   "credits": "4",
   "description": "Accounting information from the perspective of management users with an emphasis on data accumulation for product costing, planning, and performance evaluation and control. NO LONGER TAUGHT. REPLACED WITH COMMON COURSE NUMBER BA 213HZ.",
-  "prerequisites": ["BA 211", "BA 211H"]
+  "prerequisites": [["BA 211", "BA 211H"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF MANAGERIAL ACCOUNTING",
   "course_number": "BA 213HZ",
   "credits": "4",
   "description": "Builds an understanding of the role of managerial accounting in a business, focusing on the development and use of information to evaluate production costs and operational performance in support of short- and long-term organizational decision-making.",
-  "prerequisites": ["BA 211", "BA 211H", "BA 211Z", "BA 211HZ"]
+  "prerequisites": [["BA 211", "BA 211H", "BA 211Z", "BA 211H"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF MANAGERIAL ACCOUNTING",
   "course_number": "BA 213Z",
   "credits": "4",
   "description": "Builds an understanding of the role of managerial accounting in a business, focusing on the development and use of information to evaluate production costs and operational performance in support of short- and long-term organizational decision-making.",
-  "prerequisites": ["BA 211", "BA 211H", "BA 211Z", "BA 211HZ"]
+  "prerequisites": [["BA 211", "BA 211H", "BA 211Z", "BA 211H"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF MARKETING",
@@ -228,14 +228,14 @@
   "course_number": "BA 240",
   "credits": "4",
   "description": "Introduces basic tools of finance and applications of financial theory in use today. These tools include rates of return, the time value of money, those that can be applied to capital budgeting decisions, and the logic and fundamentals of financial statements. Designed to enhance a student’s approach to financial decision-making and emphasizes quantitative approaches to decision making. Introduces students to equity and debt markets and securities, and serves as a stepping stone to advanced courses in finance.",
-  "prerequisites": ["BA 211", "BA 211H", "BA 211Z", "BA 211HZ", "ECON 201", "ECON 201H"]
+  "prerequisites": [["BA 211", "BA 211H", "BA 211Z", "BA 211H"], ["ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "FINANCE",
   "course_number": "BA 240H",
   "credits": "4",
   "description": "Introduces basic tools of finance and applications of financial theory in use today. These tools include rates of return, the time value of money, those that can be applied to capital budgeting decisions, and the logic and fundamentals of financial statements. Designed to enhance a student’s approach to financial decision-making and emphasizes quantitative approaches to decision making. Introduces students to equity and debt markets and securities, and serves as a stepping stone to advanced courses in finance.",
-  "prerequisites": ["BA 211", "BA 211H", "BA 211Z", "BA 211HZ", "ECON 201", "ECON 201H"]
+  "prerequisites": [["BA 211", "BA 211H", "BA 211Z", "BA 211H"], ["ECON 201", "ECON 201H"]]
 }, {
   "corequisites": [],
   "course_name": "MANAGING ORGANIZATIONS",
@@ -249,14 +249,14 @@
   "course_number": "BA 252",
   "credits": "4",
   "description": "Diagnoses individual and small-group behavior and develops skills in improving individual and small-group performance in entrepreneurial and established ventures. Emphasizes professional skill development and the practical application of theory and research. Integrates concepts of ethics, diversity, and cross-cultural relations.",
-  "prerequisites": ["COMM 111Z", "COMM 111HZ", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218HZ", "COMM 218", "COMM 218H"]
+  "prerequisites": [["COMM 111Z", "COMM 111H", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218H", "COMM 218", "COMM 218H"]]
 }, {
   "corequisites": [],
   "course_name": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
   "course_number": "BA 252H",
   "credits": "4",
   "description": "Diagnoses individual and small-group behavior and develops skills in improving individual and small-group performance in entrepreneurial and established ventures. Emphasizes professional skill development and the practical application of theory and research. Integrates concepts of ethics, diversity, and cross-cultural relations.",
-  "prerequisites": ["COMM 111Z", "COMM 111HZ", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218HZ", "COMM 218", "COMM 218H"]
+  "prerequisites": [["COMM 111Z", "COMM 111H", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218H", "COMM 218", "COMM 218H"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF THE ENTREPRENEURIAL MINDSET",
@@ -277,28 +277,28 @@
   "course_number": "BA 270",
   "credits": "4",
   "description": "Introduces and integrates some core concepts from Operations Management (OM) and Business Information System (BIS) disciplines by introducing a process-oriented view of the flows of materials, information, products and services through and across organizational functions. Helps students to: identify information-bearing events and actors, model and analyze business processes, assess and improve process efficiency, recognize probabilistic components of business processes and understand the interactions between human behavior and process design. Hands-on, case-based assignments allow for practicing some principles and concepts addressed in the course.",
-  "prerequisites": ["BA 275", "BA 275H"]
+  "prerequisites": [["BA 275", "BA 275H"]]
 }, {
   "corequisites": [],
   "course_name": "BUSINESS PROCESS MANAGEMENT",
   "course_number": "BA 270H",
   "credits": "4",
   "description": "Introduces and integrates some core concepts from Operations Management (OM) and Business Information System (BIS) disciplines by introducing a process-oriented view of the flows of materials, information, products and services through and across organizational functions. Helps students to: identify information-bearing events and actors, model and analyze business processes, assess and improve process efficiency, recognize probabilistic components of business processes and understand the interactions between human behavior and process design. Hands-on, case-based assignments allow for practicing some principles and concepts addressed in the course.",
-  "prerequisites": ["BA 275", "BA 275H"]
+  "prerequisites": [["BA 275", "BA 275H"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF STATISTICAL INFERENCE",
   "course_number": "BA 275",
   "credits": "4",
   "description": "An introductory course on statistical inference with an emphasis on business applications. Coverage includes descriptive statistics, random variables, probability distributions, sampling and sampling distributions, statistical inference for means and proportions using one and two samples, and linear regression analysis.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF STATISTICAL INFERENCE",
   "course_number": "BA 275H",
   "credits": "4",
   "description": "An introductory course on statistical inference with an emphasis on business applications. Coverage includes descriptive statistics, random variables, probability distributions, sampling and sampling distributions, statistical inference for means and proportions using one and two samples, and linear regression analysis.",
-  "prerequisites": ["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]
+  "prerequisites": [["MTH 111", "MTH 111Z", "MTH 241", "MTH 251", "MTH 251H"]]
 }, {
   "corequisites": [],
   "course_name": "BUSINESS INSIGHTS",
@@ -333,7 +333,7 @@
   "course_number": "BA 283",
   "credits": "1",
   "description": "Examines how a culture of effective dialogue fosters employee engagement.",
-  "prerequisites": ["BA 252", "BA 252H"]
+  "prerequisites": [["BA 252", "BA 252H"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF PERSONAL FINANCE I",
@@ -403,14 +403,14 @@
   "course_number": "BA 347",
   "credits": "4",
   "description": "Integrated view of international business including current patterns of international business, socioeconomic and geopolitical systems within countries as they affect the conduct of business, major theories explaining international business transactions, financial forms and institutions that facilitate international transactions, and the interface between nation states and the firms conducting foreign business activities.",
-  "prerequisites": ["ECON 202", "BA 230", "BA 230H", "BA 330"]
+  "prerequisites": [["ECON 202", "ECON 202H"], ["BA 230", "BA 230H", "BA 330"]]
 }, {
   "corequisites": [],
   "course_name": "INTERNATIONAL BUSINESS",
   "course_number": "BA 347H",
   "credits": "4",
   "description": "Integrated view of international business including current patterns of international business, socioeconomic and geopolitical systems within countries as they affect the conduct of business, major theories explaining international business transactions, financial forms and institutions that facilitate international transactions, and the interface between nation states and the firms conducting foreign business activities.",
-  "prerequisites": ["ECON 202", "BA 230", "BA 230H", "BA 330"]
+  "prerequisites": [["ECON 202", "ECON 202H"], ["BA 230", "BA 230H", "BA 330"]]
 }, {
   "corequisites": [],
   "course_name": "INTERNATIONAL EXCHANGE ORIENTATION",
@@ -424,7 +424,7 @@
   "course_number": "BA 349",
   "credits": "1",
   "description": "A requirement of all students participating in a College of Business-approved international exchange program and for completing the College of Business International Business option. The major emphasis is for students to reflect on their experience while studying, living and traveling in a foreign culture and for them to determine how the foreign culture impacts how they would conduct business in that country.",
-  "prerequisites": ["BA 348"]
+  "prerequisites": [["BA 348"]]
 }, {
   "corequisites": [],
   "course_name": "THE BUSINESS OF SPORT",
@@ -445,56 +445,56 @@
   "course_number": "BA 352",
   "credits": "4",
   "description": "Diagnoses individual and small-group behavior and develop skill in improving individual and small-group performance in entrepreneurial and established ventures. Emphasizes professional skill development and the practical application of theory and research. Integrates concepts of ethics, diversity and cross-cultural relations.",
-  "prerequisites": ["COMM 111Z", "COMM 111HZ", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218HZ", "COMM 218", "COMM 218H"]
+  "prerequisites": [["COMM 111Z", "COMM 111H", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218H", "COMM 218", "COMM 218H"]]
 }, {
   "corequisites": [],
   "course_name": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
   "course_number": "BA 352H",
   "credits": "4",
   "description": "Diagnoses individual and small-group behavior and develop skill in improving individual and small-group performance in entrepreneurial and established ventures. Emphasizes professional skill development and the practical application of theory and research. Integrates concepts of ethics, diversity and cross-cultural relations.",
-  "prerequisites": ["COMM 111Z", "COMM 111HZ", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218HZ", "COMM 218", "COMM 218H"]
+  "prerequisites": [["COMM 111Z", "COMM 111H", "COMM 111", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218Z", "COMM 218H", "COMM 218", "COMM 218H"]]
 }, {
   "corequisites": [],
   "course_name": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
   "course_number": "BA 354",
   "credits": "4",
   "description": "Introduces contemporary issues that business professionals face making ethical and socially responsible decisions in an increasingly fast-paced, transparent, and global environment.",
-  "prerequisites": ["COMM 111", "COMM 111H", "COMM 111Z", "COMM 111HZ", "COMM 114", "COMM 114H", "COMM 218", "COMM 218H", "COMM 218Z", "COMM 218HZ", "WR 227Z", "WR 227HZ", "WR 323", "WR 323H", "WR 327", "HC 199"]
+  "prerequisites": [["COMM 111", "COMM 111H", "COMM 111Z", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218", "COMM 218H", "COMM 218Z", "COMM 218H"], ["WR 222", "WR 222H", "WR 227Z", "WR 227H", "WR 323", "WR 323H", "WR 327", "WR 327H", "HC 199"]]
 }, {
   "corequisites": [],
   "course_name": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
   "course_number": "BA 354H",
   "credits": "4",
   "description": "Introduces contemporary issues that business professionals face making ethical and socially responsible decisions in an increasingly fast-paced, transparent, and global environment.",
-  "prerequisites": ["COMM 111", "COMM 111H", "COMM 111Z", "COMM 111HZ", "COMM 114", "COMM 114H", "COMM 218", "COMM 218H", "COMM 218Z", "COMM 218HZ", "WR 227Z", "WR 227HZ", "WR 323", "WR 323H", "WR 327", "HC 199"]
+  "prerequisites": [["COMM 111", "COMM 111H", "COMM 111Z", "COMM 111H", "COMM 114", "COMM 114H", "COMM 218", "COMM 218H", "COMM 218Z", "COMM 218H"], ["WR 222", "WR 222H", "WR 227Z", "WR 227H", "WR 323", "WR 323H", "WR 327", "WR 327H", "HC 199"]]
 }, {
   "corequisites": [],
   "course_name": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
   "course_number": "BA 357",
   "credits": "4",
   "description": "Provides an overview of the functional activities necessary for the creation/delivery of goods and services. Topics covered include productivity; strategy in a global business environment; project management; quality management; location and layout strategies; supply chain and inventory management; material requirements planning; JIT; work-place safety; maintenance and reliability; sourcing and sustainability.",
-  "prerequisites": ["BA 270", "BA 270H"]
+  "prerequisites": [["BA 270", "BA 270H"]]
 }, {
   "corequisites": [],
   "course_name": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
   "course_number": "BA 357H",
   "credits": "4",
   "description": "Provides an overview of the functional activities necessary for the creation/delivery of goods and services. Topics covered include productivity; strategy in a global business environment; project management; quality management; location and layout strategies; supply chain and inventory management; material requirements planning; JIT; work-place safety; maintenance and reliability; sourcing and sustainability.",
-  "prerequisites": ["BA 270", "BA 270H"]
+  "prerequisites": [["BA 270", "BA 270H"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO FINANCIAL MANAGEMENT",
   "course_number": "BA 360",
   "credits": "4",
   "description": "Explore the issues facing a financial manager in new business ventures, small businesses, and corporations. Focus on the role of the financial manager in business settings, explores the functions of a financial manager in financial analysis, forecasting, planning, and control; asset and liability management; capital budgeting; and raising funds for new business ventures, small businesses, and corporations.",
-  "prerequisites": ["BA 211", "BA 211H", "BA 211Z", "BA 211HZ", "BA 315", "ECON 201", "ECON 201H", "AEC 250", "AEC 250H", "AEC 251"]
+  "prerequisites": [["BA 211", "BA 211H", "BA 211Z", "BA 211H", "BA 215", "BA 215H", "BA 315"], ["ECON 201", "ECON 201H", "AEC 250", "AEC 250H", "AEC 251"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO FINANCIAL MANAGEMENT",
   "course_number": "BA 360H",
   "credits": "4",
   "description": "Explore the issues facing a financial manager in new business ventures, small businesses, and corporations. Focus on the role of the financial manager in business settings, explores the functions of a financial manager in financial analysis, forecasting, planning, and control; asset and liability management; capital budgeting; and raising funds for new business ventures, small businesses, and corporations.",
-  "prerequisites": ["BA 211", "BA 211H", "BA 211Z", "BA 211HZ", "BA 315", "ECON 201", "ECON 201H", "AEC 250", "AEC 250H", "AEC 251"]
+  "prerequisites": [["BA 211", "BA 211H", "BA 211Z", "BA 211H", "BA 215", "BA 215H", "BA 315"], ["ECON 201", "ECON 201H", "AEC 250", "AEC 250H", "AEC 251"]]
 }, {
   "corequisites": [],
   "course_name": "IDEATION AND CREATIVE THINKING",
@@ -536,35 +536,35 @@
   "course_number": "BA 368",
   "credits": "1-3",
   "description": "The Oregon State Launch Academy is an incubator for student entrepreneurs who want to be immersed in an innovative, high-energy environment that promotes the creation, evolution and implementation of business ideas. Launch Academy students earn academic credit for working on their businesses and have access to seed funding, prototyping equipment, co-working space, mentoring and training to help them advance their ideas. Students/teams will receive coaching from the instructor to move their business ideas forward. Students will secure and engage mentors, complete and test prototypes of their ideas, market their ideas, and prepare to secure funding for their ideas.",
-  "prerequisites": ["BA 367"]
+  "prerequisites": [["BA 367"]]
 }, {
   "corequisites": [],
   "course_name": "BUSINESS INFORMATION SYSTEMS OVERVIEW",
   "course_number": "BA 370",
   "credits": "4",
   "description": "Introduce students to the field of information management. Topics include information systems technology, the strategic role of IT, the business applications of networks, databases and Internet technologies, and the development and implementation of information systems. Use relational database models to design a real-world case study.",
-  "prerequisites": ["BA 270", "BA 270H"]
+  "prerequisites": [["BA 270", "BA 270H"]]
 }, {
   "corequisites": [],
   "course_name": "BUSINESS INFORMATION SYSTEMS OVERVIEW",
   "course_number": "BA 370H",
   "credits": "4",
   "description": "Introduce students to the field of information management. Topics include information systems technology, the strategic role of IT, the business applications of networks, databases and Internet technologies, and the development and implementation of information systems. Use relational database models to design a real-world case study.",
-  "prerequisites": ["BA 270", "BA 270H"]
+  "prerequisites": [["BA 270", "BA 270H"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED QUANTITATIVE METHODS",
   "course_number": "BA 375",
   "credits": "4",
   "description": "Introduces students to the basics of data science and data analytics for handling of large-scale databases. Provides an overview of the main data-analytic techniques and topics including data visualization, linear and nonlinear regression analysis, time series analysis and forecasting, classification, and clustering methods.",
-  "prerequisites": ["BA 275", "BA 275H"]
+  "prerequisites": [["BA 275", "BA 275H"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED QUANTITATIVE METHODS",
   "course_number": "BA 375H",
   "credits": "4",
   "description": "Introduces students to the basics of data science and data analytics for handling of large-scale databases. Provides an overview of the main data-analytic techniques and topics including data visualization, linear and nonlinear regression analysis, time series analysis and forecasting, classification, and clustering methods.",
-  "prerequisites": ["BA 275", "BA 275H"]
+  "prerequisites": [["BA 275", "BA 275H"]]
 }, {
   "corequisites": [],
   "course_name": "PERSONAL AND PROFESSIONAL DEVELOPMENT",
@@ -669,14 +669,14 @@
   "course_number": "BA 458",
   "credits": "4",
   "description": "Examines the strategic management of an organization's system and technologies in support of innovation and new product/service development. Topics include how successful new product are conceived, developed, and launched; the internal and external factors that create barriers or opportunities for success. These and other strategic issues will be explored and applied as teams concentrate on new product development in a company of their choosing.",
-  "prerequisites": ["BA 363", "BA 260", "BA 260H", "BA 167", "BA 168"]
+  "prerequisites": [["BA 363", "BA 260", "BA 260H", "BA 167"], ["BA 168"]]
 }, {
   "corequisites": [],
   "course_name": "VENTURE MANAGEMENT",
   "course_number": "BA 460",
   "credits": "4",
   "description": "Applies entrepreneurial and innovation processes to new business start-ups, existing small businesses, and new ventures within larger organizations; new venture planning, project management, and productivity improvement. Cases and projects are used to apply concepts and to develop communication skills.",
-  "prerequisites": ["BA 260", "BA 260H", "BA 167", "BA 168"]
+  "prerequisites": [["BA 260", "BA 260H", "BA 167"], ["BA 168"]]
 }, {
   "corequisites": [],
   "course_name": "FAMILY ENTERPRISE GOVERNANCE",
@@ -690,35 +690,35 @@
   "course_number": "BA 464",
   "credits": "4",
   "description": "Explore issues facing entrepreneurial business ventures: financial statement forecasting, financial analysis, cash flow assessment, financial controls, asset management, valuations, and understanding funding options at different points in the business life cycle including SBA loans, angel investors, venture capital, bank loans, and going public.",
-  "prerequisites": ["BA 260", "BA 260H", "BA 167", "BA 168", "BA 315", "BA 211", "BA 211H", "BA 211Z", "BA 211HZ", "BA 213", "BA 213H", "BA 213Z", "BA 213HZ"]
+  "prerequisites": [["BA 260", "BA 260H", "BA 167"], ["BA 168"], ["BA 315", "BA 211", "BA 211H", "BA 211Z", "BA 211H"], ["BA 213", "BA 213H", "BA 213Z", "BA 213H"]]
 }, {
   "corequisites": [],
   "course_name": "INTEGRATIVE STRATEGIC EXPERIENCE",
   "course_number": "BA 466",
   "credits": "4",
   "description": "Applies frameworks and models of strategic management for understanding and analyzing a firm's effort to create and sustain competitive advantages. Uses an experiential approach to integrate and apply concepts of strategic management with elements of marketing, operations, finance, accounting, and organizational behavior for making decisions from a general manager’s perspective. Explores the differences between strategic and tactical approaches to business decisions and the impact of the external environment on deploying internal resources.",
-  "prerequisites": ["BA 240", "BA 240H", "BA 360", "BA 360H", "BA 252", "BA 252H", "BA 352", "BA 352H", "BA 357", "BA 357H", "BA 223", "BA 223H", "BA 390", "BA 390H"]
+  "prerequisites": [["BA 240", "BA 240H", "BA 360", "BA 360H"], ["BA 252", "BA 252H", "BA 352", "BA 352H"], ["BA 357", "BA 357H"], ["BA 223", "BA 223H", "BA 390", "BA 390H"]]
 }, {
   "corequisites": [],
   "course_name": "INTEGRATIVE STRATEGIC EXPERIENCE",
   "course_number": "BA 466H",
   "credits": "4",
   "description": "Applies frameworks and models of strategic management for understanding and analyzing a firm's effort to create and sustain competitive advantages. Uses an experiential approach to integrate and apply concepts of strategic management with elements of marketing, operations, finance, accounting, and organizational behavior for making decisions from a general manager’s perspective. Explores the differences between strategic and tactical approaches to business decisions and the impact of the external environment on deploying internal resources.",
-  "prerequisites": ["BA 240", "BA 240H", "BA 360", "BA 360H", "BA 252", "BA 252H", "BA 352", "BA 352H", "BA 357", "BA 357H", "BA 223", "BA 223H", "BA 390", "BA 390H"]
+  "prerequisites": [["BA 240", "BA 240H", "BA 360", "BA 360H"], ["BA 252", "BA 252H", "BA 352", "BA 352H"], ["BA 357", "BA 357H"], ["BA 223", "BA 223H", "BA 390", "BA 390H"]]
 }, {
   "corequisites": [],
   "course_name": "NEW VENTURE LABORATORY",
   "course_number": "BA 467",
   "credits": "4",
   "description": "Develop a complete business plan including product specs with prototype, financial analysis, market analysis, marketing plan, management structure and proposed financing.",
-  "prerequisites": ["BA 460", "BA 363"]
+  "prerequisites": [["BA 460", "BA 363"]]
 }, {
   "corequisites": [],
   "course_name": "TECHNOLOGY COMMERCIALIZATION",
   "course_number": "BA 468",
   "credits": "2-4",
   "description": "Emphasizes \"hands on\" learning in which students will exercise commercialization concepts on recently awarded Oregon State University patents or individual commercialization projects. Covers process and tools to assess the business viability of a technical idea, and to develop the best business approach for commercialization.",
-  "prerequisites": ["BA 260", "BA 260H", "BA 167", "BA 168"]
+  "prerequisites": [["BA 260", "BA 260H", "BA 167"], ["BA 168"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS IN BUSINESS ADMINISTRATION",

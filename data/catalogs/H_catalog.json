@@ -81,14 +81,14 @@
   "course_number": "H 250",
   "credits": "3",
   "description": "Participants will learn key principles, practices and personalities of health care management. The content is broadly applicable to health care enterprises of every kind: public health organizations, physician practices and clinics, hospitals and health systems, agencies and service organizations, for-profit firms, not-for-profit enterprises, etc.",
-  "prerequisites": ["H 210"]
+  "prerequisites": [["H 210"]]
 }, {
   "corequisites": [],
   "course_name": "HEALTH FIELD EXPERIENCES",
   "course_number": "H 310",
   "credits": "3-6",
   "description": "Introductory field experience in a health or health-related worksite.",
-  "prerequisites": ["H 210"]
+  "prerequisites": [["H 210"]]
 }, {
   "corequisites": [],
   "course_name": "*HIV/AIDS AND STIS IN MODERN SOCIETY",
@@ -102,7 +102,7 @@
   "course_number": "H 319",
   "credits": "3",
   "description": "Describe the policy development process, including problem conceptualization, agenda setting, role of interest groups and public opinion, analysis of alternatives and selection of policy alternative.",
-  "prerequisites": ["H 210"]
+  "prerequisites": [["H 210"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO HUMAN DISEASE",
@@ -158,7 +158,7 @@
   "course_number": "H 376",
   "credits": "3",
   "description": "Future health professionals will learn what makes a successful health promotion program. Students will lean about research-tested programs that are effective for promoting health in community, clinical, and educational settings. Students will begin to develop the skills needed to critically examine evidence in the field and select programs to address current public health issues.",
-  "prerequisites": ["H 100", "H 100H", "H 225"]
+  "prerequisites": [["H 100", "H 100H"], ["H 225"]]
 }, {
   "corequisites": [],
   "course_name": "SAFETY AND HEALTH STANDARDS AND LAWS",
@@ -256,28 +256,28 @@
   "course_number": "H 410",
   "credits": "1-12",
   "description": "Directed field experience with participation in a community, worksite, or health agency program. Experience is individually arranged to meet student needs.",
-  "prerequisites": ["H 407"]
+  "prerequisites": [["H 407"]]
 }, {
   "corequisites": [],
   "course_name": "BE THE CHANGE FOR GLOBAL HEALTH TRANSFORMATION",
   "course_number": "H 414",
   "credits": "3",
   "description": "Learn how stigma and discrimination create differences in access to resources and lead to health injustice and disparities. Draw on social justice and community mobilization frameworks to explore health-related social movements and social change necessary to improve public health throughout the world. Contextualize local work to eliminate health disparities in the United States within a global context and as part of global processes. Learn how community mobilization can lead to the transformation of structures, systems, and ideologies that drive discrimination and health disparities.",
-  "prerequisites": ["H 100", "H 100H"]
+  "prerequisites": [["H 100", "H 100H"]]
 }, {
   "corequisites": [],
   "course_name": "PEOPLE ON THE MOVE: MIGRATION AND GLOBAL HEALTH",
   "course_number": "H 415",
   "credits": "3",
   "description": "Overview of migration as an issue of global health importance; social determinants of migrant health and disparities; migrant health and sustainable development.",
-  "prerequisites": ["H 100", "H 100H"]
+  "prerequisites": [["H 100", "H 100H"]]
 }, {
   "corequisites": [],
   "course_name": "GLOBAL POVERTY AND HEALTH DISPARITIES",
   "course_number": "H 416",
   "credits": "3",
   "description": "Learn why poverty remains a primary factor in poor health outcomes around the world, driving limited access to clean water and sanitation, healthful food, education, safety, basic rights, and health care. Examine global poverty, including the causes and consequences of global poverty and the ways in which social structures, identities, and policies shape wealth and health. Discuss global distribution of wealth, the wealth-health gradient and social determinants of health in a global context, causes and consequences of global poverty, and policy and programmatic intervention strategies aimed at reducing material hardship and global inequality.",
-  "prerequisites": ["H 100", "H 100H"]
+  "prerequisites": [["H 100", "H 100H"]]
 }, {
   "corequisites": [],
   "course_name": "PRE-INTERNSHIP SEMINAR",
@@ -291,7 +291,7 @@
   "course_number": "H 421",
   "credits": "3",
   "description": "Explores mental health from a public health perspective, from diagnosis to treatment and prevention. Examines a variety of topics including prevalence of mental illness, past and current mental health policy, mental illness and the legal/criminal justice systems, stigma surrounding mental illness and treatment, social determinants of mental health, mental health inequities, and evidence-based interventions and policies to promote mental health.",
-  "prerequisites": ["H 225"]
+  "prerequisites": [["H 225"]]
 }, {
   "corequisites": [],
   "course_name": "FOUNDATIONS OF EPIDEMIOLOGY",
@@ -305,28 +305,28 @@
   "course_number": "H 432",
   "credits": "3",
   "description": "Application of economic principles to the health care field: the demand for medical care and insurance, health care suppliers, health care markets.",
-  "prerequisites": ["ECON 201", "ECON 201H", "H 210"]
+  "prerequisites": [["ECON 201", "ECON 201H"], ["H 210"]]
 }, {
   "corequisites": [],
   "course_name": "^HEALTH CARE LAW AND REGULATION",
   "course_number": "H 434",
   "credits": "3",
   "description": "Legal aspects of health care delivery; tort law and its applications; professional liability and liability insurance; laws relative to health care institutions, cost controls, antitrust and access.",
-  "prerequisites": ["H 210", "H 250", "WR 323", "WR 323H"]
+  "prerequisites": [["H 210"], ["H 250"], ["WR 222", "WR 222H", "WR 323", "WR 323H"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED TOPICS IN HEALTH CARE MANAGEMENT",
   "course_number": "H 436",
   "credits": "3",
   "description": "Covers how health services are governed and organized; how health care organizations assess and adapt to change; constraints/opportunities in shaping organizational performance; leadership; strategic decision-making and the use of evidence-based management in health care.",
-  "prerequisites": ["H 210", "H 250"]
+  "prerequisites": [["H 210"], ["H 250"]]
 }, {
   "corequisites": [],
   "course_name": "GENERAL PUBLIC HEALTH INTERNSHIP",
   "course_number": "H 439",
   "credits": "6,12",
   "description": "Provides an opportunity for public health students to gain a field experience under the guidance of the preceptor at a public health-related organization and apply health equity lens. Allows students to choose an internship in local, domestic and global settings in order to their needs and specific interests.",
-  "prerequisites": ["H 419"]
+  "prerequisites": [["H 419"]]
 }, {
   "corequisites": [],
   "course_name": "*OCCUPATIONAL HEALTH",
@@ -340,63 +340,63 @@
   "course_number": "H 448",
   "credits": "3",
   "description": "Introduction to the concepts and principles of toxicology as they apply to environmental and occupational health.",
-  "prerequisites": ["H 344"]
+  "prerequisites": [["H 344"]]
 }, {
   "corequisites": [],
   "course_name": "MEDIA",
   "course_number": "H 449",
   "credits": "COMMUNICATION",
   "description": "Examines the effects of media on population health from the impact of advertising to the impact of public health campaigns. Explores the theory and practice of public health communication through the examination of commercial and social advertising, program and editorial content, media advocacy, and social marketing. Develops skills through the development of communication campaigns for behavior change.",
-  "prerequisites": ["H 225"]
+  "prerequisites": [["H 225"]]
 }, {
   "corequisites": [],
   "course_name": "FINANCIAL MANAGEMENT OF HEALTH CARE ORGANIZATIONS",
   "course_number": "H 457",
   "credits": "3",
   "description": "Utilization of standard financial tools needed to manage the capital resources of health care organizations. Includes funding capital projects, product costing, budgeting methods, capital formation and investment strategies.",
-  "prerequisites": ["H 210", "H 250", "BA 315"]
+  "prerequisites": [["H 210"], ["H 250"], ["BA 315"]]
 }, {
   "corequisites": [],
   "course_name": "REIMBURSEMENT MECHANISMS",
   "course_number": "H 458",
   "credits": "3",
   "description": "Introduces and analyzes the different types of healthcare reimbursement methodologies used in the U.S. health care system.",
-  "prerequisites": ["H 210"]
+  "prerequisites": [["H 210"]]
 }, {
   "corequisites": [],
   "course_name": "HEALTH MANAGEMENT AND POLICY INTERNSHIP",
   "course_number": "H 459",
   "credits": "6,12",
   "description": "Emphasizes directed field experience with a focus on health management and policy projects and activities that are completed with a public health related organization including health departments, hospitals, schools, shelters, and other community organizations. Provides individually arranged experience to meet student needs and specific health management and policy interests.",
-  "prerequisites": ["H 419", "H 436"]
+  "prerequisites": [["H 419"], ["H 436"]]
 }, {
   "corequisites": [],
   "course_name": "INFECTIOUS DISEASE EPIDEMIOLOGY",
   "course_number": "H 462",
   "credits": "3",
   "description": "Describes the broad trends in national and global burden of infectious diseases. Explores epidemiologic methods specific to investigation and control of infectious diseases. Introduces data sources and analysis methods for infectious disease surveillance, outbreak investigations, and epidemiologic research. Discusses individual- and population-level risk factors for infection and role of infectious disease epidemiologists on public health response teams.",
-  "prerequisites": ["H 425"]
+  "prerequisites": [["H 425"]]
 }, {
   "corequisites": [],
   "course_name": "HEALTH PROMOTION AND HEALTH BEHAVIOR INTERNSHIP",
   "course_number": "H 469",
   "credits": "6,12",
   "description": "Emphasizes directed field experience with a focus on health promotion and health behavior projects and activities that are completed with a public health related organization including health departments, hospitals, schools, shelters, and other community organizations. Provides individually arranged experience to meet student needs and specific health promotion and health behavior interests.",
-  "prerequisites": ["H 419", "H 476"]
+  "prerequisites": [["H 419"], ["H 476"]]
 }, {
   "corequisites": [],
   "course_name": "+PUBLIC HEALTH EQUITY & SOCIAL JUSTICE IN THE U.S.",
   "course_number": "H 470",
   "credits": "4",
   "description": "Examines promising practices for addressing health inequities in the US by analyzing theories, interventions, activist movements, and research initiatives that might interrupt manifestations of racialization and social stratification. Emphasizes reflection, active learning, and inclusive activities and strategies that support skill development related to health justice, equity, diversity, and inclusion.",
-  "prerequisites": ["H 225"]
+  "prerequisites": [["H 225"]]
 }, {
   "corequisites": [],
   "course_name": "^PLANNING AND EVALUATING HEALTH PROMOTION PROGRAMS",
   "course_number": "H 476",
   "credits": "4",
   "description": "A systematic approach to planning, implementing and evaluating health promotion programs in a variety of health related settings. Write a series of drafts to effectively develop a health promotion program plan.",
-  "prerequisites": ["H 225", "H 320", "H 376"]
+  "prerequisites": [["H 225"], ["H 320"], ["H 376"]]
 }, {
   "corequisites": [],
   "course_name": "UNDERGRADUATE EOH SEMINAR",
@@ -417,7 +417,7 @@
   "course_number": "H 493",
   "credits": "3",
   "description": "Explores the epidemiology of human fertility and pregnancy. Assesses and critiques current research, controversial issues, and methodological challenges encountered when studying reproductive health from a population perspective. Discusses the role of epidemiologists in addressing bias and inequities in maternity care.",
-  "prerequisites": ["H 425"]
+  "prerequisites": [["H 425"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED ERGONOMICS",
@@ -592,7 +592,7 @@
   "course_number": "H 526",
   "credits": "3",
   "description": "Concepts and methods of epidemiological analysis; standardization; stratified analysis; confounding and its control; planning and conducting epidemiologic research; role of multivariate analysis in epidemiologic research.",
-  "prerequisites": ["H 524", "H 525"]
+  "prerequisites": [["H 524"], ["H 525"]]
 }, {
   "corequisites": [],
   "course_name": "CRITICAL ASSESSMENT OF INTERNATIONAL HEALTH PROGRAMS",
@@ -620,7 +620,7 @@
   "course_number": "H 530",
   "credits": "3",
   "description": "Examines current health policy issues affecting health care programs, services, and organization as well as the role of politics in public health and health policy. Explores processes by which health policy proposals are generated, promoted, defeated, modified and implemented.",
-  "prerequisites": ["HHS 523"]
+  "prerequisites": [["HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "ECONOMIC ISSUES IN HEALTH AND MEDICAL CARE",
@@ -655,14 +655,14 @@
   "course_number": "H 536",
   "credits": "3",
   "description": "Explores organization theory and behavior in health care organizations. Emphasizes developing and analyzing the factors and forces that influence the structures, behaviors, and operations of health care delivery organizations. Examines and evaluates the emphasis through consideration of organizations, their environments, and the roles of individuals working in management.",
-  "prerequisites": ["HHS 523"]
+  "prerequisites": [["HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "INJURY EPIDEMIOLOGY",
   "course_number": "H 537",
   "credits": "3",
   "description": "Reviews the distribution and determinants of injuries at the individual and community level. Applies basic epidemiologic methods to issues specific to injury epidemiology, and integrates epidemiologic skills into the analysis of injury data. Compares different approaches to epidemiologic investigation required for the full range of injury exposures and outcomes. Applies epidemiologic findings to the development and evaluation of injury control efforts. Integrates issues of ethics and equity into the study of injury and the development of injury control measures.",
-  "prerequisites": ["HHS 523", "H 525"]
+  "prerequisites": [["HHS 523", "H 525"]]
 }, {
   "corequisites": [],
   "course_name": "PUBLIC AND PRIVATE HEALTH INSURANCE",
@@ -676,7 +676,7 @@
   "course_number": "H 539",
   "credits": "1-16",
   "description": "Synthesizes coursework through an applied practice experience that is tailored to meet individual student needs. Develops at least two products for a community, worksite, or health agency.",
-  "prerequisites": ["H 517"]
+  "prerequisites": [["H 517"]]
 }, {
   "corequisites": [],
   "course_name": "WATER AND HUMAN HEALTH",
@@ -711,7 +711,7 @@
   "course_number": "H 544",
   "credits": "3",
   "description": "Examines exposure assessment methodology and epidemiological study designs that are commonly used in environmental and occupational health science in order to characterize the impact of environmental and occupational exposures on population health.",
-  "prerequisites": ["H 525"]
+  "prerequisites": [["H 525"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL AGENTS AND HUMAN HEALTH",
@@ -746,14 +746,14 @@
   "course_number": "H 551",
   "credits": "3",
   "description": "Practical experience performing a hypothesis-driven epidemiological analysis utilizing secondary surveillance or other appropriate data set, writing an analytical plan, appropriate programming for the analysis (using STATA or SAS), understanding the analysis output, preparing tables, and interpreting results.",
-  "prerequisites": ["H 526", "H 560", "H 580"]
+  "prerequisites": [["H 526"], ["H 560"], ["H 580"]]
 }, {
   "corequisites": [],
   "course_name": "DISASTER EPIDEMIOLOGY",
   "course_number": "H 552",
   "credits": "3",
   "description": "Describes the impact of natural and manmade disasters on human health. Examines epidemiologic methods specific to disasters. Applies fundamental epidemiologic methods to identify and characterize the morbidity and mortality associated with disasters including surveillance, rapid health/needs assessments, tracking and registries, and descriptive and analytic epidemiologic studies.",
-  "prerequisites": ["HHS 523", "H 525"]
+  "prerequisites": [["HHS 523", "H 525"]]
 }, {
   "corequisites": [],
   "course_name": "STRATEGIC MANAGEMENT OF HEALTH SERVICE ORGANIZATIONS",
@@ -781,28 +781,28 @@
   "course_number": "H 560",
   "credits": "3",
   "description": "An introduction to public health surveillance systems (national and international) for chronic and infectious diseases. Utility of existing surveillance systems for secondary epidemiological data analysis.",
-  "prerequisites": ["H 524", "H 525"]
+  "prerequisites": [["H 524"], ["H 525"]]
 }, {
   "corequisites": [],
   "course_name": "INFECTIOUS DISEASE EPIDEMIOLOGY",
   "course_number": "H 562",
   "credits": "3",
   "description": "Describes the broad trends in national and global burden of infectious diseases. Explores epidemiologic methods specific to investigation and control of infectious diseases. Introduces data sources and analysis methods for infectious disease surveillance, outbreak investigations, and epidemiologic research. Discusses individual- and population-level risk factors for infection and role of infectious disease epidemiologists on public health response teams.",
-  "prerequisites": ["H 525", "HHS 523"]
+  "prerequisites": [["H 525", "HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSICAL ACTIVITY EPIDEMIOLOGY",
   "course_number": "H 563",
   "credits": "3",
   "description": "Explores the epidemiology of physical activity, exercise, and health in human populations. Assesses and critiques current research, controversial issues, and methodological problems encountered when studying physical activity in humans, including an extensive exploration of measurement methods and unique study designs.",
-  "prerequisites": ["HHS 523", "H 525"]
+  "prerequisites": [["HHS 523", "H 525"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTING TOOLS AND HEALTH DATA ANALYSIS",
   "course_number": "H 564",
   "credits": "3",
   "description": "Develops programming and data analysis skills in statistical computing software R and SAS. Emphasizes data input, data manipulation, data management, inferential statistics, and data visualization as relevant to public health research. Analyzes real public health data and interprets the statistical results from R and SAS output.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524"]]
 }, {
   "corequisites": [],
   "course_name": "BEHAVIORAL & SOCIAL SCIENCE THEORY FOR PUBLIC HEALTH",
@@ -830,21 +830,21 @@
   "course_number": "H 575",
   "credits": "4",
   "description": "Provides theoretical and practical bases for program evaluation. Develops basic skills in a variety of approaches to evaluation, including techniques that are suitable for evaluating health promotion, community health improvement, public health programs, and related health and social services programs. Synthesizes course learning through designing a program plan including an evaluation framework, methodology, stakeholder and cross-sector partners identification, measurement and assessment tools, and analytical plan for a relevant program. Discusses and reflects on data justice to ensure equity-focused data prioritization, collection, interpretation, and ownership.",
-  "prerequisites": ["HHS 523", "H 515", "HHS 533", "HHS 534"]
+  "prerequisites": [["HHS 523", "H 515", "HHS 533", "HHS 534"]]
 }, {
   "corequisites": [],
   "course_name": "PROGRAM PLANNING FOR HEALTH/HUMAN SERVICES",
   "course_number": "H 576",
   "credits": "4",
   "description": "Design program plans for health impact with a focus on evidence-based public health and human service practices. Identify, adapt, implement, and evaluate a behavior change program that will improve targeted risk behavior and/or health.",
-  "prerequisites": ["H 571", "H 575"]
+  "prerequisites": [["H 571"], ["H 575"]]
 }, {
   "corequisites": [],
   "course_name": "LINEAR REGRESSION AND ANALYSIS OF TIME TO EVENT DATA",
   "course_number": "H 580",
   "credits": "4",
   "description": "Multiple linear regression analysis for measurement data and survival analysis methods for time to event health data, including modes of inference, diagnostics, model selection, and reporting conclusions. Lec/lab.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524", "HDFS 530"]]
 }, {
   "corequisites": [],
   "course_name": "GENERALIZED LINEAR MODELS AND CATEGORICAL DATA ANALYSIS",
@@ -858,7 +858,7 @@
   "course_number": "H 582",
   "credits": "3",
   "description": "Biostatistical methods for clustered, repeated measures, and longitudinal correlated health data, with an introduction to applications of linear and generalized linear mixed models and generalized estimating equations.",
-  "prerequisites": ["H 581"]
+  "prerequisites": [["H 581"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL AND OCCUPATIONAL HEALTH AND SAFETY MANAGEMENT",
@@ -879,14 +879,14 @@
   "course_number": "H 586",
   "credits": "3",
   "description": "An examination of methods for designing and implementing Bayesian analysis to address scientific questions through hands-on experience with health data. This survey course also covers proper interpretation and communication of results from practical Bayesian methods for biostatistics data analysis, with illustrations of the utility of Bayesian ideas in public health.",
-  "prerequisites": ["H 581"]
+  "prerequisites": [["H 581"]]
 }, {
   "corequisites": [],
   "course_name": "TIME TO EVENT ANALYSIS OF HEALTH DATA",
   "course_number": "H 587",
   "credits": "3",
   "description": "Biostatistical models and methods for survival analysis of time to event data that are routinely encountered in biomedical and health research.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524", "HDFS 530"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED OCCUPATIONAL SAFETY AND HEALTH",
@@ -914,7 +914,7 @@
   "course_number": "H 593",
   "credits": "3",
   "description": "Explores the epidemiology of human fertility and pregnancy. Assesses and critiques current research, controversial issues, and methodological challenges encountered when studying reproductive health from a population perspective. Discusses the role of epidemiologists in addressing bias and inequities in maternity care.",
-  "prerequisites": ["HHS 523", "H 525"]
+  "prerequisites": [["HHS 523", "H 525"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED ERGONOMICS",
@@ -928,21 +928,21 @@
   "course_number": "H 596",
   "credits": "3",
   "description": "Explores healthcare from an epidemiologic perspective, including current research, controversial issues, and methodological problems. Covers a variety of healthcare-related topics such as evidence-based medicine, institutional infection control, medical errors, screening and diagnostic testing, cost-effectiveness, randomized controlled trials and the FDA approval process, and others related to the delivery and assessment of healthcare. Focuses on the US healthcare system specifically, including how biases and inequities currently inherent in that system affect outcomes and care received.",
-  "prerequisites": ["HHS 523"]
+  "prerequisites": [["HHS 523"]]
 }, {
   "corequisites": [],
   "course_name": "EPIDEMIOLOGIC METHODS IN FOODBORNE DISEASE OUTBREAK INVESTIGATION",
   "course_number": "H 597",
   "credits": "3",
   "description": "Explores the practical basis for developing and implementing methods for foodborne disease outbreak detection, investigation and control. Discusses biological characteristics of major foodborne disease pathogens, clinical features of the illnesses they cause and epidemiologic presentations of foodborne outbreaks. Discusses the implications of these characteristics and strategies to promote timely decision-making during an effective outbreak investigation.",
-  "prerequisites": ["HHS 523", "H 525"]
+  "prerequisites": [["HHS 523", "H 525"]]
 }, {
   "corequisites": [],
   "course_name": "HEALTH POLICY ANALYSIS METHODS",
   "course_number": "H 598",
   "credits": "3",
   "description": "Develops skills for evaluating and synthesizing health policy research literature, selecting health policy data sources, designing and performing quantitative empirical analyses, and presenting findings.",
-  "prerequisites": ["HHS 523", "HHS 533"]
+  "prerequisites": [["HHS 523"], ["HHS 533"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",
@@ -1061,7 +1061,7 @@
   "course_number": "H 630",
   "credits": "4",
   "description": "Contemporary doctoral-level quantitative health policy/services research methods emphasizing linear regression models, data sources for health policy research, and health policy research literature.",
-  "prerequisites": ["H 524"]
+  "prerequisites": [["H 524"]]
 }, {
   "corequisites": [],
   "course_name": "COST EFFECTIVENESS ANALYSIS IN HEALTH AND MEDICAL CARE",
@@ -1075,7 +1075,7 @@
   "course_number": "H 638",
   "credits": "3",
   "description": "Introduction to the principles and practices of public or social and commercial health insurance, their finance mechanisms, and theoretical foundation behind the selection of certain system of health insurance and finance method.",
-  "prerequisites": ["H 533"]
+  "prerequisites": [["H 533"]]
 }, {
   "corequisites": [],
   "course_name": "COMMUNITY-BASED PARTICIPATORY RESEARCH",
@@ -1089,21 +1089,21 @@
   "course_number": "H 650",
   "credits": "3",
   "description": "Applied experience writing a scientific paper to disseminate results, including deciding on authorship, preparing a lay summary, revising and responding to peer review, and serving as a reviewer.",
-  "prerequisites": ["H 526", "H 551", "H 580"]
+  "prerequisites": [["H 526"], ["H 551"], ["H 580"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED EPIDEMIOLOGICAL METHODS",
   "course_number": "H 651",
   "credits": "4",
   "description": "Covers advanced topics in epidemiology. Course expands on many of the same topics as H 526, and explores them in greater breadth and depth. Topics include causal theory, measures of disease and association, confounding, selection bias, predictive models, directed acyclic graphs, effect modification, mediation, indirect and direct effects, study design, and other contemporary topics.",
-  "prerequisites": ["H 526", "H 581"]
+  "prerequisites": [["H 526"], ["H 581"]]
 }, {
   "corequisites": [],
   "course_name": "QUANTITATIVE HEALTH POLICY RESEARCH METHODS II",
   "course_number": "H 659",
   "credits": "4",
   "description": "Advanced doctoral-level quantitative health policy/services research methods emphasizing health care utilization, expenditures, and outcomes data.",
-  "prerequisites": ["H 630"]
+  "prerequisites": [["H 630"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED THEORIES OF HEALTH BEHAVIOR",

@@ -95,21 +95,21 @@
   "course_number": "ART 215",
   "credits": "4",
   "description": "Studio course following ART 115 and ART 117 that examines the properties of colors and their interaction. Emphasizes problem solving and the experimental use of color.",
-  "prerequisites": ["ART 115"]
+  "prerequisites": [["ART 115"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO TIME-BASED ART",
   "course_number": "ART 222",
   "credits": "4",
   "description": "Introduction to time-based media using the computer as a tool. Studio art class developing skills in video art, sound art, performance, and other time-based digital arts. Exploration of sequential, experimental, historical, and contemporary themes and the role of the audience in time-based art.",
-  "prerequisites": ["ART 121"]
+  "prerequisites": [["ART 121"]]
 }, {
   "corequisites": [],
   "course_name": "DRAWING II: FIGURE",
   "course_number": "ART 234",
   "credits": "4",
   "description": "Drawing from the life model with emphasis on skill and conceptual awareness as well as anatomical consideration.",
-  "prerequisites": ["ART 131"]
+  "prerequisites": [["ART 131"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL PHOTOGRAPHY",
@@ -130,28 +130,28 @@
   "course_number": "ART 271",
   "credits": "4",
   "description": "Introduction to the basic processes of printmaking, with options among relief, lithography, intaglio, screen printing and monotype.",
-  "prerequisites": ["ART 115", "ART 131"]
+  "prerequisites": [["ART 115"], ["ART 131"]]
 }, {
   "corequisites": [],
   "course_name": "PAINTING I",
   "course_number": "ART 281",
   "credits": "4",
   "description": "Introductory studio course with emphasis on basic materials and techniques in painting.",
-  "prerequisites": ["ART 131"]
+  "prerequisites": [["ART 131"]]
 }, {
   "corequisites": [],
   "course_name": "SCULPTURE I",
   "course_number": "ART 291",
   "credits": "4",
   "description": "Studio course in basic materials and approaches used in sculpture; a foundation for further three-dimensional work.",
-  "prerequisites": ["ART 117"]
+  "prerequisites": [["ART 117"]]
 }, {
   "corequisites": [],
   "course_name": "ADVISOR REVIEW",
   "course_number": "ART 306",
   "credits": "1",
   "description": "A review, conducted by the student's advisor and another faculty member of the student's choosing, of work produced to date in the student's area of concentration.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "*EARLY CHINESE ART AND ARCHAEOLOGY",
@@ -221,14 +221,14 @@
   "course_number": "ART 331",
   "credits": "4",
   "description": "Studio course emphasizing drawing composition as an investigative, conceptualizing and communicative nonverbal language. Independent thinking, problem solving, and creative development encouraged.",
-  "prerequisites": ["ART 234"]
+  "prerequisites": [["ART 234"]]
 }, {
   "corequisites": [],
   "course_name": "DRAWING III: FIGURE",
   "course_number": "ART 334",
   "credits": "4",
   "description": "Intermediate study of the human figure utilizing life models, the skeleton, and anatomy texts. Emphasis on gaining greater knowledge of the body's underlying structure and potential for aesthetic expression.",
-  "prerequisites": ["ART 234"]
+  "prerequisites": [["ART 234"], []]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL PRACTICES FOR ARTISTS",
@@ -249,35 +249,35 @@
   "course_number": "ART 341",
   "credits": "4",
   "description": "Improving silver-gelatin printing and photographic presentation techniques. Emphasis on furthering creative visual language and individual photographic project development. Student must supply a medium format or 35mm single lens reflex (SLR) film camera.",
-  "prerequisites": ["ART 340"]
+  "prerequisites": [["ART 340"]]
 }, {
   "corequisites": [],
   "course_name": "INTERMEDIATE PHOTOGRAPHY",
   "course_number": "ART 345",
   "credits": "4",
   "description": "Emphasis is on both technical and aesthetic expression of digital color photography, from initial image capture, color management to finished print along with color symbolism and composition. Exploration of narrative, sequencing and image-series concepts. Introduction to contemporary color photographers.",
-  "prerequisites": ["ART 263"]
+  "prerequisites": [["ART 263"]]
 }, {
   "corequisites": [],
   "course_name": "PHOTOGRAPH: STUDIO LIGHTING",
   "course_number": "ART 347",
   "credits": "4",
   "description": "Practical studio class surveying the basic principles and application of light in the creation of photographs. The development of craft and technique inside the studio will be emphasized but formal and conceptual considerations related to light and photography will also be explored.",
-  "prerequisites": ["ART 263"]
+  "prerequisites": [["ART 263"]]
 }, {
   "corequisites": [],
   "course_name": "CONCEPTS IN DIGITAL IMAGING",
   "course_number": "ART 348",
   "credits": "4",
   "description": "Approaches to non-traditional and the manipulated image in digital photography with an emphasis on producing personal imagery. Introduction to the history of the manipulated image in photography and to contemporary approaches to digital photography.",
-  "prerequisites": ["ART 263"]
+  "prerequisites": [["ART 263"]]
 }, {
   "corequisites": [],
   "course_name": "VIDEO ART",
   "course_number": "ART 349",
   "credits": "4",
   "description": "Studio course in video art and time-based media projects. Emphasis on experimental approaches to video art in a contemporary art context, linear and non-linear video production and the projection and screening of video art projects. Introduction to the history of video art as an art form. CROSSLISTED as ART 349/NMC 349.",
-  "prerequisites": ["ART 222", "ART 263"]
+  "prerequisites": [["ART 222"], ["ART 263"]]
 }, {
   "corequisites": [],
   "course_name": "PHOTOGRAPHY ON ASSIGNMENT",
@@ -291,7 +291,7 @@
   "course_number": "ART 351",
   "credits": "4",
   "description": "Studio course designed to acquaint the student with the possibilities of using non-traditional means such as site, time, and interaction to communicate ideas.",
-  "prerequisites": ["ART 291"]
+  "prerequisites": [["ART 291"]]
 }, {
   "corequisites": [],
   "course_name": "*CREATIVE COLLABORATION: DESIGNING AND BUILDING",
@@ -305,14 +305,14 @@
   "course_number": "ART 354",
   "credits": "4",
   "description": "Historical photographic printing methods in use today e.g., cyanotype, gum bichromate and more. Use of digital and analog negatives, mixing emulsions and coating paper by hand.",
-  "prerequisites": ["ART 263", "ART 345"]
+  "prerequisites": [["ART 263"], ["ART 345"]]
 }, {
   "corequisites": [],
   "course_name": "THE PHOTOGRAPHIC BOOK",
   "course_number": "ART 355",
   "credits": "4",
   "description": "Practical studio course focusing on the photographic book in all of its forms. Use appropriated imagery as well as original imagery to create a variety of zines as well as soft and hardcover photo-books. Structure, form, materials, and layout will be discussed as well as content, sequencing, and physical construction. CROSSLISTED as ART 355/GD 355.",
-  "prerequisites": ["ART 263"]
+  "prerequisites": [["ART 263"]]
 }, {
   "corequisites": [],
   "course_name": "*PHOTOGRAPHY: ACTIVISM",
@@ -368,70 +368,70 @@
   "course_number": "ART 375",
   "credits": "4",
   "description": "Studio course in relief printmaking with emphasis on linocut and woodcut; may include other relief processes, i.e. photo polymer plate. Black-and-white and color.",
-  "prerequisites": ["ART 101", "ART 115", "ART 131", "ART 271"]
+  "prerequisites": [["ART 101"], ["ART 115"], ["ART 131"], ["ART 271"]]
 }, {
   "corequisites": [],
   "course_name": "PRINTMAKING: INTAGLIO",
   "course_number": "ART 376",
   "credits": "4",
   "description": "Studio course in intaglio printmaking with emphasis on drypoint, line etching, aquatint, softground and photo process. Black-and-white and possibly color for final project.",
-  "prerequisites": ["ART 101", "ART 115", "ART 131", "ART 271"]
+  "prerequisites": [["ART 101"], ["ART 115"], ["ART 131"], ["ART 271"]]
 }, {
   "corequisites": [],
   "course_name": "PRINTMAKING: LITHOGRAPHY",
   "course_number": "ART 377",
   "credits": "4",
   "description": "Studio course in lithographic printmaking with emphasis on graining the stone, drawing with crayon and tusche, etching and reworking, inking and printing lithographic limestone. Black-and-white and possibly color for final project.",
-  "prerequisites": ["ART 101", "ART 115", "ART 131", "ART 271"]
+  "prerequisites": [["ART 101"], ["ART 115"], ["ART 131"], ["ART 271"]]
 }, {
   "corequisites": [],
   "course_name": "PRINTMAKING: MONOTYPE",
   "course_number": "ART 378",
   "credits": "4",
   "description": "Studio course in monotype printmaking with emphasis on drawing/painting with brushes, oil pastels, watercolors, water-based crayons, inking with a lithographic roller and printing with an etching press. Black-and-white and color.",
-  "prerequisites": ["ART 101", "ART 115", "ART 131", "ART 271"]
+  "prerequisites": [["ART 101"], ["ART 115"], ["ART 131"], ["ART 271"]]
 }, {
   "corequisites": [],
   "course_name": "PRINTMAKING: SCREEN PRINTING",
   "course_number": "ART 379",
   "credits": "4",
   "description": "Studio course in screen printing with emphasis on paper stencil, drawing fluid and photo emulsion processes. Students are exposed to a range of techniques and concepts are encouraged to investigate personal motivations while making multiple color prints.",
-  "prerequisites": ["ART 115"]
+  "prerequisites": [["ART 115"]]
 }, {
   "corequisites": [],
   "course_name": "PAINTING II: THE FIGURE",
   "course_number": "ART 381",
   "credits": "4",
   "description": "Studio course with emphasis on painting from the live model; understanding the figure in terms of color, form and composition, the figure as symbol, implied narrative and vehicle of expression.",
-  "prerequisites": ["ART 281", "ART 234"]
+  "prerequisites": [["ART 281"], ["ART 234"]]
 }, {
   "corequisites": [],
   "course_name": "PAINTING II: CONCEPTS",
   "course_number": "ART 382",
   "credits": "4",
   "description": "Painting with emphasis on experimentation and an exploratory investigation of mixed media, new media, collage, and assemblage, utilizing either representation or abstraction.",
-  "prerequisites": ["ART 281"]
+  "prerequisites": [["ART 281"]]
 }, {
   "corequisites": [],
   "course_name": "PAINTING II: ABSTRACT AND MULTIMEDIA",
   "course_number": "ART 383",
   "credits": "4",
   "description": "Intermediate studio course with emphasis on contemporary directions in painting: abstraction and non-literal approaches.",
-  "prerequisites": ["ART 101", "ART 115", "ART 131", "ART 281"]
+  "prerequisites": [["ART 101"], ["ART 115"], ["ART 131"], ["ART 281"]]
 }, {
   "corequisites": [],
   "course_name": "PAINTING II: NEW GENRE",
   "course_number": "ART 384",
   "credits": "4",
   "description": "Exploration of current directions in painting using traditional and non-traditional concepts and techniques.",
-  "prerequisites": ["ART 281"]
+  "prerequisites": [["ART 281"], []]
 }, {
   "corequisites": [],
   "course_name": "PAINTING II: ENCAUSTICS",
   "course_number": "ART 385",
   "credits": "4",
   "description": "Exploration and application of a variety of traditional and non-traditional techniques using encaustics paint; beeswax and pigment fused to a surface.",
-  "prerequisites": ["ART 281"]
+  "prerequisites": [["ART 281"]]
 }, {
   "corequisites": [],
   "course_name": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART I",
@@ -459,7 +459,7 @@
   "course_number": "ART 391",
   "credits": "4",
   "description": "Intermediate studio course with emphasis in material research and developing greater skills and technical knowledge in sculptural fabrication processes.",
-  "prerequisites": ["ART 291"]
+  "prerequisites": [["ART 291"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS IN EARLY ART HISTORY",
@@ -557,7 +557,7 @@
   "course_number": "ART 411",
   "credits": "3",
   "description": "Seminar developing writing and research skills in the field of art with interdisciplinary approaches.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "ART FOR TEACHERS I",
@@ -571,21 +571,21 @@
   "course_number": "ART 418",
   "credits": "2",
   "description": "An advanced lecture course providing an overview of pertinent issues in creating a professional graphic design portfolio.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "NEW MEDIA: INTERACTIVE",
   "course_number": "ART 422",
   "credits": "4",
   "description": "An advanced course designing digital experiences with emphasis on innovative navigation, architectural structures, theoretical, and historical issues of new media.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "DRAWING IV",
   "course_number": "ART 431",
   "credits": "3-5",
   "description": "Development of an individual approach to the varied aspects of drawing, emphasis on exploration of traditional and contemporary techniques and styles.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "*GENDER",
@@ -599,7 +599,7 @@
   "course_number": "ART 434",
   "credits": "3-5",
   "description": "Development of an individual approach to the varied aspect of figure drawing; emphasis on exploration of traditional and contemporary techniques and styles.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "SONIC ARTS",
@@ -613,35 +613,35 @@
   "course_number": "ART 441",
   "credits": "4",
   "description": "Explores using the camera as a tool to sharpen aesthetic and visual perception. Creates exhibition-quality silver-gelatin prints in pursuit of an individual student portfolio. Introduction to the view camera. Applies advanced darkroom techniques.",
-  "prerequisites": ["ART 340"]
+  "prerequisites": [["ART 340"]]
 }, {
   "corequisites": [],
   "course_name": "COMBINED MEDIA: PHOTO INSTALLATION",
   "course_number": "ART 443",
   "credits": "4",
   "description": "This studio course explores the use the photographic image in conjunction with other studio media to create multi-media works and site-specific installations. Designed to remove and release the photographic image from its ubiquitous tradition, it looks to reassign the association of photography as merely a two dimensional pursuit. Emphasizing the relationship between objects, the course investigates installation art as a contemporary practice and focuses on the role photography or the photographic image has played in expanding this dialogue. Issues involved with using photography for the purposes of creating multimedia spatial experiences are discussed and compared with ideas related to traditional photographic presentation.",
-  "prerequisites": ["ART 345"]
+  "prerequisites": [["ART 345"]]
 }, {
   "corequisites": [],
   "course_name": "THE CONSTRUCTED IMAGE",
   "course_number": "ART 444",
   "credits": "4",
   "description": "An advanced studio photography course that explores directed, manipulated, and constructed photographs. It investigates this rich tradition by looking at both historical and contemporary photography. Issues involved with making clearly artificial photographs are discussed and compared with traditional ideas related to veracity of the photographic image.",
-  "prerequisites": ["ART 345"]
+  "prerequisites": [["ART 345"]]
 }, {
   "corequisites": [],
   "course_name": "DOCUMENTARY PHOTOGRAPHY",
   "course_number": "ART 446",
   "credits": "4",
   "description": "Intensive in-depth documentary photography course designed to develop skill in telling stories with pictures. The course requires pitching a photographic project, reading and writing about documentary photography, and producing a sustained photographic essay with a self-selected documentary subject. Expanded documentary mediums and socially concerned photography are also covered.",
-  "prerequisites": ["ART 263", "ART 345"]
+  "prerequisites": [["ART 263"], ["ART 345"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED STUDIO LIGHTING",
   "course_number": "ART 447",
   "credits": "4",
   "description": "Practical studio course focusing on the advanced applications of studio and location lighting. Students will use digital cameras in combination with professional strobe and mixed artificial lighting. Real-world location lighting challenges will be mastered: scouting locations, hauling and setting up gear, working with models and products, and learning to work on-location.",
-  "prerequisites": ["ART 263", "ART 347"]
+  "prerequisites": [["ART 263"], ["ART 347"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO ARTS ENTREPRENEURSHIP",
@@ -655,21 +655,21 @@
   "course_number": "ART 454",
   "credits": "4",
   "description": "Advanced projects using historical photographic processes.",
-  "prerequisites": ["ART 354"]
+  "prerequisites": [["ART 354"]]
 }, {
   "corequisites": [],
   "course_name": "THE PHOTOGRAPHIC BOOK II",
   "course_number": "ART 455",
   "credits": "4",
   "description": "Practical studio course focusing on advanced practices and techniques in relation to the photographic book. Use appropriated imagery as well as original imagery to complete well-developed book projects. Structure, form, materials, and layout will be discussed as well as content, sequencing, and physical construction. Advanced elements such as application of blanking, slip cases, screen printing, and other construction techniques will be taught. CROSSLISTED as ART 455/GD 455.",
-  "prerequisites": ["ART 355"]
+  "prerequisites": [["ART 355"]]
 }, {
   "corequisites": [],
   "course_name": "PORTFOLIO-PHOTOGRAPHY/VIDEO ART",
   "course_number": "ART 456",
   "credits": "4",
   "description": "Culmination-level course for the creation of an exhibition-level photographic portfolio or other artistic product using lens-based media. Taught using lectures, critiques, readings, writing and self-reflection.",
-  "prerequisites": ["ART 340", "ART 345", "ART 347"]
+  "prerequisites": [["ART 340"], ["ART 345"], ["ART 347"]]
 }, {
   "corequisites": [],
   "course_name": "OFF THE SCREEN - VIDEO INSTALLATION ART",
@@ -683,7 +683,7 @@
   "course_number": "ART 460",
   "credits": "4",
   "description": "Emphasizes intensive experiential learning studio art that focuses on site-based research and investigation. Collects or creates material inspired and informed by the interaction with the people and places associated with the area. Explores unique ecosystems consisting of rocky intertidal zones and old growth forests. Considers history of human interaction with the landscape. Practices leadership and mentorship for camp organization and best practices during site-based learning.",
-  "prerequisites": ["ART 360"]
+  "prerequisites": [["ART 360"]]
 }, {
   "corequisites": [],
   "course_name": "DIRECTIONS AND ISSUES IN CONTEMPORARY ART",
@@ -711,21 +711,21 @@
   "course_number": "ART 475",
   "credits": "4",
   "description": "Studio workshop in relief, intaglio, lithographic, and silkscreen media on an individual project basis.",
-  "prerequisites": ["ART 101", "ART 115", "ART 131", "ART 271"]
+  "prerequisites": [["ART 101"], ["ART 115"], ["ART 131"], ["ART 271"]]
 }, {
   "corequisites": [],
   "course_name": "PRINTMAKING: ADVANCED SCREEN PRINTING",
   "course_number": "ART 479",
   "credits": "4",
   "description": "Studio course in screen printing with an emphasis on photo emulsion processes. Students are encouraged to integrate these processes with other art-making methods in their creative work.",
-  "prerequisites": ["ART 379"]
+  "prerequisites": [["ART 379"]]
 }, {
   "corequisites": [],
   "course_name": "PAINTING III",
   "course_number": "ART 481",
   "credits": "4",
   "description": "Development of individual interests and directions in painting.",
-  "prerequisites": ["ART 382", "ART 384"]
+  "prerequisites": [["ART 382"], ["ART 384"]]
 }, {
   "corequisites": [],
   "course_name": "SENSOR TECHNOLOGIES AND THE ARTS",
@@ -739,7 +739,7 @@
   "course_number": "ART 491",
   "credits": "4",
   "description": "Development of individual interests and directions in sculpture.",
-  "prerequisites": ["ART 391"]
+  "prerequisites": [["ART 391"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS IN ASIAN ART",
@@ -760,7 +760,7 @@
   "course_number": "ART 495",
   "credits": "1",
   "description": "Participatory experience in art gallery exhibition design working in Fairbanks Gallery. Includes specialized study in visual design, lighting, and technical installation.",
-  "prerequisites": []
+  "prerequisites": [[]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS IN ART HISTORY",

@@ -102,7 +102,7 @@
   "course_number": "COUN 512",
   "credits": "1-4",
   "description": "Applies knowledge of counseling skills, theory, and ethics to field-based practice with diverse populations of students/clients in school and clinical mental health settings. Integrates feedback received from qualified professional and faculty supervisors and peers in site-based and remote clinical supervision to improve competencies and enhance development of self-as-counselor. Investigates risk assessment, social justice counseling, and student/client advocacy.",
-  "prerequisites": ["COUN 511"]
+  "prerequisites": [["COUN 511"]]
 }, {
   "corequisites": [],
   "course_name": "COUNSELING PRE-PRACTICUM",
@@ -116,14 +116,14 @@
   "course_number": "COUN 514",
   "credits": "3",
   "description": "Applies knowledge of counseling skills, theory, and ethics to field-based practice with diverse populations of students/clients in school and clinical mental health settings. Integrates feedback received from qualified professional and faculty supervisors and peers in site-based and remote clinical supervision to improve competencies and enhance development of self-as-counselor. Investigates risk assessment, social justice counseling, and student/client advocacy.",
-  "prerequisites": ["COUN 513"]
+  "prerequisites": [["COUN 513"]]
 }, {
   "corequisites": [],
   "course_name": "COUNSELING INTERNSHIP",
   "course_number": "COUN 515",
   "credits": "1-12",
   "description": "Builds and appraises the growth and development of students as professional counselors in an on-site clinical mental health or school setting. Expands and enhances students’ knowledge base, skill level, and professional identity via guided clinical practice in a public or private mental health or school setting. Guides students through a developmentally appropriate clinical training experience across three terms that creates the necessary bridge between pre-professional training and professional practice.",
-  "prerequisites": ["COUN 512", "COUN 514"]
+  "prerequisites": [["COUN 512", "COUN 514"]]
 }, {
   "corequisites": [],
   "course_name": "PROFESSIONAL PRACTICE IN CLINICAL MENTAL HEALTH COUNSELING",
@@ -242,7 +242,7 @@
   "course_number": "COUN 552",
   "credits": "3",
   "description": "Builds on development of knowledge and skills in counseling theories and techniques gained in COUN 551 and surveys an additional select set of major current counseling theories by examining their respective processes, techniques, and application across counseling settings and populations. Strengthens counseling conceptualization skills and familiarity with theory-specific counseling techniques; examines ethical, diversity, and cultural considerations in case conceptualization and application of counseling techniques. Fosters skill development through experiential lab practices and develops personal theoretical orientation to counseling.",
-  "prerequisites": ["COUN 551"]
+  "prerequisites": [["COUN 551"]]
 }, {
   "corequisites": [],
   "course_name": "THEORIES AND TECHNIQUES OF COUNSELING I",
@@ -256,7 +256,7 @@
   "course_number": "COUN 554",
   "credits": "4",
   "description": "Builds on development of knowledge and skills in counseling theories and techniques gained in COUN 551 and surveys an additional select set of major current counseling theories by examining their respective processes, techniques, and application across counseling settings and populations. Strengthens counseling conceptualization skills and familiarity with theory-specific counseling techniques; examines ethical, diversity, and cultural considerations in case conceptualization and application of counseling techniques. Fosters skill development through experiential lab practices and develops personal theoretical orientation to counseling.",
-  "prerequisites": ["COUN 553"]
+  "prerequisites": [["COUN 553"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO RESEARCH METHODS IN COUNSELING",
@@ -340,7 +340,7 @@
   "course_number": "COUN 576",
   "credits": "4",
   "description": "Explores the assessment, diagnosis, and treatment of mental disorders as defined by the DSM classification system. Emphasizes principles and practices that relate to child and adult psychopathology, DSM diagnostic criteria, etiology and assessment, systematic treatment planning, interviewing, and short- and long-term interventions. Acquaints counseling students with the fundamentals of psychotropic drugs, the basics of pharmacology, adverse effects, indications, and drug interactions.",
-  "prerequisites": ["COUN 541", "COUN 551"]
+  "prerequisites": [["COUN 541"], ["COUN 551"]]
 }, {
   "corequisites": [],
   "course_name": "APPLIED PSYCHOPATHOLOGY AND PSYCHODIAGNOSTICS",
@@ -361,7 +361,7 @@
   "course_number": "COUN 579",
   "credits": "3",
   "description": "Introduces knowledge and skills related to bolstering wellness and resilience for clients facing chronic stress and trauma. Examines environmental, physiological, and historical factors contributing to trauma and resilience, wellness-based resourcing/grounding strategies, and evidence-based approaches to treating trauma.",
-  "prerequisites": ["COUN 578"]
+  "prerequisites": [["COUN 578"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL JUSTICE",
@@ -375,7 +375,7 @@
   "course_number": "COUN 582",
   "credits": "3",
   "description": "Further explores multicultural counseling by studying in-depth the experience of specific student populations and their unique strengths and needs. Students will gain understanding of the specialized school programs and state and national regulations that support a variety of learners as well as the theories and research related to language acquisition to support ELL and bilingual students in the PK-12 system. Students will engage in authentic experiences and assignments to enrich their understanding of sub-populations of students and their families to enhance their cultural responsiveness with those specific groups of learners.",
-  "prerequisites": ["COUN 581"]
+  "prerequisites": [["COUN 581"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL JUSTICE",
@@ -403,14 +403,14 @@
   "course_number": "COUN 593",
   "credits": "4",
   "description": "Connects supervision and consultation to clinical mental health counselors’ practice and development. Discusses major models and approaches of supervision and consultation. Compares and contrasts clinical supervision with consultation and investigates processes and procedures of supervision and consultation. Examines ethical, legal, and multicultural considerations in supervision and consultation and develops supervision and consultation skills.",
-  "prerequisites": ["COUN 514"]
+  "prerequisites": [["COUN 514"]]
 }, {
   "corequisites": [],
   "course_name": "SCHOOL COUNSELOR CONSULTATION AND SUPERVISION",
   "course_number": "COUN 594",
   "credits": "4",
   "description": "Connects consultation and supervision to school counselors’ practice and development and discusses major models and approaches in consultation and school counselor site supervision. Compares and contrasts supervision with consultation and investigates processes and procedures of supervision and consultation. Integrates ethical, legal, and multicultural considerations in consultation and supervision, and develops consultation and supervision skills.",
-  "prerequisites": ["COUN 514"]
+  "prerequisites": [["COUN 514"]]
 }, {
   "corequisites": [],
   "course_name": "GROUP COUNSELING II",

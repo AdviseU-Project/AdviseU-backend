@@ -41,14 +41,14 @@
   "description": "A university integration class specifically designed for new students at Oregon State University. Explore topics such as academic integrity, working with academic advisors, U.S. academic culture, navigating campus resources, communicating with professors, and integrating into the campus community.",
   "prerequisites": []
 }, {
-  "corequisites": ["ALS 181"],
+  "corequisites": [["ALS 181"]],
   "course_name": "INTRODUCTION TO UNIVERSITY READING AND WRITING",
   "course_number": "ALS 140",
   "credits": "3",
   "description": "Students will strengthen their ability to comprehend and analyze a variety of texts. They will also improve the unity and coherence of their writing as well as develop techniques for writing in an academic setting. Students will focus on strategic reading and content analysis; comparing and contrasting ideas; considering different points of view; and linking cause and effect relationships. In addition, students will be introduced to concepts regarding academic accountability and using outside sources in their writing.",
   "prerequisites": []
 }, {
-  "corequisites": ["ALS 181"],
+  "corequisites": [["ALS 181"]],
   "course_name": "INTRODUCTION TO UNIVERSITY LISTENING AND SPEAKING",
   "course_number": "ALS 141",
   "credits": "3",
@@ -88,7 +88,7 @@
   "course_number": "ALS 162",
   "credits": "3",
   "description": "University reading and writing skills for international students. Comprehension of advanced authentic academic texts, including full-length academic articles on a variety of topics. Production of written texts that develop arguments systematically, synthesize and integrate information from multiple sources, underline relevant salient issues, and expand and support opinions on a range of advanced academic topics. Academic reading, and writing strategies.",
-  "prerequisites": ["ALS 150"]
+  "prerequisites": [["ALS 150"]]
 }, {
   "corequisites": [],
   "course_name": "TECHNICAL COMMUNICATION FOR INTERNATIONAL GRADUATE STUDENTS",

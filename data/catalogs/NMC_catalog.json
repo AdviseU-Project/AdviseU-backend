@@ -116,28 +116,28 @@
   "course_number": "NMC 321",
   "credits": "3",
   "description": "The technological, economic and corporate, legal and political, artistic, and social developments that shaped American broadcasting in the 20th century are examined. Implications for the future of broadcasting are addressed as well.",
-  "prerequisites": ["NMC 260"]
+  "prerequisites": [["NMC 260"]]
 }, {
   "corequisites": [],
   "course_name": "LANDMARKS IN MEDIA CONTENT",
   "course_number": "NMC 322",
   "credits": "3",
   "description": "Introduces students to media content that represents advances in the art and science of creative use of media technology. Some of these advances were recognized immediately, some only after time had passed.",
-  "prerequisites": ["NMC 101", "NMC 101H", "NMC 260"]
+  "prerequisites": [["NMC 101", "NMC 101H"], ["NMC 260"]]
 }, {
   "corequisites": [],
   "course_name": "THE MEANING OF VIDEO GAMES",
   "course_number": "NMC 330",
   "credits": "3",
   "description": "Examines approaches to understanding the experience of playing video games, including the role of storytelling in diverse games, the relationship between the player and the game, the game as art, and intersections between games and real life.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL MEDIA STRATEGY",
   "course_number": "NMC 340",
   "credits": "3",
   "description": "Designing systems of interaction is important for understanding how people come to be a part of social networks. Students will participate in a series of simulation games that will explore the dimensions of the interaction between publics and social networks, culminating in an original research project.",
-  "prerequisites": ["NMC 240", "NMC 260"]
+  "prerequisites": [["NMC 240"], ["NMC 260"]]
 }, {
   "corequisites": [],
   "course_name": "MEDIA SPIN AND DECEPTION DETECTION",
@@ -151,21 +151,21 @@
   "course_number": "NMC 342",
   "credits": "3",
   "description": "Emphasizes theory and philosophy of public relations, and applications of theory through specific tools and techniques. Analyze current events from public relations perspective. Systematically develops public relations plan through research, planning, communication, and evaluation processes. CROSSLISTED as COMM 342/NMC 342.",
-  "prerequisites": ["NMC 101", "NMC 101H", "COMM 111", "COMM 111H", "COMM 111Z", "COMM 111HZ"]
+  "prerequisites": [["NMC 101", "NMC 101H", "COMM 111", "COMM 111H", "COMM 111Z", "COMM 111H"]]
 }, {
   "corequisites": [],
   "course_name": "VIDEO ART",
   "course_number": "NMC 349",
   "credits": "4",
   "description": "Studio course in video art and time-based media projects. Emphasis on experimental approaches to video art in a contemporary art context, linear and non-linear video production and the projection and screening of video art projects. Introduction to the history of video art as an art form. CROSSLISTED as ART 349/NMC 349.",
-  "prerequisites": ["ART 222", "ART 263"]
+  "prerequisites": [["ART 222"], ["ART 263"]]
 }, {
   "corequisites": [],
   "course_name": "DIGITAL ILLUSTRATION AND DESIGN",
   "course_number": "NMC 350",
   "credits": "4",
   "description": "Explores several techniques for communicating narrative through pictorial design with digital arts tools. Builds a digital drawing skill set including vector based drawing, digital painting, 3D illustration, collage, typography and photographic compositing. Covers illustration in editorial content, publishing, advertising, social media and the entertainment industry. Emphasis on visual research, creative workflows, concept development through the creation of illustration and design content.",
-  "prerequisites": ["NMC 241"]
+  "prerequisites": [["NMC 241"]]
 }, {
   "corequisites": [],
   "course_name": "NEW MEDIA VISUALIZATION",
@@ -179,14 +179,14 @@
   "course_number": "NMC 355",
   "credits": "4",
   "description": "Explores creative application of sound design for linear narrative, interactive and experimental visual media. Topics include evolving sound aesthetics for visual media in a historical and technological context. Emphasis on post-production synchronization, sound effect creation and manipulation, music underscoring and expressive experimentation in the audio visual story.",
-  "prerequisites": ["NMC 101", "NMC 101H", "NMC 255"]
+  "prerequisites": [["NMC 101", "NMC 101H"], ["NMC 255"]]
 }, {
   "corequisites": [],
   "course_name": "PODCAST PRODUCTION",
   "course_number": "NMC 356",
   "credits": "3",
   "description": "Focuses on intermediate-level production to develop, launch, distribute, and maintain professional-quality podcasts. Uses podcasting tools and resources for other storytelling enterprises.",
-  "prerequisites": ["NMC 101", "NMC 101H"]
+  "prerequisites": [["NMC 101", "NMC 101H"]]
 }, {
   "corequisites": [],
   "course_name": "PRE-PRODUCTION",
@@ -207,14 +207,14 @@
   "course_number": "NMC 383",
   "credits": "4",
   "description": "Development of the technical abilities and conceptual approaches to audio, film, video and multimedia production. Emphasis on single-camera production techniques and concepts. Students will begin the study of post-production process. Students will also begin to study lighting and audio as they relate to single-camera field production.",
-  "prerequisites": ["NMC 380"]
+  "prerequisites": [["NMC 380"]]
 }, {
   "corequisites": [],
   "course_name": "MOTION DESIGN FOUNDATIONS",
   "course_number": "NMC 385",
   "credits": "4",
   "description": "Explores foundational elements and principles of animation for motion design. Topics include introductory animation techniques, history of motion graphics, the production process and workflows. Concept development, visual research, asset creation will be exercised through the creative development and execution of motion design projects.",
-  "prerequisites": ["NMC 101", "NMC 101H"]
+  "prerequisites": [["NMC 101", "NMC 101H"]]
 }, {
   "corequisites": [],
   "course_name": "SOCIAL MEDIA AND INTERPERSONAL RELATIONSHIPS",
@@ -228,14 +228,14 @@
   "course_number": "NMC 392",
   "credits": "3",
   "description": "Web apps are applications that are loaded as web pages. They can store data locally and continue to function while offline. In this hands-on class, students will create web apps that run on smart phones. No prior programming skills are required. Programming concepts that are required to create interactive web apps will be covered in this class.",
-  "prerequisites": ["NMC 260"]
+  "prerequisites": [["NMC 260"]]
 }, {
   "corequisites": [],
   "course_name": "SERVER SIDE PROGRAMMING",
   "course_number": "NMC 393",
   "credits": "3",
   "description": "Create websites that focus on the server side. Sever side website can store or retrieve data from users. In this hands-on class, students will create server side websites. No prior programming skills are required. Programming concepts that are required to create interactive server side websites will be covered in this class.",
-  "prerequisites": ["NMC 260"]
+  "prerequisites": [["NMC 260"]]
 }, {
   "corequisites": [],
   "course_name": "INTERACTIVE DESIGN AND USER EXPERIENCE",
@@ -347,7 +347,7 @@
   "course_number": "NMC 421",
   "credits": "3",
   "description": "An introduction to old and emerging theories that explain the spread of innovative ideas and technologies among members of a society, emphasizing the role of communication processes and the special problems for diffusion in communication technology.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "*DIGITAL PORNOGRAPHY",
@@ -361,21 +361,21 @@
   "course_number": "NMC 430",
   "credits": "3",
   "description": "Exposes students to major theoretical paradigms and controversies in media studies. Introduces a broad theoretical vocabulary for the analysis of media. Emphasizes theoretical approaches to new media technology.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "MEDIA EFFECTS",
   "course_number": "NMC 435",
   "credits": "3",
   "description": "Reviews the potential for media technology and media content to influence the beliefs and behaviors of individuals. Discusses the media's ability to bring about specific changes in people's attitudes, values, political agendas, purchasing habits, and jury decisions. Emphasizes the impact of new media's interactive technology and content on people's beliefs and behaviors.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "NEW MEDIA AND SOCIETY",
   "course_number": "NMC 437",
   "credits": "3",
   "description": "Examines the impact of new media technology on American institutions and political life. Emphasizes the way that social institutions, the government, the military, and corporations have evolved in the face of new media. Discusses social and political changes in terms of their connection to developments in media technology.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "SONIC ARTS",
@@ -389,14 +389,14 @@
   "course_number": "NMC 440",
   "credits": "3",
   "description": "Changes in technology and in the media's role in converging technologies require creative, innovative organizational structure and strategic management and leadership techniques. Identify basic roles, principles and concepts as related to media management. Through group work, role-plays, and projects, investigate the creative and practical aspects of managing diverse teams and interpersonal dialogue, while becoming more culturally competent.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "MEDIA ENTREPRENEURSHIP",
   "course_number": "NMC 441",
   "credits": "3",
   "description": "Studies the entrepreneurial process as it relates uniquely to the arts and sciences of new media. Students will study the basic entrepreneurial processes of law, finance, accounting, organizational structure, budgeting, business plans, market analyses, taxes, licensing, and insurance as they relate to new media enterprises. Students will also study the sales/revenue generation side of new media ventures.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "OFF THE SCREEN - VIDEO INSTALLATION ART",
@@ -424,35 +424,35 @@
   "course_number": "NMC 470",
   "credits": "3",
   "description": "The relevant laws and regulations that govern the mass media; the participants in the law making process; the analytical methods and problem solving techniques used in the law making process; the laws and policies affecting journalists. Issues such as libel, privacy, obscenity, indecency, fair trail/free press and copyright are covered.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED MOTION DESIGN",
   "course_number": "NMC 480",
   "credits": "4",
   "description": "Explores advanced techniques in motion graphics design. Builds an advanced animation skill set including complex compositing, animated textures, looping, basic rigs, hierarchies and behaviors. Emphasis on in-depth concept development, advanced asset creation and storytelling through motion. Analyze motion design content within contemporary visual culture.",
-  "prerequisites": ["NMC 385"]
+  "prerequisites": [["NMC 385"]]
 }, {
   "corequisites": [],
   "course_name": "COMPOSITING AND DIGITAL EFFECTS",
   "course_number": "NMC 481",
   "credits": "4",
   "description": "Explores compositing and digital effects as production techniques in digital storytelling. Explores several compositing techniques and workflow options for digital manipulation of moving image content. Topics include green screen extraction, motion and camera tracking, rotoscoping, and 2D/3D workflows.",
-  "prerequisites": ["NMC 380"]
+  "prerequisites": [["NMC 380"]]
 }, {
   "corequisites": [],
   "course_name": "DOCUMENTARY",
   "course_number": "NMC 482",
   "credits": "4",
   "description": "Examines theory and production of the documentary genre. Covers all stages of producing a documentary film from the idea through development, marketing, planning, shooting, editing, and post-production.",
-  "prerequisites": ["NMC 380"]
+  "prerequisites": [["NMC 380"]]
 }, {
   "corequisites": [],
   "course_name": "NEW MEDIA 3-D",
   "course_number": "NMC 483",
   "credits": "4",
   "description": "Provides hands-on introduction to the world of 3-D computer modeling and animation, including investigations of light, texture, form, spatial design and motion (to a limited degree). Discusses professional and artistic practice and critiques student and professional work.",
-  "prerequisites": ["NMC 351"]
+  "prerequisites": [["NMC 351"]]
 }, {
   "corequisites": [],
   "course_name": "NEW MEDIA ANIMATION",
@@ -466,7 +466,7 @@
   "course_number": "NMC 487",
   "credits": "4",
   "description": "Explores design of virtual space from theoretical, historical and practical perspectives. Compares and contrasts real world physical space with virtual space. Examines narrative back story, style, form, color, light, motion and sound in video games. Develops detailed cultural and environmental backs stories for virtual worlds based on research. Plans and maps layout of interactive virtual worlds that encourage exploration. Researches and applies principles of color, light, form, motion, sound and spatial narrative design. Builds interactive virtual spaces using 3D modeling and game development software. Creates cinematic trailers of virtual worlds, including complex camera moves and soundtracks. Designs logos for virtual worlds based on principles of design, and research of brand identities.",
-  "prerequisites": ["NMC 100", "NMC 101", "NMC 101H", "NMC 260", "NMC 351"]
+  "prerequisites": [["NMC 100", "NMC 101", "NMC 101H", "NMC 260"], ["NMC 351"]]
 }, {
   "corequisites": [],
   "course_name": "SENSOR TECHNOLOGIES AND THE ARTS",
@@ -480,7 +480,7 @@
   "course_number": "NMC 490",
   "credits": "3",
   "description": "Explores ethical issues surrounding new media communications. Emphasizes professionalism in journalism, new media visual production, new media management, advertising, film, and public relations. Topics also include new media's relationship with society, violence in the media, and sex in the media.",
-  "prerequisites": ["NMC 301"]
+  "prerequisites": [["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "*MEDIA AND POWER",
@@ -494,7 +494,7 @@
   "course_number": "NMC 498",
   "credits": "3-4",
   "description": "Senior-level course designed to integrate the skills and knowledge obtained through NMC course work into a group research, group project, and/or group production that will be useful to students for their professional portfolio or serve as the basis for academic publication. Topic changes per term.",
-  "prerequisites": ["NMC 101", "NMC 101H", "NMC 301"]
+  "prerequisites": [["NMC 101", "NMC 101H"], ["NMC 301"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

@@ -109,35 +109,35 @@
   "course_number": "HORT 271",
   "credits": "2",
   "description": "Covers the design and development of wellness activities associated with therapeutic horticulture gardens and programs incorporating indoor, outdoor, and seasonal adaptations, strategies, and techniques. Focuses on special needs populations in retirement and long term care communities, vocational and medical rehabilitation facilities, and developmental disabilities settings.",
-  "prerequisites": ["HORT 270"]
+  "prerequisites": [["HORT 270"]]
 }, {
   "corequisites": [],
   "course_name": "THERAPEUTIC HORTICULTURE SKILLS I",
   "course_number": "HORT 272",
   "credits": "2",
   "description": "Introduces therapeutic models and skills, task analysis of treatment issues, medical terminology, goal setting, activity planning, assessment, documentation and evaluation, and safety as applied in a therapeutic horticulture milieu. Covers professional and therapeutic topics including learning styles, motivational management, group dynamics, therapeutic use of self, counseling basics, roles within an interdisciplinary team, the leadership role of the therapist, professional ethics, and writing, listening and communication skills.",
-  "prerequisites": ["HORT 271"]
+  "prerequisites": [["HORT 271"]]
 }, {
   "corequisites": [],
   "course_name": "THERAPEUTIC HORTICULTURE PROGRAMMING",
   "course_number": "HORT 273",
   "credits": "2",
   "description": "Introduces therapeutic horticulture, human development, and intergenerational program models. Covers issues in aging, frailty, dementia, the continuum of care, assessment, documentation, and treatment planning. Includes thematic and seasonal planning; programming for children and seniors; case study writing; marketing and public relations; examples of therapeutic horticulture programs; and characteristics of therapeutic garden design and maintenance.",
-  "prerequisites": ["HORT 272"]
+  "prerequisites": [["HORT 272"]]
 }, {
   "corequisites": [],
   "course_name": "THERAPEUTIC HORTICULTURE SKILLS II",
   "course_number": "HORT 274",
   "credits": "2",
   "description": "Covers therapeutic and professional skills to work in pediatric, geriatric, developmental disabilities, psychiatric, and offender programs. Includes advanced skills in designing and evaluating 12-month therapeutic activities and programming for frail elderly, pediatric, developmentally disabled, neurologically impaired, and other special needs populations. Focuses on professional skill mastery and continuing education planning.",
-  "prerequisites": ["HORT 273"]
+  "prerequisites": [["HORT 273"]]
 }, {
   "corequisites": [],
   "course_name": "THERAPEUTIC GARDENS",
   "course_number": "HORT 275",
   "credits": "3",
   "description": "Focuses on the design, maintenance and programming of natural and horticultural therapeutic gardens. Includes working with an interdisciplinary team, garden assessment using therapeutic gardening standards, designing restorative settings, planning and conducting group and seasonal sessions, and sensory goals programming for dementia clients. Covers patio and strolling gardens for assisted living facility programs and special needs gardens.",
-  "prerequisites": ["HORT 274", "HORT 380"]
+  "prerequisites": [["HORT 274"], ["HORT 380"]]
 }, {
   "corequisites": [],
   "course_name": "INTRODUCTION TO URBAN AGRICULTURE",
@@ -200,7 +200,7 @@
   "course_number": "HORT 306",
   "credits": "2",
   "description": "Applied course focused on the regulation, sourcing, and efficacy of organic inputs including soil amendments, fertilizers, and pesticides. Gain experience using science-, practice-, and regulation-based information to source and determine effectiveness of inputs in certified organic cropping systems.",
-  "prerequisites": ["HORT 212", "CROP 355"]
+  "prerequisites": [["HORT 212"], ["CROP 355"]]
 }, {
   "corequisites": [],
   "course_name": "ORGANIC SYSTEM PREDICAMENTS",
@@ -221,14 +221,14 @@
   "course_number": "HORT 310",
   "credits": "3",
   "description": "Discusses horticultural and physiological principles of plant propagation, and explores the methods and techniques used for laboratory, nursery, greenhouse, orchards, and other agricultural environments. Focuses on the major issues facing plant propagators.",
-  "prerequisites": ["HORT 301", "CROP 200"]
+  "prerequisites": [["HORT 301", "CROP 200"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT PROPAGATION LABORATORY",
   "course_number": "HORT 312",
   "credits": "1",
   "description": "Conducts laboratory exercises to learn methods of plant propagation for a variety of plant types to maintain the appropriate level of genetic variation. Focuses on regeneration of plants from vegetative and reproductive tissues and organs, while maintaining their genetic potential. Explores the methods and techniques used for laboratory, nursery, greenhouse, orchards, and other agricultural environments to address some of the major issues facing plant propagators.",
-  "prerequisites": ["HORT 310"]
+  "prerequisites": [["HORT 310"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES OF TURFGRASS MAINTENANCE",
@@ -249,7 +249,7 @@
   "course_number": "HORT 316",
   "credits": "4",
   "description": "Basic concepts and principles of plant mineral nutrition that provide a basis for solving practical nutritional problems in horticultural crops. Areas covered include mineral nutrients, nutrient availability in the soil and plant uptake, nutrient deficiencies and toxicities and their causes and remedies, and plant and soil analysis.",
-  "prerequisites": ["CSS 205", "SOIL 205", "SOIL 205H"]
+  "prerequisites": [["CSS 205", "CSS 305", "SOIL 205", "SOIL 205H"]]
 }, {
   "corequisites": [],
   "course_name": "^APPLIED ECOLOGY OF MANAGED ECOSYSTEMS",
@@ -284,7 +284,7 @@
   "course_number": "HORT 344",
   "credits": "3",
   "description": "Emphasizes basic concepts of applied entomology and plant pathology. Focuses on real-world application of science-, practice-, and regulation-based insect and disease management information in certified organic cropping systems. Designs and evaluates organic insect and disease management toolboxes and plans using the National Organic Program as a starting point as well as detailed farm case studies and research-based management information.",
-  "prerequisites": ["BOT 220", "CROP 200", "HORT 301", "BI 211", "BI 211H", "BI 212", "BI 212H", "BI 213", "BI 213H", "BI 221", "BI 221H", "BI 222", "BI 222H", "BI 223", "BI 223H", "BI 204", "BI 205", "BI 206"]
+  "prerequisites": [["BOT 220", "CROP 200", "HORT 301", "BI 211", "BI 211H"], ["BI 212", "BI 212H"], ["BI 213", "BI 213H", "BI 221", "BI 221H"], ["BI 222", "BI 222H"], ["BI 223", "BI 223H", "BI 204"], ["BI 205"], ["BI 206"]]
 }, {
   "corequisites": [],
   "course_name": "DIAGNOSING PLANT PROBLEMS",
@@ -319,7 +319,7 @@
   "course_number": "HORT 360",
   "credits": "4",
   "description": "Familiarizes students with the principles and practices of irrigation and drainage systems. Optimum use of water, irrigation and drainage system design, installation, repairs, and troubleshooting are emphasized.",
-  "prerequisites": ["CSS 205", "SOIL 205", "SOIL 205H", "SOIL 206", "SOIL 206H", "FOR 206"]
+  "prerequisites": [["CSS 305", "CSS 205", "SOIL 205", "SOIL 205H"], ["SOIL 206", "SOIL 206H", "FOR 206"]]
 }, {
   "corequisites": [],
   "course_name": "PLANT NURSERY SYSTEMS",
@@ -452,7 +452,7 @@
   "course_number": "HORT 433",
   "credits": "4",
   "description": "Covers the botanical and taxonomic relationships, breeding systems and adaptation of vegetable crops. Fresh material is used to illustrate varietal differences and traits of importance. CROSSLISTED as CROP 433/HORT 433.",
-  "prerequisites": ["BI 102", "BI 213", "BI 213H", "BI 223", "BI 223H", "BI 311", "BI 311H", "PBG 430", "PBG 450"]
+  "prerequisites": [["BI 102", "BI 213", "BI 213H", "BI 223", "BI 223H", "BI 311", "BI 311H", "HORT 430", "CSS 430", "PBG 430", "HORT 450", "CSS 450", "PBG 450"]]
 }, {
   "corequisites": [],
   "course_name": "INSECT AGROECOLOGY",
@@ -473,28 +473,28 @@
   "course_number": "HORT 453",
   "credits": "3",
   "description": "The physiological aspects of grapevine growth and development including dormancy, flowering and fruit set, vegetative growth, fruit development and water relations. Additional topics include taxonomy, morphology and physiological influences of vineyard mesoclimate and vine microclimate.",
-  "prerequisites": ["HORT 301"]
+  "prerequisites": [["HORT 301"]]
 }, {
   "corequisites": [],
   "course_name": "PRINCIPLES AND PRACTICES OF VINEYARD PRODUCTION",
   "course_number": "HORT 454",
   "credits": "3",
   "description": "The relationship of vineyard and canopy management to grapevine physiology and fruit quality. Nutrient/water relations within the soil/vine continuum. Vineyard microclimate, floor management, and pests will also be discussed.",
-  "prerequisites": ["HORT 301"]
+  "prerequisites": [["HORT 301"]]
 }, {
   "corequisites": [],
   "course_name": "URBAN FOREST PLANNING",
   "course_number": "HORT 455",
   "credits": "POLICY",
   "description": "Examination of planning, policy, and management strategies used in the stewardship of urban natural resources. Fundamentals for developing effective programs to maximize the economic, environmental, and social values and benefits of urban forest landscapes. CROSSLISTED as FES 455/HORT 455.",
-  "prerequisites": ["FES 350", "HORT 350"]
+  "prerequisites": [["FES 350", "HORT 350"]]
 }, {
   "corequisites": [],
   "course_name": "PHYSIOLOGY AND PRODUCTION OF BERRY CROPS",
   "course_number": "HORT 456",
   "credits": "4",
   "description": "Physiology and production systems of blueberries, red and black raspberries, blackberries, and other berry crops. Emphasis on plant growth and development; flower and fruit development; cultivars; pruning and training systems; irrigation; harvesting; nutrient management; and conventional and organic production systems.",
-  "prerequisites": ["HORT 301"]
+  "prerequisites": [["HORT 301"]]
 }, {
   "corequisites": [],
   "course_name": "SEED BIOLOGY",
@@ -515,7 +515,7 @@
   "course_number": "HORT 482",
   "credits": "3",
   "description": "Iteratively design and evaluate organic farming system management plans. Apply real-world science-, practice-, and regulation-based information to the design and management of organic farming systems.",
-  "prerequisites": ["HORT 212", "CROP 355", "HORT 306", "HORT 307", "HORT 308", "HORT 344", "SOIL 360"]
+  "prerequisites": [["HORT 212"], ["CROP 355"], ["HORT 306"], ["HORT 307"], ["HORT 308"], ["HORT 344"], ["SOIL 360"]]
 }, {
   "corequisites": [],
   "course_name": "CASE STUDIES IN URBAN AGRICULTURE",
@@ -529,7 +529,7 @@
   "course_number": "HORT 485",
   "credits": "3",
   "description": "Understand how permaculture as a design system can create sustainable human habitation that is beneficial to the natural world. Use tools specific to permaculture designers to assess, analyze, and project future climate scenarios and respond to them with appropriate design. Climate analogue identification and climate change forecasting provide the basis for a student assessment project that addresses current and future climatic conditions. Assessment and mapping assignments utilize Google Earth Pro, Google Docs, and Google Sheets.",
-  "prerequisites": ["HORT 285"]
+  "prerequisites": [["HORT 285"]]
 }, {
   "corequisites": [],
   "course_name": "SPECIAL TOPICS",

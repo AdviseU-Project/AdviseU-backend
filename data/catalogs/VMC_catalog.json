@@ -130,7 +130,7 @@
   "course_number": "VMC 712",
   "credits": "1-4",
   "description": "A one-week clinical elective rotation in clinical oncology at the Veterinary Teaching Hospital. May be repeated up to 4 times, two weeks or more is encouraged. Fourth-year standing in Veterinary Medicine required.",
-  "prerequisites": ["VMC 778"]
+  "prerequisites": [["VMC 778"]]
 }, {
   "corequisites": [],
   "course_name": "COMPANION ANIMAL DENTISTRY",
@@ -228,7 +228,7 @@
   "course_number": "VMC 726",
   "credits": "1",
   "description": "Advanced clinical experience in small animal (canine) reproduction. Graded P/N.",
-  "prerequisites": ["VMC 783"]
+  "prerequisites": [["VMC 783"]]
 }, {
   "corequisites": [],
   "course_name": "ADVANCED SMALL ANIMAL SURGERY",
@@ -354,7 +354,7 @@
   "course_number": "VMC 749",
   "credits": "3",
   "description": "Advanced clinical course for 4th-year veterinary students in which they will assume additional responsibility for performing common radiographic procedures. Graded P/N.",
-  "prerequisites": ["VMC 796"]
+  "prerequisites": [["VMC 796"]]
 }, {
   "corequisites": [],
   "course_name": "EQUINE CLINICAL NUTRITION",
@@ -375,7 +375,7 @@
   "course_number": "VMC 752",
   "credits": "3-6",
   "description": "Additional clinical medicine training. Graded P/N.",
-  "prerequisites": ["VMC 732"]
+  "prerequisites": [["VMC 732"]]
 }, {
   "corequisites": [],
   "course_name": "CLINICAL ONCOLOGY I",
@@ -389,14 +389,14 @@
   "course_number": "VMC 754",
   "credits": "3,6",
   "description": "Additional clinical surgery training. Graded P/N.",
-  "prerequisites": ["VMC 734"]
+  "prerequisites": [["VMC 734"]]
 }, {
   "corequisites": [],
   "course_name": "RURAL VETERINARY PRACTICE II",
   "course_number": "VMC 755",
   "credits": "3-6",
   "description": "One additional rural practice training. Graded P/N.",
-  "prerequisites": ["VMC 735"]
+  "prerequisites": [["VMC 735"]]
 }, {
   "corequisites": [],
   "course_name": "CLINICAL SKILLS V: TECHNICAL SKILLS AND CLINICAL REASONING",
@@ -410,7 +410,7 @@
   "course_number": "VMC 758",
   "credits": "3",
   "description": "Clinical application of production medicine practices to dairy and beef cattle practice.",
-  "prerequisites": ["VMC 735"]
+  "prerequisites": [["VMC 735"]]
 }, {
   "corequisites": [],
   "course_name": "LARGE ANIMAL PALPATION",
@@ -641,7 +641,7 @@
   "course_number": "VMC 793",
   "credits": "3,6",
   "description": "Clinical training in small animal surgery in the Veterinary Teaching Hospital.",
-  "prerequisites": ["VMC 725", "VMC 785"]
+  "prerequisites": [["VMC 725"], ["VMC 785"]]
 }, {
   "corequisites": [],
   "course_name": "OHS SMALL ANIMAL PRIMARY CARE AND SURGERY",

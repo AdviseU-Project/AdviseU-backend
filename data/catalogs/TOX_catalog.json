@@ -32,28 +32,28 @@
   "course_number": "TOX 411",
   "credits": "3",
   "description": "Introduction to the discipline of toxicology. Examination of the basic concepts that define how chemicals are absorbed, distributed, metabolized, and eliminated by the body. Overview of associated dose/response relations.",
-  "prerequisites": ["BB 350", "BB 450", "BB 490"]
+  "prerequisites": [["BB 350", "BB 450", "BB 490"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL TOXICOLOGY AND RISK ASSESSMENT",
   "course_number": "TOX 413",
   "credits": "3",
   "description": "Procedures for defining exposure and the use of toxicological data in defining risk assessment. Recent application of mechanistic concepts are reviewed.",
-  "prerequisites": ["TOX 411"]
+  "prerequisites": [["TOX 411"]]
 }, {
   "corequisites": [],
   "course_name": "TOXIC SUBSTANCES IN FOOD",
   "course_number": "TOX 429",
   "credits": "3",
   "description": "Toxicology and epidemiology of human exposures to pesticides and food toxicants.",
-  "prerequisites": ["BB 350", "BB 450", "BB 490"]
+  "prerequisites": [["BB 350", "BB 450", "BB 490"]]
 }, {
   "corequisites": [],
   "course_name": "CHEMICAL BEHAVIOR IN THE ENVIRONMENT",
   "course_number": "TOX 430",
   "credits": "3",
   "description": "Applications of chemical concepts in the definition and solution of pollution problems; analytical considerations, thermodynamic factors influencing movement of chemicals, physical and metabolic transformations occurring in the environment.",
-  "prerequisites": ["CH 123", "CH 331"]
+  "prerequisites": [["CH 123", "CH 331"]]
 }, {
   "corequisites": [],
   "course_name": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
@@ -74,7 +74,7 @@
   "course_number": "TOX 455",
   "credits": "3",
   "description": "Focuses on transport, fate, and effects of toxic substances in freshwater ecosystems. There is special emphasis on impacts on fish.",
-  "prerequisites": ["CH 331"]
+  "prerequisites": [["CH 331"]]
 }, {
   "corequisites": [],
   "course_name": "COMPUTATIONAL TOXICOLOGY AND RISK ASSESSMENT",
@@ -130,21 +130,21 @@
   "course_number": "TOX 511",
   "credits": "3",
   "description": "Introduction to the discipline of toxicology. Examination of the basic concepts that define how chemicals are absorbed, distributed, metabolized, and eliminated by the body. Overview of associated dose/response relations.",
-  "prerequisites": ["BB 550", "BB 590"]
+  "prerequisites": [["BB 550", "BB 590"]]
 }, {
   "corequisites": [],
   "course_name": "TARGET ORGAN TOXICOLOGY",
   "course_number": "TOX 512",
   "credits": "3",
   "description": "Examination of toxicological effects of chemicals at organ level. Normal physiology of the organ system is received.",
-  "prerequisites": ["TOX 511"]
+  "prerequisites": [["TOX 511"]]
 }, {
   "corequisites": [],
   "course_name": "ENVIRONMENTAL TOXICOLOGY AND RISK ASSESSMENT",
   "course_number": "TOX 513",
   "credits": "3",
   "description": "Procedures for defining exposure and the use of toxicological data in defining risk assessment. Recent application of mechanistic concepts are reviewed.",
-  "prerequisites": ["TOX 511"]
+  "prerequisites": [["TOX 511"]]
 }, {
   "corequisites": [],
   "course_name": "TOXIC SUBSTANCES IN FOOD",
