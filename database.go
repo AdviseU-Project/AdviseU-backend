@@ -1,5 +1,14 @@
 package main
 
+import (
+	"encoding/json"
+	"io"
+	"io/fs"
+	"os"
+	"path/filepath"
+	"strings"
+)
+
 type Course struct {
 	CourseNumber  string     `json:"course_number"`
 	CourseName    string     `json:"course_name"`
@@ -14,8 +23,8 @@ var catalogMap map[string][]Course
 
 func loadCatalogData() error {
 	catalogDir := "data/catalogs/"
-	availableCatalogs := make([]string, 0)
-	catalogMap := make(map[string][]Course)
+	availableCatalogs = make([]string, 0)
+	catalogMap = make(map[string][]Course)
 
 	err := filepath.WalkDir(catalogDir, func(path string, d fs.DirEntry, err error) error {
 		if err != nil {
@@ -59,8 +68,8 @@ func getListOfCatalogs() ([]string, error) {
 }
 
 func queryCoursesFromCatalog(catalogId string, courseQuery string) ([]Course, error) {
-	courses := make([]Course, 0)
-	
+	result := make([]Course, 0)
+
 	for catalog, courses := range catalogMap {
 		if catalogId != "" && catalog != catalogId {
 			continue
@@ -68,10 +77,10 @@ func queryCoursesFromCatalog(catalogId string, courseQuery string) ([]Course, er
 
 		for _, course := range courses {
 			if strings.Contains(course.CourseNumber, courseQuery) || strings.Contains(course.CourseName, courseQuery) {
-				courses = append(courses, course)
+				result = append(result, course)
 			}
 		}
 	}
 
-	return courses, nil
+	return result, nil
 }

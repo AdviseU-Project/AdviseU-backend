@@ -1,15 +1,12 @@
 package main
 
 import (
-	"encoding/json"
-	"fmt"
-	"io"
-	"io/fs"
-	"slog"
+	"log"
+	"log/slog"
 	"net/http"
 	"os"
-	"path/filepath"
-	"strings"
+
+	"github.com/lmittmann/tint"
 )
 
 func main() {
@@ -28,6 +25,6 @@ func main() {
 	http.HandleFunc("/catalogs", catalogsHandler)
 
 	// Start the server
-	log.Println("Backend server is starting on port 8080...")
-	log.Fatal(http.ListenAndServe(":8080", corsMiddleware(http.DefaultServeMux)))
+	log.Println("backend server is starting on port 8080...")
+	log.Fatal(http.ListenAndServe(":8080", requestLoggingMiddleware(corsMiddleware(http.DefaultServeMux))))
 }

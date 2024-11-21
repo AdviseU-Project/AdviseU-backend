@@ -1,18 +1,26 @@
 package main
 
+import (
+	"encoding/json"
+	"log/slog"
+	"net/http"
+)
+
 // Handler for the "/catalog" endpoint to serve course data from the JSON file
 func catalogHandler(w http.ResponseWriter, r *http.Request) {
 	// Get the department from query parameters, default to "CS" if not provided
 	catalogId := r.URL.Query().Get("catalog_id")
 	courseQuery := r.URL.Query().Get("course_query")
 
+	slog.With("catalog_id", catalogId, "course_query", courseQuery).Info("parameters")
+
 	courses, err := queryCoursesFromCatalog(catalogId, courseQuery)
 	if err != nil {
 		slog.With("err", err,
-					"method", r.Method,
-					"query", r.URL.RawQuery,
-					"client", r.RemoteAddr,
-					"url", r.URL.Path).Error("error querying course catalog")
+			"method", r.Method,
+			"query", r.URL.RawQuery,
+			"client", r.RemoteAddr,
+			"url", r.URL.Path).Error("error querying course catalog")
 		http.Error(w, "error querying course catalog", http.StatusInternalServerError)
 		return
 	}
@@ -29,9 +37,9 @@ func catalogsHandler(w http.ResponseWriter, r *http.Request) {
 	availableCatalogs, err := getListOfCatalogs()
 	if err != nil {
 		slog.With("err", err,
-					"method", r.Method,
-					"client", r.RemoteAddr,
-					"url", r.URL.Path).Error("error reading catalog directory")
+			"method", r.Method,
+			"client", r.RemoteAddr,
+			"url", r.URL.Path).Error("error reading catalog directory")
 		http.Error(w, "error reading catalog directory", http.StatusInternalServerError)
 		return
 	}
