@@ -71,14 +71,17 @@ func queryCoursesFromCatalog(catalogId string, courseQuery string) ([]Course, er
 	result := make([]Course, 0)
 
 	for catalog, courses := range catalogMap {
-		if catalogId != "" && catalog != catalogId {
+		if catalogId != "" && !strings.EqualFold(catalog, catalogId) {
 			continue
 		}
 
 		for _, course := range courses {
-			if strings.Contains(course.CourseNumber, courseQuery) || strings.Contains(course.CourseName, courseQuery) {
-				result = append(result, course)
+			if !(strings.Contains(strings.ToUpper(course.CourseNumber), strings.ToUpper(courseQuery)) ||
+				strings.Contains(strings.ToUpper(course.CourseName), strings.ToUpper(courseQuery))) {
+				continue
 			}
+
+			result = append(result, course)
 		}
 	}
 
