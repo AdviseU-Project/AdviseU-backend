@@ -9,6 +9,7 @@ import (
 )
 
 type Course struct {
+	Department    string     `json:"department"`
 	CourseNumber  string     `json:"course_number"`
 	CourseName    string     `json:"course_name"`
 	Credits       string     `json:"credits"`

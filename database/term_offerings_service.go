@@ -7,7 +7,40 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 )
 
+type CourseResult struct {
+	Key          string `json:"key"`
+	Code         string `json:"code"`
+	Title        string `json:"title"`
+	Crn          string `json:"crn"`
+	No           string `json:"no"`
+	Total        string `json:"total"`
+	Schd         string `json:"schd"`
+	Camp         string `json:"camp"`
+	Stat         string `json:"stat"`
+	SsrFees      string `json:"ssrFees"`
+	IsCancelled  string `json:"isCancelled"`
+	Meets        string `json:"meets"`
+	Mpkey        string `json:"mpkey"`
+	MeetingTimes string `json:"meetingTimes"`
+	Instr        string `json:"instr"`
+	StartDate    string `json:"start_date"`
+	EndDate      string `json:"end_date"`
+	Srcdb        string `json:"srcdb"`
+	Term         string `json:"term"`
+}
+
+type CourseOffering struct {
+	Count   int            `json:"count"`
+	Results []CourseResult `json:"results"`
+	Term    string         `json:"term"`
+	Code    string         `json:"code"`
+	Title   string         `json:"title"`
+}
+
 type TermOffering struct {
+	Department string           `json:"department"`
+	Term       string           `json:"term"`
+	Courses    []CourseOffering `json:"courses"`
 }
 
 // TermOfferingsHandler handles requests for term offerings
@@ -22,6 +55,7 @@ func TermOfferingsHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusOK)
 	json.NewEncoder(w).Encode(offerings)
 }
 
@@ -34,7 +68,7 @@ func QueryTermOfferings(term, courseQuery string) ([]TermOffering, error) {
 		filter["term"] = term
 	}
 	if courseQuery != "" {
-		filter["course_number"] = bson.M{"$regex": courseQuery, "$options": "i"}
+		filter["courses.code"] = bson.M{"$regex": courseQuery, "$options": "i"}
 	}
 
 	cursor, err := collection.Find(Ctx, filter)
