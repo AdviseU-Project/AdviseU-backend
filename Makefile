@@ -8,5 +8,5 @@ clean:
 mod-verify:
 	go mod verify
 
-bin/adviseu-backend: *.go go.mod go.sum
+bin/adviseu-backend: *.go go.mod go.sum database/*.go
 	go build -o bin/adviseu-backend
