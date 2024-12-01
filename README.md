@@ -19,6 +19,10 @@ MongoDB Atlas is being used to host the cloud databse.
 
 To access this database, create a `.env` file containing your MongoDB credentials which start with `mongodb+srv://`: `MONGO_DB_ATLAS_CREDENTIALS`.
 
-(Until department field is added to catalog JSONs in scraping phase) Run `python add_department_field_to_catalogs.py`.
+(Unless department field is added to catalog JSONs in scraping phase) Run `python add_department_field_to_catalogs.py`.
+
+(Unless term offerings data is reformatted elsewhere) Run `python reformat_term_offerings.py`.
 
 To insert/update catalog documents in the database, run `upload_catalogs_to_mongo_db.sh`.
+
+To insert/update term offering documents in the database, run `upload_term_offerings_to_mongo_db.sh`.
