@@ -9,13 +9,13 @@ import (
 )
 
 type Course struct {
-	Department    string     `json:"department"`
-	CourseNumber  string     `json:"course_number"`
-	CourseName    string     `json:"course_name"`
-	Credits       string     `json:"credits"`
-	Description   string     `json:"description"`
-	Prerequisites [][]string `json:"prerequisites"`
-	Corequisites  [][]string `json:"corequisites"`
+	Department    string     `json:"department" bson:"department"`
+	CourseNumber  string     `json:"course_number" bson:"course_number"`
+	CourseName    string     `json:"course_name" bson:"course_name"`
+	Credits       string     `json:"credits" bson:"credits"`
+	Description   string     `json:"description" bson:"description"`
+	Prerequisites [][]string `json:"prerequisites" bson:"prerequisites"`
+	Corequisites  [][]string `json:"corequisites" bson:"corequisites"`
 }
 
 // Handler for the "/catalog" endpoint to serve course data from the database
