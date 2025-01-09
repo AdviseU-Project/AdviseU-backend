@@ -43,11 +43,6 @@ func InitMongoDB() error {
 		log.Fatalf("Failed to connect to MongoDB: %v", err)
 	}
 
-	//// Ping the database to verify the connection
-	//if err := client.Database("admin").RunCommand(ctx, mongo.Pipeline{}).Err(); err != nil {
-	//	log.Fatalf("Failed to ping MongoDB: %v", err)
-	//}
-
 	// Ping the database to verify the connection
 	if err := client.Ping(ctx, nil); err != nil {
 		return fmt.Errorf("failed to ping MongoDB: %v", err)
